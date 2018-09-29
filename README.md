@@ -3,7 +3,7 @@ Last Update: 2018-09
 
 ----------
 
-# EVOLVE
+# evolve
 進化
 
 ## Table of Contents
@@ -12,6 +12,7 @@ Last Update: 2018-09
   - [2018](#2018)
   - [2017](#2017)
 - [ancestral reconstruction](#ancestral-reconstruction)
+- [allele](#allele)
 - [books](#books)
 - [MPCM](#mpcm)
 - [people](#people)
@@ -24,11 +25,37 @@ Last Update: 2018-09
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
 
 ----------
+## allele
+https://ja.wikipedia.org/wiki/対立遺伝子
+
+dominant 
+recessive 
+
+https://ja.wikipedia.org/wiki/優性
+
+https://www.m3.com/open/clinical/news/article/559530/
+「優性」「劣性」言い換え報道、学会が一部否定
+日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
+2017年9月27日
+
+2017/9/15
+https://www.nikkei.com/article/DGXLASDG15H7R_V10C17A9CR8000/
+「優性」「劣性」用語使わず　日本遺伝学会が言い換え　　:日本経済新聞
+
+https://mainichi.jp/articles/20170913/k00/00m/040/036000c
+遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
+2017年9月12日
+
+http://gsj3.jp/revisionterm.html
+遺伝学用語改訂について
+2017.9.11 日本遺伝学会
+
+----------
 ## updates
 
-### 2018
+## 2018
 
-### 2018-09
+## 2018-09
 
 https://kimuraseminar.wordpress.com
 木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
@@ -37,7 +64,10 @@ https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
 日程: 2018年9月1日（土）〜9月3日（月）
 場所: 大学セミナーハウス（東京都八王子市）
 
-### 2018-08
+#kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
+#pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
+
+## 2018-08
 
 https://twitter.com/j0sephwb/status/1033752980665839617
 Joseph W. Brown on Twitter: "So last year @evoblackrim, @evojfwalker, and I published #phyx: a suite of unix-inspired command line tools to interact with phylogenetic objects. https://t.co/tpSdOWcoPy We find it enormously useful, so I thought I would give a brief intro into what it can do."
@@ -71,7 +101,7 @@ http://darwin.c.u-tokyo.ac.jp/sesj2018/
 会場：東京大学駒場Iキャンパス
 #sesj2018
 
-### 2018-07
+## 2018-07
 
 https://twitter.com/NatureEcoEvo/status/1020277970299162624
 Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
@@ -95,7 +125,7 @@ https://twitter.com/Saitou_Sayer/status/964642354278756352
 斎藤成也 on Twitter: "ちょうど５０年前，1968年の今日、当時国立遺伝学研究所の集団遺伝研究部門部長（後に教授）だった木村資生博士は、Nature誌の217巻624-626頁に "Evolutionary rate at the molecular level"と題した論文を発表しました。"
 6:27 PM - 16 Feb 2018
 
-### 2018-02-12
+## 2018-02-12
 - https://ja.wikipedia.org/wiki/ダーウィンの日
 - https://twitter.com/hashtag/ダーウィンの日
 - https://twitter.com/hashtag/DarwinDay
@@ -112,7 +142,7 @@ http://www.okinawatimes.co.jp/articles/-/204534
 
 ![](http://www.okinawatimes.co.jp/mwimgs/4/a/-/img_4a2f259131cda6a55ab955da6613276b79738.jpg)
 
-### 2017
+## 2017
 
 https://twitter.com/kagakubarKIWI/status/923513894454382592
 大人の科学バー on Twitter: "【更新しました！】◎Web科学バー・連載「進化の歴史」第8話「多様な生物の世界（その2）」進化生物学者の長谷川政美先生が綴る、分子系統学の誕生から、利点、問題点まで。ダーウィンの夢の一つを叶えた学問「分子系統学」とは何か。https://t.co/h6xBxODWij… https://t.co/bbmJau8Kix"
@@ -120,28 +150,14 @@ https://twitter.com/kagakubarKIWI/status/923513894454382592
 
 ![](https://pbs.twimg.com/media/DND6ll_UMAA-rL0.jpg)
 
-https://www.m3.com/open/clinical/news/article/559530/
-「優性」「劣性」言い換え報道、学会が一部否定
-日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
-2017年9月27日
-
-https://mainichi.jp/articles/20170913/k00/00m/040/036000c
-遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
-2017年9月12日
-
-http://gsj3.jp/revisionterm.html
-遺伝学用語改訂について
-2017.9.11 日本遺伝学会
-
-
 2017年9月21日
 http://www.natureasia.com/ja-jp/nature/highlights/89168
 分子進化学：	選ばれなかった無数の道
 我々が生きている生物学的な現実世界は進化のサイコロが何度も振られた中で出た1つの帰結にすぎないこと、そして、今この現在があることにはおそらく特段の理由がないことを物語っている。
 
-### 2016
+## 2016
 
-### 2015
+## 2015
 
 https://twitter.com/RPolyhedra/status/638104050152529920
 正多面体クラブ on Twitter: "『系統樹をさかのぼって見えてくる進化の歴史』 面白かった～ http://t.co/9BXIcs8FdY 「あらゆる生物は1つの先祖から進化したものである」 「1つの動物が他の動物よりも高等だとするのは不合理である」by ダーウィン http://t.co/gTqd7jO6cO"
@@ -318,9 +334,25 @@ http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/index.html
 系統解析
 
 ## fifthdimension
+
 https://www.fifthdimension.jp/wiki.cgi
 田辺晶史, 2010, "ベイジアンMCMCによる生物間系統関係の推定法", 2010年度日本計量生物学会特別セッション『農学・生態学・進化学でのベイズ統計手法の応用に関する諸問題』. Preprint PDF: 20100522BiometricsJapanPreprint.pdf(5955)
 https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
+
+https://www.fifthdimension.jp/documents/molphytextbook/
+Life is fifthdimension.::Documents::分子系統学演習
+
+分子系統樹推定に適した配列データセットの作成：講義編
+https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
+
+
+整列が
+怪しいとき～
+
+捨てれば
+いいじゃない
+
+トリミング
 
 ----------
 ## unclassified
