@@ -8,6 +8,7 @@ Last Update: 2018-07-07
 
 ## Table of Contents
 - [featuring](#featuring)
+- [timetree](#timetree)
 - [updates](#updates)
   - [2018](#2018)
 - [unclassified](#unclassified)
@@ -16,10 +17,32 @@ Last Update: 2018-07-07
 - [RAxML](#raxml)
 - [Gblocks](#gblocks)
 - [trimAl](#trimal)
-- [treedist](#treedist)
 
 ----------
 ## featuring
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/20/212444
+web上でマルチプルアライメントを実行し分子系統樹を出力する MAFFT online service - macでインフォマティクス
+
+----------
+## timetree
+http://www.timetree.org/
+
+http://yagays.github.io/blog/2013/07/10/timetree/
+TimeTreeで生物種間の分岐年代を調べる - Wolfeyes Bioinformatics beta
+
+2017年1月6日
+http://trhujgitudjf.blogspot.com/2017/01/imetree-timescale-of-life.html
+土と生き物: TimeTree: the timescale of life
+
+http://molbiol.hatenablog.com/entry/2016/02/27/203751
+TimeTreeアプリは学術的なアプリである - 生物学研究者の言いたい放題ブログ
+
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_article/-char/ja/
+オンラインツール“TimeTree: the timescale of life”を用いた生物多様性科学の授業開発とその評価
+塩野 貴之, 真栄城 亮, 楠本 聞太郎, 久保田 康裕
+2014 年 54 巻 3 号 p. 427-437
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_pdf
 
 ----------
 ## updates
@@ -170,8 +193,6 @@ https://www.fifthdimension.jp/wiki.cgi?page=%CA%AC%BB%D2%B0%E4%C5%C1%B3%D8%B4%D8
 　multiple sequence alignmentからalignmentの信頼性の低い座位を探し出して除去するためのソフト。
  trimAl
 　Gblocksを発展させてパラメータ自動設定機能を充実させたようなもの。
-
-----------
 
 
 ----------
