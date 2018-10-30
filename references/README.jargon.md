@@ -21,6 +21,7 @@ Last Update: 2018-08
 - [root](#root)
 - [species](#species)
 - [taxon](#taxon)
+- [treedist](#treedist)
 
 ----------
 http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
@@ -81,6 +82,10 @@ But even this may have little relevance: in the same way that it is thought that
 **祖先推定**
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
+
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1009/5146195
+Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life | Nucleic Acids Research | Oxford Academic
+Published: 29 October 2018
 
 https://www.ncbi.nlm.nih.gov/pubmed/27404731
 PLoS Comput Biol. 2016 Jul 12;12(7):e1004763. doi: 10.1371/journal.pcbi.1004763. eCollection 2016 Jul.
@@ -312,6 +317,10 @@ https://ja.wikipedia.org/wiki/遺伝子の水平伝播
 Horizontal gene transfer（HGT）またはLateral gene transfer（LGT）
 
 https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/horizontal-gene-transfer
+
+共生細菌ボルバキアから宿主への遺伝子水平伝播
+https://twitter.com/KentsisResearch/status/1051264658030714890
+KentsisResearchGroup on Twitter: "Horizontal gene transfer in eukaryotes: The first draft genomes of the ant Formica exsecta, and its Wolbachia endosymbiont reveal extensive gene transfer from endosymbiont to host. https://t.co/ZakV1uyz8B"
 
 https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-080917-013431
 Alignment-Free Sequence Analysis and Applications | Annual Review of Biomedical Data Science
