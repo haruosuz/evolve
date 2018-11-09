@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-09
+Last Update: 2018-11
 
 ----------
 
@@ -320,11 +320,23 @@ http://leeswijzer.hatenablog.com
 archief voor stambomen
 系統樹ハンターの狩猟記録
 
+http://kousin242.sakura.ne.jp/wordpress018/?page_id=3485
+系統樹曼荼羅(Chain・Tree・Network) | 検索サイト2017~2018
+
 http://natgeo.nikkeibp.co.jp/nng/article/20130411/347194/
 【研究室】研究室に行ってみた。農業環境技術研究所　進化生物学・生物統計学　三中信宏 | ナショナルジオグラフィック日本版サイト
 
 http://cse.naro.affrc.go.jp/minaka/ml/evolve-top.html
 EVOLVE：進化生物学メーリングリスト
+
+1996年
+http://www.e-jsps.com/2007hp/topic/Datesoudo84/date.html
+伊達騒動「分類学・系統学・生態学」
+http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html
+分類学と系統学：ある蜜月の終焉
+三中信宏（農環研・計測情報）
+
+種に名前を付けなければならないというのは，「名前があれば便利である」と主張しているに過ぎず，生物学的に不可欠ではありません。 　少なくとも，系統学にとっては種名は不要です。
 
 ## nakada
 仲田崇志
@@ -334,6 +346,38 @@ http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/index.html
 系統解析
 
 ## fifthdimension
+Akifumi S. Tanabe
+田辺晶史
+
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+分子系統解析における様々な問題について
+
+変異がある座位だけのデータに関する注意事項
+形態形質・SNPなどのデータでは、変異がある座位しか含まれ
+ていない
+● これは、「データ収集にバイアスascertainment biasがある」
+● RAxMLでは以下のオプションで補正した尤度を使用する
+● -m ASC_BINGAMMA
+● -m ASC_MULTIGAMMA
+● -m ASC_GTRGAMMA
+● -m ASC_PROTGAMMA[matrixname](F)
+
+https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
+分子系統樹推定に適した　　配列データセットの作成　講義編
+
+データサンプリングのバイアスについて
+● SNP や制限酵素座位の有無、形態は
+変異がある
+形質だけがサンプリングされるので、偏っている
+● これを ascertainment bias とか coding bias という
+● 最尤法やベイズ法では、バイアスを補正するモデルを適用する
+必要がある (RAxML ・ MrBayes などが対応 )
+● 最節約法では気にしなくてよい
+
+2014年12月11日
+http://koke.asrc.kanazawa-u.ac.jp/ECAT/Opensemi7.html
+ゲノム時代の分子系統学と計算機科学のあり方
+、系統樹の信頼性の指標となるブートストラップ値とその代替指標の関係、リシーケンスやRADシーケンスから得られるSNPデータによる系統樹推定における問題、
 
 https://www.fifthdimension.jp/wiki.cgi
 田辺晶史, 2010, "ベイジアンMCMCによる生物間系統関係の推定法", 2010年度日本計量生物学会特別セッション『農学・生態学・進化学でのベイズ統計手法の応用に関する諸問題』. Preprint PDF: 20100522BiometricsJapanPreprint.pdf(5955)
@@ -381,6 +425,8 @@ https://twitter.com/ZakSwartz/status/982320558338535424
 Zak Swartz on Twitter: "If you use the term "lower organisms" in your seminar, there's a 90% chance that I will stop listening. Does anyone know who created this graphic so I can credit in the future?… https://t.co/erlmJu1fTj"
 2:14 PM - 6 Apr 2018
 ![](https://pbs.twimg.com/media/DaHnHxkW4AIXBpU.jpg)
+
+https://balancededucation.wordpress.com/2014/07/15/ego-and-nature-non-human-education/
 
 https://twitter.com/hornistyf/status/982760477011787777
 Y. Furuta on Twitter: "「動物の賢さがわかるほど人間は賢いのか」に載っていた面白いサルの実験の動画。自分への報酬が隣人の報酬よりも低いと気付いた時の、その姿がなんとも。 https://t.co/PRYknxCMn5"
