@@ -30,6 +30,8 @@ http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生
 
 - 末端節 (ターミナルノード、terminal node; 外部節 external nodeともいう）はそれに続く枝を持たない節。末端節はOTUs(オーティーユー、操作的分類単位 Operational Taxonomic Units）を示す。
 - 内部節（インターナルノード、internal node) は末端でない節。HTUs (エイチティーユー、仮想的分類単位 Hypothetical taxonomic units）を示す。
+- 末端枝（エクスターナルブランチ、external branch)は片側が末端で終わる枝
+- 内部枝 (インターナルブランチ、internal branch)は末端で終わらない枝
 
 ----------
 ## 2018
