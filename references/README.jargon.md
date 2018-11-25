@@ -7,6 +7,7 @@ Last Update: 2018-11
 
 ## Table of Contents
 - [2018-06](#2018-06)
+- [allele](#allele) 対立遺伝子
 - [adaptation](#adaptation) 適応
 - [amelioration](#amelioration)
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
@@ -35,6 +36,32 @@ http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生
 
 ----------
 ## 2018
+
+----------
+## allele
+https://ja.wikipedia.org/wiki/対立遺伝子
+
+dominant 
+recessive 
+
+https://ja.wikipedia.org/wiki/優性
+
+https://www.m3.com/open/clinical/news/article/559530/
+「優性」「劣性」言い換え報道、学会が一部否定
+日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
+2017年9月27日
+
+2017/9/15
+https://www.nikkei.com/article/DGXLASDG15H7R_V10C17A9CR8000/
+「優性」「劣性」用語使わず　日本遺伝学会が言い換え　　:日本経済新聞
+
+https://mainichi.jp/articles/20170913/k00/00m/040/036000c
+遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
+2017年9月12日
+
+http://gsj3.jp/revisionterm.html
+遺伝学用語改訂について
+2017.9.11 日本遺伝学会
 
 ----------
 ## adaptation
@@ -88,6 +115,10 @@ But even this may have little relevance: in the same way that it is thought that
 **祖先推定**
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
+
+https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0618-2
+On the reconstruction of the ancestral bacterial genomes in genus Mycobacterium and Brucella | BMC Systems Biology | Full Text
+It was not the case of AlignSeqs, available in the R module called decipher [30]. This latter achieved to perform the MSA in an accurate and rapid way.
 
 https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1009/5146195
 Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life | Nucleic Acids Research | Oxford Academic
@@ -278,6 +309,23 @@ http://www.geocities.jp/se_kilos/sober.html
 ホモロジー(相同:homology):２種の共有するある特性が、一方の種から他方に受け継がれたものかまたはその特性をもつ共通祖先から変化することなく遺伝されたものならば、その種の特性は他種の特性とホモロジーの関係にあると呼ばれる。
 
 ホモプラシー(非相同:homoplasy):類似特性が別々の起源に由来するものならば、その共通特性はホモプラシーとされる。
+
+http://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/2013animaltaxonomyPDF/2013animaltaxonomy03.pdf
+ホモプラジーが生じる原因は，収れん進化，平行進化，形質の逆転である．
+
+https://neurobiotaxis.livejournal.com/886.html
+Homology, homoplasy, analogy: The concept of “sameness” in evolutionary biology - The Principles of Neurobiotaxis
+
+Homology and homoplasy
+
+The opposite of historical homology is homoplasy, defined as the structural similarity between two traits in two species without phyletic continuity – which is equivalent to saying that, even though the traits are similar, the common ancestor of species A and B did not present the trait. There are three different types of homoplasy: convergence, parallelism, and reversal. 
+
+Analogy
+
+The wing of a bird and the wing of a bat are homoplastic as wings, but share the same function – flying. 
+
+https://wikidiff.com/analogy/homoplasy
+Homoplasy vs Analogy - What's the difference? | WikiDiff
 
 ----------
 1:28 PM - 6 Feb 2018
