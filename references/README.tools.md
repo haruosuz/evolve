@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-07-07
+Last Update: 2018-12
 
 ----------
 
@@ -109,15 +109,26 @@ Letunic I1, Bork P2.
 
 ----------
 ## MEGA
-Molecular Evolutionary Genetics Analysis software
 
 http://evolgen.biol.se.tmu.ac.jp/MEGA/
 MEGA: Molecular Evolutionary Genetics Analysis software
 
 MEGA3 チュートリアル（Actin gene coding region を例題として）
-入力データの準備
-配列データのアライメント
-分子系統樹の作成
+- 入力データの準備
+- 配列データのアライメント
+- 分子系統樹の作成
+
+https://togotv.dbcls.jp/20171106.html
+2017-11-06 MEGA7を使って配列のアラインメント・系統解析を行う
+
+http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
+実習1: MEGA7のダウンロードとインストール
+
+http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
+実習１：　MEGA6のダウンロードとインストール
+
+http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
+実習1: MEGA6のダウンロードとインストール
 
 ----------
 ## RAxML
