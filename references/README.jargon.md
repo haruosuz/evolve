@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-11
+Last Update: 2018-12
 
 ----------
 
@@ -13,6 +13,7 @@ Last Update: 2018-11
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
 - [concordance](#concordance)
 - [divergence time](#divergence-time) 分岐時間
+- [homology](#homology)
 - [homoplasy](#homoplasy)
 - [HGT](#hgt) 遺伝子水平伝播
 - [model](#model)
@@ -29,13 +30,28 @@ Last Update: 2018-11
 http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
 系統推定の基本用語
 
-- 末端節 (ターミナルノード、terminal node; 外部節 external nodeともいう）はそれに続く枝を持たない節。末端節はOTUs(オーティーユー、操作的分類単位 Operational Taxonomic Units）を示す。
-- 内部節（インターナルノード、internal node) は末端でない節。HTUs (エイチティーユー、仮想的分類単位 Hypothetical taxonomic units）を示す。
-- 末端枝（エクスターナルブランチ、external branch)は片側が末端で終わる枝
-- 内部枝 (インターナルブランチ、internal branch)は末端で終わらない枝
+https://ja.wikipedia.org/wiki/退化
+一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
+
+Tomoaki NISHIYAMA
+Wed Dec 27 18:49:55 JST 2000
+http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
+用語集
+
+![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
 
 ----------
 ## 2018
+
+## 2016
+Mar 11, 2016
+https://www.slideshare.net/takahironishimu/ss-59418690
+ポケモン系統樹かいてみた
+
+## 2010
+2010-02-24
+https://www3.atwiki.jp/cloud9science/pages/175.html
+進化の系統樹 - cloud9science @Wiki - アットウィキ
 
 ----------
 ## allele
@@ -289,6 +305,22 @@ http://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
 第56巻第1号37－54（2008）　　特集「分子進化と統計科学」　　[研究詳解]
 コドンモデルを用いた分岐年代のベイズ推定
 ftp://statgen.ncsu.edu/pub/thorne/mypapers/seokishinothorne2008.pdf
+
+----------
+## homology
+
+https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
+相同性（そうどうせい）あるいはホモロジー (英語: homology) とは、ある形態や遺伝子が共通の祖先に由来することである。
+遺伝学では、相同性という言葉はタンパク質のアミノ酸配列や遺伝子の塩基配列が共通の祖先をもつときに用いられる。この相同性はオーソロジー（種分岐相同性）とパラロジー（遺伝子重複相同性）の二つに分けられる。[1]
+
+http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf
+オーソログとパラログ• ホモログは、オーソログとパラログの2種類に分けられる
+
+http://seesaawiki.jp/w/psyberformula/d/%B0%E4%C5%C1%BB%D2%A5%DB%A5%E2%A5%ED%A5%B0
+遺伝子ホモログ - PsyberStyle - Seesaa Wiki（ウィキ）
+
+https://ultrabem-branch3.com/informatics/bioinformatics/homolog.html
+ホモログ，オーソログ，パラログの定義と違い
 
 ----------
 ## homoplasy
