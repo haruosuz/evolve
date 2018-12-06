@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-11
+Last Update: 2018-12
 
 ----------
 
@@ -24,36 +24,24 @@ Last Update: 2018-11
 
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
 
-----------
-## allele
-https://ja.wikipedia.org/wiki/対立遺伝子
-
-dominant 
-recessive 
-
-https://ja.wikipedia.org/wiki/優性
-
-https://www.m3.com/open/clinical/news/article/559530/
-「優性」「劣性」言い換え報道、学会が一部否定
-日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
-2017年9月27日
-
-2017/9/15
-https://www.nikkei.com/article/DGXLASDG15H7R_V10C17A9CR8000/
-「優性」「劣性」用語使わず　日本遺伝学会が言い換え　　:日本経済新聞
-
-https://mainichi.jp/articles/20170913/k00/00m/040/036000c
-遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
-2017年9月12日
-
-http://gsj3.jp/revisionterm.html
-遺伝学用語改訂について
-2017.9.11 日本遺伝学会
 
 ----------
 ## updates
 
 ## 2018
+
+2018-11-24
+https://gendai.ismedia.jp/articles/-/58507?media=bb
+11月24日　『種の起源』を出版（1859年） （ブルーバックス編集部） | ブルーバックス | 講談社
+
+2018-08-02
+https://gendai.ismedia.jp/articles/-/56608
+『種の起源』から約160年……まだ「種」が定義できないってマジ？（山田 俊弘） | ブルーバックス | 講談社（1/3）
+
+2018-05-09
+https://gendai.ismedia.jp/articles/-/55458
+「進化は進歩ではない」と言われて、あなたは納得できますか（更科 功） | ブルーバックス | 講談社（1/2）
+一方、ダーウィンの『種の起源』では、進化を意味する言葉として「世代を越えて伝わる変化」（decent with modification）がよく使われている。
 
 ## 2018-09
 
@@ -245,19 +233,20 @@ C. ジンマー（サイエンスライター）
 ### 
 
 2009年03月
-http://www.kyoritsu-pub.co.jp/bookdetail/9784320056770
+https://www.kyoritsu-pub.co.jp/bookdetail/9784320056770
 分子系統学への統計的アプローチ―計算分子進化学― 
 Ziheng Yang 著・藤 博幸・加藤 和貴・大安 裕美訳
 
-3.1.4 遺伝子系統樹と種系統樹
+![](https://www.kyoritsu-pub.co.jp/app/img/item/05677.jpg)
+
+https://www.kyoritsu-pub.co.jp/app/file/goods_contents/1152.pdf
+3.1.4 遺伝子系統樹と種系統樹 ·· 75
+3.4 最節約法 ·· 87
 
 ### 
 2008年11月
 http://sciencei.sbcr.jp/archives/2008/11/post_13.html
 Si新書『ありえない!?　生物進化論』概要北村雄一 著 (サイエンス・アイWeb)
-
-
-
 
 ----------
 
@@ -323,6 +312,17 @@ archief voor stambomen
 http://kousin242.sakura.ne.jp/wordpress018/?page_id=3485
 系統樹曼荼羅(Chain・Tree・Network) | 検索サイト2017~2018
 
+http://www.a-m-u.jp/report/201702_wiad2017_minaka_1.html/
+ダイアグラム思考――分類と系統の世界観　1/2　三中信宏 ―― World IA Day 2017 Japan（Tokyo） ｜amu
+http://www.a-m-u.jp/report/201702_wiad2017_minaka_2.html/
+ダイアグラム思考――分類と系統の世界観　2/2　三中信宏――World IA Day 2017 Japan（Tokyo） ｜amu
+https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka
+World IA Day 2017 Tokyo Nobuhiro Minaka
+ダイアグラム思考 — 分類と系統の世界観 —
+https://www.youtube.com/watch?v=PYLukN7xUcU
+WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
+
+
 http://natgeo.nikkeibp.co.jp/nng/article/20130411/347194/
 【研究室】研究室に行ってみた。農業環境技術研究所　進化生物学・生物統計学　三中信宏 | ナショナルジオグラフィック日本版サイト
 
@@ -357,10 +357,12 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 ていない
 ● これは、「データ収集にバイアスascertainment biasがある」
 ● RAxMLでは以下のオプションで補正した尤度を使用する
+```
 ● -m ASC_BINGAMMA
 ● -m ASC_MULTIGAMMA
 ● -m ASC_GTRGAMMA
 ● -m ASC_PROTGAMMA[matrixname](F)
+```
 
 https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
 分子系統樹推定に適した　　配列データセットの作成　講義編
