@@ -309,9 +309,7 @@ ftp://statgen.ncsu.edu/pub/thorne/mypapers/seokishinothorne2008.pdf
 ----------
 ## homology
 
-https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
-相同性（そうどうせい）あるいはホモロジー (英語: homology) とは、ある形態や遺伝子が共通の祖先に由来することである。
-遺伝学では、相同性という言葉はタンパク質のアミノ酸配列や遺伝子の塩基配列が共通の祖先をもつときに用いられる。この相同性はオーソロジー（種分岐相同性）とパラロジー（遺伝子重複相同性）の二つに分けられる。[1]
+https://ja.wikipedia.org/wiki/相同
 
 http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf
 オーソログとパラログ• ホモログは、オーソログとパラログの2種類に分けられる
