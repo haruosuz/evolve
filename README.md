@@ -299,9 +299,8 @@ Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
 Inferring ancient divergences requires genes with strong phylogenetic signals.
 Salichos L1, Rokas A.
 
-## leeswijzer
-
-https://twitter.com/leeswijzer
+## [leeswijzer](http://leeswijzer.org/)
+MINAKA Nobuhiro
 
 http://dotplace.jp/archives/tag/三中信宏
 
@@ -321,7 +320,6 @@ World IA Day 2017 Tokyo Nobuhiro Minaka
 ダイアグラム思考 — 分類と系統の世界観 —
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
-
 
 http://natgeo.nikkeibp.co.jp/nng/article/20130411/347194/
 【研究室】研究室に行ってみた。農業環境技術研究所　進化生物学・生物統計学　三中信宏 | ナショナルジオグラフィック日本版サイト
