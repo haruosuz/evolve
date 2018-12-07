@@ -336,6 +336,12 @@ http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html
 
 種に名前を付けなければならないというのは，「名前があれば便利である」と主張しているに過ぎず，生物学的に不可欠ではありません。 　少なくとも，系統学にとっては種名は不要です。
 
+http://leeswijzer.org/files/SystematicPhilosophy.html
+系統体系学の世界：生物学の哲学とたどった道のり
+
+https://shorebird.hatenablog.com/entry/20180601/1527842963
+「系統体系学の世界」 - shorebird　進化心理学中心の書評など
+
 ## nakada
 仲田崇志
 
