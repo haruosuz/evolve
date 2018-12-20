@@ -24,7 +24,6 @@ Last Update: 2018-12
 
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
 
-
 ----------
 ## updates
 
@@ -33,6 +32,13 @@ Last Update: 2018-12
 2018-11-24
 https://gendai.ismedia.jp/articles/-/58507?media=bb
 11月24日　『種の起源』を出版（1859年） （ブルーバックス編集部） | ブルーバックス | 講談社
+
+2018-09-07
+https://gendai.ismedia.jp/articles/-/57351
+ゲノム解析でわかった我々と絶滅人類との深い関係（更科 功） | ブルーバックス | 講談社（1/4）
+
+https://blogs.yahoo.co.jp/tmizuo3333/36255522.html
+ゲノム解析でわかった我々と絶滅人類との深い関係（現代ビジネスからの転載です） - 田中瑞雄の母趾球歩きと薬ありの低糖質食 - Yahoo!ブログ
 
 2018-08-02
 https://gendai.ismedia.jp/articles/-/56608
