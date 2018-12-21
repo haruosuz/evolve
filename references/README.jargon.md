@@ -295,6 +295,10 @@ https://sites.google.com/site/kaysakuma/japanese/ima-migrate-beast/beastno-shii-
 BEASTの使い方 - Kay's website
     （20170204追記)
 
+2014
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_article/-char/ja/
+オンラインツール“TimeTree: the timescale of life”を用いた生物多様性科学の授業開発とその評価
+
 http://yagays.github.io/blog/2013/07/10/timetree/
 TimeTreeで生物種間の分岐年代を調べる - Wolfeyes Bioinformatics beta
 
