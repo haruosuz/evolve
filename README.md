@@ -305,6 +305,7 @@ Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
 Inferring ancient divergences requires genes with strong phylogenetic signals.
 Salichos L1, Rokas A.
 
+
 ## [leeswijzer](http://leeswijzer.org/)
 MINAKA Nobuhiro
 
@@ -314,8 +315,33 @@ http://leeswijzer.hatenablog.com
 archief voor stambomen
 系統樹ハンターの狩猟記録
 
+http://cse.naro.affrc.go.jp/minaka/ml/evolve-top.html
+EVOLVE：進化生物学メーリングリスト
+
+http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
+結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
+
 http://kousin242.sakura.ne.jp/wordpress018/?page_id=3485
 系統樹曼荼羅(Chain・Tree・Network) | 検索サイト2017~2018
+
+[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
+【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
+の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
+http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
+http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
+[pdf]
+
+https://note.mu/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
+
+http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2018/214ws.html
+214ws_分子系統樹推定法：理論と応用：農林水産技術会議
+
+第188回農林交流センターワークショップ〈分子系統学の理論と実習〉2014年11月5日（水）〜7日（金），stamboom｜Togetter
+
+Feb 22, 2017
+https://www.youtube.com/watch?v=PYLukN7xUcU
+WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
 
 http://www.a-m-u.jp/report/201702_wiad2017_minaka_1.html/
 ダイアグラム思考――分類と系統の世界観　1/2　三中信宏 ―― World IA Day 2017 Japan（Tokyo） ｜amu
@@ -327,11 +353,46 @@ World IA Day 2017 Tokyo Nobuhiro Minaka
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
 
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+
+http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
+農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
+九州大学附属図書館付設 教材開発センター の撮影・編集によって三中先生の講義内容をビデオにて公開することができるようになりました。
+
+KyushuUniv
+農業生物資源学特論第五
+ 講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
+ 期　間：2014年2月3日～5日 
+
+https://www.youtube.com/watch?v=6WgsOO_brQ4
+1.系統推定論概論：系統樹による多様性情報の可視化 （三中 信宏 先生）
+
+https://www.youtube.com/watch?v=QYT4BJwpSDg
+3.形質データ行列の作成と分岐分析の演習 ／ 生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=I5C7Nz6x7i4
+6.分子系統学（2）：分子進化の統計モデル（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=LmZSk6EmxeM
+7.距離法・最節約法・最尤法の演習（三中 信宏 先生）
+
+2012/10/17 - 体系学的思考. ̶ 分類と系統からみた多様性 ̶.
+http://cse.naro.affrc.go.jp/minaka/cladist/SystematicThinking2014.pdf
+農環研サイエンスカフェ2012.indd
+
+2011/06/09 - 体系学的思考. ̶ 分類と系統からみた多様性 ̶.
+http://cse.naro.affrc.go.jp/minaka/cladist/SystematicThinking.pdf
+九州大学農学部セミナー2014.indd
+
 http://natgeo.nikkeibp.co.jp/nng/article/20130411/347194/
 【研究室】研究室に行ってみた。農業環境技術研究所　進化生物学・生物統計学　三中信宏 | ナショナルジオグラフィック日本版サイト
 
-http://cse.naro.affrc.go.jp/minaka/ml/evolve-top.html
-EVOLVE：進化生物学メーリングリスト
+2007
+https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_article/-char/ja/
+進化生物学と統計科学：系統樹の推定をめぐって
+https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_pdf
+
 
 1996年
 http://www.e-jsps.com/2007hp/topic/Datesoudo84/date.html
