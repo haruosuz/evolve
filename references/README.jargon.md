@@ -15,6 +15,7 @@ Last Update: 2018-12
 - [divergence time](#divergence-time) 分岐時間
 - [homology](#homology)
 - [homoplasy](#homoplasy)
+- [recombination](#recombination) 組換え
 - [HGT](#hgt) 遺伝子水平伝播
 - [marker](#marker)
 - [model](#model)
@@ -25,6 +26,21 @@ Last Update: 2018-12
 - [species](#species)
 - [taxon](#taxon)
 - [treedist](#treedist)
+
+----------
+## recombination
+組換え
+
+http://hp.brs.nihon-u.ac.jp/~inasweb/narai/narai/xiang_tong_zu_huanetoha.html
+相同組換えとは
+遺伝的組換えは，さらに以下の5種類に分けられます。
+
+https://twitter.com/NatureRevMicro/status/1088112422928506880
+Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evolution of prokaryotic core genomes @mbiojournal https://t.co/GxZrNxhsMB… "
+11:33 AM - 23 Jan 2019
+
+
+
 
 ----------
 ## marker
@@ -426,6 +442,7 @@ Horizontal gene transfer（HGT）またはLateral gene transfer（LGT）
 
 https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/horizontal-gene-transfer
 
+
 共生細菌ボルバキアから宿主への遺伝子水平伝播
 https://twitter.com/KentsisResearch/status/1051264658030714890
 KentsisResearchGroup on Twitter: "Horizontal gene transfer in eukaryotes: The first draft genomes of the ant Formica exsecta, and its Wolbachia endosymbiont reveal extensive gene transfer from endosymbiont to host. https://t.co/ZakV1uyz8B"
@@ -435,11 +452,16 @@ Alignment-Free Sequence Analysis and Applications | Annual Review of Biomedical 
 Vol. 1:93-114 (Volume publication date July 2018) 
 Jie Ren ,1 Xin Bai ,1,2 Yang Young Lu ,1 Kujin Tang ,1 Ying Wang ,3 Gesine Reinert ,4 and Fengzhu Sun 1,2
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/29713314
 Front Microbiol. 2018 Apr 16;9:711. doi: 10.3389/fmicb.2018.00711. eCollection 2018.
 Background Adjusted Alignment-Free Dissimilarity Measures Improve the Detection of Horizontal Gene Transfer.
 Tang K1, Lu YY1, Sun F1,2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29176581
+Nat Rev Microbiol. 2018 Feb;16(2):67-79. doi: 10.1038/nrmicro.2017.137. Epub 2017 Nov 27.
+Functional horizontal gene transfer from bacteria to eukaryotes.
+Husnik F1,2,3, McCutcheon JP2.
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/27189546
 Mol Biol Evol. 2016 Jul;33(7):1843-57. doi: 10.1093/molbev/msw062. Epub 2016 Apr 6.
@@ -540,6 +562,43 @@ We considered genes as extraneous in terms of the G+C content if their G+C(T) co
 
 
 [Karlin S (2001) Trends Microbiol. "Detecting anomalous gene clusters and pathogenicity islands in diverse bacterial genomes."](https://www.ncbi.nlm.nih.gov/pubmed/11435108) | [pdf](https://eclass.uoa.gr/modules/document/file.php/D473/Βιβλιογραφία/DNA%20Composition/Karlin_2001.pdf)
+
+
+https://twitter.com/TetYahara/status/1083497343897333760
+Tetsukazu Yahara on Twitter: "寄生植物のヤセウツボとナンバンギセルで、宿主への遺伝子の水平移動を確認した研究。イントロンが保持されているので、RNAではなくDNAそのものが移った。移った後の遺伝子の進化も起きている。こんなことがわかる時代になったことに驚く。… "
+5:54 PM - 10 Jan 2019
+https://twitter.com/kfuku0502/status/1083325395657723904
+ハマウツボ科５種のトランスクリプトームを使って寄主植物からの水平伝播遺伝子を探索。絶対寄生の２種のみで水平伝播が確実そうなものが見つかる。
+この手の研究の課題はいかにコンタミを除外するかだけど、ゲノムも一緒に読んでその可能性を除外している。遺伝子が本当に水平伝播して寄生植物ゲノムに挿入されているならk-mer頻度がsingle-copy regionのそれと一致する。これを水平伝播の証左としている。これならゲノムアセンブリーは必要ない。
+
+https://twitter.com/Greeeening/status/1075562589382311936
+小林 康一 (K. Kobayashi) on Twitter: "バクテリアの分類・同定に関しては詳しくないのだけど、以前に生物全体のヘム代謝系のゲノム解析を佐藤直樹先生と一緒にやらせてもらったときはすごく勉強になった。https://t.co/kYsNeienRZ バクテリアは遺伝子の水平伝播が多くて、tree of lifeというより、ring of lifeの様相であることを知った。"
+8:24 PM - 19 Dec 2018
+
+
+2017年8月18日
+http://www.nikkei-science.com/page/sci_book/bessatu/51221.htmll
+微生物の驚異 | 日経サイエンス
+
+【別冊221　微生物の脅威　マイクロバイオームから多剤耐性菌まで】親から子へ遺伝情報が受け継がれるという遺伝学の基本原理では説明できない遺伝情報のやりとり「水平伝播」の発見のきっかけとその後の展開。「自然界を渡り歩く細菌のDNA」　 http://www.nikkei-science.com/page/magazine/9804/DNA.html …
+
+![https://twitter.com/NikkeiScience/status/899926732106498048](https://pbs.twimg.com/media/DH0ul2wXsAEEZ8o.jpg)
+
+http://www.nikkei-science.com/?p=14437
+細菌の遺伝子交換，ずっと頻繁～日経サイエンス2011年6月号より
+「水平伝播」という現象が進化を促している
+
+2015-12-12
+http://horikawad.hatenadiary.com/entry/2015/12/12/014019
+「クマムシに外来遺伝子17%」は真実か - クマムシ博士のむしブロ
+
+2013-04-05
+http://horikawad.hatenadiary.com/entry/20130405/1365159629
+パワーアップした遺伝子コレクター - クマムシ博士のむしブロ
+この藻類にはATPアーゼ遺伝子は多数のコピーがあり、水平伝搬で取込んだ後に重複化が進んだものと見られる。ATPアーゼ遺伝子が多くあるほど熱に耐性をもつようになることが知られており、古細菌からコレクションしたこのATPアーゼ遺伝子を多くもつことにより、この藻類が高温耐性を身につけ、熱水環境に適応したのだろう。
+他にも、高濃度の重金属に対処するために重要な機能を担う遺伝子を細菌から取り入れたことも示唆されている。ヒ素を細胞外に排出するポンプをつくる遺伝子は、好熱性細菌から取込んだようだ。このようにして、重金属が豊富なスープの中でも元気に増殖できるものと思われる。
+
+
 
 
 2004 June
