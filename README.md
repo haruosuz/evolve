@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-12
+Last Update: 2019-02
 
 ----------
 
@@ -27,7 +27,39 @@ Last Update: 2018-12
 ----------
 ## updates
 
+## 2019
+
+https://twitter.com/rickygervais/status/1093507830819237890
+Ricky Gervais on Twitter: "We didn't evolve 'from' apes. We ARE apes. We share a common ancestor with all other apes. We are but one branch on a family tree. We are cousins.… https://t.co/3cA9Lu6thZ"
+8:52 AM - 7 Feb 2019
+
+![](https://pbs.twimg.com/media/DyzrBhAXcAIVomR.jpg)
+
 ## 2018
+
+https://twitter.com/9w9w9w92/status/1066584612934049792
+尾上正人 on Twitter: "「ハヤブサは最近に都会的ライフスタイルを取るようになった多くの鳥の一例だ。…欧州や北米の一部では、ハヤブサの過半数が都市に営巣している」「都市が変える生物進化」82頁 大阪の泉大津だけじゃなかったんだね（2000年代に住んでたが、ハヤブサは地域の大きな話題だった）"
+1:49 AM - 25 Nov 2018
+
+http://www.nikkei-science.com/page/magazine/201812.html
+日経サイエンス　2018年12月号
+がん免疫療法でノーベル賞
+特集：新・人類学
+http://www.nikkei-science.com/201812_082.html
+都市が変える生物進化 | 日経サイエンス
+
+![](http://www.nikkei-science.com/wp-content/uploads/2018/10/201812_082-208x139.jpg)
+
+https://www.scientificamerican.com/article/cities-are-forcing-a-new-era-of-rapid-evolution/
+Cities Are Forcing a New Era of Rapid Evolution - Scientific American
+By Menno Schilthuizen on September 1, 2018
+
+
+https://twitter.com/NikkeiScience/status/1054522973154099200
+日経サイエンス on Twitter: "「都市が変える生物進化」 様々な生物が都市環境に適応を進めている。人間が作り出した環境が進化の方向を変えているのだ。日経サイエンス2018年12月号特集【新・人類学】（10月25日発売） https://t.co/2FbAlQNsQx #進化 #未来 #都市 #サイエンス #雑誌情報… https://t.co/C61k6hGAkw"
+8:00 PM - 22 Oct 2018
+
+![](https://pbs.twimg.com/media/DqJrDjHX0AEQ7d3.jpg)
 
 2018-11-24
 https://gendai.ismedia.jp/articles/-/58507?media=bb
@@ -220,9 +252,8 @@ http://gendai.ismedia.jp/articles/-/38255
 http://gendai.ismedia.jp/articles/-/38255?page=2
 『分子からみた生物進化 DNAが明かす生物の歴史』著：宮田隆分子からみた生物進化（） | 現代ビジネス | 講談社（1/2）
 
-### 進化が語る 現在・過去・未来
+### 2012-06-20　
 
-2012年6月20日
 http://www.nikkei-science.com/page/sci_book/bessatu/51185.html
 進化が語る 現在・過去・未来 | 日経サイエンス
 三中信宏 編
@@ -353,6 +384,12 @@ World IA Day 2017 Tokyo Nobuhiro Minaka
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
 
+http://leeswijzer.org/files/SystematicPhilosophy.html
+系統体系学の世界：生物学の哲学とたどった道のり
+
+https://shorebird.hatenablog.com/entry/20180601/1527842963
+「系統体系学の世界」 - shorebird　進化心理学中心の書評など
+
 http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
 
@@ -393,7 +430,6 @@ https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S
 進化生物学と統計科学：系統樹の推定をめぐって
 https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_pdf
 
-
 1996年
 http://www.e-jsps.com/2007hp/topic/Datesoudo84/date.html
 伊達騒動「分類学・系統学・生態学」
@@ -402,12 +438,6 @@ http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html
 三中信宏（農環研・計測情報）
 
 種に名前を付けなければならないというのは，「名前があれば便利である」と主張しているに過ぎず，生物学的に不可欠ではありません。 　少なくとも，系統学にとっては種名は不要です。
-
-http://leeswijzer.org/files/SystematicPhilosophy.html
-系統体系学の世界：生物学の哲学とたどった道のり
-
-https://shorebird.hatenablog.com/entry/20180601/1527842963
-「系統体系学の世界」 - shorebird　進化心理学中心の書評など
 
 ## nakada
 仲田崇志
