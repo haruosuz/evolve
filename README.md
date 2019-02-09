@@ -16,6 +16,9 @@ Last Update: 2019-02
 - [books](#books)
 - [MPCM](#mpcm)
 - [people](#people)
+  - [inoue](#inoue) 井上 潤
+  - [nakada](#nakada) 仲田崇志
+  - [fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
 - [unclassified](#unclassified)
 
@@ -23,6 +26,16 @@ Last Update: 2019-02
 ## featuring
 
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
+
+http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2018/214ws.html
+214ws_分子系統樹推定法：理論と応用
+2018年10月24日（水曜日）-10月26日（金曜日）（つくば市観音台2-1-9)
+
+https://kimuraseminar.wordpress.com
+木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
+
+#kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
+#pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
 
 ----------
 ## updates
@@ -81,17 +94,6 @@ https://gendai.ismedia.jp/articles/-/55458
 「進化は進歩ではない」と言われて、あなたは納得できますか（更科 功） | ブルーバックス | 講談社（1/2）
 一方、ダーウィンの『種の起源』では、進化を意味する言葉として「世代を越えて伝わる変化」（decent with modification）がよく使われている。
 
-## 2018-09
-
-https://kimuraseminar.wordpress.com
-木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
-
-https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
-日程: 2018年9月1日（土）〜9月3日（月）
-場所: 大学セミナーハウス（東京都八王子市）
-
-#kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
-#pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
 
 ## 2018-08
 
