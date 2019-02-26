@@ -42,6 +42,12 @@ https://kimuraseminar.wordpress.com
 
 ## 2019
 
+1809年2月12日
+- https://ja.wikipedia.org/wiki/ダーウィンの日
+- https://twitter.com/hashtag/ダーウィンの日
+- https://twitter.com/hashtag/DarwinDay
+- https://darwinday.org/
+
 https://twitter.com/rickygervais/status/1093507830819237890
 Ricky Gervais on Twitter: "We didn't evolve 'from' apes. We ARE apes. We share a common ancestor with all other apes. We are but one branch on a family tree. We are cousins.… https://t.co/3cA9Lu6thZ"
 8:52 AM - 7 Feb 2019
@@ -154,9 +160,6 @@ https://twitter.com/Saitou_Sayer/status/964642354278756352
 6:27 PM - 16 Feb 2018
 
 ## 2018-02-12
-- https://ja.wikipedia.org/wiki/ダーウィンの日
-- https://twitter.com/hashtag/ダーウィンの日
-- https://twitter.com/hashtag/DarwinDay
 
 9 Feb 2018
 https://twitter.com/shoemaker_levy/status/961983240763465733
