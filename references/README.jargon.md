@@ -7,59 +7,26 @@ Last Update: 2018-12
 
 ## Table of Contents
 - [2018](#2018)
-- [allele](#allele) 対立遺伝子
 - [adaptation](#adaptation) 適応
 - [amelioration](#amelioration)
+- [abduction](#abduction)
+- [allele](#allele) 対立遺伝子
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
 - [concordance](#concordance)
 - [divergence time](#divergence-time) 分岐時間
 - [homology](#homology)
 - [homoplasy](#homoplasy)
-- [recombination](#recombination) 組換え
 - [HGT](#hgt) 遺伝子水平伝播
 - [marker](#marker)
 - [model](#model)
   - [GTR](#gtr)
   - [JTT](#jtt)
 - [phylogenetic diversity](#phylogenetic-diversity)
+- [recombination](#recombination) 組換え
 - [root](#root)
 - [species](#species)
 - [taxon](#taxon)
 - [treedist](#treedist)
-
-----------
-## recombination
-組換え
-
-http://hp.brs.nihon-u.ac.jp/~inasweb/narai/narai/xiang_tong_zu_huanetoha.html
-相同組換えとは
-遺伝的組換えは，さらに以下の5種類に分けられます。
-
-https://twitter.com/NatureRevMicro/status/1088112422928506880
-Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evolution of prokaryotic core genomes @mbiojournal https://t.co/GxZrNxhsMB… "
-11:33 AM - 23 Jan 2019
-
-
-
-
-----------
-## marker
-
-https://ja.wikipedia.org/wiki/遺伝子マーカー
-もしくは系統（個人の特定、親子・親族関係、血統あるいは品種など）の目印となる、つまりある性質をもつ個体に特有の、DNA配列をいう[1]。
-また系統の解析に遺伝子マーカーを利用する方法は、一般にDNA型鑑定などの名で呼ばれている。これにはマイクロサテライトなどがマーカーとして用いられている。
-
-https://www.ncbi.nlm.nih.gov/pubmed/24146954
-PLoS One. 2013 Oct 17;8(10):e77033. doi: 10.1371/journal.pone.0077033. eCollection 2013.
-Systematic identification of gene families for use as "markers" for phylogenetic and phylogeny-driven ecological studies of bacteria and archaea and their major subgroups.
-Wu D1, Jospin G, Eisen JA.
-
-https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#16s
-
-https://www.aist.go.jp/aist_j/press_release/pr2017/pr20170830/pr20170830.html
-産総研：進化系統分類の指標となる16S rRNA遺伝子の進化的な中立性を実験的に証明
-生物の系統進化を正確に反映する「分子マーカー（分子時計）」の要件は、
-分子時計（進化系統解析における分子マーカー）と呼ぶ。
 
 ----------
 
@@ -90,32 +57,6 @@ https://www3.atwiki.jp/cloud9science/pages/175.html
 進化の系統樹 - cloud9science @Wiki - アットウィキ
 
 ----------
-## allele
-https://ja.wikipedia.org/wiki/対立遺伝子
-
-dominant 
-recessive 
-
-https://ja.wikipedia.org/wiki/優性
-
-https://www.m3.com/open/clinical/news/article/559530/
-「優性」「劣性」言い換え報道、学会が一部否定
-日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
-2017年9月27日
-
-2017/9/15
-https://www.nikkei.com/article/DGXLASDG15H7R_V10C17A9CR8000/
-「優性」「劣性」用語使わず　日本遺伝学会が言い換え　　:日本経済新聞
-
-https://mainichi.jp/articles/20170913/k00/00m/040/036000c
-遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
-2017年9月12日
-
-http://gsj3.jp/revisionterm.html
-遺伝学用語改訂について
-2017.9.11 日本遺伝学会
-
-----------
 ## adaptation
 https://ja.wikipedia.org/wiki/適応
 
@@ -129,6 +70,43 @@ https://ja.wikipedia.org/wiki/適応
 https://ja.wikipedia.org/wiki/前適応
 preadaptation
 
+
+----------
+## abduction
+アブダクション
+真実
+
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls03.html
+統計の落とし穴と蜘蛛の糸
+著／三中信宏
+第3回 データのふるまいをモデル化する （2017/11/24公開）
+アブダクションの要点は，選び出された“ベスト”の仮説が必ずしも最終的な“真実”である必要はないことです．
+モデルと本質：既知から未知へのアブダクション
+しかし，データ解析の現場では変量間の関係を支配する“真”の式はいつまでも未知のまま現象の背後に隠れています．
+アブダクションは「真実」を言い当てる予言を行なうのではなく，観察データを説明するには選択肢中のどのモデルが「よりよい」かを比較検討する推論作業です．ここでいう「よりよいモデル」とは「より真実に近いモデル」とはかぎりません．
+
+https://twitter.com/leeswijzer/status/536990181241671680
+#TodaiStat 【回答】しかし，統計学でのアブダクションは，データに基づく帰無仮説と対立仮説の絶対的ランキング（真偽）ではなく，対立仮説間の相対的ランキング（支持されるかしないか）に過ぎません．
+4:10 PM - 24 Nov 2014
+
+https://sakstyle.hatenadiary.jp/entry/20140419/p1
+2014-04-19
+エリオット・ソーバー『過去を復元する』三中信宏訳
+そこで、全体的類似性からすると、Ａ（ＢＣ）が真の系統仮説ということになる（ＢとＣがより近い分類群）。
+
+http://www.jppa.or.jp/shiryokan/pdf/63_03_66.pdf
+分子系統学：最近の進歩と今後の展望
+しかし，系統推定とはそもそも「真実」の系統樹を発見することを目的とはしていない。我々は，データから結論にいたる論証様式といえば，演繹（deduction）かあるいは帰納（induction）しか思い浮かばないことが多い。いずれも，特定の仮説の真偽の証明を目指す論証様式である。しかし，系統推定における論証は演繹でも帰納でもない。
+アブダクションによる推論では，選ばれた仮説の真偽は問題ではない。
+
+http://cse.naro.affrc.go.jp/minaka/files/seibutsu-keitou.html
+生物系統学
+三中信宏
+　　４－６－２：最節約法は真実を導くか？－一般化最節約法を目指して 284
+
+https://ja.wikipedia.org/wiki/Wikipedia:検証可能性#「真実かどうか」ではなく「検証可能かどうか」
+
+----------
 ## amelioration
 改善
 同化
@@ -161,6 +139,34 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
 Variation in the strength of selected codon usage bias among bacteria
 
 But even this may have little relevance: in the same way that it is thought that the codon usage of horizontally transferred genes may take many millions of years to ameliorate to that of a new host genome (58), strongly selectively biased codon usage may take a very long time to decay after a reduction in effective population size, i.e. the codon usage bias currently observed may still be due in some part to evolutionary processes that occurred millions of years ago.
+
+
+----------
+## allele
+https://ja.wikipedia.org/wiki/対立遺伝子
+
+dominant 
+recessive 
+
+https://ja.wikipedia.org/wiki/優性
+
+https://www.m3.com/open/clinical/news/article/559530/
+「優性」「劣性」言い換え報道、学会が一部否定
+日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
+2017年9月27日
+
+2017/9/15
+https://www.nikkei.com/article/DGXLASDG15H7R_V10C17A9CR8000/
+「優性」「劣性」用語使わず　日本遺伝学会が言い換え　　:日本経済新聞
+
+https://mainichi.jp/articles/20170913/k00/00m/040/036000c
+遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
+2017年9月12日
+
+http://gsj3.jp/revisionterm.html
+遺伝学用語改訂について
+2017.9.11 日本遺伝学会
+
 
 ----------
 ## ancestral reconstruction
@@ -615,8 +621,55 @@ http://www.au-techno.com/microbio/microbio_body.htm
 形質導入 (transduction：けいしつどうにゅう)
 接合 (conjugation：せつごう)
 
+
+----------
+## marker
+
+https://ja.wikipedia.org/wiki/遺伝子マーカー
+もしくは系統（個人の特定、親子・親族関係、血統あるいは品種など）の目印となる、つまりある性質をもつ個体に特有の、DNA配列をいう[1]。
+また系統の解析に遺伝子マーカーを利用する方法は、一般にDNA型鑑定などの名で呼ばれている。これにはマイクロサテライトなどがマーカーとして用いられている。
+
+https://www.ncbi.nlm.nih.gov/pubmed/24146954
+PLoS One. 2013 Oct 17;8(10):e77033. doi: 10.1371/journal.pone.0077033. eCollection 2013.
+Systematic identification of gene families for use as "markers" for phylogenetic and phylogeny-driven ecological studies of bacteria and archaea and their major subgroups.
+Wu D1, Jospin G, Eisen JA.
+
+https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#16s
+
+https://www.aist.go.jp/aist_j/press_release/pr2017/pr20170830/pr20170830.html
+産総研：進化系統分類の指標となる16S rRNA遺伝子の進化的な中立性を実験的に証明
+生物の系統進化を正確に反映する「分子マーカー（分子時計）」の要件は、
+分子時計（進化系統解析における分子マーカー）と呼ぶ。
+
 ----------
 ## model
+
+model-selection
+
+系統（樹形や祖先配列）推定において、進化モデル選択は不要な手順であり、最も複雑なモデル(GTR+I+G)を使用することで回避できる。
+
+https://www.nature.com/articles/s41467-019-08822-w
+Model selection may not be a mandatory step for phylogeny reconstruction | Nature Communications
+
+https://natureecoevocommunity.nature.com/users/207830-shiran-abadi/posts/44527-is-model-selection-a-mandatory-step-for-phylogeny-reconstruction
+Is Model Selection a mandatory step for phylogeny reconstruction? | Nature Research Ecology & Evolution Community
+```
+We reconstructed all phylogenies with the most complex model, GTR+I+G, regardless of the Model Selection methods, and the inferences were even better than those of the models selected by the Model Selection methods.
+any model could serve just as well as the best fitted one.
+Model Selection is an unnecessary step and can be avoided by employing the most complex model.
+
+モデル選択法に関係なく、最も複雑なモデルGTR+I+Gを使用してすべての系統を再構築したところ、モデル選択法によって選択されたモデルよりも推論が優れていました。
+どのモデルも、最適なモデルと同様に機能します。
+モデル選択は不要な手順であり、最も複雑なモデルを使用することで回避できます。
+```
+
+https://twitter.com/fburki/status/1100003521569660929
+Fabien Burki on Twitter: "This will likely stir some S: Model selection may not be a mandatory step for phylogeny reconstruction https://t.co/p0XYygiJxM"
+7:04 AM - 25 Feb 2019
+
+https://twitter.com/3rdreviewer/status/1100151955110809600
+Matthew Hahn on Twitter: "This seems like a big deal. Hope to hear from some people who know this stuff better (cc: @roblanfear) Model selection may not be a mandatory step for phylogeny reconstruction https://t.co/In76QkR5yH"
+4:54 PM - 25 Feb 2019
 
 ### GTR
 
@@ -723,6 +776,21 @@ http://www.ism.ac.jp/editsec/toukei/abstract/60-2j.html#263
 
 Shannon 指数や Simpson 指数では,種が明確に定義されていることや各個体をあいまい さなく同定できることが前提になっており,これらの指標の微生物群集への適用には問題があ ることが当初から指摘されていた(Staley, 1980; Torsvik et al., 1990). また,図 1 と 2 において 示されているように,微生物群集からの 16S リボソーム RNA 遺伝子配列のデータの 1 つの特 徴として強いクラスター性があるが,種数に対応する異なる配列数を数える指標や,塩基多様 度のような異なるサイト数に基づく指標では,このようなクラスター構造を反映できないとい う問題がある.代替的な方法の研究として,Watve and Gangal(1996), Hughes et al.(2001), Hong et al.(2006)などがあるが,理論的な基礎を持つ体系的な方法とは言えなかった.
 
+
+
+----------
+## recombination
+組換え
+
+http://hp.brs.nihon-u.ac.jp/~inasweb/narai/narai/xiang_tong_zu_huanetoha.html
+相同組換えとは
+遺伝的組換えは，さらに以下の5種類に分けられます。
+
+https://twitter.com/NatureRevMicro/status/1088112422928506880
+Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evolution of prokaryotic core genomes @mbiojournal https://t.co/GxZrNxhsMB… "
+11:33 AM - 23 Jan 2019
+
+
 ----------
 ## root
 系統樹に根(root)をつける
@@ -743,7 +811,7 @@ Nat Ecol Evol. 2017 Jun 19;1:193. doi: 10.1038/s41559-017-0193.
 Phylogenetic rooting using minimal ancestor deviation.
 Tria FDK1, Landan G1, Dagan T1.
 
-http://www.geocities.jp/ancientfishtree/R_JI.html
+http://www.fish-evol.com/R_JI.html
 R - 井上 潤
 2015 年 6 月 8 日　改訂
 ape: BS 値付き tree の reroot はおかしい?
