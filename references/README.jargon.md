@@ -17,6 +17,7 @@ Last Update: 2019-03
 - [divergence time](#divergence-time) 分岐時間
 - [homology](#homology)
 - [homoplasy](#homoplasy)
+- [overall similarity](#overall-similarity) 全体的類似度
 - [HGT](#hgt) 遺伝子水平伝播
 - [marker](#marker)
 - [model](#model)
@@ -432,7 +433,7 @@ Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて
 
 ----------
 ## overall similarity
-全体的類似度
+**全体的類似度**
 
 http://leeswijzer.org/files/SystematicThinking.html
 　　　〔3〕全体的類似度とクラスタリング — いくつかの計算例 122
