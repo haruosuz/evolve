@@ -431,14 +431,21 @@ https://twitter.com/kfuku0502/status/960943421211815936
 Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて気づいたけど、遺伝子ファミリーを共有派生形質に見立てて系統進化を議論してるところ面白いな。 Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus https://t.co/IOeYd4tmm6"
 
 ----------
-2017-07-27
+## overall similarity
+全体的類似度
 
 http://leeswijzer.org/files/SystematicThinking.html
 　　　〔3〕全体的類似度とクラスタリング — いくつかの計算例 122
 
+http://cse.naro.affrc.go.jp/minaka/R/R-cluster2.html
+距離尺度
+数量表形学では，OTU間の類似性を表形的（phenetic）な全体的類似度（overall similarity）によって数値化するという基本的な姿勢がある．その哲学的な動機づけは別として，OTUごとに数値化された形質データがあるとき，OTU間の類似度をどのような尺度によって数値化すればいいのかという問題は，クラスター分析だけではなく，距離法に基づく系統樹推定法の論議にも関わってくる．
+（8 September 2003）
+
 http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
 クラスター分析の光と闇
 　数量表形学は，数値化された多変量データに基づいて分類対象（OTU: operational taxonomic unit）の間の近さを距離（全体的類似度overall similarity）として計算し，距離の近いものを群（クラスター）にまとめていくというクラスター分析の手法を生物分類体系の構築に適用する．数量表形学者は，系統という実証不可能な概念を含む分類体系だめだと批判し，系統に代わる生物間の関係を表現する尺度として，多数の形質に基づく全体的類似度を用いようとした．自然分類とはできるだけ多くの形質を共有する分類群から成るべきであり，そういう分類体系はより多くの予測を可能にする一般的な分類体系（general purpose classification）であるという信念に鼓舞された数量表形学者たちは，伝統的な進化分類学への攻勢を強めた． 
+（3 September 2003） 
 
 http://www.geocities.co.jp/SiliconValley-Sunnyvale/8137/sober.html
 『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
