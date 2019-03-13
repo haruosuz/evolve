@@ -435,6 +435,9 @@ Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて
 ## overall similarity
 **全体的類似度**
 
+http://www.columbia.edu/itc/envsci/hahn/w4601/class_notes/week_2.html
+Overall similarity may or may not be best estimate of relationship.
+
 http://leeswijzer.org/files/SystematicThinking.html
 　　　〔3〕全体的類似度とクラスタリング — いくつかの計算例 122
 
@@ -467,6 +470,21 @@ http://www.geocities.co.jp/SiliconValley-Sunnyvale/8137/sober.html
 ２．固有派生形質(autapomorphy)
 全体的類似度は派生的類似性だけでなく原始的類似性をも含んでいる。
 そのためにこの二つの陥穽におちいる危険性がある。
+
+https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
+更新日：2017.4.14
+
+２．系統学に関する用語
+
+phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
+A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
+
+numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
+★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
+
+cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
+A system of classification in which the only groups formally recognized are clades.
+★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
 
 ----------
 ## HGT
