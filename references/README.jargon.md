@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-12
+Last Update: 2019-03
 
 ----------
 
@@ -12,6 +12,7 @@ Last Update: 2018-12
 - [abduction](#abduction)
 - [allele](#allele) 対立遺伝子
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
+- [basal](#basal)
 - [concordance](#concordance)
 - [divergence time](#divergence-time) 分岐時間
 - [homology](#homology)
@@ -213,6 +214,27 @@ Ancestral Sequence Reconstruction
 https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=33709&item_no=1&page_id=13&block_id=8
 分岐学における祖先推定：　組合せ最適化問題としての系統推定
 三中 信宏 
+
+----------
+## basal
+
+http://darwin.c.u-tokyo.ac.jp/sesj2018/symposium/
+Basal lineageは「原始的」か？：生物界と分野を超えて
+http://darwin.c.u-tokyo.ac.jp/sesj2018/wp/wp-content/uploads/2018/08/5d5ef9dd328e3e7158e5fbaff5ce1d98.pdf
+
+https://twitter.com/copypasteusa/status/1032263315752284160
+#sesj2018 #日本進化学会第20回大会 #進化学会
+Basal lineageは「ない」
+Sister taxaは「ある」
+
+https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+basal taxa (at the bottom of the tree)
+
+https://quizlet.com/97829330/phylogenetic-terms-flash-cards/
+Phylogenetic Terms単語カード | Quizlet
+
+Root
+the most basal internode at the bottom of a tree. This is the common ancestor.
 
 ----------
 ## concordance
@@ -447,6 +469,16 @@ https://ja.wikipedia.org/wiki/遺伝子の水平伝播
 Horizontal gene transfer（HGT）またはLateral gene transfer（LGT）
 
 https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/horizontal-gene-transfer
+
+
+
+https://twitter.com/MicrobiomeJ/status/1102948766972145664
+Microbiome on Twitter: "MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches https://t.co/eFx9Jk1jdU"
+10:07 AM - 5 Mar 2019
+
+https://github.com/songweizhi/MetaCHIP
+songweizhi/MetaCHIP: Horizontal gene transfer (HGT) identification pipeline
+
 
 
 共生細菌ボルバキアから宿主への遺伝子水平伝播
@@ -794,6 +826,11 @@ Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evol
 ----------
 ## root
 系統樹に根(root)をつける
+
+2019/02/08
+https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
+Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting | Genome Biology and Evolution | Oxford Academic
+
 
 http://phylobotanist.blogspot.jp/2015/01/how-to-root-phylogenetic-tree-outgroup.html
 How to root a phylogenetic tree: outgroup, midpoint and other methods
