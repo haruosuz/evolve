@@ -13,6 +13,7 @@ Last Update: 2019-03
 - [allele](#allele) 対立遺伝子
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
 - [basal](#basal)
+- [convergent](#convergent) 収斂進化
 - [concordance](#concordance)
 - [divergence time](#divergence-time) 分岐時間
 - [homology](#homology)
@@ -236,6 +237,37 @@ Phylogenetic Terms単語カード | Quizlet
 
 Root
 the most basal internode at the bottom of a tree. This is the common ancestor.
+
+----------
+## convergent
+収斂進化
+
+https://ja.wikipedia.org/wiki/収斂進化
+convergent evolution
+
+https://ja.wikipedia.org/wiki/平行進化
+parallel evolution
+平行進化の結果が収斂である場合もある。
+
+http://kagakubar.com/evolution/07.html
+第7話
+なぜ多様な種が進化したか？
+文と写真　長谷川政美
+◎自然選択
+◎地球上の生物種数
+同じような特徴が、別々の系統で収斂的に進化することがあるからだ。
+◎収斂進化
+しかし、もっと近縁な真獣類のなかの2つの系統で収斂進化が起った場合には、そのような共通の特徴が祖先を共有するためなのか、収斂進化によるものなのかを判定することが難しくなる。
+◎分子進化の中立説
+このように収斂進化が起るので、2つの生物種で似たような特徴が見られても、それが共通祖先の特徴を受け継いだからなのか、あるいは別々の系統で同じような特徴が収斂的に進化したためなのかを判別しなければならない。
+
+https://www.ncbi.nlm.nih.gov/pubmed/29650391
+Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
+Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
+Dietel AK1, Kaltenpoth M2, Kost C3.
+REVIEW
+
+
 
 ----------
 ## concordance
