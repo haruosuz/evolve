@@ -896,11 +896,6 @@ How to root a phylogenetic tree: outgroup, midpoint and other methods
 http://cabbagesofdoom.blogspot.jp/2012/06/how-to-root-phylogenetic-tree.html
 How to root a phylogenetic tree
 
-https://www.ncbi.nlm.nih.gov/pubmed/29388565
-Nat Ecol Evol. 2017 Jun 19;1:193. doi: 10.1038/s41559-017-0193.
-Phylogenetic rooting using minimal ancestor deviation.
-Tria FDK1, Landan G1, Dagan T1.
-
 http://www.fish-evol.com/R_JI.html
 R - 井上 潤
 2015 年 6 月 8 日　改訂
@@ -909,7 +904,13 @@ reroot すると，BS 値の位置がおかしくなると聞きました．以�
 
 2019/02/08
 https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
-Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting | Genome Biology and Evolution | Oxford Academic
+Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting
+
+https://www.ncbi.nlm.nih.gov/pubmed/29388565
+Nat Ecol Evol. 2017 Jun 19;1:193. doi: 10.1038/s41559-017-0193.
+Phylogenetic rooting using minimal ancestor deviation.
+
+Midpoint rooting の例:
 
 2019 Jan 8;
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/ Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil
