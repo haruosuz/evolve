@@ -885,11 +885,6 @@ Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evol
 ## root
 系統樹に根(root)をつける
 
-2019/02/08
-https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
-Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting | Genome Biology and Evolution | Oxford Academic
-
-
 http://phylobotanist.blogspot.jp/2015/01/how-to-root-phylogenetic-tree-outgroup.html
 How to root a phylogenetic tree: outgroup, midpoint and other methods
 - Outgroup rooting
@@ -912,11 +907,17 @@ R - 井上 潤
 ape: BS 値付き tree の reroot はおかしい?
 reroot すると，BS 値の位置がおかしくなると聞きました．以下は例題です．左の tree を d という leaf で rooting しています．しかし，私には問題ないように思えます．
 
+2019/02/08
+https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
+Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting | Genome Biology and Evolution | Oxford Academic
+
+2019 Jan 8;
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/ Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil
 FIG 3
 Phylogenetic tree constructed from core gene codon alignment with midpoint rooting.
 The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting and plotted with Ape v5.1 (82).
 
+2006 May
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
 Figure 5
 The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
