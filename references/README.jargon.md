@@ -912,6 +912,15 @@ R - 井上 潤
 ape: BS 値付き tree の reroot はおかしい?
 reroot すると，BS 値の位置がおかしくなると聞きました．以下は例題です．左の tree を d という leaf で rooting しています．しかし，私には問題ないように思えます．
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/ Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil
+FIG 3
+Phylogenetic tree constructed from core gene codon alignment with midpoint rooting.
+The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting and plotted with Ape v5.1 (82).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
+Figure 5
+The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
+
 ----------
 ## species
 
