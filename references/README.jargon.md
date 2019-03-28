@@ -902,6 +902,16 @@ R - 井上 潤
 ape: BS 値付き tree の reroot はおかしい?
 reroot すると，BS 値の位置がおかしくなると聞きました．以下は例題です．左の tree を d という leaf で rooting しています．しかし，私には問題ないように思えます．
 
+https://leeswijzer.hatenadiary.com/entry/20060715/1152931775
+『系統樹思考の世界：すべてはツリーとともに』 - leeswijzer: een nieuwe leeszaal van dagboek
+　第２節：グラフとしての系統樹――点・辺・根 168
+　　無根系統樹と有根系統樹
+　　祖先子孫関係は原理的に不可知である
+
+http://bbs.jinruisi.net/blog/2010/07/829.html
+■無根系統樹と有根系統樹
+![](http://bbs.jinruisi.net/blog/wp-content/uploads/0-2のコピー.jpg)
+
 2019/02/08
 https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
 Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting
