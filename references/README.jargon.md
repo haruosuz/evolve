@@ -7,6 +7,7 @@ Last Update: 2019-03
 
 ## Table of Contents
 - [2018](#2018)
+- [neutral theory](#neutral-theory) 中立説
 - [adaptation](#adaptation) 適応
 - [amelioration](#amelioration)
 - [abduction](#abduction)
@@ -30,6 +31,35 @@ Last Update: 2019-03
 - [species](#species)
 - [taxon](#taxon)
 - [treedist](#treedist)
+
+----------
+## adaptation
+https://ja.wikipedia.org/wiki/適応
+
+適応主義
+批判的な意味では、十分な証拠無しに生物の特徴を適応であると結論する研究や研究者のことを指すことが多い。
+
+適応と目的論
+通常、生物学者は適応的な形質を「○○のための形質」と呼ぶ。このために、しばしば進化には意図や方向性がある、または目的論を含意していると誤解される。このような表現は「自然選択によってその形質に影響を与える一連の遺伝的変異が蓄積され、その形質が形成された」と言う表現の短縮形である。
+現在では適応は自然選択の結果で、受動的なものであり、生物が主体的に適応しようとして起きるものではないと考えられている。
+
+https://ja.wikipedia.org/wiki/前適応
+preadaptation
+
+----------
+## neutral theory
+Neutral theory of molecular evolution
+
+- https://ja.wikipedia.org/wiki/中立進化説
+- https://kotobank.jp/word/中立説-185536
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html
+パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館
+![](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
+
+2003
+https://www.nig.ac.jp/museum/evolution/01_c.html
+分子進化の中立説　～木村資生と中立説
 
 ----------
 
@@ -59,19 +89,6 @@ https://www.slideshare.net/takahironishimu/ss-59418690
 https://www3.atwiki.jp/cloud9science/pages/175.html
 進化の系統樹 - cloud9science @Wiki - アットウィキ
 
-----------
-## adaptation
-https://ja.wikipedia.org/wiki/適応
-
-適応主義
-批判的な意味では、十分な証拠無しに生物の特徴を適応であると結論する研究や研究者のことを指すことが多い。
-
-適応と目的論
-通常、生物学者は適応的な形質を「○○のための形質」と呼ぶ。このために、しばしば進化には意図や方向性がある、または目的論を含意していると誤解される。このような表現は「自然選択によってその形質に影響を与える一連の遺伝的変異が蓄積され、その形質が形成された」と言う表現の短縮形である。
-現在では適応は自然選択の結果で、受動的なものであり、生物が主体的に適応しようとして起きるものではないと考えられている。
-
-https://ja.wikipedia.org/wiki/前適応
-preadaptation
 
 
 ----------
