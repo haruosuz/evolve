@@ -31,10 +31,47 @@ Last Update: 2019-03
 - [species](#species)
 - [taxon](#taxon)
 - [treedist](#treedist)
+- [clade](#clade) 単系統群
+
+
+
+----------
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+系統推定の基本用語
+
+https://ja.wikipedia.org/wiki/退化
+一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
+
+Tomoaki NISHIYAMA
+Wed Dec 27 18:49:55 JST 2000
+http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
+用語集
+
+![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
+
+----------
+
+## clade
+https://ja.wikipedia.org/wiki/単系統群
+
+https://ja.wikipedia.org/wiki/分岐学
+分類学における分類群（タクソン）には、単一の系統からなる「単系統群」（例えば鳥類）と、大きな単系統群から一部の単系統群を除いてまとめた「側系統群」（鳥類を除いた爬虫類など）があるが、分岐学の立場では側系統群は分類群として認めるべきではなく、単系統群（分岐学ではクレードCladeという）のみを認めるべきだということになる（進化分類学と呼ばれる考え方では側系統群も認める）。
+
+http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
+単系統，側系統，多系統
+作成：仲田崇志
+更新：2006年10月13日
+「単系統」（monophyly）あるいは「単系統群」（monophyletic group）
+「分岐群」 （clade；「クレード」と字訳されることも多い）
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
 
 ----------
 ## adaptation
-https://ja.wikipedia.org/wiki/適応
+- https://ja.wikipedia.org/wiki/適応
+- https://kotobank.jp/word/適応-100764
 
 適応主義
 批判的な意味では、十分な証拠無しに生物の特徴を適応であると結論する研究や研究者のことを指すことが多い。
@@ -60,21 +97,6 @@ https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html
 2003
 https://www.nig.ac.jp/museum/evolution/01_c.html
 分子進化の中立説　～木村資生と中立説
-
-----------
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-系統推定の基本用語
-
-https://ja.wikipedia.org/wiki/退化
-一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
-
-Tomoaki NISHIYAMA
-Wed Dec 27 18:49:55 JST 2000
-http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
-用語集
-
-![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
 
 ----------
 ## 2018
