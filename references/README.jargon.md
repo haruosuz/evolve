@@ -31,9 +31,7 @@ Last Update: 2019-03
 - [species](#species)
 - [taxon](#taxon)
 - [treedist](#treedist)
-- [clade](#clade) 単系統群
-
-
+- [clade](#clade) 分岐群、単系統群
 
 ----------
 
