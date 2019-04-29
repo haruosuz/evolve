@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-02
+Last Update: 2019-04
 
 ----------
 
@@ -15,6 +15,7 @@ Last Update: 2019-02
 - [allele](#allele)
 - [books](#books)
 - [MPCM](#mpcm)
+- [concatenation](#concatenation)
 - [people](#people)
   - [inoue](#inoue) 井上 潤
   - [nakada](#nakada) 仲田崇志
@@ -24,6 +25,9 @@ Last Update: 2019-02
 
 ----------
 ## featuring
+
+https://twitter.com/NikkeiScience/status/1106136676974370816
+日経サイエンス on Twitter: "「なぜヒトだけ無毛になったのか」 近年になって，毛深かったヒトの皮膚が裸になっていく過程についての手がかりが間接的に化石記録に残されていることに科学者たちが気づいた。【別冊日経サイエンス194　化石とゲノムで探る人類の起源と拡散】 https://t.co/J44P0866Ok #進化 #人類進化 #毛… https://t.co/dMIcJLDgYP"
 
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
 
@@ -41,6 +45,35 @@ https://kimuraseminar.wordpress.com
 ## updates
 
 ## 2019
+
+https://t.co/W16JrMgFuy
+The synergistic effect of concatenation in phylogenomics: the case in Pantoea
+
+https://twitter.com/tama_lion/status/1107599887644819457
+進化はどこまで予測できるか？ - 株式会社　化学同人 http://www.kagakudojin.co.jp/book/b448885.html … やっと宣伝できるー！Jonathan Losos "Improbable Destinies" の邦訳です。おととし読んでいちばん面白かった本を幸運にも自分で訳すことができました。5月発売予定！
+7:09 AM - 18 Mar 2019
+収斂進化が好き／アノールが好き／カモノハシが好き／学問上の論争が好き／ドゥーガル・ディクソン的進化妄想が好き／研究者の裏話や苦労話が好き／『フィンチの嘴』的な急速な進化の例をもっと知りたい／『ワンダフルライフ』は面白かったけどあの主張どこまで本当なの？という方にとくにおすすめです
+
+https://twitter.com/windowmoon/status/1107923607349424129
+相変わらず皆さん円形系統樹好きですね。見づらいからやめろ。
+4:35 AM - 19 Mar 2019
+https://twitter.com/Tyu_Shi/status/1107868946269519872
+Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.com/articles/s41559-019-0834-1 … キノコのTimetree論文。
+12:58 AM - 19 Mar 2019
+
+https://twitter.com/bluebacks_pub/status/1105154415051169792
+講談社ブルーバックス on Twitter: "【系統的に近いのに「似ていない」理由】 「どう見ても、ゴリラとチンパンジーの方が、見た目は似てるじゃないですか。それなのに、どうしてヒトとチンパンジーの方が系統的に近いと言えるんですか？」 https://t.co/kJjG28bEEG #ブルーバックス"
+1:11 PM - 11 Mar 2019
+https://gendai.ismedia.jp/articles/-/36827
+ヒトとチンパンジー、どうして「似てる」といえるのか（更科 功） | ブルーバックス | 講談社（1/2）
+https://gendai.ismedia.jp/articles/-/33391
+『化石の分子生物学　生命進化の謎を解く』～努力するかぎり人は迷う（更科 功） | ブルーバックス | 講談社（1/4）
+
+
+https://twitter.com/hshimodaira/status/1102152186283229188
+下平英寿 on Twitter: "クモ綱が単系統ではない，つまりカブトガニが入る，っていう主張のところで提案手法使ってもらえてて嬉しい．Topology comparisons using the approximately unbiased test (Shimodaira, 2002) rejected the monophyly of Arachnida (p = 0.009).… https://t.co/8lFOrShJgA"
+5:22 AM - 3 Mar 2019
+
 
 1809年2月12日
 - https://ja.wikipedia.org/wiki/ダーウィンの日
@@ -318,6 +351,19 @@ MPCM-Evolution (@MPCMevol) | Twitter
 ![](http://www.mpcm-evolution.org/book/wp-content/themes/flat/img/logo_book.png)
 
 ----------
+## concatenation
+
+https://peerj.com/articles/6698/
+The synergistic effect of concatenation in phylogenomics: the case in Pantoea [PeerJ]
+April 16, 2019
+
+https://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
+第56巻第1号19－35（2008）　　特集「分子進化と統計科学」　　[研究詳解]
+ゲノム系統学的手法の応用と課題
+—真獣類の起源に関する解析を例として—
+本稿では，大量の遺伝子配列を結合させたデータセットの解析（Concatenate model）ではおそらく誤りであろう系統仮説を強く支持したが，遺伝子ごとに異なる進化モデルを仮定した場合（Separate model）はその系統樹推定の偏りが激減するという極端な例を紹介する．本研究では2,789個の遺伝子配列（1Mbp以上）のデータセットを用い，真獣類の初期進化，すなわちアフリカ獣類，貧歯類，北方獣類の間の系統関係に関して最尤法を用いた解析をおこなった．その結果，従来の一般的な解析方法である塩基配列のConcatenate modelではアフリカ獣類と貧歯類の単系統性が100%のブートストラップ（BP）値を伴って支持されたが，遺伝子間で異なる進化速度・進化パターンを仮定するSeparate modelではその仮説がほとんど支持されなかった．
+
+----------
 ## people
 
 http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop.html
@@ -327,20 +373,19 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop02.html
 
 ## inoue
 
-http://www.geocities.jp/ancientfishtree/link
-系統解析リンク集 - 井上 潤
+http://www.fish-evol.com/index.html
 
-http://www.geocities.jp/ancientfishtree/phyMarker.html
+http://www.fish-evol.com/phyMarker.html
 系統推定
-Sept. 26, 2017. Jun Inoue
-
+27 Oct 2018. Jun Inoue
 　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
+concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
 
 https://www.ncbi.nlm.nih.gov/pubmed/23657258
 Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
 Inferring ancient divergences requires genes with strong phylogenetic signals.
 Salichos L1, Rokas A.
-
+Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,070 distinct gene trees, which were all incongruent with the phylogeny inferred from concatenation. 
 
 ## [leeswijzer](http://leeswijzer.org/)
 MINAKA Nobuhiro
