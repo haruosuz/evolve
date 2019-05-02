@@ -489,6 +489,27 @@ http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html
 
 種に名前を付けなければならないというのは，「名前があれば便利である」と主張しているに過ぎず，生物学的に不可欠ではありません。 　少なくとも，系統学にとっては種名は不要です。
 
+http://leeswijzer.org/diary2003-10.html
+Joseph Felsensteinの言う【分類なんかどうだっていいじゃん派（The  It-Doesn't-Matter-Very-Much school）】（『Inferring Phylogenies』, p.145）
+種や分類群のランクあるいは分類体系なんかどうだっていいわけで，系統樹さえあればそれで解決できる問題群がたくさんあるのだということ．
+
+http://cse.naro.affrc.go.jp/minaka/files/Corvallis2001.html
+Felsenstein zone / Farris zone をめぐる最節約法／最尤法の比較を論じた．
+・長枝誘引（LBA: Long-Branch Attraction）－"Felsenstein zone"
+・長枝相反（LBR: Long-Branch Repulsion）－"Farris zone"
+・短枝逆転（SBR: Short-Branch Rearrangement）
+
+http://cse.naro.affrc.go.jp/minaka/cladist/NOTES/literature.html
+系統推定のためのソフトウェアの紹介
+ 「Felsenstein領域」では最尤法の方が最節約法よりも命中率が高いです．一方，別のタイプのモデル系統樹を用いたシミュレーション研究では，逆に最節約法の方が最尤法よりも命中率が高くなる「Farris領域」が発見されました
+
+統計的独立の問題。種間に系統関係があるならば、統計学的にみてデータ点は独立ではあり得ない。（三中信宏「生物系統学」334ページ）
+FIG.2.データ点が独立 FIG.3. データ点が非独立
+https://www.jstor.org/stable/2461605
+Joseph Felsenstein (1985)
+Phylogenies and the Comparative Method
+http://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
+
 ## nakada
 仲田崇志
 
@@ -600,21 +621,6 @@ http://d.hatena.ne.jp/shorebird/20090804/1249382781
 2007.12.03
 https://langint.pri.kyoto-u.ac.jp/ai/ja/publication/SanaInoue/Inoue2007.html
 チンパンジーの子どもの記憶は人間のおとなよりも優れている | 京都大学霊長類研究所 - チンパンジーアイ
-
-----------
-
-http://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
-
-統計的独立の問題。種間に系統関係があるならば、統計学的にみてデータ点は独立ではあり得ない。（三中信宏「生物系統学」334ページ）
-FIG.2.データ点が独立 FIG.3. データ点が非独立
-Joseph Felsenstein (1985) Phylogenies and the Comparative Method https://www.jstor.org/stable/2461605
-
-
-Joseph Felsensteinの言う【分類なんかどうだっていいじゃん派（The  It-Doesn't-Matter-Very-Much school）】（『Inferring Phylogenies』, p.145） http://leeswijzer.org/diary2003-10.html
-
-http://cse.niaes.affrc.go.jp/minaka/files/Corvallis2001.html Felsenstein zone / Farris zone をめぐる最節約法／最尤法の比較を論じた．過誤のパターン・長枝誘引（LBA: Long-Branch Attraction）－"Felsenstein zone"　・長枝相反（LBR: Long-Branch Repulsion）－"Farris zone"　・短枝逆転（SBR: Short-Branch Rearrangement）
-http://cse.niaes.affrc.go.jp/minaka/cladist/NOTES/literature.html 「Felsenstein領域」では最尤法の方が最節約法よりも命中率が高いです．一方，別のタイプのモデル系統樹を用いたシミュレーション研究では，逆に最節約法の方が最尤法よりも命中率が高くなる「Farris領域」が発見されました
-
 
 ----------
 
