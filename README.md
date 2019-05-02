@@ -475,6 +475,11 @@ http://cse.naro.affrc.go.jp/minaka/cladist/SystematicThinking.pdf
 http://natgeo.nikkeibp.co.jp/nng/article/20130411/347194/
 【研究室】研究室に行ってみた。農業環境技術研究所　進化生物学・生物統計学　三中信宏 | ナショナルジオグラフィック日本版サイト
 
+2007.3
+http://www.naro.affrc.go.jp/archive/niaes/magazine/083/mgzn08304.html
+論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)
+系統樹（phylogenetic tree）に基づく「系統学的多様性（PD: phylogenetic diversity）」を提案
+
 2007
 https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_article/-char/ja/
 進化生物学と統計科学：系統樹の推定をめぐって
@@ -520,6 +525,10 @@ http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/index.html
 ## fifthdimension
 Akifumi S. Tanabe
 田辺晶史
+
+https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
+[PDF]ベイジアン MCMC による生物間系統関係の推定法
+生物学における系統樹の必要性
 
 https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 分子系統解析における様々な問題について
