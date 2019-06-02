@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-04
+Last Update: 2019-06
 
 ----------
 
@@ -26,6 +26,28 @@ Last Update: 2019-04
 ----------
 ## featuring
 
+
+
+2018/10/25
+https://ultrabem.com/other_topics/genetics/synonymous_substitutions.html
+同義置換と非同義置換: 計算方法、意味、論文での示し方
+
+http://mikuhatsune.hatenadiary.com/entry/20130621/1371803603
+Ka/Ks (dN/dS) の計算 - 驚異のアニヲタ社会復帰の予備
+
+
+http://www.fish-evol.org/link.html
+系統解析リンク集 - 井上 潤
+
+dN/dS 解析
+www.geocities.jp/ancientfishtree/dNdS_ji.html
+このサイトでは dN/dS 値を推定することで，タンパク質コーディング遺伝子 (DNA 配列) に働いた正の自然選択を検出する解析 (dN/dS 検定) を紹介します．PAML に含まれるプログラム codeml を使います．バージョンは paml4.7a を使っています． 用語説明.
+
+
+https://doi.org/10.7875/togotv.2014.024
+2014-04-07 ウェブで実践する配列比較解析〜相同性検索から分子系統解析まで@AJACS蝦夷3
+
+
 https://twitter.com/NikkeiScience/status/1106136676974370816
 日経サイエンス on Twitter: "「なぜヒトだけ無毛になったのか」 近年になって，毛深かったヒトの皮膚が裸になっていく過程についての手がかりが間接的に化石記録に残されていることに科学者たちが気づいた。【別冊日経サイエンス194　化石とゲノムで探る人類の起源と拡散】 https://t.co/J44P0866Ok #進化 #人類進化 #毛… https://t.co/dMIcJLDgYP"
 
@@ -45,6 +67,20 @@ https://kimuraseminar.wordpress.com
 ## updates
 
 ## 2019
+
+https://twitter.com/pathogenomenick/status/1128970191059214339
+Nick Loman on Twitter: "I do like this slide that I stole from @MikeyJ to get that point across:… "
+6:27 AM - 16 May 2019
+![](https://pbs.twimg.com/media/D6roWVTXYAEHZiv.jpg)
+
+
+https://twitter.com/animalculum/status/1123913157481725954
+Lukas VF Novak on Twitter: "Inferring the Evolutionary History of Your Favorite Protein: A Guide for Molecular Biologists: Jolien van Hooff et al. https://t.co/aNAAiQbtfO… https://t.co/ov7UdsKJI0"
+7:32 AM - 2 May 2019
+
+https://twitter.com/EelcoTromer/status/1122027754843668480
+Eelco Tromer on Twitter: "Just out! "Inferring the Evolutionary History of Your Favorite Protein: A Guide for Molecular Biologists" in BioEssays: https://t.co/fXqkVe9sKh with @JvHooff, John van Dam, Geert Kops and Berend Snel. Thanks @bramvandijk88 for the fancy video abstract: https://t.co/WlgFkMka13"
+2:40 AM - 27 Apr 2019
 
 https://t.co/W16JrMgFuy
 The synergistic effect of concatenation in phylogenomics: the case in Pantoea
