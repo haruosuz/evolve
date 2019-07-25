@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-06
+Last Update: 2019-07
 
 ----------
 
@@ -27,29 +27,51 @@ Last Update: 2019-06
 ## featuring
 
 
+長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
 
-2018/10/25
-https://ultrabem.com/other_topics/genetics/synonymous_substitutions.html
-同義置換と非同義置換: 計算方法、意味、論文での示し方
+http://kagakubar.com/mandala/mandala01.html
+僕たちの祖先をめぐる15億年の旅｜科学バー
+文と写真　長谷川政美
 
-http://mikuhatsune.hatenadiary.com/entry/20130621/1371803603
-Ka/Ks (dN/dS) の計算 - 驚異のアニヲタ社会復帰の予備
-
-
-http://www.fish-evol.org/link.html
-系統解析リンク集 - 井上 潤
-
-dN/dS 解析
-www.geocities.jp/ancientfishtree/dNdS_ji.html
-このサイトでは dN/dS 値を推定することで，タンパク質コーディング遺伝子 (DNA 配列) に働いた正の自然選択を検出する解析 (dN/dS 検定) を紹介します．PAML に含まれるプログラム codeml を使います．バージョンは paml4.7a を使っています． 用語説明.
+https://goto33.blog.so-net.ne.jp/2015-08-25
+書評：系統樹をさかのぼって見えてくる進化の歴史：海の研究者：：So-netブログ
+「進化の順番で寿司を食べる」という記事
+![](https://goto33.c.blog.so-net.ne.jp/_images/blog/_e3a/goto33/024.jpg)
 
 
-https://doi.org/10.7875/togotv.2014.024
-2014-04-07 ウェブで実践する配列比較解析〜相同性検索から分子系統解析まで@AJACS蝦夷3
+
+----------
+
+https://ja.wikipedia.org/wiki/トマス・ヘンリー・ハクスリー
+
+https://ja.wikipedia.org/wiki/ネオダーウィニズム
+ネオダーウィニズム（英: neo-Darwinism）または新ダーウィン主義（しんダーウィンしゅぎ）は生物学において、自然選択説と遺伝学を中心に生物学諸分野のアイディアの結合によって形成されている理論的なフレームワークで、しばしば現代進化論 （英: modern evolutionary synthesis）と同一視される。総合進化説、総合説、現代の総合とも呼ばれる。現在では単にダーウィン主義といった場合には新ダーウィン主義/総合説を指す場合が多い。本項では新ダーウィン主義と総合説を同じものとして扱う。1920年から1930年代にかけて成立した集団遺伝学を刺激として、 1940年代に成立した。
+
+https://researchmap.jp/leeswijzer/
+「進化的総合」とネオダーウィニズムの成立--一九三〇〜五〇年代を中心に[Ernst Mayr and William B. Provine (eds.)『The Evolutionary Synthesis: Perspectives on the Unification of Biology』,Thomas Junker『Die zweite Darwinsche Revolution: Geschichte des Synthetischen Darwinismus in Deutschland 19
+三中 信宏
+現代思想   37(5) 296-298   2009年4月
+
+https://shorebird.hatenablog.com/entry/20120117/1326798627
+「眠れなくなる進化論の話」 - shorebird　進化心理学中心の書評など
+「現代的総合」あるいは「ネオダーウィニズム」
+
+http://leeswijzer.org/files/DDI.html
+【書名】ダーウィンの危険な思想：生命の意味と進化
+【刊行】2001年01月10日
+グールドは，適応主義批判・断続平衡説・バージェス動物相などをめぐるネオダーウィニズム批判の論陣を張ってきた．しかし，著者に言わせれば，彼の主張は「結局は，正統派に対してはせいぜいのところ穏やかな修正にすぎなかったのだが，外部世界への言葉の上での衝撃は，巨大で，事実を歪めるものだった」（p.349）と断罪される．
+　グールドのネオダーウィニズム批判は，進化はアルゴリズムであるという点をまさに攻撃しているのだと著者は言う（p.353）．
+
+http://cse.naro.affrc.go.jp/minaka/files/yomigaeru-Darwin.html
+【書名】現代によみがえるダーウィン
+【著者】長谷川眞理子・三中信宏．矢原徹一
+【刊行】1999年04月01日
+●現代に生きるダーウィン（矢原徹一）
+＜２　ネオ・ダーウィニズムへの長い道のり＞
 
 
-https://twitter.com/NikkeiScience/status/1106136676974370816
-日経サイエンス on Twitter: "「なぜヒトだけ無毛になったのか」 近年になって，毛深かったヒトの皮膚が裸になっていく過程についての手がかりが間接的に化石記録に残されていることに科学者たちが気づいた。【別冊日経サイエンス194　化石とゲノムで探る人類の起源と拡散】 https://t.co/J44P0866Ok #進化 #人類進化 #毛… https://t.co/dMIcJLDgYP"
+----------
+
 
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
 
@@ -62,6 +84,21 @@ https://kimuraseminar.wordpress.com
 
 #kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
 #pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
+
+
+
+https://gendai.ismedia.jp/list/series/shinkanokogi
+更科功の「一番簡単な進化の講義」 | ブルーバックス
+
+
+
+https://doi.org/10.7875/togotv.2014.024
+2014-04-07 ウェブで実践する配列比較解析〜相同性検索から分子系統解析まで@AJACS蝦夷3
+
+
+https://twitter.com/NikkeiScience/status/1106136676974370816
+日経サイエンス on Twitter: "「なぜヒトだけ無毛になったのか」 近年になって，毛深かったヒトの皮膚が裸になっていく過程についての手がかりが間接的に化石記録に残されていることに科学者たちが気づいた。【別冊日経サイエンス194　化石とゲノムで探る人類の起源と拡散】 https://t.co/J44P0866Ok #進化 #人類進化 #毛… https://t.co/dMIcJLDgYP"
+
 
 ----------
 ## updates
@@ -409,11 +446,12 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop02.html
 
 ## inoue
 
-http://www.fish-evol.com/index.html
+http://www.fish-evol.org/link.html
+系統解析リンク集 - 井上 潤
 
-http://www.fish-evol.com/phyMarker.html
+http://www.fish-evol.org/phyMarker.html
 系統推定
-27 Oct 2018. Jun Inoue
+19 June 2019. Jun Inoue
 　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
 concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
 
