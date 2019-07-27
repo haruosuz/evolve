@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-06
 
 ----------
 
@@ -17,7 +17,7 @@ Last Update: 2019-03
 - [convergent](#convergent) 収斂進化
 - [concordance](#concordance)
 - [divergence time](#divergence-time) 分岐時間
-- [homology](#homology)
+- [homology](#homology) ホモログ、オーソログ、パラログ
 - [homoplasy](#homoplasy)
 - [overall similarity](#overall-similarity) 全体的類似度
 - [HGT](#hgt) 遺伝子水平伝播
@@ -32,6 +32,8 @@ Last Update: 2019-03
 - [taxon](#taxon)
 - [treedist](#treedist)
 - [clade](#clade) 分岐群、単系統群
+- [dNdS](#dnds) 適応
+
 
 ----------
 
@@ -50,6 +52,24 @@ http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
 
 ----------
 
+## dNdS
+
+2018/10/25
+https://ultrabem.com/other_topics/genetics/synonymous_substitutions.html
+同義置換と非同義置換: 計算方法、意味、論文での示し方
+
+http://mikuhatsune.hatenadiary.com/entry/20130621/1371803603
+Ka/Ks (dN/dS) の計算 - 驚異のアニヲタ社会復帰の予備
+
+
+http://www.fish-evol.org/dNdS_ji.html
+dN/dS 検定
+2018 年 4 月 12 日　井上 潤，米澤 隆弘
+このサイトでは dN/dS 値を推定することで，タンパク質コーディング遺伝子 (DNA 配列) に働いた正の自然選択を検出する解析 (dN/dS 検定) を紹介します．PAML に含まれるプログラム codeml を使います．バージョンは paml4.7a を使っています．
+
+----------
+
+
 ## clade
 https://ja.wikipedia.org/wiki/単系統群
 
@@ -65,6 +85,7 @@ http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
 
 http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
 単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
+
 
 ----------
 ## adaptation
@@ -445,9 +466,34 @@ http://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
 ftp://statgen.ncsu.edu/pub/thorne/mypapers/seokishinothorne2008.pdf
 
 ----------
+## similarity
+
+https://www.ncbi.nlm.nih.gov/pubmed/23749753
+Curr Protoc Bioinformatics. 2013 Jun;Chapter 3:Unit3.1. doi: 10.1002/0471250953.bi0301s42.
+An introduction to sequence similarity ("homology") searching.
+Pearson WR1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/
+INFERRING HOMOLOGY FROM SIMILARITY
+- Sequence similarity search tools like BLAST, FASTA, and HMMER minimize false positives (non-homologs with significant scores; Type I errors), but do not make claims about false negatives (homologs with non-significant scores; Type II errors).
+- For local sequence alignments, like those produced by BLAST, Smith-Waterman, or FASTA, the expected distribution of similarity scores by chance (scores for alignments between two random or unrelated sequences) is described by the extreme value distribution p(s≥x)≤1−exp(−exp(−x)) (Fig. 1), 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/figure/F1/
+極値分布
+
+July 14, 2011.
+https://www.ncbi.nlm.nih.gov/books/NBK62051/
+BLAST Glossary - BLAST® Help - NCBI Bookshelf
+E value
+similarity
+https://www.ncbi.nlm.nih.gov/books/NBK62051/def-item/similarity/
+
+https://binf.snipcademy.com/lessons/pairwise-alignment/identity-similarity
+Identity and Similarity - a quantitative measure
+
+----------
 ## homology
 
-https://ja.wikipedia.org/wiki/相同
+https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
+相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
 
 http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf
 オーソログとパラログ• ホモログは、オーソログとパラログの2種類に分けられる
@@ -457,6 +503,12 @@ http://seesaawiki.jp/w/psyberformula/d/%B0%E4%C5%C1%BB%D2%A5%DB%A5%E2%A5%ED%A5%B
 
 https://ultrabem-branch3.com/informatics/bioinformatics/homolog.html
 ホモログ，オーソログ，パラログの定義と違い
+
+https://twitter.com/marc_rr/status/1130458465300828160
+10 years ago @RomainStuder and I published "How confident can we be that orthologs are similar, but paralogs differ?". We were proposing that an assumption which was taken for granted should in fact be an hypothesis to test.
+https://doi.org/10.1016/j.tig.2009.03.004 …
+A thread on what happened since
+9:01 AM - 20 May 2019
 
 ----------
 ## homoplasy
@@ -554,6 +606,7 @@ numerical taxonomy：数量分類学；numerical phenetics：数量表形学　
 cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
 A system of classification in which the only groups formally recognized are clades.
 ★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
+
 
 ----------
 ## HGT
