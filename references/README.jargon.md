@@ -474,6 +474,7 @@ An introduction to sequence similarity ("homology") searching.
 Pearson WR1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/
 INFERRING HOMOLOGY FROM SIMILARITY
+- We infer homology when two sequences or structures share more similarity than would be expected by chance; 
 - Sequence similarity search tools like BLAST, FASTA, and HMMER minimize false positives (non-homologs with significant scores; Type I errors), but do not make claims about false negatives (homologs with non-significant scores; Type II errors).
 - For local sequence alignments, like those produced by BLAST, Smith-Waterman, or FASTA, the expected distribution of similarity scores by chance (scores for alignments between two random or unrelated sequences) is described by the extreme value distribution p(s≥x)≤1−exp(−exp(−x)) (Fig. 1), 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/figure/F1/
@@ -482,8 +483,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/figure/F1/
 July 14, 2011.
 https://www.ncbi.nlm.nih.gov/books/NBK62051/
 BLAST Glossary - BLAST® Help - NCBI Bookshelf
-E value
-similarity
+- E value
+The Expectation value or Expect value represents the number of different alignments with scores equivalent to or better than S that is expected to occur in a database search by chance. The lower the E value, the more significant the score and the alignment.
+- similarity
+The extent to which nucleotide or protein sequences are related. Similarity between two sequences can be expressed as percent sequence identity and/or percent positive substitutions.
 https://www.ncbi.nlm.nih.gov/books/NBK62051/def-item/similarity/
 
 https://binf.snipcademy.com/lessons/pairwise-alignment/identity-similarity
