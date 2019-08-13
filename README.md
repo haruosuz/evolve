@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-07
+Last Update: 2019-08
 
 ----------
 
@@ -37,7 +37,6 @@ https://goto33.blog.so-net.ne.jp/2015-08-25
 書評：系統樹をさかのぼって見えてくる進化の歴史：海の研究者：：So-netブログ
 「進化の順番で寿司を食べる」という記事
 ![](https://goto33.c.blog.so-net.ne.jp/_images/blog/_e3a/goto33/024.jpg)
-
 
 
 ----------
@@ -104,6 +103,15 @@ https://twitter.com/NikkeiScience/status/1106136676974370816
 ## updates
 
 ## 2019
+
+
+
+https://twitter.com/niaes/status/1159660215752482816
+農研機構 農業環境変動研究センター on Twitter: "第222回農林交流センターワークショップ「分子系統樹推定法：理論と応用」（10月23-25日 つくば） https://t.co/LAlbezaxmy 分子系統樹の的確な推定に必要な基礎的理論の講義、データ解析およびプログラミングの実習。農研機構 三中信宏ほかコーディネート。参加申込み9月19日まで。"
+11:58 AM · Aug 9, 2019
+
+http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2019/222ws.html
+第222回農林交流センターワークショップ：農林水産技術会議
 
 https://twitter.com/pathogenomenick/status/1128970191059214339
 Nick Loman on Twitter: "I do like this slide that I stole from @MikeyJ to get that point across:… "
@@ -489,6 +497,11 @@ http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.p
 https://note.mu/leeswijzer/n/ne827077ad556
 姉妹本3冊を書き終えて｜leeswijzer｜note
 
+https://twitter.com/leeswijzer/status/855969451849764864
+MINAKA Nobuhiro on Twitter: "［蒐書日誌］三中信宏〈分類学と系統学を学ぶためのブックガイド〉Version 23-April-2017 https://t.co/Xb0cqfDsxU を公開しました．旧バージョンから2年半ほど放置していたのですが，ふと思い立って全面改訂だん．" 
+11:19 AM · Apr 23, 2017
+
+
 http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2018/214ws.html
 214ws_分子系統樹推定法：理論と応用：農林水産技術会議
 
@@ -657,6 +670,20 @@ https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.p
 
 ----------
 ## unclassified
+
+
+https://www.nig.ac.jp/museum/evolution-x/02_c2.html
+DNA人類進化学　～　3.ヒトがサルと分かれた日
+ヒトはいつチンパンジーと分かれたか
+![](https://www.nig.ac.jp/museum/images/evolution/dna07-zu3.gif)
+　この系統樹から読み取れることは、まずオランウータンが最初に枝分かれしていることである。その後ゴリラが枝分かれし、続いてヒトと二種のチンパンジーの共通祖先が分岐し、最後にチンパンジーとピグミーチンパンジーが枝分かれしている。つまり、現存する動物でヒトにもっとも近縁なのは、二種のチンパンジーということになる。
+
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
+生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
+
+この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
+
 
 2013年10月25日
 https://www.sbj.or.jp/wp-content/uploads/file/sbj/9110/9110_yomoyama.pdf
