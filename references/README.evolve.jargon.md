@@ -53,6 +53,13 @@ http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
 
 ----------
 ## RELL
+Shimodaira-Hasegawa検定(SH test)
+
+http://www.microbesonline.org/fasttree
+To quickly estimate the reliability of each split in the tree, FastTree computes local support values with the Shimodaira-Hasegawa test (these are the same as PhyML 3's "SH-like local supports").
+http://www.microbesonline.org/fasttree/#Support
+Local support values
+To quickly estimate the reliability of each split in the tree, FastTree uses the Shimodaira-Hasegawa test on the three alternate topologies (NNIs) around that split. 
 
 2015/10/20
 https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
@@ -128,7 +135,7 @@ Shimodaira-Hasegawa（SH）test（Shimodaira and Hasegawa（1999）, Goldman et 
 
 https://twitter.com/search?q=Selective%20inference%20lang%3Aja
 
-2018.
+2018
 https://www.jst.go.jp/kisoken/crest/evaluation/nenpou/h29/JST_1111081_15656320_2017_PYR.pdf
 Selective Inference とは，データに基づいて選択された仮説を同一のデータで評
 価する際に，選択バイアスを除去するため，仮説を選択するイベントの条件付分布により統計的仮
@@ -138,13 +145,6 @@ Selective Inference とは，データに基づいて選択された仮説を同
 http://ryamada22.hatenablog.jp/entry/20160228/1456616097
 ぱらぱらめくるselective inference論文 - ryamadaの遺伝学・遺伝統計学メモ
 Selective inferenceは「データを眺めることで、説明変数を絞りこみ(selectionし)、そのうえで絞り込んだ変数について推定(inference)することにするが、そのときselectionがinferenceに影響するので、どうするのがよいのかを考えよう」と言ってよいでしょう。
-
-
-http://www.microbesonline.org/fasttree
-To quickly estimate the reliability of each split in the tree, FastTree computes local support values with the Shimodaira-Hasegawa test (these are the same as PhyML 3's "SH-like local supports").
-http://www.microbesonline.org/fasttree/#Support
-Local support values
-To quickly estimate the reliability of each split in the tree, FastTree uses the Shimodaira-Hasegawa test on the three alternate topologies (NNIs) around that split. 
 
 ----------
 
