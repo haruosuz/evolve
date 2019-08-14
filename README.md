@@ -671,6 +671,14 @@ https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.p
 ----------
 ## unclassified
 
+https://www.yodosha.co.jp/jikkenigaku/keyword/1168.html
+ブートストラップ値
+系統樹において，それぞれの枝が形成する単系統群の確からしさを示す統計量．０～100の値で示し，100に近いほど確からしい．
+
+http://www.ccn.yamanashi.ac.jp/~miyazaki/hp4-2.html
+　カマツカ類の進化系統　 ＞　カマツカ類系統②
+説明文の１
+Cyt-b遺伝子1014ｂｐに基づいて構築した系統樹。全ての系統樹において、アウトグループはウグイ亜科のアブラハヤを用いた。Cｙｔ－ｂ系統樹では、狭義のカマツカ亜科は単系統群を形成しなかった。一方、モロコ亜科とヒガイ亜科は単系統群を形成した。狭義のカマツカ亜科のグループ１とグループ２は各々単系群を形成した。 　
 
 https://www.nig.ac.jp/museum/evolution-x/02_c2.html
 DNA人類進化学　～　3.ヒトがサルと分かれた日
