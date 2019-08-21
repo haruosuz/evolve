@@ -192,11 +192,11 @@ http://www.tezuru-mozuru.com/?p=9808
 RAxMLによる最尤法系統樹推定 – チームてづるもづる
 
 2016-12-02
-http://www.geocities.jp/ancientfishtree/raxmlExample.html
+http://www.fish-evol.org/raxmlExample.html
 RAxML・簡単な例題 - 井上潤
 
 2016-10-12
-http://www.geocities.jp/ancientfishtree/RAxML.html
+http://www.fish-evol.org/RAxML.html
 RAxML - 井上 潤
 
 https://www.fifthdimension.jp/documents/molphytextbook/
