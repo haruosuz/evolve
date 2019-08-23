@@ -11,7 +11,7 @@ Last Update: 2019-08
 [2018](#2018)
 - [unclassified](#unclassified)
 - [OrthoFinder](#orthofinder)
-- [align](#align)
+- [alignment](#alignment)
 - [tree](#tree) 系統樹作成
   - [IQ-Tree](#iqtree)
   - [FastTree](#fasttree)
@@ -22,6 +22,24 @@ Last Update: 2019-08
 - [Gblocks](#gblocks)
 - [trimAl](#trimal)
 - [HyPhy](#hyphy)
+
+
+----------
+## alignment
+アライメント
+
+### mafft
+
+https://mafft.cbrc.jp/alignment/software/
+
+http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
+マルチプルアライメントを行うMAFFT - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/20/212444
+web上でマルチプルアライメントを実行し分子系統樹を出力する MAFFT online service - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
+コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
 
 ----------
 ## featuring
@@ -62,16 +80,6 @@ August 6, 2013
 http://yuifu.github.io/pplacer-tutorial/
 pplacerの使い方 – Haruka Ozaki, Ph.D. – Computational biolology & Bioinformatics
 pplacerはメタゲノムデータ中にどのような種が多いかを可視化・比較するツールです．
-
-----------
-## alignment
-アライメント
-
-http://kazumaxneo.hatenablog.com/entry/2018/07/20/212444
-web上でマルチプルアライメントを実行し分子系統樹を出力する MAFFT online service - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
-コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
 
 ----------
 ## unclassified
