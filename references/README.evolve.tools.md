@@ -177,17 +177,6 @@ Liu K1, Linder CR, Warnow T.
 
 ### RAxML
 
-```
-# https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12
-wget https://github.com/stamatak/standard-RAxML/archive/v8.2.12.zip
-unzip v8.2.12.zip
-cd standard-RAxML-8.2.12/
-
-# https://github.com/stamatak/standard-RAxML
-make -f Makefile.gcc
-rm *.o
-```
-
 https://sco.h-its.org/exelixis/web/software/raxml/index.html
 RAxML - Randomized Axelerated Maximum Likelihood
 
