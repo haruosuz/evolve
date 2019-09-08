@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-08
+Last Update: 2019-09
 
 ----------
 
@@ -14,9 +14,11 @@ Last Update: 2019-08
 - [allele](#allele) 対立遺伝子
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
 - [basal](#basal)
+- [concerted evolution](#concerted-evolution) 協調進化
 - [convergent](#convergent) 収斂進化
 - [concordance](#concordance)
 - [divergence time](#divergence-time) 分岐時間
+- [effective population size](#effective-population-size) 集団の有効な大きさ
 - [homology](#homology) ホモログ、オーソログ、パラログ
 - [homoplasy](#homoplasy)
 - [overall similarity](#overall-similarity) 全体的類似度
@@ -395,6 +397,25 @@ Root
 the most basal internode at the bottom of a tree. This is the common ancestor.
 
 ----------
+## concerted evolution
+
+https://www.weblio.jp/content/協調進化
+concerted evolution
+遺伝子変換などにより、重複遺伝子が同じ構造を保つように進化すること。
+
+https://en.wikipedia.org/wiki/Concerted_evolution
+Concerted evolution is a process that may explain the observation that paralogous genes within one species are more closely related to each other than to members of the same gene family in another species, even though the gene duplication event preceded the speciation event. The high sequence similarity between paralogs is maintained by homologous recombination events that lead to gene conversion, effectively copying some sequence from one and overwriting the homologous region in the other.
+
+https://ja.wikipedia.org/wiki/遺伝子ファミリー
+協調進化への寄与
+多重遺伝子族の多くでは遺伝子が完全に同じかほぼ同じ配列を有し、非常に同一性が高い。この同一性の維持の過程は協調進化である。協調進化は、不等交差が繰り返されたり遺伝子の転移や保存が繰り返されたりして起こる。
+
+https://www.primate.or.jp/forum/第42回集団遺伝学講座/
+この現象を協調進化concerted evolutionとよぶが、重複した遺伝子群によくみられる。
+
+では協調進化はどのようにして生じたのであろうか。代表的な機構として考えられるのは染色体の不等交叉unequal crossing-overと遺伝子変換gene conversionの二つである。
+
+----------
 ## convergent
 収斂進化
 
@@ -564,6 +585,33 @@ http://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
 ftp://statgen.ncsu.edu/pub/thorne/mypapers/seokishinothorne2008.pdf
 
 ----------
+## effective population size
+
+https://en.wikipedia.org/wiki/Effective_population_size
+
+https://ja.wikipedia.org/wiki/最小存続可能個体数
+Minimum Viable Population、MVP）
+類似した用語に有効個体数（Effective population size）がある。
+
+https://www.primate.or.jp/old/PF/yasuda/10.html
+集団の有効な大きさeffective size
+https://www.primate.or.jp/old/PF/yasuda/26.html
+10.集団の有効な大きさ
+集団の有効な大きさeffective size (number) of populationを求める工夫がWrigt(1931)により最初に導入された。
+
+水産育種48（2018）
+https://researchmap.jp/?action=cv_download_main&upload_id=224033
+最
+低必要個体数を算出するための値、例えば集団の有効
+な大きさ（effective population size, Ne）と
+
+1991
+https://www.jstage.jst.go.jp/article/psj1985/7/1/7_1_23/_pdf
+集 団の有効 な大 きさ (effective population size
+:N) とは各親個体 が次世代 に残す子の数で ウエ
+イ トをつけた繁殖 個体数 と定義 され
+
+----------
 ## homology
 
 https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
@@ -692,7 +740,10 @@ Horizontal gene transfer（HGT）またはLateral gene transfer（LGT）
 
 https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/horizontal-gene-transfer
 
-
+メタゲノムにおける遺伝子水平伝播イベント同定手法に関する総説
+https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz184/5554466
+ACCEPTED MANUSCRIPT
+Current and Promising Approaches to Identify Horizontal Gene Transfer Events in Metagenomes 
 
 https://twitter.com/MicrobiomeJ/status/1102948766972145664
 Microbiome on Twitter: "MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches https://t.co/eFx9Jk1jdU"
