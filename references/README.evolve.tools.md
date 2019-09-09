@@ -22,6 +22,37 @@ Last Update: 2019-08
 - [Gblocks](#gblocks)
 - [trimAl](#trimal)
 - [HyPhy](#hyphy)
+- [Notung](#notung)
+
+----------
+## Notung
+
+http://www.cs.cmu.edu/~durand/Notung/
+Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
+http://www.fish-evol.org/Notung_JI.html
+Notung - 井上 潤
+201７ 年 12 月 10 日　改訂
+Notung は species tree (広く認められている系統樹) と gene tree (一つの種から複数のホモログを含む) を比較して，遺伝子重複と欠失が生じたノードを再節約推定するプログラムです．
+得られた gene tree を species tree と照らし合わせて，遺伝子重複が生じた node を推定します．こちらにどのような解析が行われるか図で表されています．
+http://goby.compbio.cs.cmu.edu/Notung/dupTimes.html
+
+----------
+## HyPhy
+https://www.youtube.com/watch?v=4gcQ6CCTRIY
+Introduction to HyPhy: Hypothesis testing using Phylogenies - YouTube
+
+https://github.com/haruosuz/mgsa/tree/master/hyphy
+
+----------
+## unclassified
+
+http://yukke.hateblo.jp/entry/2015/10/05/120924
+ランダムな塩基配列をつくる - yukke::note
+
+https://git.scicore.unibas.ch/TBRU/Treemmer
+Treemmer 
+Python tool to reduce size and redundancy of phylogenetic datasets
 
 
 ----------
@@ -81,23 +112,6 @@ http://yuifu.github.io/pplacer-tutorial/
 pplacerの使い方 – Haruka Ozaki, Ph.D. – Computational biolology & Bioinformatics
 pplacerはメタゲノムデータ中にどのような種が多いかを可視化・比較するツールです．
 
-----------
-## unclassified
-
-http://yukke.hateblo.jp/entry/2015/10/05/120924
-ランダムな塩基配列をつくる - yukke::note
-
-https://git.scicore.unibas.ch/TBRU/Treemmer
-Treemmer 
-Python tool to reduce size and redundancy of phylogenetic datasets
-
-
-----------
-## HyPhy
-https://www.youtube.com/watch?v=4gcQ6CCTRIY
-Introduction to HyPhy: Hypothesis testing using Phylogenies - YouTube
-
-https://github.com/haruosuz/mgsa/tree/master/hyphy
 
 ----------
 ## OrthoFinder
