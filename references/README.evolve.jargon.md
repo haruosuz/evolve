@@ -14,6 +14,7 @@ Last Update: 2019-09
 - [allele](#allele) 対立遺伝子
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
 - [basal](#basal)
+- [duplication](#duplication) 遺伝子重複
 - [concerted evolution](#concerted-evolution) 協調進化
 - [convergent](#convergent) 収斂進化
 - [concordance](#concordance)
@@ -397,6 +398,23 @@ Root
 the most basal internode at the bottom of a tree. This is the common ancestor.
 
 ----------
+## duplication
+
+https://ja.wikipedia.org/wiki/遺伝子重複
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
+生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
+
+この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
+
+https://www.jstage.jst.go.jp/article/jjb/19/Special_Issue/19_Special_Issue_S5/_article/-char/ja/
+遺伝子系統樹から我々はなにを絞りだせるか
+斎藤 成也
+1998 年 19 巻 Special_Issue 号 p. S5-S13
+
+遺伝子重複の時点を種分化の時点と誤って推定することがありえる(図3 a)。この場合,種分岐の年代を過大に見積もることになる。もちろん,種分化のあとに,そ. れぞれの種で独立に遺伝子重複が生じることもある(図3b)。
+
+----------
 ## concerted evolution
 
 https://www.weblio.jp/content/協調進化
@@ -443,8 +461,6 @@ Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.20
 Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
 Dietel AK1, Kaltenpoth M2, Kost C3.
 REVIEW
-
-
 
 ----------
 ## concordance
