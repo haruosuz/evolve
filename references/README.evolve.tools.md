@@ -63,6 +63,10 @@ Python tool to reduce size and redundancy of phylogenetic datasets
 
 https://mafft.cbrc.jp/alignment/software/
 
+https://twitter.com/chasewnelson/status/1186164467622498305
+Chase W. Nelson on Twitter: "@MinionLab @AprilWei001 The #MAFFT output for the same data was (1) faster and (2) makes actual sense. Thanks again! https://t.co/8bR2nJt1t1" / Twitter
+3:17 PM · Oct 21, 20
+
 http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
 マルチプルアライメントを行うMAFFT - macでインフォマティクス
 
@@ -256,9 +260,12 @@ Letunic I1, Bork P2.
 
 ----------
 ## MEGA
+MEGA: Molecular Evolutionary Genetics Analysis software
+
+https://www.megasoftware.net/
 
 http://evolgen.biol.se.tmu.ac.jp/MEGA/
-MEGA: Molecular Evolutionary Genetics Analysis software
+MEGAXがリリースされました。(6/1/2018)
 
 MEGA3 チュートリアル（Actin gene coding region を例題として）
 - 入力データの準備
@@ -280,6 +287,13 @@ http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
 
 http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
 実習1: MEGA6のダウンロードとインストール
+
+https://www.ncbi.nlm.nih.gov/pubmed/29722887
+Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
+MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
+Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
+
 
 ----------
 ## Gblocks
