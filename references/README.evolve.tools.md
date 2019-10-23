@@ -67,6 +67,10 @@ https://twitter.com/chasewnelson/status/1186164467622498305
 Chase W. Nelson on Twitter: "@MinionLab @AprilWei001 The #MAFFT output for the same data was (1) faster and (2) makes actual sense. Thanks again! https://t.co/8bR2nJt1t1" / Twitter
 3:17 PM · Oct 21, 20
 
+2019/10/19
+https://kimbio.info/mafft→raxml→figtreeで遺伝子の系統樹を作成する-ubuntu19-04
+MAFFT→RAxML→FigTreeで遺伝子の系統樹を作成する - Ubuntu19.04 - Kim Biology & Informatics
+
 http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
 マルチプルアライメントを行うMAFFT - macでインフォマティクス
 
