@@ -12,6 +12,7 @@ Last Update: 2019-08
 - [unclassified](#unclassified)
 - [OrthoFinder](#orthofinder)
 - [alignment](#alignment)
+  - [mafft](#mafft)
 - [tree](#tree) 系統樹作成
   - [IQ-Tree](#iqtree)
   - [FastTree](#fasttree)
