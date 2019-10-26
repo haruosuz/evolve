@@ -27,6 +27,14 @@ Last Update: 2019-08
 ## featuring
 
 
+ 2019年4月1日 /  2019年7月15日
+https://tnishimaki.com/?p=1040
+進化距離〜Poisson Correction distance編〜 | t-24.web
+
+https://nam-students.blogspot.com/2013/03/blog-post_2476.html
+NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
+
+
 長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
 
 http://kagakubar.com/mandala/mandala01.html
@@ -472,6 +480,15 @@ Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,07
 ## [leeswijzer](http://leeswijzer.org/)
 MINAKA Nobuhiro
 
+http://leeswijzer.org/files/seibutsu-keitou.html
+生物系統学
+三中信宏
+　　　　第４刷：2012年9月14日刊行（正誤表）
+エピローグ：分岐学の現代的チューンナップ、そしてクリオへの賛辞
+http://leeswijzer.org/files/epilogue.html
+系統樹を描くのはお手軽だから系統推定や系統樹構築も「単純作業」であるという馬渡のこの主張は、二重の意味で思慮が足りません。 
+
+
 http://dotplace.jp/archives/tag/三中信宏
 
 http://leeswijzer.hatenablog.com
@@ -562,6 +579,20 @@ http://cse.naro.affrc.go.jp/minaka/cladist/SystematicThinking.pdf
 http://natgeo.nikkeibp.co.jp/nng/article/20130411/347194/
 【研究室】研究室に行ってみた。農業環境技術研究所　進化生物学・生物統計学　三中信宏 | ナショナルジオグラフィック日本版サイト
 
+2009
+http://www.jppa.or.jp/shiryokan/pdf/63_03_66.pdf
+分子系統学：最近の進歩と今後の展望
+II アブダクションとしての系統推定
+しかし，系統推定とはそもそも「真実」の系統樹を発
+見することを目的とはしていない。
+アブダクションとは「最良の説明への推論」と呼ばれ
+ることもあるように，与えられたデータのもとで対立仮
+説群の間で説明のよしあしを比較したうえで，ベストの
+仮説を選ぶという論証様式である。アブダクションによ
+る推論では，選ばれた仮説の真偽は問題ではない。あく
+までもその時点で得られたデータのもとで，いずれの仮
+説が最良であるかだけを論じる。
+
 2007.3
 http://www.naro.affrc.go.jp/archive/niaes/magazine/083/mgzn08304.html
 論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)
@@ -612,6 +643,9 @@ http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/index.html
 ## fifthdimension
 Akifumi S. Tanabe
 田辺晶史
+
+- https://twitter.com/windowmoon
+- https://www.fifthdimension.jp/wiki.cgi
 
 https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
 [PDF]ベイジアン MCMC による生物間系統関係の推定法
@@ -686,13 +720,6 @@ DNA人類進化学　～　3.ヒトがサルと分かれた日
 ![](https://www.nig.ac.jp/museum/images/evolution/dna07-zu3.gif)
 　この系統樹から読み取れることは、まずオランウータンが最初に枝分かれしていることである。その後ゴリラが枝分かれし、続いてヒトと二種のチンパンジーの共通祖先が分岐し、最後にチンパンジーとピグミーチンパンジーが枝分かれしている。つまり、現存する動物でヒトにもっとも近縁なのは、二種のチンパンジーということになる。
 
-
-https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
-生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
-
-この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
-
-
 2013年10月25日
 https://www.sbj.or.jp/wp-content/uploads/file/sbj/9110/9110_yomoyama.pdf
 微生物の系統樹，どう描くの？
@@ -741,6 +768,12 @@ https://langint.pri.kyoto-u.ac.jp/ai/ja/publication/SanaInoue/Inoue2007.html
 チンパンジーの子どもの記憶は人間のおとなよりも優れている | 京都大学霊長類研究所 - チンパンジーアイ
 
 ----------
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000007.html
+25年の眠りから覚めたインフルエンザウィルス：ウィルスの分子進化学- 宮田　隆の進化の話 - JT生命誌研究館
+　インフルエンザウィルス以外のウィルスについても同じように進化速度を求めることができる。エイズのウィルスをはじめとして、色々なウィルスの進化速度を、宿主の遺伝子の進化速度と比べてみると、いずれのウィルスも極めて速いスピードで進化していることが分かる。ことに、エイズウィルスはインフルエンザウィルスより進化速度が大きい。
+
+
 
 
 - [バックナンバー2006年 | 宮田 隆の進化の話 | これまでのラボ・研究 | 研究 | JT生命誌研究館](https://www.brh.co.jp/research/formerlab/miyata/2006/)
