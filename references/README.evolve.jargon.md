@@ -336,13 +336,31 @@ http://gsj3.jp/revisionterm.html
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
 
-https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0618-2
-On the reconstruction of the ancestral bacterial genomes in genus Mycobacterium and Brucella | BMC Systems Biology | Full Text
-It was not the case of AlignSeqs, available in the R module called decipher [30]. This latter achieved to perform the MSA in an accurate and rapid way.
+### GRASP
+GRASP Ancestral Sequence Reconstruction
 
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1009/5146195
-Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life | Nucleic Acids Research | Oxford Academic
-Published: 29 October 2018
+Version beta 0927.2019
+
+http://grasp.scmb.uq.edu.au/
+http://grasp.scmb.uq.edu.au/guide
+http://grasp.scmb.uq.edu.au/tutorial
+
+### Ancestral Genomes
+http://ancestralgenomes.org/
+
+https://www.ncbi.nlm.nih.gov/pubmed/30371900
+Nucleic Acids Res. 2019 Jan 8;47(D1):D271-D279. doi: 10.1093/nar/gky1009.
+Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life.
+Huang X1,2, Albou LP2, Mushayahama T2, Muruganujan A2, Tang H2, Thomas PD2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/30458842
+BMC Syst Biol. 2018 Nov 20;12(Suppl 5):100. doi: 10.1186/s12918-018-0618-2.
+On the reconstruction of the ancestral bacterial genomes in genus Mycobacterium and Brucella.
+Guyeux C1, Al-Nuaimi B2,3, AlKindy B4, Couchot JF2, Salomon M2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245693/
+It was not the case of AlignSeqs, available in the R module called decipher [30]. 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27404731
 PLoS Comput Biol. 2016 Jul 12;12(7):e1004763. doi: 10.1371/journal.pcbi.1004763. eCollection 2016 Jul.
@@ -401,6 +419,17 @@ the most basal internode at the bottom of a tree. This is the common ancestor.
 ## duplication
 
 https://ja.wikipedia.org/wiki/遺伝子重複
+
+https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_article/-char/ja
+ゲノム情報全盛のいま使える分子系統解析のエッセンス
+山口 和晃, 工樂 樹洋
+2019 年 45 巻 166 号 p. 26-31
+https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_pdf/-char/ja
+MBD4 と MeCP2 はともにメチル化 CpG 結
+合ドメインを持っており、無脊椎動物を外群として含
+めた分子系統樹によって、これらが脊椎動物の進化の
+初期に遺伝子重複によって分かれたことが示された（図
+4D）。
 
 https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
 生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
@@ -1113,6 +1142,41 @@ Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evol
 
 
 ----------
+## togetter
+
+https://togetter.com/li/742642
+2014年度・第188回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
+
+https://togetter.com/li/587872
+2013年度・第176回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
+
+https://togetter.com/li/399359
+2012年度・第166回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉 ツイートまとめ
+
+----------
+## outgoup
+
+https://ja.wikipedia.org/wiki/外群
+外群は系統樹に根をつけ、系統関係を知りたい内群の系統的位置関係を決定するのに用いられる。形質変化の極性は有根系統樹のみから決定できる[1]ため、外群の選択は系統に沿った形質状態の進化を理解する上で必須である。
+外群は、内群の他のグループに近縁であるが、しかし他のどの内群のグループよりも互いに遠縁であると考えられるものを選択する。これらの系統関係から導かれた進化学的結論は、外群の種は内群と共通の祖先をもち、それは内群の各グループの共通祖先よりも古いものであるということである。外群は内群の姉妹群、またはより遠縁なものである[2]。
+
+http://nesseiken.info/Chiba_lab/index.php?授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+- 内群（ingroup）　今、系統推定の対象としているグループのこと。
+- 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
+
+https://togetter.com/li/399359?page=2
+```
+#166ws Outgroupの選定も重要。一本だけというのはあまりよくないことが多い。
+#166ws ヘタに遠い外群をポツンと入れると「長枝誘引」の弊害が心配．
+```
+
+https://togetter.com/li/161578?page=2
+系統樹に関する備忘録 (2ページ目) - Togetter
+2011-07
+このような外群は、単に「遠縁であると仮定」されているだけですが、その仮定を置くことで対象生物群――外群に対して「内群（ingroup）」と呼ばれます――の系統樹に根をつけることができます。（三中 2006: 173）
+生物の系統樹を推定する場合には、対象となる生物群の中に少なくともひとつは「遠縁であると仮定された生物」を含めておきます。この生物を外群と呼びます。たとえば、ヒトを含む霊長類の系統関係を推定するときには、霊長類に含まれないサルが外群に指定されるでしょう。（三中 2006: 172）
+
+----------
 ## root
 系統樹に根(root)をつける
 
@@ -1163,10 +1227,6 @@ The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting a
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
 Figure 5
 The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
-
-
-
-
 
 
 ----------
