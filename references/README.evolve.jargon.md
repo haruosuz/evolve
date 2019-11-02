@@ -1181,12 +1181,15 @@ https://twitter.com/hashtag/ws222
 https://www.fifthdimension.jp/documents/molphytextbook/
 分子系統学演習 - データセットの作成から仮説検定まで
 
-分子系統解析における様々な問題について
 https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+分子系統解析における様々な問題について
+```
 タクソンサンプリング法
+
 ● 全種サンプリングは必ずしも良くない
 ● 系統樹上の分岐点・端点の密度ができるだけ偏らない方が良い
 – 同一配列や近縁配列が一部では多く一部では少ないのは×
+```
 
 ----------
 ## root
