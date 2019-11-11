@@ -31,6 +31,7 @@ Last Update: 2019-09
 - [phylogenetic diversity](#phylogenetic-diversity)
 - [recombination](#recombination) 組換え
 - [root](#root)
+- [Newick](#newick)
 - [species](#species)
 - [taxon](#taxon)
 - [treedist](#treedist)
@@ -1243,6 +1244,43 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickett
 Figure 5
 The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
 
+----------
+## Newick
+
+https://www.hobochuritsu.com/entry/2019/02/12/215303
+Newick形式で系統樹の樹形が同じか確かめる - ほぼ中立ブログ
+apeのread.tree関数でNewick形式を読み込んで、all.equal.phylo関数で樹形が同じかを判定します。
+
+https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/bioinfo18/bioinfo2018-5.pdf
+
+2017.12.29
+https://stats.biopapyrus.jp/r/graph/phylogenetic-tree.html
+系統樹 ape ade4 | R を利用した系統樹の描き方
+系統樹のデータは、newick フォーマットあるいは nexus フォーマットによって記載される。R では、ape や ade4 などのパッケージを利用することで、これらのフォーマットのファイルを扱うことができる。
+
+http://kiliwave.hatenablog.com/entry/2016/11/16/205345
+Newick形式のファイルを修正して多分岐の系統樹を作成する
+
+http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-1.html
+2011年度・玉川大学「分子系統進化学」・実習1
+今回の実習では，系統樹に含まれる「単系統群（monophyletic group）」の情報がどのように図式表現されているのかを理解するために，生物系統学で広く用いられている「Newick形式」（→解説記事：「系統推定の基本用語」／「The Newick tree format」）のコード化の方法を学び，「ことば」としての系統樹に関する基本概念を学習する．
+
+http://ryamada22.hatenablog.jp/entry/20050513/1115948852
+Newick書式から系統樹を描く - ryamadaの遺伝学・遺伝統計学メモ
+
+https://www1.doshisha.ac.jp/~mjin/R/Chap_43/43.html
+Rと系統樹(2)
+　 系統樹をテキスト形式で記録したデータとして Newick フォーマットがある。Newick は 系統樹を次のように、階層的に丸括弧で区切ったテキスト形式のデータである。枝の長さはコロンの右に数値で示す。
+
+https://sites.google.com/site/kawashima38/home/writingtable/xi-tong-shu-ji-shunofomatto
+系統樹記述のフォーマット - kawashima38
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+ニューイックフォーマット(Newick format)　系統樹の分岐関係を（）を使って表現する方法。枝長やブーツストラップ確率も含めることができる。
+
+https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3b.pdf
+Newick format: テキスト形式での系統樹表現
+同じ系統樹を表すNewick formatは複数
 
 ----------
 ## species
