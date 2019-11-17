@@ -91,6 +91,25 @@ Count: evolutionary analysis of phylogenetic profiles with parsimony and likelih
 Csurös M1.
 
 ----------
+## Notung
+
+http://www.cs.cmu.edu/~durand/Notung/
+Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27998934
+Bioinformatics. 2017 Mar 1;33(5):640-649. doi: 10.1093/bioinformatics/btw686.
+Xenolog classification.
+Darby CA1, Stolzer M1, Ropp PJ1, Barker D2, Durand D1,3.
+horizontal transfer
+
+http://www.fish-evol.org/Notung_JI.html
+Notung - 井上 潤
+201７ 年 12 月 10 日　改訂
+Notung は species tree (広く認められている系統樹) と gene tree (一つの種から複数のホモログを含む) を比較して，遺伝子重複と欠失が生じたノードを再節約推定するプログラムです．
+得られた gene tree を species tree と照らし合わせて，遺伝子重複が生じた node を推定します．こちらにどのような解析が行われるか図で表されています．
+http://goby.compbio.cs.cmu.edu/Notung/dupTimes.html
+
+----------
 ## DupliPHY
 
 www.bioinf.manchester.ac.uk/dupliphy
@@ -108,19 +127,6 @@ https://academic.oup.com/bioinformatics/article/28/1/48/218268
 - tree reconciliation techniques (Akerborg et al., 2009; Chen et al., 2000; Page, 1998; Tofigh et al., 2010). These methods infer gene trees for each gene family, and then reconcile these trees with a known species tree to infer gain and loss events.
 - The probabilistic model implemented in COUNT (Csuros, 2010) only annotates ancestral species as containing 0, 1 or more members of a family, whereas the parsimony method produces indistinguishable results from DupliPHY (Supplementary Material). The method of (Iwasaki and Takagi, 2007) allows a maximum gene family size of three.
 - COUNT (Csuros, 2010) provides a parsimony reconstruction of the ancestral size of gene families. We find that there is very little difference between DupliPHY and COUNT for simulations under any of the three models (Supplementary Fig. S2). 
-
-----------
-## Notung
-
-http://www.cs.cmu.edu/~durand/Notung/
-Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
-
-http://www.fish-evol.org/Notung_JI.html
-Notung - 井上 潤
-201７ 年 12 月 10 日　改訂
-Notung は species tree (広く認められている系統樹) と gene tree (一つの種から複数のホモログを含む) を比較して，遺伝子重複と欠失が生じたノードを再節約推定するプログラムです．
-得られた gene tree を species tree と照らし合わせて，遺伝子重複が生じた node を推定します．こちらにどのような解析が行われるか図で表されています．
-http://goby.compbio.cs.cmu.edu/Notung/dupTimes.html
 
 ----------
 ## HyPhy
