@@ -398,11 +398,18 @@ https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_
 ----------
 ## basal
 
+2018/6/7
 http://darwin.c.u-tokyo.ac.jp/sesj2018/symposium/
 Basal lineageは「原始的」か？：生物界と分野を超えて
 http://darwin.c.u-tokyo.ac.jp/sesj2018/wp/wp-content/uploads/2018/08/5d5ef9dd328e3e7158e5fbaff5ce1d98.pdf
 
-https://twitter.com/copypasteusa/status/1032263315752284160
+Aug 22, 2018
+https://www.slideshare.net/leeswijzer/minaka-sesj2018-slideshare
+Minaka sesj2018 slideshare
+講演スライド—日本進化学会第20回大会シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）
+
+- https://twitter.com/search?q=Basal%20Lineage%20lang%3Aja
+  - https://twitter.com/copypasteusa/status/1032263315752284160
 #sesj2018 #日本進化学会第20回大会 #進化学会
 Basal lineageは「ない」
 Sister taxaは「ある」
