@@ -79,8 +79,17 @@ https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
 https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
 相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
 
-http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf
-オーソログとパラログ• ホモログは、オーソログとパラログの2種類に分けられる
+https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
+分子系統樹推定に適した配列データセットの作成
+田辺晶史
+- 相同 = 同一の祖先形質に由来する
+- 多重配列整列 = 相同形質の同定
+
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#5-7
+進化系統樹によるホモログ・パラログ・オーソログの解析
+
+https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3b.pdf
+ホモログは、オーソログとパラログの2種類に分けられる
 
 http://seesaawiki.jp/w/psyberformula/d/%B0%E4%C5%C1%BB%D2%A5%DB%A5%E2%A5%ED%A5%B0
 遺伝子ホモログ - PsyberStyle - Seesaa Wiki（ウィキ）
