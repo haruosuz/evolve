@@ -61,12 +61,14 @@ http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/76/Autapomorphy.jpg)
 
-- https://ja.wikipedia.org/wiki/共有原始形質
-原始形質/祖先形質 plesiomorphy
-共有原始形質/共有祖先形質 symplesiomorphy or symplesiomorphic character
-- https://ja.wikipedia.org/wiki/固有派生形質
+https://ja.wikipedia.org/wiki/共有原始形質
+原始形質/祖先形質 plesiomorphy 共有原始形質/共有祖先形質 symplesiomorphy or symplesiomorphic character
+原始形質の概念は派生的な形質状態と祖先的な形質状態を区別せずに、単に形態学的あるいは遺伝学的類似に基づいて、種をグルーピングする危険性を示している。共通祖先から受け継がれた祖先形質は系統樹のいかなる部分にも存在しうるもので、その存在をもって近縁関係を表すことはできない[3]。
+
+https://ja.wikipedia.org/wiki/固有派生形質
 autapomorphy
-- https://ja.wikipedia.org/wiki/共有派生形質
+
+https://ja.wikipedia.org/wiki/共有派生形質
 synapomorphy
 
 https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
