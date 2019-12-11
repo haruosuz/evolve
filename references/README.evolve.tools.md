@@ -24,6 +24,59 @@ Last Update: 2019-11-17
 - [trimAl](#trimal)
 - [HyPhy](#hyphy)
 - [Notung](#notung)
+- [SeaView](#seaview)
+
+----------
+## SeaView
+
+https://www.ncbi.nlm.nih.gov/pubmed/19854763
+Mol Biol Evol. 2010 Feb;27(2):221-4. doi: 10.1093/molbev/msp259. Epub 2009 Oct 23.
+SeaView version 4: A multiplatform graphical user interface for sequence alignment and phylogenetic tree building.
+Gouy M, Guindon S, Gascuel O.
+
+https://www.mybiosoftware.com/seaview-4-2-12-sequence-alignment-phylogenetic-tree-building.html
+SeaView 4.7 - Sequence Alignment and Phylogenetic Tree Building
+
+https://www.youtube.com/watch?v=-XfF8sJaZ-c
+Exercise 3 Seaview to visually align sequences - YouTube
+
+
+----------
+## MEGA
+MEGA: Molecular Evolutionary Genetics Analysis software
+
+https://www.megasoftware.net/
+
+http://evolgen.biol.se.tmu.ac.jp/MEGA/
+MEGAXがリリースされました。(6/1/2018)
+
+MEGA3 チュートリアル（Actin gene coding region を例題として）
+- 入力データの準備
+- 配列データのアライメント
+- 分子系統樹の作成
+
+2018/01/20
+https://ultrabem-branch3.com/informatics/bioinformatics/tree_make_mega_ml
+系統樹の作り方: MEGA で最尤法を使う
+
+https://doi.org/10.7875/togotv.2017.106
+2017-11-06 MEGA7を使って配列のアラインメント・系統解析を行う
+
+http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
+実習1: MEGA7のダウンロードとインストール
+
+http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
+実習１：　MEGA6のダウンロードとインストール
+
+http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
+実習1: MEGA6のダウンロードとインストール
+
+https://www.ncbi.nlm.nih.gov/pubmed/29722887
+Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
+MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
+Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
+
 
 ----------
 ## featuring
@@ -47,7 +100,7 @@ http://d.hatena.ne.jp/haruosuz/20080813
 ### 2019
 
 
-2019年09月25日に更新
+2019年09月25日
 https://qiita.com/MaedaTaro_Umiushi/items/d3e04cf4e2f6e0588406
 ggtreeを使ってRで系統樹を扱う
 
@@ -189,7 +242,7 @@ David M. Emms & Steven Kelly
 
 2018 年 11 月 9 日　改訂
 井上 潤
-http://www.fish-evol.com/orthofinder_ji.html
+http://www.fish-evol.org/orthofinder_ji.html
 Orthofinder (githab) はオーソログを推定するプログラムです．配列類似性 all-in-all 比較の結果を用いた MCL 解析によるグルーピングから，オーソログをオーソグループ (orthogroup) として推定します．
 
 オーソロジーは遺伝子系統樹によって推定するもので，配列類似性は予想にすぎない，
@@ -323,43 +376,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/27095192
 Nucleic Acids Res. 2016 Jul 8;44(W1):W242-5. doi: 10.1093/nar/gkw290. Epub 2016 Apr 19.
 Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees.
 Letunic I1, Bork P2.
-
-----------
-## MEGA
-MEGA: Molecular Evolutionary Genetics Analysis software
-
-https://www.megasoftware.net/
-
-http://evolgen.biol.se.tmu.ac.jp/MEGA/
-MEGAXがリリースされました。(6/1/2018)
-
-MEGA3 チュートリアル（Actin gene coding region を例題として）
-- 入力データの準備
-- 配列データのアライメント
-- 分子系統樹の作成
-
-2018/01/20
-https://ultrabem-branch3.com/informatics/bioinformatics/tree_make_mega_ml
-系統樹の作り方: MEGA で最尤法を使う
-
-https://togotv.dbcls.jp/20171106.html
-2017-11-06 MEGA7を使って配列のアラインメント・系統解析を行う
-
-http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
-実習1: MEGA7のダウンロードとインストール
-
-http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
-実習１：　MEGA6のダウンロードとインストール
-
-http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
-実習1: MEGA6のダウンロードとインストール
-
-https://www.ncbi.nlm.nih.gov/pubmed/29722887
-Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
-MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
-Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
-
 
 ----------
 ## Gblocks
