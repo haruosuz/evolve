@@ -56,6 +56,147 @@ http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
 ![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
 
 ----------
+## character trait
+形質
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/76/Autapomorphy.jpg)
+
+- https://ja.wikipedia.org/wiki/共有原始形質
+原始形質/祖先形質 plesiomorphy
+共有原始形質/共有祖先形質 symplesiomorphy or symplesiomorphic character
+- https://ja.wikipedia.org/wiki/固有派生形質
+autapomorphy
+- https://ja.wikipedia.org/wiki/共有派生形質
+synapomorphy
+
+https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
+- homology 相同：ある形質や遺伝子が共通の祖先に由来すること. 
+- homoplasy 同形形質：共通祖先に由来しない類似形質. 平行進化 (parallelism)、進化的逆転(evolutionary reversal)、. 収斂 (convergence)がある
+
+----------
+## homology
+
+https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
+相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
+
+http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf
+オーソログとパラログ• ホモログは、オーソログとパラログの2種類に分けられる
+
+http://seesaawiki.jp/w/psyberformula/d/%B0%E4%C5%C1%BB%D2%A5%DB%A5%E2%A5%ED%A5%B0
+遺伝子ホモログ - PsyberStyle - Seesaa Wiki（ウィキ）
+
+https://ultrabem-branch3.com/informatics/bioinformatics/homolog.html
+ホモログ，オーソログ，パラログの定義と違い
+
+https://twitter.com/marc_rr/status/1130458465300828160
+10 years ago @RomainStuder and I published "How confident can we be that orthologs are similar, but paralogs differ?". We were proposing that an assumption which was taken for granted should in fact be an hypothesis to test.
+https://doi.org/10.1016/j.tig.2009.03.004 …
+A thread on what happened since
+9:01 AM - 20 May 2019
+
+----------
+## homoplasy
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+ホモプラシー（同形形質）homoplasy ：共有祖先からの由来に基づかない類似性。平行現象、逆転がある
+
+http://www5b.biglobe.ne.jp/~hilihili/keitou/cnvergence.html
+矛盾：祖先から受け継がれたのではない特徴が混じっている場合
+
+それは収斂
+
+わらし：同形形質（homoplasy ：ホモプラシー）ってやつだな。
+
+http://www.geocities.jp/se_kilos/sober.html
+『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
+
+ホモロジー(相同:homology):２種の共有するある特性が、一方の種から他方に受け継がれたものかまたはその特性をもつ共通祖先から変化することなく遺伝されたものならば、その種の特性は他種の特性とホモロジーの関係にあると呼ばれる。
+
+ホモプラシー(非相同:homoplasy):類似特性が別々の起源に由来するものならば、その共通特性はホモプラシーとされる。
+
+http://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/2013animaltaxonomyPDF/2013animaltaxonomy03.pdf
+ホモプラジーが生じる原因は，収れん進化，平行進化，形質の逆転である．
+
+https://neurobiotaxis.livejournal.com/886.html
+Homology, homoplasy, analogy: The concept of “sameness” in evolutionary biology - The Principles of Neurobiotaxis
+
+Homology and homoplasy
+
+The opposite of historical homology is homoplasy, defined as the structural similarity between two traits in two species without phyletic continuity – which is equivalent to saying that, even though the traits are similar, the common ancestor of species A and B did not present the trait. There are three different types of homoplasy: convergence, parallelism, and reversal. 
+
+Analogy
+
+The wing of a bird and the wing of a bat are homoplastic as wings, but share the same function – flying. 
+
+https://wikidiff.com/analogy/homoplasy
+Homoplasy vs Analogy - What's the difference? | WikiDiff
+
+----------
+## overall similarity
+**全体的類似度**
+
+http://www.columbia.edu/itc/envsci/hahn/w4601/class_notes/week_2.html
+Overall similarity may or may not be best estimate of relationship.
+
+http://leeswijzer.org/files/SystematicThinking.html
+　　　〔3〕全体的類似度とクラスタリング — いくつかの計算例 122
+
+http://cse.naro.affrc.go.jp/minaka/R/R-cluster2.html
+距離尺度
+数量表形学では，OTU間の類似性を表形的（phenetic）な全体的類似度（overall similarity）によって数値化するという基本的な姿勢がある．その哲学的な動機づけは別として，OTUごとに数値化された形質データがあるとき，OTU間の類似度をどのような尺度によって数値化すればいいのかという問題は，クラスター分析だけではなく，距離法に基づく系統樹推定法の論議にも関わってくる．
+（8 September 2003）
+
+http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
+クラスター分析の光と闇
+　数量表形学は，数値化された多変量データに基づいて分類対象（OTU: operational taxonomic unit）の間の近さを距離（全体的類似度overall similarity）として計算し，距離の近いものを群（クラスター）にまとめていくというクラスター分析の手法を生物分類体系の構築に適用する．数量表形学者は，系統という実証不可能な概念を含む分類体系だめだと批判し，系統に代わる生物間の関係を表現する尺度として，多数の形質に基づく全体的類似度を用いようとした．自然分類とはできるだけ多くの形質を共有する分類群から成るべきであり，そういう分類体系はより多くの予測を可能にする一般的な分類体系（general purpose classification）であるという信念に鼓舞された数量表形学者たちは，伝統的な進化分類学への攻勢を強めた． 
+（3 September 2003） 
+
+http://www.geocities.co.jp/SiliconValley-Sunnyvale/8137/sober.html
+『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
+
+全体的類似度法に基づいて系統推計をするならばA(BC)という仮説が最も強く支持される。
+
+全体的類似度法は共有派生形質と共有原始形質に同等の重みづけをする。
+分岐学的最節約法は共有派生形質だけを系統関係の証拠とみなす。
+
+全体的類似度法は、共有派生形質と共有原始形質のどちらにも同じ重みを与えるので、ある形質のどの状態が原始的であり、どれが派生的であるかを決める必要がない。一方、分岐学的最節約法は、この２種類の共有制についての証拠としての価値は根本的に異なるという見解に立っている。したがって、分岐学的最節約法を用いるときには、各形質についてどの形質状態が原始的であるのかを確認しなければならない。種ゼロの形質状態は、直接観察すればわかるわけではなく、推定されるものである。この推定、すなわち形質の「方向性」の決定をどのようにして行うかについては、第六章で・・・。
+
+［第三章：共通原因の原理］
+
+3.1 表形学の２つの陥穽
+
+全体的類似度(overall similarity)から真の系統関係が推定できない理由
+１．ホモプラシー
+２．固有派生形質(autapomorphy)
+全体的類似度は派生的類似性だけでなく原始的類似性をも含んでいる。
+そのためにこの二つの陥穽におちいる危険性がある。
+
+https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
+更新日：2017.4.14
+
+２．系統学に関する用語
+
+phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
+A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
+
+numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
+★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
+
+cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
+A system of classification in which the only groups formally recognized are clades.
+★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
+
+
+
+----------
+1:28 PM - 6 Feb 2018
+https://twitter.com/kfuku0502/status/960943421211815936
+Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて気づいたけど、遺伝子ファミリーを共有派生形質に見立てて系統進化を議論してるところ面白いな。 Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus https://t.co/IOeYd4tmm6"
+
+
+
+
+----------
 ## RELL
 Shimodaira-Hasegawa検定(SH test)
 
@@ -664,124 +805,6 @@ https://www.jstage.jst.go.jp/article/psj1985/7/1/7_1_23/_pdf
 :N) とは各親個体 が次世代 に残す子の数で ウエ
 イ トをつけた繁殖 個体数 と定義 され
 
-----------
-## homology
-
-https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
-相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
-
-http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf
-オーソログとパラログ• ホモログは、オーソログとパラログの2種類に分けられる
-
-http://seesaawiki.jp/w/psyberformula/d/%B0%E4%C5%C1%BB%D2%A5%DB%A5%E2%A5%ED%A5%B0
-遺伝子ホモログ - PsyberStyle - Seesaa Wiki（ウィキ）
-
-https://ultrabem-branch3.com/informatics/bioinformatics/homolog.html
-ホモログ，オーソログ，パラログの定義と違い
-
-https://twitter.com/marc_rr/status/1130458465300828160
-10 years ago @RomainStuder and I published "How confident can we be that orthologs are similar, but paralogs differ?". We were proposing that an assumption which was taken for granted should in fact be an hypothesis to test.
-https://doi.org/10.1016/j.tig.2009.03.004 …
-A thread on what happened since
-9:01 AM - 20 May 2019
-
-----------
-## homoplasy
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-ホモプラシー（同形形質）homoplasy ：共有祖先からの由来に基づかない類似性。平行現象、逆転がある
-
-http://www5b.biglobe.ne.jp/~hilihili/keitou/cnvergence.html
-矛盾：祖先から受け継がれたのではない特徴が混じっている場合
-
-それは収斂
-
-わらし：同形形質（homoplasy ：ホモプラシー）ってやつだな。
-
-http://www.geocities.jp/se_kilos/sober.html
-『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
-
-ホモロジー(相同:homology):２種の共有するある特性が、一方の種から他方に受け継がれたものかまたはその特性をもつ共通祖先から変化することなく遺伝されたものならば、その種の特性は他種の特性とホモロジーの関係にあると呼ばれる。
-
-ホモプラシー(非相同:homoplasy):類似特性が別々の起源に由来するものならば、その共通特性はホモプラシーとされる。
-
-http://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/2013animaltaxonomyPDF/2013animaltaxonomy03.pdf
-ホモプラジーが生じる原因は，収れん進化，平行進化，形質の逆転である．
-
-https://neurobiotaxis.livejournal.com/886.html
-Homology, homoplasy, analogy: The concept of “sameness” in evolutionary biology - The Principles of Neurobiotaxis
-
-Homology and homoplasy
-
-The opposite of historical homology is homoplasy, defined as the structural similarity between two traits in two species without phyletic continuity – which is equivalent to saying that, even though the traits are similar, the common ancestor of species A and B did not present the trait. There are three different types of homoplasy: convergence, parallelism, and reversal. 
-
-Analogy
-
-The wing of a bird and the wing of a bat are homoplastic as wings, but share the same function – flying. 
-
-https://wikidiff.com/analogy/homoplasy
-Homoplasy vs Analogy - What's the difference? | WikiDiff
-
-----------
-1:28 PM - 6 Feb 2018
-https://twitter.com/kfuku0502/status/960943421211815936
-Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて気づいたけど、遺伝子ファミリーを共有派生形質に見立てて系統進化を議論してるところ面白いな。 Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus https://t.co/IOeYd4tmm6"
-
-----------
-## overall similarity
-**全体的類似度**
-
-http://www.columbia.edu/itc/envsci/hahn/w4601/class_notes/week_2.html
-Overall similarity may or may not be best estimate of relationship.
-
-http://leeswijzer.org/files/SystematicThinking.html
-　　　〔3〕全体的類似度とクラスタリング — いくつかの計算例 122
-
-http://cse.naro.affrc.go.jp/minaka/R/R-cluster2.html
-距離尺度
-数量表形学では，OTU間の類似性を表形的（phenetic）な全体的類似度（overall similarity）によって数値化するという基本的な姿勢がある．その哲学的な動機づけは別として，OTUごとに数値化された形質データがあるとき，OTU間の類似度をどのような尺度によって数値化すればいいのかという問題は，クラスター分析だけではなく，距離法に基づく系統樹推定法の論議にも関わってくる．
-（8 September 2003）
-
-http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
-クラスター分析の光と闇
-　数量表形学は，数値化された多変量データに基づいて分類対象（OTU: operational taxonomic unit）の間の近さを距離（全体的類似度overall similarity）として計算し，距離の近いものを群（クラスター）にまとめていくというクラスター分析の手法を生物分類体系の構築に適用する．数量表形学者は，系統という実証不可能な概念を含む分類体系だめだと批判し，系統に代わる生物間の関係を表現する尺度として，多数の形質に基づく全体的類似度を用いようとした．自然分類とはできるだけ多くの形質を共有する分類群から成るべきであり，そういう分類体系はより多くの予測を可能にする一般的な分類体系（general purpose classification）であるという信念に鼓舞された数量表形学者たちは，伝統的な進化分類学への攻勢を強めた． 
-（3 September 2003） 
-
-http://www.geocities.co.jp/SiliconValley-Sunnyvale/8137/sober.html
-『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
-
-全体的類似度法に基づいて系統推計をするならばA(BC)という仮説が最も強く支持される。
-
-全体的類似度法は共有派生形質と共有原始形質に同等の重みづけをする。
-分岐学的最節約法は共有派生形質だけを系統関係の証拠とみなす。
-
-全体的類似度法は、共有派生形質と共有原始形質のどちらにも同じ重みを与えるので、ある形質のどの状態が原始的であり、どれが派生的であるかを決める必要がない。一方、分岐学的最節約法は、この２種類の共有制についての証拠としての価値は根本的に異なるという見解に立っている。したがって、分岐学的最節約法を用いるときには、各形質についてどの形質状態が原始的であるのかを確認しなければならない。種ゼロの形質状態は、直接観察すればわかるわけではなく、推定されるものである。この推定、すなわち形質の「方向性」の決定をどのようにして行うかについては、第六章で・・・。
-
-［第三章：共通原因の原理］
-
-3.1 表形学の２つの陥穽
-
-全体的類似度(overall similarity)から真の系統関係が推定できない理由
-１．ホモプラシー
-２．固有派生形質(autapomorphy)
-全体的類似度は派生的類似性だけでなく原始的類似性をも含んでいる。
-そのためにこの二つの陥穽におちいる危険性がある。
-
-https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
-更新日：2017.4.14
-
-２．系統学に関する用語
-
-phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
-A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
-
-numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
-★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
-
-cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
-A system of classification in which the only groups formally recognized are clades.
-★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
-
 
 ----------
 ## HGT
@@ -1107,7 +1130,6 @@ RAxML プログラ ムにより,アミノ酸置換モデルとして JT
 
 一 方,アミノ酸置換モデルとして,JTT(F)+ Γ モデルの代わりに WAG(F)+ Γ モデル,PAM(F)+ Γ モデルを用いて同様の解析を行った(データ不表示).全般的に JTT(F)+ Γ モデル に比べて PAM(F)+ Γ モデルはやや高い対数尤度の値を与え,WAG(F)+ Γ モデルはさら に高い対数尤度の値を与えた.しかしながら,系統樹の選択という観点では,いずれのモデル による結果も JTT(F)+ Γ モデルによる結果と全く同様であった.このように,置換モデル を変えても結合データ解析のモデルを変えても推測の結果に大差がないということから,リボ ソームタンパク質による今回のデータ解析の結果は非常に頑健なものであると考えられた.
 
-
 ----------
 ## phylogenetic diversity
 
@@ -1116,10 +1138,15 @@ https://en.wikipedia.org/wiki/Phylogenetic_diversity
 https://methodsblog.wordpress.com/tag/faiths-phylogenetic-diversity/
 Faith’s Phylogenetic Diversity | methods.blog
 
+https://sites.google.com/site/noteofpaediatricsurgery/in-silico/meta16s/figtree/keitouteki
+系統的多様性 - Draft of Pediatric Surgery
+
+2007.3
 http://www.naro.affrc.go.jp/archive/niaes/magazine/083/mgzn08304.html
 論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)
-生物多様度の尺度として、系統樹（phylogenetic tree）に基づく「系統学的多様性（PD: phylogenetic diversity）」
+生物多様度の尺度として、系統樹（phylogenetic tree）に基づく「系統学的多様性（PD: phylogenetic diversity）」を提案
 提唱者である Daniel P. Faith の定義では （1）、ある生物群の系統学的多様度とは、その生物群を系統樹上で結ぶ枝の長さの総和として求められる。
+
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/16535456
@@ -1133,8 +1160,6 @@ http://www.ism.ac.jp/editsec/toukei/abstract/60-2j.html#263
 α多様性の測定と確率文字列の理論
 
 Shannon 指数や Simpson 指数では,種が明確に定義されていることや各個体をあいまい さなく同定できることが前提になっており,これらの指標の微生物群集への適用には問題があ ることが当初から指摘されていた(Staley, 1980; Torsvik et al., 1990). また,図 1 と 2 において 示されているように,微生物群集からの 16S リボソーム RNA 遺伝子配列のデータの 1 つの特 徴として強いクラスター性があるが,種数に対応する異なる配列数を数える指標や,塩基多様 度のような異なるサイト数に基づく指標では,このようなクラスター構造を反映できないとい う問題がある.代替的な方法の研究として,Watve and Gangal(1996), Hughes et al.(2001), Hong et al.(2006)などがあるが,理論的な基礎を持つ体系的な方法とは言えなかった.
-
-
 
 ----------
 ## recombination
