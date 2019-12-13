@@ -55,6 +55,63 @@ http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
 
 ![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
 
+
+----------
+
+https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
+１．分類学に関するおもな用語　更新日：2017.4.14
+
+２．系統学に関する用語
+
+phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
+A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
+
+numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
+★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
+
+cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
+A system of classification in which the only groups formally recognized are clades.
+★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
+
+----------
+## convergent
+収斂進化
+
+https://ja.wikipedia.org/wiki/収斂進化
+convergent evolution
+
+https://ja.wikipedia.org/wiki/平行進化
+parallel evolution
+平行進化の結果が収斂である場合もある。
+
+https://www.ncbi.nlm.nih.gov/pubmed/29650391
+Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
+Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
+Dietel AK1, Kaltenpoth M2, Kost C3.
+REVIEW
+
+http://kagakubar.com/evolution/07.html
+第7話
+なぜ多様な種が進化したか？
+文と写真　長谷川政美
+◎自然選択
+
+◎地球上の生物種数
+ダーウィン以来、生物学者は1つひとつの種を“生命の樹”のなかに位置づける作業をコツコツと進めてきたが、その際の手掛かりはそれぞれの種がもつ形態的な特徴や生理的な特徴であった。互いに似たような特徴をもっている種は、生命の樹のなかで近い位置を占めると考えられるのだ。しかし、問題は簡単ではない。同じような特徴が、別々の系統で収斂的に進化することがあるからだ。ダーウィンもそのことには気がついていた。
+
+◎収斂進化
+これまで取り上げたほかの収斂もすべて、詳しく調べれば近縁だからではなくて、収斂の結果であることが分かる。
+しかし、もっと近縁な真獣類のなかの2つの系統で収斂進化が起った場合には、そのような共通の特徴が祖先を共有するためなのか、収斂進化によるものなのかを判定することが難しくなる。
+
+◎分子進化の中立説
+このように収斂進化が起るので、2つの生物種で似たような特徴が見られても、それが共通祖先の特徴を受け継いだからなのか、あるいは別々の系統で同じような特徴が収斂的に進化したためなのかを判別しなければならない。
+ところが、ハリネズミとハリテンレックの例で見られるように、形態形質だけに頼る方法で収斂進化であると判定するのは難しいことが多い。
+
+‎2002 ‎
+https://www.ism.ac.jp/editsec/toukei/pdf/50-1-069.pdf
+分子系統樹推定におけるモデルのミススペシフィケーション
+系統樹を推定することは，生物進化に関わるほとんどの問題を解くための出発点である．従来この分野の研究は，比較形態学による系統樹推定が主流であったが，近年は DNA の塩基配列や蛋白質のアミノ酸配列のデータを統計的に解析する分子系統学による方法が盛んになってきた．比較形態学では研究者の主観的な判断が入り込む余地が多く，サンプルできる形態的形質の数が限られているのに対して，分子系統学ではバクテリアからヒトに至るまでのあらゆる生物を共通の客観的な尺度で比較でき，しかも研究者がその気になりさえすれば（研究費が十分にあるという条件は必要であるが），ほとんどいくらでも多くの形質（実際にはゲノム全体という制限はあるが）をサンプルすることが可能であり，これによって地球上で実際に起った進化の系統樹を再構築することができると考えられている．
+
 ----------
 ## character trait
 形質
@@ -74,6 +131,11 @@ synapomorphy
 https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
 - homology 相同：ある形質や遺伝子が共通の祖先に由来すること. 
 - homoplasy 同形形質：共通祖先に由来しない類似形質. 平行進化 (parallelism)、進化的逆転(evolutionary reversal)、. 収斂 (convergence)がある
+
+----------
+1:28 PM - 6 Feb 2018
+https://twitter.com/kfuku0502/status/960943421211815936
+Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて気づいたけど、遺伝子ファミリーを共有派生形質に見立てて系統進化を議論してるところ面白いな。 Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus https://t.co/IOeYd4tmm6"
 
 ----------
 ## homology
@@ -162,7 +224,7 @@ http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
 　数量表形学は，数値化された多変量データに基づいて分類対象（OTU: operational taxonomic unit）の間の近さを距離（全体的類似度overall similarity）として計算し，距離の近いものを群（クラスター）にまとめていくというクラスター分析の手法を生物分類体系の構築に適用する．数量表形学者は，系統という実証不可能な概念を含む分類体系だめだと批判し，系統に代わる生物間の関係を表現する尺度として，多数の形質に基づく全体的類似度を用いようとした．自然分類とはできるだけ多くの形質を共有する分類群から成るべきであり，そういう分類体系はより多くの予測を可能にする一般的な分類体系（general purpose classification）であるという信念に鼓舞された数量表形学者たちは，伝統的な進化分類学への攻勢を強めた． 
 （3 September 2003） 
 
-http://www.geocities.co.jp/SiliconValley-Sunnyvale/8137/sober.html
+http://seikilo.s1008.xrea.com/sober.html
 『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
 
 全体的類似度法に基づいて系統推計をするならばA(BC)という仮説が最も強く支持される。
@@ -181,31 +243,6 @@ http://www.geocities.co.jp/SiliconValley-Sunnyvale/8137/sober.html
 ２．固有派生形質(autapomorphy)
 全体的類似度は派生的類似性だけでなく原始的類似性をも含んでいる。
 そのためにこの二つの陥穽におちいる危険性がある。
-
-https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
-更新日：2017.4.14
-
-２．系統学に関する用語
-
-phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
-A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
-
-numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
-★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
-
-cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
-A system of classification in which the only groups formally recognized are clades.
-★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
-
-
-
-----------
-1:28 PM - 6 Feb 2018
-https://twitter.com/kfuku0502/status/960943421211815936
-Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて気づいたけど、遺伝子ファミリーを共有派生形質に見立てて系統進化を議論してるところ面白いな。 Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus https://t.co/IOeYd4tmm6"
-
-
-
 
 ----------
 ## RELL
@@ -621,35 +658,6 @@ https://www.primate.or.jp/forum/第42回集団遺伝学講座/
 この現象を協調進化concerted evolutionとよぶが、重複した遺伝子群によくみられる。
 
 では協調進化はどのようにして生じたのであろうか。代表的な機構として考えられるのは染色体の不等交叉unequal crossing-overと遺伝子変換gene conversionの二つである。
-
-----------
-## convergent
-収斂進化
-
-https://ja.wikipedia.org/wiki/収斂進化
-convergent evolution
-
-https://ja.wikipedia.org/wiki/平行進化
-parallel evolution
-平行進化の結果が収斂である場合もある。
-
-http://kagakubar.com/evolution/07.html
-第7話
-なぜ多様な種が進化したか？
-文と写真　長谷川政美
-◎自然選択
-◎地球上の生物種数
-同じような特徴が、別々の系統で収斂的に進化することがあるからだ。
-◎収斂進化
-しかし、もっと近縁な真獣類のなかの2つの系統で収斂進化が起った場合には、そのような共通の特徴が祖先を共有するためなのか、収斂進化によるものなのかを判定することが難しくなる。
-◎分子進化の中立説
-このように収斂進化が起るので、2つの生物種で似たような特徴が見られても、それが共通祖先の特徴を受け継いだからなのか、あるいは別々の系統で同じような特徴が収斂的に進化したためなのかを判別しなければならない。
-
-https://www.ncbi.nlm.nih.gov/pubmed/29650391
-Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
-Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
-Dietel AK1, Kaltenpoth M2, Kost C3.
-REVIEW
 
 ----------
 ## concordance
