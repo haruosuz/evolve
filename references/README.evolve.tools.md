@@ -1,9 +1,9 @@
-Last Update: 2019-11-17
+Last Update: 2019-12
 
 ----------
 
 # evolve.tools
-ツール
+進化系統解析ツール
 
 ## Table of Contents
 - [featuring](#featuring)
@@ -25,6 +25,26 @@ Last Update: 2019-11-17
 - [HyPhy](#hyphy)
 - [Notung](#notung)
 - [SeaView](#seaview)
+- [ETE Toolkit](#etetoolkit)
+
+----------
+## etetoolkit
+
+http://etetoolkit.org/
+
+2019年12月11日に更新
+バイオインフォマティクス Advent Calendar 2019 11日目
+https://qiita.com/aical/items/2231198d3d75e72bee39
+誰にも教えたくない超カンタン分子系統樹作成術 - Qiita
+ETE Toolkitを使った超簡便な分子系統樹作成法を紹介します。
+
+https://www.hobochuritsu.com/entry/2018/11/08/223813
+ETE Toolkitでノードに通し番号を付ける - ほぼ中立ブログ
+
+2017年05月26日に更新
+https://qiita.com/okuman/items/3dd1cd1292940442fcd0
+ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
+
 
 ----------
 ## SeaView
