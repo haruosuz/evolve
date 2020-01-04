@@ -535,6 +535,8 @@ http://gsj3.jp/revisionterm.html
 ## ancestral reconstruction
 **祖先推定**
 
+https://github.com/haruosuz/r4bioinfo/tree/master/R_tree#ancestral-reconstruction
+
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
 
 https://www.ncbi.nlm.nih.gov/pubmed/30371900
@@ -562,6 +564,11 @@ On the reconstruction of the ancestral bacterial genomes in genus Mycobacterium 
 Guyeux C1, Al-Nuaimi B2,3, AlKindy B4, Couchot JF2, Salomon M2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245693/
 It was not the case of AlignSeqs, available in the R module called decipher [30]. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/28993971
+Bull Math Biol. 2017 Dec;79(12):2865-2886. doi: 10.1007/s11538-017-0354-6. Epub 2017 Oct 5.
+Ancestral Sequence Reconstruction with Maximum Parsimony.
+Herbst L1, Fischer M2.
 
 https://www.ncbi.nlm.nih.gov/pubmed/27404731
 PLoS Comput Biol. 2016 Jul 12;12(7):e1004763. doi: 10.1371/journal.pcbi.1004763. eCollection 2016 Jul.
