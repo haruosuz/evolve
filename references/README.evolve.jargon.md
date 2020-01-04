@@ -537,26 +537,25 @@ http://gsj3.jp/revisionterm.html
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
 
-http://grasp.scmb.uq.edu.au/
-GRASP Ancestral Sequence Reconstruction
-Version beta 2019.12.08
+https://www.ncbi.nlm.nih.gov/pubmed/30371900
+Nucleic Acids Res. 2019 Jan 8;47(D1):D271-D279. doi: 10.1093/nar/gky1009.
+Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life.
+Huang X1,2, Albou LP2, Mushayahama T2, Muruganujan A2, Tang H2, Thomas PD2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/
+Ancestral Genomes (http://ancestralgenomes.org) is a resource for comprehensive reconstructions of these ‘fossil genomes’.
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/bin/gky1009fig2.jpg)
 
 http://ancestralgenomes.org/
 Ancestral Genomes Resource
 |
 Comparative analysis of protein sequences from diverse extant species can infer the evolutionary history of protein coding genes and reconstruct the repertoire of protein coding genes in extinct ancestral species.
 |
-Ancestral Genomes Resource
-Comparative analysis of protein sequences from diverse extant species can infer the evolutionary history of protein coding genes and reconstruct the repertoire of protein coding genes in extinct ancestral species.
-|
 NEW!Ancestral Genomes is now updated with latest release of PANTHER library (version 14.1)
 http://www.pantherdb.org/
 
-https://www.ncbi.nlm.nih.gov/pubmed/30371900
-Nucleic Acids Res. 2019 Jan 8;47(D1):D271-D279. doi: 10.1093/nar/gky1009.
-Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life.
-Huang X1,2, Albou LP2, Mushayahama T2, Muruganujan A2, Tang H2, Thomas PD2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/
+http://grasp.scmb.uq.edu.au/
+GRASP Ancestral Sequence Reconstruction
+Version beta 2019.12.08
 
 https://www.ncbi.nlm.nih.gov/pubmed/30458842
 BMC Syst Biol. 2018 Nov 20;12(Suppl 5):100. doi: 10.1186/s12918-018-0618-2.
