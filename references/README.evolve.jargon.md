@@ -435,8 +435,6 @@ https://www.slideshare.net/takahironishimu/ss-59418690
 https://www3.atwiki.jp/cloud9science/pages/175.html
 進化の系統樹 - cloud9science @Wiki - アットウィキ
 
-
-
 ----------
 ## abduction
 アブダクション
@@ -533,31 +531,32 @@ http://gsj3.jp/revisionterm.html
 遺伝学用語改訂について
 2017.9.11 日本遺伝学会
 
-
 ----------
 ## ancestral reconstruction
 **祖先推定**
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
 
-### GRASP
-GRASP Ancestral Sequence Reconstruction
-
-Version beta 0927.2019
-
 http://grasp.scmb.uq.edu.au/
-http://grasp.scmb.uq.edu.au/guide
-http://grasp.scmb.uq.edu.au/tutorial
+GRASP Ancestral Sequence Reconstruction
+Version beta 2019.12.08
 
-### Ancestral Genomes
 http://ancestralgenomes.org/
+Ancestral Genomes Resource
+|
+Comparative analysis of protein sequences from diverse extant species can infer the evolutionary history of protein coding genes and reconstruct the repertoire of protein coding genes in extinct ancestral species.
+|
+Ancestral Genomes Resource
+Comparative analysis of protein sequences from diverse extant species can infer the evolutionary history of protein coding genes and reconstruct the repertoire of protein coding genes in extinct ancestral species.
+|
+NEW!Ancestral Genomes is now updated with latest release of PANTHER library (version 14.1)
+http://www.pantherdb.org/
 
 https://www.ncbi.nlm.nih.gov/pubmed/30371900
 Nucleic Acids Res. 2019 Jan 8;47(D1):D271-D279. doi: 10.1093/nar/gky1009.
 Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life.
 Huang X1,2, Albou LP2, Mushayahama T2, Muruganujan A2, Tang H2, Thomas PD2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/30458842
 BMC Syst Biol. 2018 Nov 20;12(Suppl 5):100. doi: 10.1186/s12918-018-0618-2.
@@ -594,7 +593,8 @@ Ancestral Sequence Reconstruction
 祖先塩基配列や祖先アミノ酸配列の推定と復元に関する論文集．祖先復元問題と樹形推定問題よりも“解きやすい”問題ではあるが，応用的にも実用的にも重要な分野だと思う．系統樹を踏まえた推論や考察をする場合，樹形だけでなく，仮想祖先の形質状態が決まっていないと先に進めない論議は少なくない．むしろ，樹形と祖先状態はつねにペアで推定しておく方がのちのちのためには便利だと思う．
 
 1997-05-15
-https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=33709&item_no=1&page_id=13&block_id=8
+https://researchmap.jp/leeswijzer/
+https://ci.nii.ac.jp/naid/110002936265
 分岐学における祖先推定：　組合せ最適化問題としての系統推定
 三中 信宏 
 
