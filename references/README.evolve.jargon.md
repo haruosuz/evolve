@@ -543,8 +543,7 @@ Ancestral Genomes: a resource for reconstructed ancestral genes and genomes acro
 Huang X1,2, Albou LP2, Mushayahama T2, Muruganujan A2, Tang H2, Thomas PD2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/
 Ancestral Genomes (http://ancestralgenomes.org) is a resource for comprehensive reconstructions of these ‘fossil genomes’.
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/bin/gky1009fig2.jpg)
-
+<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323951/bin/gky1009fig2.jpg" width=50%>
 http://ancestralgenomes.org/
 Ancestral Genomes Resource
 |
