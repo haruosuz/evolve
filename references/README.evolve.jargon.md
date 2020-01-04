@@ -575,10 +575,6 @@ Biol Chem. 2016 Jan;397(1):1-21. doi: 10.1515/hsz-2015-0158.
 Ancestral protein reconstruction: techniques and applications.
 Merkl R, Sterner R.
 
-http://nesseiken.info/Chiba_lab/index.php?授業%2FH19%2F系統解析論%2FMesquite
-講義メモ：MESQUITEのごく簡単な使い方
-祖先形質状態の推定
-
 2016
 https://www.jstage.jst.go.jp/article/chikyukagaku/50/3/50_199/_article/-char/ja/
 ゲノム配列の比較から明らかになった初期生命の好熱性
@@ -587,6 +583,13 @@ https://www.jstage.jst.go.jp/article/chikyukagaku/50/3/50_199/_article/-char/ja/
 
 http://kmooog.hatenablog.com/entry/2015/07/31/133246
 祖先配列再構築-marginal reconstruction と joint reconstruction
+![](http://cdn-ak.f.st-hatena.com/images/fotolife/k/kmooog/20150731/20150731132600.png)
+つまり、☆印の配列を推定する際、marginal reconstructionの場合はABCDの配列の影響しか受けないけど、joint reconstructionではEの配列にも影響を受ける。
+
+2015-05-13
+http://nesseiken.info/Chiba_lab/index.php?授業%2FH19%2F系統解析論%2FMesquite
+講義メモ：MESQUITEのごく簡単な使い方
+祖先形質状態の推定
 
 http://d.hatena.ne.jp/leeswijzer/20071128/1196279645
 Ancestral Sequence Reconstruction
