@@ -42,9 +42,15 @@ Last Update: 2019-09
 
 ----------
 
+https://quizlet.com/153288496/chpt-261-263-flash-cards/
+Chpt. 26.1-26.3単語カード | Quizlet
+branch points
+-in picture, point 3 is common ancestor of A, B, C
+-4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
+
+![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
 
 http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
-```
 Morecular phylogeny
 2015年度生物測定学応用実験
 分子系統樹
@@ -54,7 +60,6 @@ Morecular phylogeny
 2. 系統樹作成手法
 参考文献
 分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
-```
 
 http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
 系統推定の基本用語
