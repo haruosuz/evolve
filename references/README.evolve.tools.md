@@ -27,6 +27,62 @@ Last Update: 2019-12
 - [SeaView](#seaview)
 - [ETE Toolkit](#etetoolkit)
 
+
+
+----------
+## featuring
+
+http://fish-evol.com/link.html
+系統解析リンク集 - 井上 潤
+
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis
+系統推定における結果はいつも仮説
+
+http://www.tezuru-mozuru.com/?cat=200
+系統解析 – チームてづるもづる
+
+
+2019/10/19
+https://kimbio.info/mafft→raxml→figtreeで遺伝子の系統樹を作成する-ubuntu19-04
+MAFFT→RAxML→FigTreeで遺伝子の系統樹を作成する - Ubuntu19.04 - Kim Biology & Informatics
+
+
+https://doi.org/10.7875/togotv.2018.093
+2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
+
+2008年11月 4日，11日
+http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_zikken.html
+2008年度生物測定学応用実験
+分子系統樹の作成
+東京大学大学院農学生命科学研究科　大森宏
+
+- 多重配列アライメントと系統樹 [Multiple Alignment and Phylogenetic trees](https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#multiple-alignment-and-phylogenetic-trees)
+- https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md
+
+http://d.hatena.ne.jp/haruosuz/20080813
+系統解析 - Haruo Suzuki / Bioinformatics
+
+
+https://ja.wikipedia.org/wiki/非加重結合法
+非加重結合法（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)
+
+
+----------
+## FigTree
+http://tree.bio.ed.ac.uk/software/figtree/
+
+http://www.fish-evol.org/FigTree.html
+FigTree
+2018 年 5 月 9 日　改訂
+井上 潤
+FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
+
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
+FigTree の使い方
+
+
+
+
 ----------
 ## etetoolkit
 
@@ -57,8 +113,16 @@ Gouy M, Guindon S, Gascuel O.
 https://www.mybiosoftware.com/seaview-4-2-12-sequence-alignment-phylogenetic-tree-building.html
 SeaView 4.7 - Sequence Alignment and Phylogenetic Tree Building
 
+Dec 9, 2014
 https://www.youtube.com/watch?v=-XfF8sJaZ-c
 Exercise 3 Seaview to visually align sequences - YouTube
+
+
+http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/seaview2.html
+SeaView 使用法
+SeaView を用いたアラインメント編集
+作成：仲田崇志
+更新：2008年03月10日
 
 
 ----------
@@ -96,22 +160,6 @@ Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
 MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
 Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
-
-
-----------
-## featuring
-
-http://fish-evol.com/link.html
-系統解析リンク集 - 井上 潤
-
-http://www.tezuru-mozuru.com/?cat=200
-系統解析 – チームてづるもづる
-
-http://d.hatena.ne.jp/haruosuz/20080813
-系統解析 - Haruo Suzuki / Bioinformatics
-
-- 多重配列アライメントと系統樹 [Multiple Alignment and Phylogenetic trees](https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#multiple-alignment-and-phylogenetic-trees)
-- https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md
 
 ----------
 ## updates
@@ -231,9 +279,6 @@ https://twitter.com/chasewnelson/status/1186164467622498305
 Chase W. Nelson on Twitter: "@MinionLab @AprilWei001 The #MAFFT output for the same data was (1) faster and (2) makes actual sense. Thanks again! https://t.co/8bR2nJt1t1" / Twitter
 3:17 PM · Oct 21, 20
 
-2019/10/19
-https://kimbio.info/mafft→raxml→figtreeで遺伝子の系統樹を作成する-ubuntu19-04
-MAFFT→RAxML→FigTreeで遺伝子の系統樹を作成する - Ubuntu19.04 - Kim Biology & Informatics
 
 http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
 マルチプルアライメントを行うMAFFT - macでインフォマティクス
@@ -260,6 +305,9 @@ David M. Emms & Steven Kelly
 
 ![](https://raw.githubusercontent.com/davidemms/OrthoFinder/master/orthofinder/workflow.png)
 
+https://www.hobochuritsu.com/entry/2019/04/20/223105
+全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
+
 2018 年 11 月 9 日　改訂
 井上 潤
 http://www.fish-evol.org/orthofinder_ji.html
@@ -279,6 +327,10 @@ https://qiita.com/okuman/items/c7ef9588e990a670d3ee
 OrthoFinderを用いたOrthologous解析 - Qiita
 OrthoFinderでは、MCL (markov cluster algorithm)を用いてオーソログを推定します。
 このOrthoGroupにはオーソログだけでなく、パラログも含まれてしまう
+
+2016年03月12日
+https://qiita.com/NariseT/items/e2c90d0235316f8878d8
+OrthoFinder の使い方 - Qiita
 
 ----------
 ## tree
