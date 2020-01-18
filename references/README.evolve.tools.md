@@ -25,7 +25,103 @@ Last Update: 2019-12
 - [HyPhy](#hyphy)
 - [Notung](#notung)
 - [SeaView](#seaview)
+- [figtree](#figtree)
+- [](#)
+- [annotree](#annotree)
+- [bcgTree](#bcgTree)
+- [phylophlan](#phylophlan)
 - [ETE Toolkit](#etetoolkit)
+
+----------
+## FigTree
+http://tree.bio.ed.ac.uk/software/figtree/
+
+http://www.fish-evol.org/FigTree.html
+FigTree
+2018 年 5 月 9 日　改訂
+井上 潤
+FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
+
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
+FigTree の使い方
+
+
+----------
+
+### annotree
+
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638
+AnnoTree: visualization and exploration of a functionally annotated microbial tree of life | Nucleic Acids Research | Oxford Academic
+
+https://twitter.com/strnr/status/1117782170645483520
+AnnoTree: visualization and exploration of a functionally annotated microbial tree of life
+Paper https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638 …
+App http://annotree.uwaterloo.ca/ 
+Code https://bitbucket.org/account/user/doxeylabcrew/projects/AN …
+Docs https://annotree-docs.readthedocs.io/en/latest/ 
+Data http://gtdb.ecogenomic.org/downloads 
+9:30 AM - 15 Apr 2019
+![](https://pbs.twimg.com/media/D4Mo9PSXoAEYnZ1.jpg)
+
+----------
+
+### bcgTree
+
+https://github.com/molbiodiv/bcgTree
+Automatically calculate phylogenetic trees from bacterial core genes
+
+See this file for instructions on how to reproduce results from our article.
+https://github.com/molbiodiv/bcgTree/blob/master/reproduce_results.org
+
+----------
+
+### PhyloPhlAn
+
+https://huttenhower.sph.harvard.edu/phylophlan
+
+https://www.ncbi.nlm.nih.gov/pubmed/23942190
+Nat Commun. 2013;4:2304. doi: 10.1038/ncomms3304.
+PhyloPhlAn is a new method for improved phylogenetic and taxonomic placement of microbes.
+Segata N1, Börnigen D, Morgan XC, Huttenhower C.
+
+
+https://github.com/alvaralmstedt/Tutorials/wiki/Creating-bacterial-phylogenetic-trees-with-PhyloPhlAn
+Creating bacterial phylogenetic trees with PhyloPhlAn
+alvaralmstedt edited this page on Aug 13, 2015
+
+https://jpn.bioconus.com/phylophlan-is-new-method-795397
+フィロフランは、微生物の系統発生学的および分類学的配置を改善するための新しい方法です。 自然通信 - コミュニケーション - 2019
+
+http://kazumaxneo.hatenablog.com/entry/2018/09/12/221645
+phylogenetic marker genesを検出し、marker genes全てを使って系統樹を作成する自動化パイプライン ezTree - macでインフォマティクス
+PhyloPhlAn (Segata et al,. 2014) も簡単に紹介しています。
+
+http://kazumaxneo.hatenablog.com/entry/2017/05/22/164017
+メタゲノム解析ツール - macでインフォマティクス
+使ってみて便利だったツールを紹介する。
+PhyloPhlAn Segata et al. (2014)
+ランにはFasttreeが必要。
+
+----------
+## etetoolkit
+
+http://etetoolkit.org/
+
+2019年12月11日に更新
+バイオインフォマティクス Advent Calendar 2019 11日目
+https://qiita.com/aical/items/2231198d3d75e72bee39
+誰にも教えたくない超カンタン分子系統樹作成術 - Qiita
+ETE Toolkitを使った超簡便な分子系統樹作成法を紹介します。
+
+https://www.hobochuritsu.com/entry/2018/11/08/223813
+ETE Toolkitでノードに通し番号を付ける - ほぼ中立ブログ
+
+2017年05月26日に更新
+https://qiita.com/okuman/items/3dd1cd1292940442fcd0
+ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
+
+
+
 
 
 
@@ -65,41 +161,6 @@ http://d.hatena.ne.jp/haruosuz/20080813
 
 https://ja.wikipedia.org/wiki/非加重結合法
 非加重結合法（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)
-
-
-----------
-## FigTree
-http://tree.bio.ed.ac.uk/software/figtree/
-
-http://www.fish-evol.org/FigTree.html
-FigTree
-2018 年 5 月 9 日　改訂
-井上 潤
-FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
-
-https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
-FigTree の使い方
-
-
-
-
-----------
-## etetoolkit
-
-http://etetoolkit.org/
-
-2019年12月11日に更新
-バイオインフォマティクス Advent Calendar 2019 11日目
-https://qiita.com/aical/items/2231198d3d75e72bee39
-誰にも教えたくない超カンタン分子系統樹作成術 - Qiita
-ETE Toolkitを使った超簡便な分子系統樹作成法を紹介します。
-
-https://www.hobochuritsu.com/entry/2018/11/08/223813
-ETE Toolkitでノードに通し番号を付ける - ほぼ中立ブログ
-
-2017年05月26日に更新
-https://qiita.com/okuman/items/3dd1cd1292940442fcd0
-ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
 
 
 ----------
