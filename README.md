@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-08
+Last Update: 2019-11
 
 ----------
 
@@ -24,7 +24,65 @@ Last Update: 2019-08
 - [unclassified](#unclassified)
 
 ----------
+
+## books
+
+
+http://aracnologia.macn.gov.ar/st/biblio/Yang%202006%20Computational%20Molecular%20Evolution.pdf
+Yang (2006) Computational Molecular Evolution
+Fig. 3.18
+
+
+http://d.hatena.ne.jp/shorebird/
+shorebird　進化心理学中心の書評など
+
+http://d.hatena.ne.jp/shorebird/20180522
+[書評]　「思考の体系学」
+
+
+http://sciencebook.blog110.fc2.com/blog-entry-1208.html
+『 ミニ特集：進化研究の本 』
+
+- https://twitter.com/search?q=%22文化進化の考古学%22
+- http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
+#3905. 系統学の歴史言語学への適用について (1)
+- http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
+#3906. 系統学の歴史言語学への適用について (2)
+- 
+- https://twitter.com/search?q=%20文化系統学への招待&f=live
+- https://togetter.com/li/541217
+文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
+
+----------
 ## featuring
+
+
+----------
+
+https://ja.wikipedia.org/wiki/鶏が先か、卵が先か
+
+https://twitter.com/Protohedgehog/status/969929755817664512
+Jon Tennant on Twitter: "Another age-long riddle solved by science.… "
+8:37 AM - 3 Mar 2018
+
+https://me.me/i/which-came-first-the-chicken-or-the-egg-turtles-lizards-6697870
+Which came first, the chicken or the egg?
+
+![](https://pics.me.me/which-came-first-the-chicken-or-the-egg-turtles-lizards-10442223.png)
+
+
+----------
+
+https://ja.wikipedia.org/wiki/種の起源
+ダーウィンは、『種の起源』の中で、evolution ではなく、descent with modification （変化を伴った由来）という用語を使っている。
+
+2014年 09月 09日
+https://insectcell.exblog.jp/22371555/
+ダーウィンは一回だけevolved と書いた : したっぱ昆虫細胞研究者のメモ
+一方、変化を伴う由来（Descent with modification）の方はそこら中にでてきた。
+
+----------
+
 
 
  2019年4月1日 /  2019年7月15日
@@ -86,6 +144,7 @@ http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2018/214ws.html
 214ws_分子系統樹推定法：理論と応用
 2018年10月24日（水曜日）-10月26日（金曜日）（つくば市観音台2-1-9)
 
+
 https://kimuraseminar.wordpress.com
 木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
 
@@ -109,6 +168,19 @@ https://twitter.com/NikkeiScience/status/1106136676974370816
 
 ----------
 ## updates
+
+## 2020
+
+
+https://twitter.com/marc_rr/status/1217712592380186626
+Marc RobinsonRechavi on Twitter: "Proud of having edited this paper for @PLOSONE: https://t.co/NGk0OJWchQ The authors @Le_Museum used phylogenetic methods to study the historical relationships of ideas about phylogenetics in biology. https://t.co/Zmxvv1nldK" / Twitter
+4:38 PM · Jan 16, 2020
+https://www.ncbi.nlm.nih.gov/pubmed/31940355
+PLoS One. 2020 Jan 15;15(1):e0226567. doi: 10.1371/journal.pone.0226567. eCollection 2020.
+The treeness of the tree of historical trees of life.
+Fisler M1, Crémière C2, Darlu P3, Lecointre G1.
+
+
 
 ## 2019
 
@@ -318,113 +390,6 @@ https://twitter.com/RPolyhedra/status/638104050152529920
 
 ![](https://pbs.twimg.com/media/CNsAQIbUYAAuJvy.jpg)
 
-
-----------
-
-## books
-
-http://bookclub.kodansha.co.jp/product?item=0000148863
-『絵でわかる進化のしくみ　種の誕生と消滅』（山田　俊弘）｜講談社BOOK倶楽部
-
-http://d.hatena.ne.jp/shorebird/
-shorebird　進化心理学中心の書評など
-
-http://d.hatena.ne.jp/shorebird/20180522
-[書評]　「思考の体系学」
-
-### [種の起源](https://ja.wikipedia.org/wiki/種の起源)
-ダーウィンは、『種の起源』の中で、evolution ではなく、descent with modification （変化を伴った由来）という用語を使っている。
-
-2014年 09月 09日
-https://insectcell.exblog.jp/22371555/
-ダーウィンは一回だけevolved と書いた : したっぱ昆虫細胞研究者のメモ
-
-### [進化の教科書](http://bookclub.kodansha.co.jp/title?code=1000021263)
-
-https://twitter.com/9w9w9w92/status/980072643880615937
-尾上正人 on Twitter: "「生命の樹か、生命の網か…水平遺伝子移行は、系統的に離れた種間でも起きる。したがって生物の系統関係を『樹』ではなく、『ネットワーク』または『網』として表現することも提唱されている」③83頁"
-9:21 AM - 31 Mar 2018
-
-https://twitter.com/9w9w9w92/status/978621072261042176
-尾上正人 on Twitter: "「細菌とアーキアの相同遺伝子の分布からわかったことは、水平遺伝子移行が何十億年にもわたって頻繁に起こり、微生物のゲノムをモザイク状にしてしまったことである。遺伝子が混合したために、種の境界を引くのが（不可能ではないにしても）難しくなってしまった」①143頁"
-9:13 AM - 27 Mar 2018
-
-2016年12月12日
-http://honz.jp/articles/-/43618
-『進化の教科書 第1巻 進化の歴史』　進化入門の決定版 - HONZ
-
-http://sciencebook.blog110.fc2.com/blog-entry-2760.html
-『 カラー図解　進化の教科書 』
-
-http://sciencebook.blog110.fc2.com/blog-entry-2759.html
-『 カラー図解　進化の教科書　第2巻　進化の理論 』
-
-http://sciencebook.blog110.fc2.com/blog-entry-1208.html
-『 ミニ特集：進化研究の本 』
-
-### 分子からみた生物進化
-![](http://bluebacks.kodansha.co.jp/content/images/resize.php?url=http://bkmkn.s3-website-ap-northeast-1.amazonaws.com/9784062578493/9784062578493_w.jpg&width=104)
-
-http://bluebacks.kodansha.co.jp/intro/72/
-『分子からみた生物進化』｜ブルーバックス｜講談社BOOK倶楽部
-
-https://www.flierinc.com/summary/293
-分子からみた生物進化 | 本の要約サイト flier(フライヤー)
-
-http://d.hatena.ne.jp/sakstyle/20140612/p1
-宮田隆『分子からみた生物進化』 - logical cypher scape
-もともと『分子進化学への招待』というタイトルで出ていた本の改訂版
-
-http://gendai.ismedia.jp/articles/-/38255
-http://gendai.ismedia.jp/articles/-/38255?page=2
-『分子からみた生物進化 DNAが明かす生物の歴史』著：宮田隆分子からみた生物進化（） | 現代ビジネス | 講談社（1/2）
-
-### 2012-06-20　
-
-http://www.nikkei-science.com/page/sci_book/bessatu/51185.html
-進化が語る 現在・過去・未来 | 日経サイエンス
-三中信宏 編
-
-2009年4月号
-http://www.nikkei-science.com/page/magazine/0904/200904_020.html
-進化論の150年 | 日経サイエンス
-
-2008年9月号
-http://www.nikkei-science.com/page/magazine/0809/200809_060.html
-生物の種とは何か | 日経サイエンス
-C. ジンマー（サイエンスライター）
-
-### 
-
-2009年03月
-https://www.kyoritsu-pub.co.jp/bookdetail/9784320056770
-分子系統学への統計的アプローチ―計算分子進化学― 
-Ziheng Yang 著・藤 博幸・加藤 和貴・大安 裕美訳
-
-![](https://www.kyoritsu-pub.co.jp/app/img/item/05677.jpg)
-
-https://www.kyoritsu-pub.co.jp/app/file/goods_contents/1152.pdf
-3.1.4 遺伝子系統樹と種系統樹 ·· 75
-3.4 最節約法 ·· 87
-
-### 
-2008年11月
-http://sciencei.sbcr.jp/archives/2008/11/post_13.html
-Si新書『ありえない!?　生物進化論』概要北村雄一 著 (サイエンス・アイWeb)
-
-----------
-
-https://ja.wikipedia.org/wiki/鶏が先か、卵が先か
-
-https://twitter.com/Protohedgehog/status/969929755817664512
-Jon Tennant on Twitter: "Another age-long riddle solved by science.… "
-8:37 AM - 3 Mar 2018
-
-https://me.me/i/which-came-first-the-chicken-or-the-egg-turtles-lizards-6697870
-Which came first, the chicken or the egg?
-
-![](https://pics.me.me/which-came-first-the-chicken-or-the-egg-turtles-lizards-10442223.png)
-
 ----------
 ## MPCM
 
@@ -488,12 +453,12 @@ http://leeswijzer.org/files/seibutsu-keitou.html
 http://leeswijzer.org/files/epilogue.html
 系統樹を描くのはお手軽だから系統推定や系統樹構築も「単純作業」であるという馬渡のこの主張は、二重の意味で思慮が足りません。 
 
-
 http://dotplace.jp/archives/tag/三中信宏
 
 http://leeswijzer.hatenablog.com
 archief voor stambomen
 系統樹ハンターの狩猟記録
+
 
 http://cse.naro.affrc.go.jp/minaka/ml/evolve-top.html
 EVOLVE：進化生物学メーリングリスト
@@ -592,11 +557,6 @@ II アブダクションとしての系統推定
 る推論では，選ばれた仮説の真偽は問題ではない。あく
 までもその時点で得られたデータのもとで，いずれの仮
 説が最良であるかだけを論じる。
-
-2007.3
-http://www.naro.affrc.go.jp/archive/niaes/magazine/083/mgzn08304.html
-論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)
-系統樹（phylogenetic tree）に基づく「系統学的多様性（PD: phylogenetic diversity）」を提案
 
 2007
 https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_article/-char/ja/
@@ -769,11 +729,14 @@ https://langint.pri.kyoto-u.ac.jp/ai/ja/publication/SanaInoue/Inoue2007.html
 
 ----------
 
+
+
+- [東京都感染症情報センター » インフルエンザウイルスHA遺伝子系統樹（東京都　2015-16年シーズン）](http://idsc.tokyo-eiken.go.jp/diseases/flu/flu/keito2015/)
+
+
 https://www.brh.co.jp/research/formerlab/miyata/2005/post_000007.html
 25年の眠りから覚めたインフルエンザウィルス：ウィルスの分子進化学- 宮田　隆の進化の話 - JT生命誌研究館
 　インフルエンザウィルス以外のウィルスについても同じように進化速度を求めることができる。エイズのウィルスをはじめとして、色々なウィルスの進化速度を、宿主の遺伝子の進化速度と比べてみると、いずれのウィルスも極めて速いスピードで進化していることが分かる。ことに、エイズウィルスはインフルエンザウィルスより進化速度が大きい。
-
-
 
 
 - [バックナンバー2006年 | 宮田 隆の進化の話 | これまでのラボ・研究 | 研究 | JT生命誌研究館](https://www.brh.co.jp/research/formerlab/miyata/2006/)
