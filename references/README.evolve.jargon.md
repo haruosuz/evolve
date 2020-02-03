@@ -39,6 +39,134 @@ Last Update: 2019-09
 - [dNdS](#dnds) 適応
 - [RELL](#rell)
 - [selective inference](#selective-inference)
+- [taxon sampling](#taxon-sampling)
+- [pcm](#pcm) phylogenetic comparative methods
+- [network](#network)
+
+----------
+## 
+
+----------
+## network
+
+----------
+## pcm
+phylogenetic comparative methods
+
+https://twitter.com/vsbuffalo/status/1216475530066743296
+Vince Buffalo on Twitter: "A question for comparative methods folks: when we think about patterns across extremely broad taxonomical groups, such as the body length and generation time (Bonner 1983) and body size and pop density (Damuth 1987), does it make sense to correct for phylogeny? https://t.co/0Ggr9uEAJA" / Twitter
+6:42 AM · Jan 13, 2020
+
+https://lukejharmon.github.io/pcm/pdf/phylogeneticComparativeMethods.pdf
+Phylogenetic Comparative Methods
+Luke J. Harmon 2019-3-15
+
+https://lukejharmon.github.io/pcm/chapter6_beyondbm/
+Beyond Brownian motion · Phylogenetic Comparative Methods
+https://lukejharmon.github.io/pcm/chapter6_beyondbm/#section-6.3a-rate-tests-using-phylogenetic-independent-contrasts
+
+Section 6.3a: Rate tests using phylogenetic independent contrasts
+
+In particular, Garland (1992) suggests using a t-test, as long as the absolute value of independent contrasts are approximately normally distributed. However, under a Brownian motion model, the contrasts themselves – but not the absolute values of the contrasts – should be approximately normal, so it is quite likely that absolute values of contrasts will strongly violate the assumptions of a t-test.
+
+A t-test is not significant (Welch two-sample t-test P = 0.42), but we also can see that the distribution of PIC absolute values is strongly skewed (Figure 6.2C).
+
+Alternatively, we can again follow Garland’s (1992) suggestion and use a Mann-Whitney U-test, the nonparametric equivalent of a t-test, on the absolute values of the contrasts.
+
+https://ja.wikipedia.org/wiki/T検定
+標本が独立で、等分散性が仮定できない（異分散）場合。これは正確にはウェルチのt検定と呼ばれる。
+t検定は母集団の正規分布を前提とするパラメトリック検定であるが、この条件が満たされず、さらに標本サイズが小さいと、t検定で近似することも困難となる。そういった場合にはノンパラメトリック検定を用いる方法がある。
+標本が独立ならばマン・ホイットニーのU検定など
+
+https://www.ncbi.nlm.nih.gov/pubmed/27536807
+J Evol Biol. 2016 Dec;29(12):2422-2435. doi: 10.1111/jeb.12966. Epub 2016 Sep 9.
+A comparative perspective on longevity: the effect of body size dominates over ecology in moths.
+Holm S1, Davis RB1, Javoiš J1, Õunap E1,2, Kaasik A1, Molleman F1,3,4, Tammaru T1.
+https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12966
+Phylogenetic comparative analyses were applied to study variation in species‐specific values of lifespan and to reveal its ecological and life‐history correlates.
+
+https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
+ベイジアン MCMC による生物間系統関係の推定法 田辺 晶史
+そもそも、これまでに「系統的に独立した生物」は確認 されていない。そのため、統計解析上の最も重要な仮定の一つである「サンプル間の独立 性」が生物では成立し得ないことは明白である。ここで、仮に 100 種のトカゲの体色を考 えてみる。草原と砂漠にそれぞれ 50 種生息し、草原に生息する種は緑色と褐色がそれぞ れ 40 種と 10 種、砂漠に生息する種は緑色と褐色がそれぞれ 20 種と 30 種だったとしよ う (表 3)。では、生息環境と体色に関連性はあるだろうか。系統関係を考慮しない研究者
+はサンプル間の非独立性には気付かず、Fisher の正確確率検定を用いてしまうかもしれな い。すると、p = 0.00008039 となり、生息環境と体色に関連性を見いだすことになるだ ろう。しかし、仮に表 3 のマス目の各種群が単系統であったならどうだろう。数えるべき は種数ではなく単系統群の数であり、各マス目の数値は 1 ということになる。以上のよう に、系統関係を考慮するかしないかで結論が大きく変化し得ることがわかるだろう。そこ で、系統関係=サンプル間の非依存性を考慮して統計解析を行うことでこのような問題を 解決しようとする手法があり、系統的独立比較法などと呼ばれている (Felsenstein, 1985; Grafen, 1989)。
+
+http://www.jbon.org/wp/wp-content/uploads/2009/04/e8a995e4bea1e4ba88e6b8ac2_ootani.pdf
+系統関係を考慮した解析法
+- Phylogenetically independent contrast
+(PIC; Felsenstein 1985)
+  - 系統樹の枝先の姉妹群(ペア)の対比，ノードの平均値の対比のみを使う方法
+  - 非独立性を過剰評価してしまうことがある
+- 空間自己相関の解析法を応用
+- ランダム効果の導入
+
+https://www.ikushimo.com/news/2009/03/23.html
+◆ [Science] 空間自己相関と時間自己相関、そして系統自己相関 - 00:45:32
+　空間自己相関がある(空間的に近い点は互いに似ている)データを独立データと見なして解析してはいけない、というのが「自己相関と偽反復」企画集会の趣旨でした。もちろん、自己相関があるのは空間だけではなく、時間にもあります。時間自己相関を考慮した解析は昔からあり、時系列解析と呼ばれる解析方法群がそれに当たります。
+　また、時間自己相関の1種と言えるかもしれませんが、系統的に近い生物は互いに似ているという系統自己相関も存在します。これをちゃんと考慮に入れてやろうというのが、系統自由集会でもう一人の演者が話した「系統的独立比較」(Phylogenetic Independent Contrast)です。
+　しかし、空間自己相関には実は他の二つとは大きく異なる点があります。それは、「跳躍」があり得るという点です。
+
+統計的独立の問題。種間に系統関係があるならば、統計学的にみてデータ点は独立ではあり得ない。（三中信宏「生物系統学」334ページ）
+FIG.2.データ点が独立 FIG.3. データ点が非独立
+https://www.jstor.org/stable/2461605
+Joseph Felsenstein (1985)
+Phylogenies and the Comparative Method
+
+https://www.nhm.ac.uk/our-science/our-work/origins-evolution-and-futures/phylogenetic-comparative-methods.html
+Phylogenetic comparative methods | Natural History Museum
+![](https://www.nhm.ac.uk/content/dam/nhmwww/our-science/our-work/origins-evolution-futures/graph-lifespan-body-mass-two-column.jpg.thumb.768.768.png)
+Phylogenetic comparative methods can be used to investigate the relationships between body size, life span and flight
+
+http://www.unp.or.jp/ISBN/ISBN978-4-8158-0950-8.html
+生命科学の実験デザイン［第4版］ « 名古屋大学出版会
+第5章　偽反復
+　5.1　独立とはどういうことか、偽反復とは何か
+　5.2　偽反復のよくある原因
+　　　　5.2.1　囲いの共有
+　　　　5.2.2　共通の環境
+　　　　5.2.3　血縁関係（類似の遺伝子）
+　　　　5.2.4　刺激の共有
+　　　　5.2.5　個体もまた環境の一部である
+　　　　5.2.6　時間を追ってとった測定の偽反復
+　　　　5.2.7　種間比較と偽反復
+　5.3　非独立性に対処する
+　　　　5.3.1　反復体の非独立性は生物学的な問題である
+
+https://twitter.com/JunShimizu/status/1204217634662731776
+Junichi Shimizu / 清水準一 on Twitter: "気をつけたい。　関西学院大学の清水先生のブログ「都道府県単位の分析、国単位の分析は、いろいろ罠があるので気をつけようね、というお話でした。」 納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up! https://t.co/JvGfvTWF2Y" / Twitter
+10:53 AM · Dec 10, 2019
+http://norimune.net/3313
+納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up!
+
+----------
+## taxon sampling
+タクソンサンプリング
+
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+分子系統解析における様々な問題について
+
+2019/04/20
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/pre-phylogenetic-analysis
+Enter the FUNGI - 系統解析の前準備の話
+
+https://twitter.com/i/events/939216389797068800
+Nov 3, 2017
+BAMMを使ってみて感じたことは
+1. 結果がタクソンサンプリングに左右される、解析材料が系統樹だけなので。
+
+http://setoblo.blogspot.com/2013/10/
+せとブロ ‐ 瀬戸臨海実験所公式ブログ: October 2013
+祝！　岡西政典さん　論文出版！
+また本研究では、タクソンサンプリングと適切な遺伝子の選択が分子系統解析に与える影響についても言及しています。
+
+2010-08-17
+https://blog.goo.ne.jp/acornworm/e/e286ffe827f0270406c8410b17a85b9f
+祖先的な動物の系統関係 - 深海生物研究者の日常
+分子の数を増やすよりもタクソンサンプリングの方が重要
+Long branch attractionにも気をつけろ
+
+https://www.ikushimo.com/news/2007/02/10.html
+◆ [Science] Detecting the Node-Density Artifact in Phylogeny Reconstruction - 09:53:39
+　タクソンサンプリング密度が高ければ高いほど、最節約・最尤・ベイジアン系統推定における多重置換検出率は上昇する。つまり、タクソンサンプリングが粗な分類群と密な分類群では枝長の推定精度が異なる。多重置換検出率が低ければ低いほど「見かけの進化速度」が遅くなり、逆は速くなる。ここで、現在の系統推定法では進化の速い分類群どうしが引きつけ合うLong-Branch Attractionという効果が知られている。故に、密にサンプリングされた分類群では多重置換がよく検出されて進化が見かけ上高速になり、そのような分類群どうしがLong-Branch Attractionによって引きつけ合う効果が生まれる。これが系統推定を誤る原因になり得る。
 
 ----------
 
