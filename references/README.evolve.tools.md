@@ -362,26 +362,19 @@ http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
 ----------
 ## OrthoFinder
 
+![](https://davidemms.github.io/assets/img/Workflow.png)
+
+http://www.stevekellylab.com/software/orthofinder
+
 https://github.com/davidemms/OrthoFinder
 
 https://davidemms.github.io/
 OrthoFinder | OrthoFinder Tutorials
 
-https://davidemms.github.io/menu/tutorials.html
-Step-by-Step OrthoFinder Tutorials | OrthoFinder Tutorials
-
 Published: 14 November 2019
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1832-y
 OrthoFinder: phylogenetic orthology inference for comparative genomics
 David M. Emms & Steven Kelly
-
-https://github.com/davidemms/OrthoFinder
-
-![](https://github.com/davidemms/OrthoFinder/raw/master/assets/Workflow.png)
-
-http://www.stevekellylab.com/software/orthofinder
-
-![](https://davidemms.github.io/assets/img/Workflow.png)
 
 https://www.hobochuritsu.com/entry/2019/04/20/223105
 全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
