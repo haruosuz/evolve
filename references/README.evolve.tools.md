@@ -249,10 +249,6 @@ Art Poon on Twitter: "For my #BioInformatics class, I wrote a #d3js interactive 
 
 ### 2018
 
-2018年07月27日
-https://qiita.com/MaedaTaro_Umiushi/items/7c8cee435347eeee1cf5
-orthofinder + mafft + trimal + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
-
 2017年05月26日
 https://qiita.com/okuman/items/3dd1cd1292940442fcd0
 ETE Toolkitを使ってPythonで色々な形の系統樹を書く
@@ -362,8 +358,6 @@ http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
 ----------
 ## OrthoFinder
 
-![](https://davidemms.github.io/assets/img/Workflow.png)
-
 http://www.stevekellylab.com/software/orthofinder
 
 https://github.com/davidemms/OrthoFinder
@@ -376,6 +370,8 @@ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1832-y
 OrthoFinder: phylogenetic orthology inference for comparative genomics
 David M. Emms & Steven Kelly
 
+![](https://davidemms.github.io/assets/img/Workflow.png)
+
 https://www.hobochuritsu.com/entry/2019/04/20/223105
 全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
 
@@ -383,12 +379,15 @@ https://www.hobochuritsu.com/entry/2019/04/20/223105
 井上 潤
 http://www.fish-evol.org/orthofinder_ji.html
 Orthofinder (githab) はオーソログを推定するプログラムです．配列類似性 all-in-all 比較の結果を用いた MCL 解析によるグルーピングから，オーソログをオーソグループ (orthogroup) として推定します．
-
 オーソロジーは遺伝子系統樹によって推定するもので，配列類似性は予想にすぎない，
 
 https://www.hobochuritsu.com/entry/2018/10/24/204801
 OrthoFinderでFastTreeを使おうとしたらエラーが出た - ほぼ中立ブログ
 オーソログ推定プログラム「OrthoFinder」は、推定したオーソロググループ配列を使用してそのまま系統樹作成まで行うことができます。
+
+2018年07月27日
+https://qiita.com/MaedaTaro_Umiushi/items/7c8cee435347eeee1cf5
+orthofinder + mafft + trimal + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
 
 http://kazumaxneo.hatenablog.com/entry/2017/08/01/201224
 OrthoFinderでオルソロググループを探索する - macでインフォマティクス
