@@ -370,29 +370,18 @@ OrthoFinder | OrthoFinder Tutorials
 https://davidemms.github.io/menu/tutorials.html
 Step-by-Step OrthoFinder Tutorials | OrthoFinder Tutorials
 
-https://davidemms.github.io/orthofinder_tutorials/downloading-and-checking-orthofinder.html
-1. Downloading and checking OrthoFinder | OrthoFinder Tutorials
-
-https://davidemms.github.io/orthofinder_tutorials/running-an-example-orthofinder-analysis.html
-2. Running an example OrthoFinder analysis | OrthoFinder Tutorials
-
-https://davidemms.github.io/orthofinder_tutorials/exploring-orthofinders-results.html
-3. Exploring OrthoFinder's results | OrthoFinder Tutorials
-
-https://davidemms.github.io/orthofinder_tutorials/orthofinder-best-practices.html
-4. OrthoFinder best practices | OrthoFinder Tutorials
-
-
 Published: 14 November 2019
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1832-y
 OrthoFinder: phylogenetic orthology inference for comparative genomics
 David M. Emms & Steven Kelly
 
-- http://www.stevekellylab.com/software/orthofinder
-- https://github.com/davidemms/OrthoFinder
-- https://github.com/davidemms/OrthoFinder/blob/master/OrthoFinder-manual.pdf
+https://github.com/davidemms/OrthoFinder
 
-![](https://raw.githubusercontent.com/davidemms/OrthoFinder/master/orthofinder/workflow.png)
+![](https://github.com/davidemms/OrthoFinder/raw/master/assets/Workflow.png)
+
+http://www.stevekellylab.com/software/orthofinder
+
+![](https://davidemms.github.io/assets/img/Workflow.png)
 
 https://www.hobochuritsu.com/entry/2019/04/20/223105
 全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
