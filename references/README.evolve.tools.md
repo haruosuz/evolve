@@ -185,7 +185,6 @@ SeaView を用いたアラインメント編集
 作成：仲田崇志
 更新：2008年03月10日
 
-
 ----------
 ## MEGA
 MEGA: Molecular Evolutionary Genetics Analysis software
@@ -199,6 +198,10 @@ MEGA3 チュートリアル（Actin gene coding region を例題として）
 - 入力データの準備
 - 配列データのアライメント
 - 分子系統樹の作成
+
+https://twitter.com/hashtag/ws222?f=live
+https://doi.org/10.7875/togotv.2019.193
+2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
 
 2018/01/20
 https://ultrabem-branch3.com/informatics/bioinformatics/tree_make_mega_ml
