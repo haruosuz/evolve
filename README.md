@@ -25,6 +25,10 @@ Last Update: 2019-11
 
 ----------
 
+## 
+
+----------
+
 ## books
 
 
@@ -53,8 +57,51 @@ http://sciencebook.blog110.fc2.com/blog-entry-1208.html
 - https://togetter.com/li/541217
 文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
 
+
+----------
+
+### 2014-10-23
+
+長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
+
+https://twitter.com/search?q=系統樹をさかのぼって見えてくる進化の歴史
+
+https://www.beret.co.jp/books/detail/544
+系統樹をさかのぼって見えてくる進化の歴史｜書籍案内｜ベレ出版
+
+https://shorebird.hatenablog.com/entry/20150308/1425781515
+「系統樹をさかのぼって見えてくる進化の歴史」 - shorebird　進化心理学中心の書評など
+
+http://kiwi-lab.blogspot.com/2015/01/blog-post_8.html
+科学バー店主のブログ（旧「日本橋べったら日記」）: 立花隆氏の書評：長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
+
+http://kagakubar.com/mandala/mandala01.html
+僕たちの祖先をめぐる15億年の旅｜科学バー
+文と写真　長谷川政美
+
+https://goto33.blog.so-net.ne.jp/2015-08-25
+書評：系統樹をさかのぼって見えてくる進化の歴史：海の研究者：：So-netブログ
+「進化の順番で寿司を食べる」という記事
+![](https://goto33.c.blog.so-net.ne.jp/_images/blog/_e3a/goto33/024.jpg)
+
+https://twitter.com/RPolyhedra/status/638104050152529920
+正多面体クラブ on Twitter: "『系統樹をさかのぼって見えてくる進化の歴史』 面白かった～ http://t.co/9BXIcs8FdY 「あらゆる生物は1つの先祖から進化したものである」 「1つの動物が他の動物よりも高等だとするのは不合理である」by ダーウィン http://t.co/gTqd7jO6cO"
+5:40 PM - 30 Aug 2015
+
+
 ----------
 ## featuring
+
+
+
+2006
+https://doi.org/10.20551/jscstaikai.20.0_85
+茶道伝書の文化系統学的処理(特別セッション:文化情報学)
+矢野 環, 福田 智子
+https://www.jstage.jst.go.jp/article/jscstaikai/20/0/20_85/_pdf
+即ち、通常の生物は、遺伝子やゲノムが次世代に直接的に継代され、突然変異によって系統が分岐するのに対して、文化事象は系統間の交渉や融合が激しい（図1）4。
+4生物でも、ウイルス等により外部からゲノムに遺伝子が取り込まれる「水平伝播」が起こる。
+
 
 
 ----------
@@ -92,19 +139,6 @@ https://tnishimaki.com/?p=1040
 https://nam-students.blogspot.com/2013/03/blog-post_2476.html
 NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
 
-
-長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
-
-http://kagakubar.com/mandala/mandala01.html
-僕たちの祖先をめぐる15億年の旅｜科学バー
-文と写真　長谷川政美
-
-https://goto33.blog.so-net.ne.jp/2015-08-25
-書評：系統樹をさかのぼって見えてくる進化の歴史：海の研究者：：So-netブログ
-「進化の順番で寿司を食べる」という記事
-![](https://goto33.c.blog.so-net.ne.jp/_images/blog/_e3a/goto33/024.jpg)
-
-
 ----------
 
 https://ja.wikipedia.org/wiki/トマス・ヘンリー・ハクスリー
@@ -138,18 +172,11 @@ http://cse.naro.affrc.go.jp/minaka/files/yomigaeru-Darwin.html
 ----------
 
 
-- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
-
-http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2018/214ws.html
-214ws_分子系統樹推定法：理論と応用
-2018年10月24日（水曜日）-10月26日（金曜日）（つくば市観音台2-1-9)
-
-
-https://kimuraseminar.wordpress.com
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#2019-08-04
+- https://kimuraseminar.wordpress.com
 木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
-
-#kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
-#pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
+- #kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
+- #pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
 
 
 
@@ -183,15 +210,6 @@ Fisler M1, Crémière C2, Darlu P3, Lecointre G1.
 
 
 ## 2019
-
-
-
-https://twitter.com/niaes/status/1159660215752482816
-農研機構 農業環境変動研究センター on Twitter: "第222回農林交流センターワークショップ「分子系統樹推定法：理論と応用」（10月23-25日 つくば） https://t.co/LAlbezaxmy 分子系統樹の的確な推定に必要な基礎的理論の講義、データ解析およびプログラミングの実習。農研機構 三中信宏ほかコーディネート。参加申込み9月19日まで。"
-11:58 AM · Aug 9, 2019
-
-http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2019/222ws.html
-第222回農林交流センターワークショップ：農林水産技術会議
 
 https://twitter.com/pathogenomenick/status/1128970191059214339
 Nick Loman on Twitter: "I do like this slide that I stole from @MikeyJ to get that point across:… "
@@ -369,6 +387,13 @@ http://www.okinawatimes.co.jp/articles/-/204534
 
 ## 2017
 
+https://shorebird.hatenablog.com/entry/20170506/1494033271
+日本生物地理学会2017　その3 - shorebird　進化心理学中心の書評など
+趣旨説明　進化・系統研究の対象として言語を考える　三中信宏
+手段としての系統樹：「粤語」から漢語系諸語の言語史を考える　濱田武志
+中国体陸の言語文化史を巡る謎　Sean Lee
+DNAにもとづく集団の系統関係と言語の系統関係との差異について　斎藤成也
+
 https://twitter.com/kagakubarKIWI/status/923513894454382592
 大人の科学バー on Twitter: "【更新しました！】◎Web科学バー・連載「進化の歴史」第8話「多様な生物の世界（その2）」進化生物学者の長谷川政美先生が綴る、分子系統学の誕生から、利点、問題点まで。ダーウィンの夢の一つを叶えた学問「分子系統学」とは何か。https://t.co/h6xBxODWij… https://t.co/bbmJau8Kix"
 7:37 AM - 26 Oct 2017
@@ -383,12 +408,6 @@ http://www.natureasia.com/ja-jp/nature/highlights/89168
 ## 2016
 
 ## 2015
-
-https://twitter.com/RPolyhedra/status/638104050152529920
-正多面体クラブ on Twitter: "『系統樹をさかのぼって見えてくる進化の歴史』 面白かった～ http://t.co/9BXIcs8FdY 「あらゆる生物は1つの先祖から進化したものである」 「1つの動物が他の動物よりも高等だとするのは不合理である」by ダーウィン http://t.co/gTqd7jO6cO"
-5:40 PM - 30 Aug 2015
-
-![](https://pbs.twimg.com/media/CNsAQIbUYAAuJvy.jpg)
 
 ----------
 ## MPCM
@@ -445,6 +464,23 @@ Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,07
 ## [leeswijzer](http://leeswijzer.org/)
 MINAKA Nobuhiro
 
+http://www.leeswijzer.org/cladist/cladist-top.html
+結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
+
+●イベント●
+第222回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉2019年10月23日（水）〜25日（金）*new*
+
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
+
+- https://togetter.com/li/742642
+2014年度・第188回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ - Togetter
+- https://togetter.com/li/587872
+2013年度・第176回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ - Togetter
+- https://togetter.com/li/399359
+2012年度・第166回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉 ツイートまとめ - Togetter
+- https://togetter.com/li/207308
+分子系統学の理論と実習 - Togetter
+
 http://leeswijzer.org/files/seibutsu-keitou.html
 生物系統学
 三中信宏
@@ -463,9 +499,6 @@ archief voor stambomen
 http://cse.naro.affrc.go.jp/minaka/ml/evolve-top.html
 EVOLVE：進化生物学メーリングリスト
 
-http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
-結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
-
 http://kousin242.sakura.ne.jp/wordpress018/?page_id=3485
 系統樹曼荼羅(Chain・Tree・Network) | 検索サイト2017~2018
 
@@ -482,12 +515,6 @@ https://note.mu/leeswijzer/n/ne827077ad556
 https://twitter.com/leeswijzer/status/855969451849764864
 MINAKA Nobuhiro on Twitter: "［蒐書日誌］三中信宏〈分類学と系統学を学ぶためのブックガイド〉Version 23-April-2017 https://t.co/Xb0cqfDsxU を公開しました．旧バージョンから2年半ほど放置していたのですが，ふと思い立って全面改訂だん．" 
 11:19 AM · Apr 23, 2017
-
-
-http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2018/214ws.html
-214ws_分子系統樹推定法：理論と応用：農林水産技術会議
-
-第188回農林交流センターワークショップ〈分子系統学の理論と実習〉2014年11月5日（水）〜7日（金），stamboom｜Togetter
 
 Feb 22, 2017
 https://www.youtube.com/watch?v=PYLukN7xUcU
