@@ -13,114 +13,25 @@ Last Update: 2020-01
 - [OrthoFinder](#orthofinder)
 - [alignment](#alignment)
   - [mafft](#mafft)
+  - [Gblocks](#gblocks)
+  - [trimAl](#trimal)
 - [tree](#tree) 系統樹作成
   - [IQ-Tree](#iqtree)
   - [FastTree](#fasttree)
   - [RAxML](#raxml)
-- [timetree](#timetree)
-- [iTOL](#itol)
-- [MEGA](#mega)
-- [Gblocks](#gblocks)
-- [trimAl](#trimal)
+  - [bcgTree](#bcgTree)
+  - [phylophlan](#phylophlan)
+  - [ETE Toolkit](#etetoolkit)
+- [view](#view) 描画
+  - [iTOL](#itol)
+  - [figtree](#figtree)
+  - [SeaView](#seaview)
+  - [annotree](#annotree)
+- [](#)
 - [HyPhy](#hyphy)
 - [Notung](#notung)
-- [SeaView](#seaview)
-- [figtree](#figtree)
-- [](#)
-- [annotree](#annotree)
-- [bcgTree](#bcgTree)
-- [phylophlan](#phylophlan)
-- [ETE Toolkit](#etetoolkit)
-
-----------
-## FigTree
-http://tree.bio.ed.ac.uk/software/figtree/
-
-http://www.fish-evol.org/FigTree.html
-FigTree
-2018 年 5 月 9 日　改訂
-井上 潤
-FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
-
-https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
-FigTree の使い方
-
-
-----------
-
-### annotree
-
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638
-AnnoTree: visualization and exploration of a functionally annotated microbial tree of life | Nucleic Acids Research | Oxford Academic
-
-https://twitter.com/strnr/status/1117782170645483520
-AnnoTree: visualization and exploration of a functionally annotated microbial tree of life
-Paper https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638 …
-App http://annotree.uwaterloo.ca/ 
-Code https://bitbucket.org/account/user/doxeylabcrew/projects/AN …
-Docs https://annotree-docs.readthedocs.io/en/latest/ 
-Data http://gtdb.ecogenomic.org/downloads 
-9:30 AM - 15 Apr 2019
-![](https://pbs.twimg.com/media/D4Mo9PSXoAEYnZ1.jpg)
-
-----------
-
-### bcgTree
-
-https://github.com/molbiodiv/bcgTree
-Automatically calculate phylogenetic trees from bacterial core genes
-
-See this file for instructions on how to reproduce results from our article.
-https://github.com/molbiodiv/bcgTree/blob/master/reproduce_results.org
-
-----------
-
-### PhyloPhlAn
-
-https://huttenhower.sph.harvard.edu/phylophlan
-
-https://www.ncbi.nlm.nih.gov/pubmed/23942190
-Nat Commun. 2013;4:2304. doi: 10.1038/ncomms3304.
-PhyloPhlAn is a new method for improved phylogenetic and taxonomic placement of microbes.
-Segata N1, Börnigen D, Morgan XC, Huttenhower C.
-
-
-https://github.com/alvaralmstedt/Tutorials/wiki/Creating-bacterial-phylogenetic-trees-with-PhyloPhlAn
-Creating bacterial phylogenetic trees with PhyloPhlAn
-alvaralmstedt edited this page on Aug 13, 2015
-
-https://jpn.bioconus.com/phylophlan-is-new-method-795397
-フィロフランは、微生物の系統発生学的および分類学的配置を改善するための新しい方法です。 自然通信 - コミュニケーション - 2019
-
-http://kazumaxneo.hatenablog.com/entry/2018/09/12/221645
-phylogenetic marker genesを検出し、marker genes全てを使って系統樹を作成する自動化パイプライン ezTree - macでインフォマティクス
-PhyloPhlAn (Segata et al,. 2014) も簡単に紹介しています。
-
-http://kazumaxneo.hatenablog.com/entry/2017/05/22/164017
-メタゲノム解析ツール - macでインフォマティクス
-使ってみて便利だったツールを紹介する。
-PhyloPhlAn Segata et al. (2014)
-ランにはFasttreeが必要。
-
-----------
-## etetoolkit
-
-http://etetoolkit.org/
-
-2019年12月11日に更新
-バイオインフォマティクス Advent Calendar 2019 11日目
-https://qiita.com/aical/items/2231198d3d75e72bee39
-誰にも教えたくない超カンタン分子系統樹作成術 - Qiita
-ETE Toolkitを使った超簡便な分子系統樹作成法を紹介します。
-
-https://www.hobochuritsu.com/entry/2018/11/08/223813
-ETE Toolkitでノードに通し番号を付ける - ほぼ中立ブログ
-
-2017年05月26日に更新
-https://qiita.com/okuman/items/3dd1cd1292940442fcd0
-ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
-
-
+- [MEGA](#mega)
+- [timetree](#timetree)
 
 
 
@@ -164,28 +75,6 @@ https://ja.wikipedia.org/wiki/非加重結合法
 
 
 ----------
-## SeaView
-
-https://www.ncbi.nlm.nih.gov/pubmed/19854763
-Mol Biol Evol. 2010 Feb;27(2):221-4. doi: 10.1093/molbev/msp259. Epub 2009 Oct 23.
-SeaView version 4: A multiplatform graphical user interface for sequence alignment and phylogenetic tree building.
-Gouy M, Guindon S, Gascuel O.
-
-https://www.mybiosoftware.com/seaview-4-2-12-sequence-alignment-phylogenetic-tree-building.html
-SeaView 4.7 - Sequence Alignment and Phylogenetic Tree Building
-
-Dec 9, 2014
-https://www.youtube.com/watch?v=-XfF8sJaZ-c
-Exercise 3 Seaview to visually align sequences - YouTube
-
-
-http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/seaview2.html
-SeaView 使用法
-SeaView を用いたアラインメント編集
-作成：仲田崇志
-更新：2008年03月10日
-
-----------
 ## MEGA
 MEGA: Molecular Evolutionary Genetics Analysis software
 
@@ -225,7 +114,37 @@ MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
 Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
 
+
 ----------
+## timetree
+http://www.timetree.org/
+
+https://twitter.com/copypasteusa/status/621805347880108032
+Bacteria Versus Archaea. 4290.0 Million Years Ago. Molecular Time Estimates. http://timetree.org/search/pairwise/2/2157? #SPARQLthon
+ · Jul 16, 2015
+ArchaeaとBacteriaの分岐年代が42億年前となっていてウケる。
+
+http://yagays.github.io/blog/2013/07/10/timetree/
+TimeTreeで生物種間の分岐年代を調べる - Wolfeyes Bioinformatics beta
+
+2017年1月6日
+http://trhujgitudjf.blogspot.com/2017/01/imetree-timescale-of-life.html
+土と生き物: TimeTree: the timescale of life
+
+http://molbiol.hatenablog.com/entry/2016/02/27/203751
+TimeTreeアプリは学術的なアプリである - 生物学研究者の言いたい放題ブログ
+
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_article/-char/ja/
+オンラインツール“TimeTree: the timescale of life”を用いた生物多様性科学の授業開発とその評価
+塩野 貴之, 真栄城 亮, 楠本 聞太郎, 久保田 康裕
+2014 年 54 巻 3 号 p. 427-437
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_pdf
+
+
+
+
+----------
+
 ## updates
 
 
@@ -359,6 +278,49 @@ http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
 コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
 
 ----------
+### Gblocks
+
+http://sy41211.hatenablog.com/entry/2015/12/04/195438
+配列保存領域の抽出プログラムGblocksの使い方 - バイオインフォマティクス初心者の日常
+
+http://molevol.cmima.csic.es/castresana/Gblocks.html
+http://molevol.cmima.csic.es/castresana/Gblocks/Gblocks_documentation.html
+
+https://www.ncbi.nlm.nih.gov/pubmed/17654362
+Syst Biol. 2007 Aug;56(4):564-77.
+Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments.
+Talavera G1, Castresana J.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10742046
+Mol Biol Evol. 2000 Apr;17(4):540-52.
+Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.
+Castresana J1.
+
+----------
+### trimAl
+
+http://trimal.cgenomics.org
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712344/
+trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses
+In most scenarios (90%), trimAl outperformed Gblocks v0.91b with default parameters. 
+
+http://www.geocities.jp/ancientfishtree/trimAl_ji.html
+trimAl - 井上 潤
+
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+1.5.3 整列の信頼できない座位
+ここではtrimAlを用いて整列の信頼できない座位をトリミングする手順を説明します。
+
+https://www.fifthdimension.jp/wiki.cgi?page=%CA%AC%BB%D2%B0%E4%C5%C1%B3%D8%B4%D8%CF%A2
+分子遺伝学関連 - Life is fifthdimension.
+ Gblocks
+　multiple sequence alignmentからalignmentの信頼性の低い座位を探し出して除去するためのソフト。
+ trimAl
+　Gblocksを発展させてパラメータ自動設定機能を充実させたようなもの。
+
+
+----------
 ## OrthoFinder
 
 http://www.stevekellylab.com/software/orthofinder
@@ -411,6 +373,58 @@ OrthoFinder の使い方 - Qiita
 21 Nov 2017
 https://twitter.com/RokasLab/status/933007398398251009
 RokasLab on Twitter: "Interested on how fast ML phylogenetic programs (RAxML/ExaML, PhyML, IQ-TREE, &FastTree) perform on state-of-the-art empirical phylogenomic… https://t.co/tRfWRSZawe"
+
+### bcgTree
+
+https://github.com/molbiodiv/bcgTree
+Automatically calculate phylogenetic trees from bacterial core genes
+
+See this file for instructions on how to reproduce results from our article.
+https://github.com/molbiodiv/bcgTree/blob/master/reproduce_results.org
+
+### PhyloPhlAn
+
+https://huttenhower.sph.harvard.edu/phylophlan
+
+https://www.ncbi.nlm.nih.gov/pubmed/23942190
+Nat Commun. 2013;4:2304. doi: 10.1038/ncomms3304.
+PhyloPhlAn is a new method for improved phylogenetic and taxonomic placement of microbes.
+Segata N1, Börnigen D, Morgan XC, Huttenhower C.
+
+
+https://github.com/alvaralmstedt/Tutorials/wiki/Creating-bacterial-phylogenetic-trees-with-PhyloPhlAn
+Creating bacterial phylogenetic trees with PhyloPhlAn
+alvaralmstedt edited this page on Aug 13, 2015
+
+https://jpn.bioconus.com/phylophlan-is-new-method-795397
+フィロフランは、微生物の系統発生学的および分類学的配置を改善するための新しい方法です。 自然通信 - コミュニケーション - 2019
+
+http://kazumaxneo.hatenablog.com/entry/2018/09/12/221645
+phylogenetic marker genesを検出し、marker genes全てを使って系統樹を作成する自動化パイプライン ezTree - macでインフォマティクス
+PhyloPhlAn (Segata et al,. 2014) も簡単に紹介しています。
+
+http://kazumaxneo.hatenablog.com/entry/2017/05/22/164017
+メタゲノム解析ツール - macでインフォマティクス
+使ってみて便利だったツールを紹介する。
+PhyloPhlAn Segata et al. (2014)
+ランにはFasttreeが必要。
+
+### etetoolkit
+
+http://etetoolkit.org/
+
+2019年12月11日に更新
+バイオインフォマティクス Advent Calendar 2019 11日目
+https://qiita.com/aical/items/2231198d3d75e72bee39
+誰にも教えたくない超カンタン分子系統樹作成術 - Qiita
+ETE Toolkitを使った超簡便な分子系統樹作成法を紹介します。
+
+https://www.hobochuritsu.com/entry/2018/11/08/223813
+ETE Toolkitでノードに通し番号を付ける - ほぼ中立ブログ
+
+2017年05月26日に更新
+https://qiita.com/okuman/items/3dd1cd1292940442fcd0
+ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
 
 ### iqtree
 http://www.iqtree.org/
@@ -476,29 +490,12 @@ https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.pdf
 https://sites.google.com/site/ouminishiswebsite/8-shi-yan-fang-fa-deta-jie-xi/raxmlde-xi-tong-jie-xi
 系統解析: RAxML - Oumi Nishi's Website
 
-----------
-## timetree
-http://www.timetree.org/
-
-http://yagays.github.io/blog/2013/07/10/timetree/
-TimeTreeで生物種間の分岐年代を調べる - Wolfeyes Bioinformatics beta
-
-2017年1月6日
-http://trhujgitudjf.blogspot.com/2017/01/imetree-timescale-of-life.html
-土と生き物: TimeTree: the timescale of life
-
-http://molbiol.hatenablog.com/entry/2016/02/27/203751
-TimeTreeアプリは学術的なアプリである - 生物学研究者の言いたい放題ブログ
-
-https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_article/-char/ja/
-オンラインツール“TimeTree: the timescale of life”を用いた生物多様性科学の授業開発とその評価
-塩野 貴之, 真栄城 亮, 楠本 聞太郎, 久保田 康裕
-2014 年 54 巻 3 号 p. 427-437
-https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_pdf
-
 
 ----------
-## iTOL
+
+## view
+
+### iTOL
 
 https://besshomanabulumi.wixsite.com/manabuhome/research-tips
 iTOL: 系統樹をかっこよくメイクアップできるツール。
@@ -523,47 +520,56 @@ Interactive tree of life (iTOL) v3: an online tool for the display and annotatio
 Letunic I1, Bork P2.
 
 ----------
-## Gblocks
+### FigTree
+http://tree.bio.ed.ac.uk/software/figtree/
 
-http://sy41211.hatenablog.com/entry/2015/12/04/195438
-配列保存領域の抽出プログラムGblocksの使い方 - バイオインフォマティクス初心者の日常
+http://www.fish-evol.org/FigTree.html
+FigTree
+2018 年 5 月 9 日　改訂
+井上 潤
+FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
 
-http://molevol.cmima.csic.es/castresana/Gblocks.html
-http://molevol.cmima.csic.es/castresana/Gblocks/Gblocks_documentation.html
-
-https://www.ncbi.nlm.nih.gov/pubmed/17654362
-Syst Biol. 2007 Aug;56(4):564-77.
-Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments.
-Talavera G1, Castresana J.
-
-https://www.ncbi.nlm.nih.gov/pubmed/10742046
-Mol Biol Evol. 2000 Apr;17(4):540-52.
-Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.
-Castresana J1.
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
+FigTree の使い方
 
 ----------
-## trimAl
+### SeaView
 
-http://trimal.cgenomics.org
+https://www.ncbi.nlm.nih.gov/pubmed/19854763
+Mol Biol Evol. 2010 Feb;27(2):221-4. doi: 10.1093/molbev/msp259. Epub 2009 Oct 23.
+SeaView version 4: A multiplatform graphical user interface for sequence alignment and phylogenetic tree building.
+Gouy M, Guindon S, Gascuel O.
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712344/
-trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses
-In most scenarios (90%), trimAl outperformed Gblocks v0.91b with default parameters. 
+https://www.mybiosoftware.com/seaview-4-2-12-sequence-alignment-phylogenetic-tree-building.html
+SeaView 4.7 - Sequence Alignment and Phylogenetic Tree Building
 
-http://www.geocities.jp/ancientfishtree/trimAl_ji.html
-trimAl - 井上 潤
+Dec 9, 2014
+https://www.youtube.com/watch?v=-XfF8sJaZ-c
+Exercise 3 Seaview to visually align sequences - YouTube
 
-https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
-1.5.3 整列の信頼できない座位
-ここではtrimAlを用いて整列の信頼できない座位をトリミングする手順を説明します。
 
-https://www.fifthdimension.jp/wiki.cgi?page=%CA%AC%BB%D2%B0%E4%C5%C1%B3%D8%B4%D8%CF%A2
-分子遺伝学関連 - Life is fifthdimension.
- Gblocks
-　multiple sequence alignmentからalignmentの信頼性の低い座位を探し出して除去するためのソフト。
- trimAl
-　Gblocksを発展させてパラメータ自動設定機能を充実させたようなもの。
+http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/seaview2.html
+SeaView 使用法
+SeaView を用いたアラインメント編集
+作成：仲田崇志
+更新：2008年03月10日
 
+----------
+
+### annotree
+
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638
+AnnoTree: visualization and exploration of a functionally annotated microbial tree of life | Nucleic Acids Research | Oxford Academic
+
+https://twitter.com/strnr/status/1117782170645483520
+AnnoTree: visualization and exploration of a functionally annotated microbial tree of life
+Paper https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638 …
+App http://annotree.uwaterloo.ca/ 
+Code https://bitbucket.org/account/user/doxeylabcrew/projects/AN …
+Docs https://annotree-docs.readthedocs.io/en/latest/ 
+Data http://gtdb.ecogenomic.org/downloads 
+9:30 AM - 15 Apr 2019
+![](https://pbs.twimg.com/media/D4Mo9PSXoAEYnZ1.jpg)
 
 ----------
 
