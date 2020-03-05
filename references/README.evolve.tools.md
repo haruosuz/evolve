@@ -158,6 +158,16 @@ http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
 
 ----------
 
+https://doi.org/10.7875/togotv.2019.193
+2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
+41:40 / 52:32
+Gapが入るところは捨てる。
+Gapが入らないところだけ使う。
+
+http://www.tezuru-mozuru.com/?tag=mega
+- Gaps/Missing Data Treatment：ギャップの扱いの設定です．Complete deletionとすると，一つでもギャップがあるサイト（列）を解析からのぞけます．
+- Gaps/Missing Data Treatment：ギャップやミッシングデータの取り扱いが選べます．Complete deletionで，ギャップが一つでもある列は解析殻除きます．Partial Deletionで，比較する配列ごとにギャップの扱いを決めます．Use all siteでギャップもミッシングデータも全て扱います．
+
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#discarding-very-poorly-conserved-regions-from-an-alignment
 アラインメントから保存度の低い領域を破棄する
 Trimming a multiple sequence alignment by discarding columns with too many gaps.
