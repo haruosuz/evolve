@@ -42,9 +42,50 @@ Last Update: 2019-09
 - [taxon sampling](#taxon-sampling)
 - [pcm](#pcm) phylogenetic comparative methods
 - [network](#network)
+- [LBA](#lba) 長枝誘引
 
 ----------
-## 
+## LBA
+
+Long branch attraction (LBA)
+長枝誘引
+
+https://en.wikipedia.org/wiki/Long_branch_attraction
+
+https://haruosuz.hatenadiary.org/entry/20080813
+
+
+BLAST検索が系統学的再構成の代理として使用される場合、短い分岐は体系的なアーティファクトにつながります。
+https://www.ncbi.nlm.nih.gov/pubmed/27894995
+Mol Phylogenet Evol. 2017 Feb;107:338-344. doi: 10.1016/j.ympev.2016.11.016. Epub 2016 Nov 26.
+Short branches lead to systematic artifacts when BLAST searches are used as surrogate for phylogenetic reconstruction.
+Dick AA1, Harlow TJ2, Gogarten JP3.
+https://linkinghub.elsevier.com/retrieve/pii/S1055-7903(16)30377-3
+Long Branch Attraction (LBA) is a well-known artifact in phylogenetic reconstruction when dealing with branch length heterogeneity. Here we show another phenomenon, Short Branch Attraction (SBA), which occurs when BLAST searches, a phenetic analysis, are used as a surrogate method for phylogenetic analysis.
+
+http://sourui.org/publications/sorui/list/Sourui_PDF/Sourui-55-02-111.pdf
+Jpn. J. Phycol. (Sorlli) 55: 111-116， JlI ly 10，2007
+ワークショップA 分子データ解析にかかわるエトセトラ: 偏りのない系統推定を目指して
+稲垣祐司 : ロン グブランチの誘惑一分子系統解析のダークサイド
+https://sites.google.com/site/memicrobes/home/members/yuji
+稲垣祐司　博士（理学）／Yuji Inagaki Ph.D
+
+http://feynmanino.watson.jp/6760_LBA.html
+Cladistics 21,163–193 (2005)
+A review of long-branch attraction（長枝誘引について）
+Johannes Bergsten
+
+
+https://www.ism.ac.jp/editsec/toukei/pdf/50-1-045.pdf
+統計数理（2002）
+分子系統樹法の応用と現状の問題点
+真核生物の初期進化の解析を例として *
+橋本 哲男1,2 ・有末 伸子2 ・長谷川 政美
+
+分子系統樹の推論を誤らせる最も大きな要因と
+して最近注目を集めている Long Branch Attraction アーテファクトについて実例に則して解説
+した．さらに，それを克服するための手法として，座位間の進化速度の不均質性を Γ 分布の導
+入により考慮した解析を実例に対して試み，この方法の有効性を示した．
 
 ----------
 ## network
@@ -828,24 +869,29 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 田辺晶史
 多遺伝子座連結解析の問題
 
-2015-04-15
-http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
-RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
-(7) Bayesian concordance analysisによるconcordance treeの作成、種系統樹と異なる分岐を示す遺伝子の同定（BUCKyなどを使用）
-
-http://www.geocities.jp/ancientfishtree/phyMarker.html
-系統推定 - Jun Inoue
-
-酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
+http://www.fish-evol.org/phyMarker.html
+系統推定
+19 Sep. 2019. Jun Inoue
+　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
+concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
 
 https://www.ncbi.nlm.nih.gov/pubmed/23657258
 Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
 Inferring ancient divergences requires genes with strong phylogenetic signals.
 Salichos L1, Rokas A.
-http://www.nature.com/nature/journal/v497/n7449/full/nature12130.html
-the normalized Robinson–Foulds tree distance. 
+https://www.nature.com/articles/nature12130
+Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,070 distinct gene trees, which were all incongruent with the phylogeny inferred from concatenation. 
+
+Figure 1: The yeast species phylogeny recovered from the concatenation analysis of 1,070 genes disagrees with every gene tree, despite absolute bootstrap support.
+a, The yeast species phylogeny recovered from concatenation analysis of 1,070 genes using maximum likelihood. Asterisks denote internodes that received 100% bootstrap support by the concatenation analysis. Values near internodes correspond to gene-support frequency and internode certainty, respectively. The scale bar is in units of amino-acid substitutions per site. b, 
 
 ![https://www.nature.com/articles/nature12130/figures/1](https://media.nature.com/lw926/nature-assets/nature/journal/v497/n7449/images/nature12130-f1.2.jpg)
+
+
+2015-04-15
+http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
+RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
+(7) Bayesian concordance analysisによるconcordance treeの作成、種系統樹と異なる分岐を示す遺伝子の同定（BUCKyなどを使用）
 
 https://www.ncbi.nlm.nih.gov/pubmed/22936717
 Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
@@ -1025,6 +1071,20 @@ Functional horizontal gene transfer from bacteria to eukaryotes.
 Husnik F1,2,3, McCutcheon JP2.
 
 
+https://www.ncbi.nlm.nih.gov/pubmed/27894995
+Mol Phylogenet Evol. 2017 Feb;107:338-344. doi: 10.1016/j.ympev.2016.11.016. Epub 2016 Nov 26.
+Short branches lead to systematic artifacts when BLAST searches are used as surrogate for phylogenetic reconstruction.
+Dick AA1, Harlow TJ2, Gogarten JP3.
+https://linkinghub.elsevier.com/retrieve/pii/S1055-7903(16)30377-3
+
+Short Branch Attraction (SBA)
+
+SBA is an intended feature of BLAST searches, but becomes an issue, when top scoring BLAST hit analyses are used to infer Horizontal Gene Transfers (HGTs), assign taxonomic category with environmental sequence data in phylotyping, or gather homologous sequences for building gene families.
+
+Therefore, one should look for this phenomenon when conducting best BLAST hit analyses as a surrogate method to identify HGTs, in phylotyping, or when using BLAST to gather homologous sequences.
+
+It is well established that the top scoring BLAST hit does not necessarily represent the nearest phylogenetic neighbor (Eisen, 2000, Koski and Golding, 2001) and this is indeed expected, because the nearest neighbor is not always the most similar. 
+
 https://www.ncbi.nlm.nih.gov/pubmed/27189546
 Mol Biol Evol. 2016 Jul;33(7):1843-57. doi: 10.1093/molbev/msw062. Epub 2016 Apr 6.
 Estimating the Frequency of Horizontal Gene Transfer Using Phylogenetic Models of Gene Gain and Loss.
@@ -1107,6 +1167,18 @@ Becq J1, Churlaud C, Deschavanne P.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848678/
 Some methods such as GCtotal, GC1-GC3, 
 
+https://www.ncbi.nlm.nih.gov/pubmed/18632554
+Proc Natl Acad Sci U S A. 2008 Jul 22;105(29):10039-44. doi: 10.1073/pnas.0800679105. Epub 2008 Jul 16.
+Modular networks and cumulative impact of lateral transfer in prokaryote genome evolution.
+Dagan T1, Artzy-Randrup Y, Martin W.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18366724
+BMC Genomics. 2008 Mar 24;9:136. doi: 10.1186/1471-2164-9-136.
+Estimating the extent of horizontal gene transfer in metagenomic sequences.
+Tamames J1, Moya A.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2324111/
+We have created two different methods that are suitable for the study of HGT in metagenomic samples. The methods are based on phylogenetic and DNA compositional approaches, and have allowed us to assess the extent of possible HGT events in metagenomes for the first time. The methods are shown to be compatible and quite precise, although they probably underestimate the number of possible events. Our results show that the phylogenetic method detects HGT in between 0.8% and 1.5% of the sequences, while DNA compositional methods identify putative HGT in between 2% and 8% of the sequences. These ranges are very similar to these found in complete genomes by related approaches. Both methods act with a different sensitivity since they probably target HGT events of different ages: the compositional method mostly identifies recent transfers, while the phylogenetic is more suitable for the detections of older events. 
+
 https://www.ncbi.nlm.nih.gov/pubmed/18174121
 Microbiology. 2008 Jan;154(Pt 1):1-15. doi: 10.1099/mic.0.2007/011833-0.
 Are all horizontal gene transfers created equal? Prospects for mechanism-based studies of HGT patterns.
@@ -1161,6 +1233,11 @@ http://horikawad.hatenadiary.com/entry/20130405/1365159629
 他にも、高濃度の重金属に対処するために重要な機能を担う遺伝子を細菌から取り入れたことも示唆されている。ヒ素を細胞外に排出するポンプをつくる遺伝子は、好熱性細菌から取込んだようだ。このようにして、重金属が豊富なスープの中でも元気に増殖できるものと思われる。
 
 
+https://www.ncbi.nlm.nih.gov/pubmed/15653627
+Nucleic Acids Res. 2005 Jan 13;33(1):e6.
+Detection and characterization of horizontal transfers in prokaryotes using genomic signature.
+Dufraigne C1, Fertil B, Lespinats S, Giron A, Deschavanne P.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC546175/
 
 
 2004 June
@@ -1177,6 +1254,17 @@ http://www.au-techno.com/microbio/microbio_body.htm
 形質導入 (transduction：けいしつどうにゅう)
 接合 (conjugation：せつごう)
 
+http://virtualgenomeproject.blogspot.com/
+Virtual Genome Project Blog
+
+http://virtualgenomeproject.blogspot.com/2008/12/functions-of-horizontally-transferred.html
+Virtual Genome Project Blog: Functions of horizontally transferred genes
+
+http://virtualgenomeproject.blogspot.com/2008/09/contribution-of-horizontal-gene.html
+Virtual Genome Project Blog: Contribution of horizontal gene transfer to microbial evolution
+
+http://virtualgenomeproject.blogspot.com/2008/07/reticulate-classification-of-mobile.html
+Virtual Genome Project Blog: Reticulate classification of mobile genetic elements
 
 ----------
 ## marker
