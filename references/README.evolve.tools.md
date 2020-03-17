@@ -234,9 +234,7 @@ Genome Biol. 2019 Nov 14;20(1):238. doi: 10.1186/s13059-019-1832-y.
 OrthoFinder: phylogenetic orthology inference for comparative genomics.
 Emms DM1, Kelly S2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
-
-https://doi.org/10.5281/zenodo.1481147
-Supplemental Dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. | Zenodo
+43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
 
 https://www.hobochuritsu.com/entry/2019/04/20/223105
 全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
