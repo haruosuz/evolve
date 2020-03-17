@@ -24,9 +24,12 @@ Last Update: 2020-01
   - [bcgTree](#bcgTree)
   - [phylophlan](#phylophlan)
   - [ETE Toolkit](#etetoolkit)
-- [view](#view) 描画
-  - [iTOL](#itol)
+- [viewer](#viewer) 可視化ツール
+Dendroscope3
+Tree viewer
+IcyTree
   - [figtree](#figtree)
+  - [iTOL](#itol)
   - [SeaView](#seaview)
   - [annotree](#annotree)
 - [gene loss](#gene-loss) 遺伝子ロス
@@ -120,7 +123,7 @@ Phyx: phylogenetic tools for unix.
 ### 2015
 
 2015/08/31
-http://www.kenkyuu2.net/cgi-biotech2012/biotechforum.cgi?mode=view;Code=4381
+http://www.kenkyuu2.net/cgi-biotech2012/biotechforum.cgi?mode=viewer;Code=4381
 BioTechnicalフォーラム [16SrRNAによる系統解析]
 
 August 6, 2013
@@ -230,8 +233,6 @@ Published: 14 November 2019
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1832-y
 OrthoFinder: phylogenetic orthology inference for comparative genomics
 David M. Emms & Steven Kelly
-
-![](https://davidemms.github.io/assets/img/Workflow.png)
 
 https://www.hobochuritsu.com/entry/2019/04/20/223105
 全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
@@ -362,6 +363,10 @@ RAxML - Randomized Axelerated Maximum Likelihood
 https://sco.h-its.org/exelixis/web/software/raxml/hands_on.html
 RAxML hands-on session
 
+2020年01月09日に更新
+https://qiita.com/YF_bio/items/40344f77e13f5da0ad07
+RAxML-NGの使い方 - Qiita
+
 2017-05-25
 https://qiita.com/MaedaTaro_Umiushi/items/3bc287672429ba1a511f
 Phylogenomic解析をBiopython＋RaxML＋Conselでやってみる その2-AU検定 - Qiita
@@ -389,8 +394,33 @@ https://sites.google.com/site/ouminishiswebsite/8-shi-yan-fang-fa-deta-jie-xi/ra
 
 ----------
 
-## view
+## viewer
 
+http://dendroscope.org/
+Dendroscope3
+An interactive viewer for rooted phylogenetic trees and networks
+
+http://etetoolkit.org/treeview/
+Tree viewer - Online visualization of phylogenetic trees (newick) and alignments.
+
+http://kazumaxneo.hatenablog.com/entry/2018/10/09/111845
+webで動作する高速で軽量な分子系統樹可視化ツール IcyTree - macでインフォマティクス
+PhyML（Guindon and Gascuel、2003）やBEAST（Bouckaert et al、2014）のような他のパッケージは、図形出力を生成せず、代わりにFigTree（http://tree.bio.ed.ac.jp  link）やDendroscope（Huson and Scornavacca、2012 link）などの特殊な系統発生可視化ツールに依存している。
+
+----------
+### FigTree
+http://tree.bio.ed.ac.uk/software/figtree/
+
+http://www.fish-evol.org/FigTree.html
+FigTree
+2018 年 5 月 9 日　改訂
+井上 潤
+FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
+
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
+FigTree の使い方
+
+----------
 ### iTOL
 
 https://besshomanabulumi.wixsite.com/manabuhome/research-tips
@@ -414,19 +444,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/27095192
 Nucleic Acids Res. 2016 Jul 8;44(W1):W242-5. doi: 10.1093/nar/gkw290. Epub 2016 Apr 19.
 Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees.
 Letunic I1, Bork P2.
-
-----------
-### FigTree
-http://tree.bio.ed.ac.uk/software/figtree/
-
-http://www.fish-evol.org/FigTree.html
-FigTree
-2018 年 5 月 9 日　改訂
-井上 潤
-FigTree は newick 形式で作成された系統樹を graphical に表示するプログラムです．
-
-https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/figtree-の使い方
-FigTree の使い方
 
 ----------
 ### SeaView
