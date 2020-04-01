@@ -82,6 +82,11 @@ https://bi.biopapyrus.jp/seq/score-matrix.html
 https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/substitution_matrices.html
 Bioinformatics tutorial: Construction of substitution matrices 2020
 
+http://feynmanino.watson.jp/10717_220MolecularPhylogenetics.html
+220・分子系統学の手法
+- BLOSUM62はblastpのデフォルトで使われている置換スコア行列で、62%以上の配列一致性を示すアミノ酸配列間で観測された置換を基に算出して得られたアミノ酸の置換行列、という意味です（https://slidesplayer.net/slide/11313941/）。
+- PAM行列（Dayhoffのアミノ酸置換行列）は、アミノ酸の変化率が合計で１%の変化の割合になるときの相対的な割合を示す行列がPAM1行列で、それをN乗（PAM（250）行列なら250乗）することで得られた遷移行列です（https://www.slideserve.com/claus/pam250-matrix）。
+
 2.3 years ago
 https://www.biostars.org/p/291408/
 Creating a custom substitution matrix from multiple alignments/trees?
@@ -97,6 +102,18 @@ BMC Bioinformatics. 2017 Jun 5;18(1):293. doi: 10.1186/s12859-017-1703-z.
 PFASUM: a substitution matrix from Pfam structural alignments.
 Keul F1, Hess M2, Goesele M3, Hamacher K1.
 
+http://goto.kuicr.kyoto-u.ac.jp/lecture/2_homology_search.pdf
+2016年度「バイオインフォマティクス」
+1. 配列アライメント（五斗）
+スコアマトリックス（アミノ酸置換行列）
+- PAM (Accepted Point Mutations)
+- BLOSUM (BLOck SUbstitution Matrices) 
+
+https://www.ncbi.nlm.nih.gov/pubmed/20808876
+PLoS Comput Biol. 2010 Aug 19;6(8). pii: e1000885. doi: 10.1371/journal.pcbi.1000885.
+CodonTest: modeling amino acid substitution preferences in coding sequences.
+Delport W1, Scheffler K, Botha G, Gravenor MB, Muse SV, Kosakovsky Pond SL.
+
 http://www.fish-evol.org/AAmatrix.html
 井上潤：アミノ酸置換行列
 Note on amino acid R matrix
@@ -107,6 +124,24 @@ Note on amino acid R matrix
 5 January 2005
 http://abacus.gene.ucl.ac.uk/software/pamlFAQs.pdf
 How can I estimate an amino acid substitution matrix from my own data, like mtmam.dat and wag.dat? 
+
+
+https://assets.geneious.com/manual/2020.0/static/GeneiousManualsu114.html
+12.3.4 Distance models or molecular evolution models for Amino Acid sequences
+
+Jukes-Cantor
+This is the simplest substitution model. It assumes that all amino acids have the same equilibrium base frequency, i.e., each amino acid occurs with a frequency of 0.05 in protein sequences. This model also assumes that all amino acid substitutions occur at equal rates.
+
+https://www.megasoftware.net/mega1_manual/Contents.html
+Contents --MEGA manual
+```
+4. Distance Estimation
+4.1 Nucleotide Substitutions
+4.2 Synonymous and Nonsynonymous Substitutions
+4.3 Amino Acid Substitutions
+```
+https://www.megasoftware.net/mega1_manual/Distance.html#4-3
+
 
 ----------
 ## LBA
