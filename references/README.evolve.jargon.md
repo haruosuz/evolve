@@ -43,6 +43,70 @@ Last Update: 2019-09
 - [pcm](#pcm) phylogenetic comparative methods
 - [network](#network)
 - [LBA](#lba) 長枝誘引
+- [substitution matrix](#substitution-matrix) 置換行列
+
+----------
+## substitution matrix
+置換行列
+
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#akifumi-tanabe
+https://doi.org/10.7875/togotv.2019.195
+2019-12-08 分子系統学演習 - データセットの作成から仮説検定まで @ 分子系統樹推定法:理論と応用 ワークショップ
+1:07:45 / 3:22:38
+アミノ酸 置換速度 行列
+https://www.fifthdimension.jp/documents/molphytextbook/
+分子進化の統計モデリングとモデル選択
+https://www.fifthdimension.jp/documents/molphytextbook/modelselection_lecture.pdf
+20x20 の置換速度行列
+● 189 の rXY と 19 の πX をパラメータとして持つ
+計算困難
+● Empirical Model
+– 既知の系統樹と大量のデータから推定した値に固定
+– データから推定するパラメータ数は 0
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#subvis
+
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
+scoring matrix (substitution matrix) 
+BiostringsパッケージのnucleotideSubstitutionMatrix()関数でスコアマトリックス(置換行列)を作る:
+
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-protein-sequences-using-the-needleman-wunsch-algorithm
+アミノ酸置換行列 BLOSUM (BLOcks SUbstitution Matrix)
+
+https://bi.biopapyrus.jp/seq/
+2018.08.17
+https://bi.biopapyrus.jp/seq/score-matrix.html
+置換行列 | スコアマトリックスの作り方
+置換スコアは、アライメントから求める。アライメントは必要に応じて、近縁種の塩基配列やアミノ酸配列を用いたり、遠縁種のそれを用いたりする。
+
+https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/substitution_matrices.html
+Bioinformatics tutorial: Construction of substitution matrices 2020
+
+2.3 years ago
+https://www.biostars.org/p/291408/
+Creating a custom substitution matrix from multiple alignments/trees?
+
+You can use BayesTraits in Multistate mode
+
+21 months ago
+https://www.biostars.org/p/322615/
+Creating your own substitution matrix from an alignment
+
+https://www.ncbi.nlm.nih.gov/pubmed/28583067
+BMC Bioinformatics. 2017 Jun 5;18(1):293. doi: 10.1186/s12859-017-1703-z.
+PFASUM: a substitution matrix from Pfam structural alignments.
+Keul F1, Hess M2, Goesele M3, Hamacher K1.
+
+http://www.fish-evol.org/AAmatrix.html
+井上潤：アミノ酸置換行列
+Note on amino acid R matrix
+2007 年 11 月 3 日　改訂
+井上 潤
+アミノ酸置換行列に関する個人的なメモです．
+
+5 January 2005
+http://abacus.gene.ucl.ac.uk/software/pamlFAQs.pdf
+How can I estimate an amino acid substitution matrix from my own data, like mtmam.dat and wag.dat? 
 
 ----------
 ## LBA
@@ -177,6 +241,12 @@ Junichi Shimizu / 清水準一 on Twitter: "気をつけたい。　関西学院
 10:53 AM · Dec 10, 2019
 http://norimune.net/3313
 納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up!
+
+https://twitter.com/gekkou583/status/1232056543006183424
+トリウマ on Twitter: "いわゆる『ゾウの時間　ネズミの時間』説に対する疑義。内温性外温性含む陸上性脊椎動物4100種のデータ比較、代謝速度と寿命に負の相関があるという‘rate‐of‐living’ 理論は証明されず、その平均寿命は外因によるところが大きいとのこと。 https://t.co/Du5H6OmwQw" / Twitter
+6:35 AM · Feb 25, 2020
+https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13069
+No evidence for the ‘rate‐of‐living’ theory across the tetrapod tree of life
 
 ----------
 ## taxon sampling
