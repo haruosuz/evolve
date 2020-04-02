@@ -49,6 +49,22 @@ Last Update: 2019-09
 ## substitution matrix
 置換行列
 
+https://en.wikipedia.org/wiki/BLOSUM
+
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+第2章
+分子進化モデルの基礎
+
+2.1 塩基置換モデル
+2.1.1 塩基置換速度行列
+塩基置換速度行列(nucleotide substitution rate matrix)は、座位(site)内における、形質状態(character state)間の移行速度の不均質性(heterogeneity)を表現するものです。
+
+2.2 アミノ酸置換モデル
+2.2.1 Empirical model
+塩基置換速度行列は4x4の行列でしたが、アミノ酸置換速度行列は20x20の行列となるため、RateXYとFreqXの数は時間反転可能モデルでも 190 + 20 = 210 となり膨大です。そこで、既に系統関係の分かっている分類群間の系統樹において、大量のデータを用いてあらかじめ推定されたRateXY FreqXの値を用いたモデルをアミノ酸置換モデルとして用います。
+
+2.3 より複雑なモデル
+
 https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#akifumi-tanabe
 https://doi.org/10.7875/togotv.2019.195
 2019-12-08 分子系統学演習 - データセットの作成から仮説検定まで @ 分子系統樹推定法:理論と応用 ワークショップ
@@ -149,22 +165,6 @@ https://www.megasoftware.net/webhelp/contexthelp_hc/hc_estimate_substitution_mat
 Estimate Substitution Matrix (ML)
 Models | Estimate Substitution Matrix
 This option estimates and displays the nucleotide substitution rate matrix using the Maximum Likelihood method for the current data set and evolutionary model selected. This method finds the set of values for the substitution rate matrix parameters that maximizes the probability (likelihood) of the data. This is applicable only to nucleotide data (coding or non-coding).
-
-
-https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
-第2章
-分子進化モデルの基礎
-
-2.1 塩基置換モデル
-2.1.1 塩基置換速度行列
-塩基置換速度行列(nucleotide substitution rate matrix)は、座位(site)内における、形質状態(character state)間の移行速度の不均質性(heterogeneity)を表現するものです。
-
-2.2 アミノ酸置換モデル
-2.2.1 Empirical model
-塩基置換速度行列は4x4の行列でしたが、アミノ酸置換速度行列は20x20の行列となるため、RateXYとFreqXの数は時間反転可能モデルでも 190 + 20 = 210 となり膨大です。そこで、既に系統関係の分かっている分類群間の系統樹において、大量のデータを用いてあらかじめ推定されたRateXY FreqXの値を用いたモデルをアミノ酸置換モデルとして用います。
-
-2.3 より複雑なモデル
-
 
 
 ----------
