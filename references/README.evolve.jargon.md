@@ -82,6 +82,9 @@ https://bi.biopapyrus.jp/seq/score-matrix.html
 https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/substitution_matrices.html
 Bioinformatics tutorial: Construction of substitution matrices 2020
 
+
+
+
 http://feynmanino.watson.jp/10717_220MolecularPhylogenetics.html
 220・分子系統学の手法
 - BLOSUM62はblastpのデフォルトで使われている置換スコア行列で、62%以上の配列一致性を示すアミノ酸配列間で観測された置換を基に算出して得られたアミノ酸の置換行列、という意味です（https://slidesplayer.net/slide/11313941/）。
@@ -141,6 +144,27 @@ Contents --MEGA manual
 4.3 Amino Acid Substitutions
 ```
 https://www.megasoftware.net/mega1_manual/Distance.html#4-3
+
+https://www.megasoftware.net/webhelp/contexthelp_hc/hc_estimate_substitution_matrix_ml_.htm
+Estimate Substitution Matrix (ML)
+Models | Estimate Substitution Matrix
+This option estimates and displays the nucleotide substitution rate matrix using the Maximum Likelihood method for the current data set and evolutionary model selected. This method finds the set of values for the substitution rate matrix parameters that maximizes the probability (likelihood) of the data. This is applicable only to nucleotide data (coding or non-coding).
+
+
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+第2章
+分子進化モデルの基礎
+
+2.1 塩基置換モデル
+2.1.1 塩基置換速度行列
+塩基置換速度行列(nucleotide substitution rate matrix)は、座位(site)内における、形質状態(character state)間の移行速度の不均質性(heterogeneity)を表現するものです。
+
+2.2 アミノ酸置換モデル
+2.2.1 Empirical model
+塩基置換速度行列は4x4の行列でしたが、アミノ酸置換速度行列は20x20の行列となるため、RateXYとFreqXの数は時間反転可能モデルでも 190 + 20 = 210 となり膨大です。そこで、既に系統関係の分かっている分類群間の系統樹において、大量のデータを用いてあらかじめ推定されたRateXY FreqXの値を用いたモデルをアミノ酸置換モデルとして用います。
+
+2.3 より複雑なモデル
+
 
 
 ----------
