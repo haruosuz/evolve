@@ -51,19 +51,19 @@ Last Update: 2019-09
 
 https://en.wikipedia.org/wiki/BLOSUM
 
-https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
-第2章
-分子進化モデルの基礎
 
-2.1 塩基置換モデル
-2.1.1 塩基置換速度行列
-塩基置換速度行列(nucleotide substitution rate matrix)は、座位(site)内における、形質状態(character state)間の移行速度の不均質性(heterogeneity)を表現するものです。
 
-2.2 アミノ酸置換モデル
-2.2.1 Empirical model
-塩基置換速度行列は4x4の行列でしたが、アミノ酸置換速度行列は20x20の行列となるため、RateXYとFreqXの数は時間反転可能モデルでも 190 + 20 = 210 となり膨大です。そこで、既に系統関係の分かっている分類群間の系統樹において、大量のデータを用いてあらかじめ推定されたRateXY FreqXの値を用いたモデルをアミノ酸置換モデルとして用います。
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#subvis
 
-2.3 より複雑なモデル
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
+scoring matrix (substitution matrix) 
+BiostringsパッケージのnucleotideSubstitutionMatrix()関数でスコアマトリックス(置換行列)を作る:
+
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-protein-sequences-using-the-needleman-wunsch-algorithm
+アミノ酸置換行列 BLOSUM (BLOcks SUbstitution Matrix)
+
+
+
 
 https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#akifumi-tanabe
 https://doi.org/10.7875/togotv.2019.195
@@ -80,14 +80,20 @@ https://www.fifthdimension.jp/documents/molphytextbook/modelselection_lecture.pd
 – 既知の系統樹と大量のデータから推定した値に固定
 – データから推定するパラメータ数は 0
 
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#subvis
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+第2章
+分子進化モデルの基礎
 
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
-scoring matrix (substitution matrix) 
-BiostringsパッケージのnucleotideSubstitutionMatrix()関数でスコアマトリックス(置換行列)を作る:
+2.1 塩基置換モデル
+2.1.1 塩基置換速度行列
+塩基置換速度行列(nucleotide substitution rate matrix)は、座位(site)内における、形質状態(character state)間の移行速度の不均質性(heterogeneity)を表現するものです。
 
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-protein-sequences-using-the-needleman-wunsch-algorithm
-アミノ酸置換行列 BLOSUM (BLOcks SUbstitution Matrix)
+2.2 アミノ酸置換モデル
+2.2.1 Empirical model
+塩基置換速度行列は4x4の行列でしたが、アミノ酸置換速度行列は20x20の行列となるため、RateXYとFreqXの数は時間反転可能モデルでも 190 + 20 = 210 となり膨大です。そこで、既に系統関係の分かっている分類群間の系統樹において、大量のデータを用いてあらかじめ推定されたRateXY FreqXの値を用いたモデルをアミノ酸置換モデルとして用います。
+
+2.3 より複雑なモデル
+
 
 https://bi.biopapyrus.jp/seq/
 2018.08.17
@@ -97,8 +103,6 @@ https://bi.biopapyrus.jp/seq/score-matrix.html
 
 https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/substitution_matrices.html
 Bioinformatics tutorial: Construction of substitution matrices 2020
-
-
 
 
 http://feynmanino.watson.jp/10717_220MolecularPhylogenetics.html
@@ -132,6 +136,18 @@ https://www.ncbi.nlm.nih.gov/pubmed/20808876
 PLoS Comput Biol. 2010 Aug 19;6(8). pii: e1000885. doi: 10.1371/journal.pcbi.1000885.
 CodonTest: modeling amino acid substitution preferences in coding sequences.
 Delport W1, Scheffler K, Botha G, Gravenor MB, Muse SV, Kosakovsky Pond SL.
+
+2009年9月12日
+https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/
+バイオインフォマティクスの基礎：配列解析
+講師：川端　猛
+講義資料1 (PDF;2241 KB)
+https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_3_1.pdf
+
+https://www.youtube.com/watch?v=VpYaLtaU_dw
+【ゲノムリテラシー講座】配列解析基礎（講義1） - YouTube
+19:33 / 1:08:21
+
 
 http://www.fish-evol.org/AAmatrix.html
 井上潤：アミノ酸置換行列
