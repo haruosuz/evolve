@@ -145,10 +145,28 @@ http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_zikken.html
 
 https://mafft.cbrc.jp/alignment/software/
 
+https://mafft.cbrc.jp/alignment/software/anysymbol.html
+Ambiguous nucleotides (r, y, w, s, k, m, d, v, h, b; IUPAC-IUB codes) can be used and are scored as:
+```
+score(r,a) = ( score(a,a) + score(g,a) ) / 2
+```
+
+https://github.com/DomBennett/om..mafft
+Run mafft through outsider in R
+```
+#> There are 10 ambiguous characters.
+#>     1 / 13
+#> done.
+```
+
 https://twitter.com/chasewnelson/status/1186164467622498305
 Chase W. Nelson on Twitter: "@MinionLab @AprilWei001 The #MAFFT output for the same data was (1) faster and (2) makes actual sense. Thanks again! https://t.co/8bR2nJt1t1" / Twitter
-3:17 PM · Oct 21, 20
+3:17 PM · Oct 21, 2019
 
+https://twitter.com/sighex/status/1177789066097487872
+工樂樹洋
+"MAFFT開発秘話。私が4回生で宮田研に加わった時、まず手動で多重アラインメントする訓練から始まりました。研究室内部で使われていたそのエディタに、後にMAFFTの主軸となるアルゴリズムが間もなく入りました。Xcedと呼ばれた、メンバーしか知らないエディタです。
+12:36 PM · Sep 28, 2019
 
 http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
 マルチプルアライメントを行うMAFFT - macでインフォマティクス
