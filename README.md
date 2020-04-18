@@ -25,11 +25,36 @@ Last Update: 2019-11
 
 ----------
 
-## 
+## tree
+
+https://nextstrain.org/help/general/how-to-read-a-tree
+How to interpret the phylogenetic trees
+
+https://artic.network/how-to-read-a-tree.html
+How to read a phylogenetic tree
+Revision Date:	2018-07-30
 
 ----------
 
 ## books
+
+
+
+https://twitter.com/bluebacks_pub/status/1238606119745945600
+講談社ブルーバックス on Twitter: "【言ってなかったとは！】 「この世に生き残る生物は、激しい変化にいち早く対応できたもの」 多くの人がダーウィンが残した名言として信じているこの言説は、実は、ダーウィンの言葉ではなく、彼が唱えた「進化論」に照らしてみても誤ったものだった。https://t.co/R3xTKCS3d3 #進化のからくり" / Twitter
+https://gendai.ismedia.jp/articles/-/70729
+誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（1/2）
+https://gendai.ismedia.jp/articles/-/70729?page=2
+誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（2/2）
+あまり意識されることはないが、実は進化研究の成果は農業、製薬、医療などに幅広く利用されている。たとえば、新型コロナウイルスの感染ルート解明に欠かせぬ分子系統解析の技術は、進化理論の粋を集めたものである。
+
+https://twitter.com/shorebird2000/status/1237335052985323521
+shorebird on Twitter: "書評をブログにアップしました．　「進化のからくり」 - shorebird　進化心理学中心の書評など https://t.co/lp39LjLIPN" / Twitter
+https://shorebird.hatenablog.com/entry/2020/03/10/201021
+書評　「進化のからくり」 - shorebird　進化心理学中心の書評など
+
+
+
 
 
 http://aracnologia.macn.gov.ar/st/biblio/Yang%202006%20Computational%20Molecular%20Evolution.pdf
@@ -43,20 +68,32 @@ shorebird　進化心理学中心の書評など
 http://d.hatena.ne.jp/shorebird/20180522
 [書評]　「思考の体系学」
 
+https://shorebird.hatenablog.com/entry/20180509/1525863616
+「Darwin Comes to Town」 - shorebird　進化心理学中心の書評など
 
 http://sciencebook.blog110.fc2.com/blog-entry-1208.html
 『 ミニ特集：進化研究の本 』
 
+- 
+- https://twitter.com/search?q=%20文化系統学への招待&f=live
+- https://togetter.com/li/541217
+文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
+- 
 - https://twitter.com/search?q=%22文化進化の考古学%22
 - http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
 #3905. 系統学の歴史言語学への適用について (1)
 - http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
 #3906. 系統学の歴史言語学への適用について (2)
-- 
-- https://twitter.com/search?q=%20文化系統学への招待&f=live
-- https://togetter.com/li/541217
-文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
 
+https://twitter.com/leeswijzer/status/1214654308597161984
+MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "［欹耳袋］ hellog～英語史ブログ「#3905. 系統学の歴史言語学への適用について (1)」（2020年1月5日） https://t.co/IbinPQumj5 ※三中信宏 2017. 考古学は進化学から何を学んだか？ Pp. 125-165：中尾央・松木武彦・三中信宏（編）『文化進化の考古学』勁草書房を踏まえて．" / Twitter
+http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
+#3905. 系統学の歴史言語学への適用について (1)
+
+https://twitter.com/leeswijzer/status/1214654846663421952
+MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "続）［欹耳袋］ hellog～英語史ブログ「#3906. 系統学の歴史言語学への適用について (2)」（2020年1月6日） https://t.co/Pck4hubATc" / Twitter
+http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
+#3906. 系統学の歴史言語学への適用について (2)
 
 ----------
 
@@ -197,6 +234,21 @@ https://twitter.com/NikkeiScience/status/1106136676974370816
 ## updates
 
 ## 2020
+
+https://twitter.com/gekkou583/status/1232056543006183424
+トリウマ on Twitter: "いわゆる『ゾウの時間　ネズミの時間』説に対する疑義。内温性外温性含む陸上性脊椎動物4100種のデータ比較、代謝速度と寿命に負の相関があるという‘rate‐of‐living’ 理論は証明されず、その平均寿命は外因によるところが大きいとのこと。 https://t.co/Du5H6OmwQw" / Twitter
+6:35 AM · Feb 25, 2020
+https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13069
+No evidence for the ‘rate‐of‐living’ theory across the tetrapod tree of life - Stark - - Global Ecology and Biogeography - Wiley Online Library
+
+
+
+https://twitter.com/arambaut/status/1235584432809086983
+During the last big epidemic (either Swine flu or Ebola virus, I can't remember) I wrote a short post about 'how to read a tree' which people might find useful given how phylogenies are everywhere now on Twitter. Perhaps I will finish it some day. https://artic.network/how-to-read-a-tree.html
+12:14 AM · Mar 6, 2020
+https://artic.network/how-to-read-a-tree.html
+How to read a phylogenetic tree
+Revision Date:	2018-07-30
 
 
 https://twitter.com/marc_rr/status/1217712592380186626
@@ -451,15 +503,7 @@ http://www.fish-evol.org/link.html
 
 http://www.fish-evol.org/phyMarker.html
 系統推定
-19 June 2019. Jun Inoue
-　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
-concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
-
-https://www.ncbi.nlm.nih.gov/pubmed/23657258
-Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
-Inferring ancient divergences requires genes with strong phylogenetic signals.
-Salichos L1, Rokas A.
-Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,070 distinct gene trees, which were all incongruent with the phylogeny inferred from concatenation. 
+19 Sep. 2019. Jun Inoue
 
 ## [leeswijzer](http://leeswijzer.org/)
 MINAKA Nobuhiro
@@ -480,6 +524,13 @@ https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
 2012年度・第166回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉 ツイートまとめ - Togetter
 - https://togetter.com/li/207308
 分子系統学の理論と実習 - Togetter
+
+
+http://leeswijzer.org/cladist/PhylogenyBooks3October2018.html
+分類学と系統学を学ぶためのブックガイド
+（Version 3-October-2018）
+三中信宏
+
 
 http://leeswijzer.org/files/seibutsu-keitou.html
 生物系統学
@@ -511,10 +562,6 @@ http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.p
 
 https://note.mu/leeswijzer/n/ne827077ad556
 姉妹本3冊を書き終えて｜leeswijzer｜note
-
-https://twitter.com/leeswijzer/status/855969451849764864
-MINAKA Nobuhiro on Twitter: "［蒐書日誌］三中信宏〈分類学と系統学を学ぶためのブックガイド〉Version 23-April-2017 https://t.co/Xb0cqfDsxU を公開しました．旧バージョンから2年半ほど放置していたのですが，ふと思い立って全面改訂だん．" 
-11:19 AM · Apr 23, 2017
 
 Feb 22, 2017
 https://www.youtube.com/watch?v=PYLukN7xUcU
