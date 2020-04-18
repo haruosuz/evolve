@@ -45,6 +45,14 @@ Last Update: 2019-09
 - [LBA](#lba) 長枝誘引
 - [substitution matrix](#substitution-matrix) 置換行列
 
+
+----------
+
+https://ja.wikipedia.org/wiki/創始者効果
+
+https://ja.wikipedia.org/wiki/適応放散
+
+
 ----------
 ## substitution matrix
 置換行列
@@ -794,6 +802,34 @@ https://ja.wikipedia.org/wiki/Wikipedia:検証可能性#「真実かどうか」
 改善
 同化
 
+https://www.ncbi.nlm.nih.gov/pubmed/28887484
+Sci Rep. 2017 Sep 8;7(1):10985. doi: 10.1038/s41598-017-11226-9.
+Differential degeneration of the ACTAGT sequence among Salmonella: a reflection of distinct nucleotide amelioration patterns during bacterial divergence.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5591236/
+Discussion
+To gain a snapshot on the general patterns of genomic nucleotide composition optimization or amelioration in the process in which bacteria diverge into different niches such as distinct hosts (e.g., humans vs livestock or wild animals) or different tissues (causing systemic vs local infections), we analyzed a subset of the highly conserved short sequence CTAG among representative Salmonella pathogens by profiling the SpeI cleavage sequence ACTAGT in comparison with E. coli and other enteric bacteria. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/15240837
+Mol Biol Evol. 2004 Oct;21(10):1884-94. Epub 2004 Jul 7.
+Successful lateral transfer requires codon usage compatibility between foreign genes and recipient genomes.
+Medrano-Soto A1, Moreno-Hagelsieb G, Vinuesa P, Christen JA, Collado-Vides J.
+https://academic.oup.com/mbe/article/21/10/1884/1025177
+Codon Usage Amelioration Is Unnecessary
+
+We need to re-evaluate the notion that a foreign gene or fragment of DNA (assumed as atypical in sequence characteristics) becomes compositionally more similar to the host genome with increasing residence time. This process has been called “amelioration,” after reasoning that it makes a gene “better” (Lawrence and Ochman 1997), implying better translatability. This concept is a natural consequence of methods assuming that most foreign genes display mainly a poor-CU profile. However, as our results indicate, most foreign genes with poor CU are counter-selected for successful integration, suggesting that CU amelioration might occur in a small fraction of genes. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
+Variation in the strength of selected codon usage bias among bacteria
+
+But even this may have little relevance: in the same way that it is thought that the codon usage of horizontally transferred genes may take many millions of years to ameliorate to that of a new host genome (58), strongly selectively biased codon usage may take a very long time to decay after a reduction in effective population size, i.e. the codon usage bias currently observed may still be due in some part to evolutionary processes that occurred millions of years ago.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9689094
+Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9413-7.
+Molecular archaeology of the Escherichia coli genome.
+Lawrence JG1, Ochman H.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC21352/
+Amelioration of Horizontally Transferred Genes.
+
 https://www.ncbi.nlm.nih.gov/pubmed/9089078
 J Mol Evol. 1997 Apr;44(4):383-97.
 Amelioration of bacterial genomes: rates of change and exchange.
@@ -806,23 +842,6 @@ https://www.caister.com/cimb/v/v3/91.pdf
 Synonymous Codon Usage in Bacteria
 
 At the time of transfer the introduced genes have codon usage that is typical for the donor genome. With time, however, the codon usage evolves to match the codon usage of the host genome. This process of codon usage adjustment is called “amelioration” (Lawrence and Ochman, 1997; Lawrence and Ochman, 1998) and it is sometimes possible to estimate its rate and predict the age of lateral gene transfer events. 
-
-https://www.ncbi.nlm.nih.gov/pubmed/15240837
-Mol Biol Evol. 2004 Oct;21(10):1884-94. Epub 2004 Jul 7.
-Successful lateral transfer requires codon usage compatibility between foreign genes and recipient genomes.
-
-suggesting that the role of CU amelioration in HGT has been overemphasized.
-
-https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msh202
-Codon Usage Amelioration Is Unnecessary
-
-We need to re-evaluate the notion that a foreign gene or fragment of DNA (assumed as atypical in sequence characteristics) becomes compositionally more similar to the host genome with increasing residence time. This process has been called “amelioration,” after reasoning that it makes a gene “better” (Lawrence and Ochman 1997), implying better translatability. This concept is a natural consequence of methods assuming that most foreign genes display mainly a poor-CU profile. However, as our results indicate, most foreign genes with poor CU are counter-selected for successful integration, suggesting that CU amelioration might occur in a small fraction of genes. 
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
-Variation in the strength of selected codon usage bias among bacteria
-
-But even this may have little relevance: in the same way that it is thought that the codon usage of horizontally transferred genes may take many millions of years to ameliorate to that of a new host genome (58), strongly selectively biased codon usage may take a very long time to decay after a reduction in effective population size, i.e. the codon usage bias currently observed may still be due in some part to evolutionary processes that occurred millions of years ago.
-
 
 ----------
 ## allele
@@ -925,6 +944,12 @@ https://researchmap.jp/leeswijzer/
 https://ci.nii.ac.jp/naid/110002936265
 分岐学における祖先推定：　組合せ最適化問題としての系統推定
 三中 信宏 
+
+Published on Mar 3, 2012
+https://www.slideshare.net/tmr_kohei/kashiwar-2
+言語系統樹と雑煮の祖先形質復元（Kashiwa.R #2）
+tmr_kohei
+田村光平
 
 ----------
 ## basal
