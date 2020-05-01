@@ -290,8 +290,31 @@ OrthoFinder の使い方 - Qiita
 21 Nov 2017
 https://twitter.com/RokasLab/status/933007398398251009
 RokasLab on Twitter: "Interested on how fast ML phylogenetic programs (RAxML/ExaML, PhyML, IQ-TREE, &FastTree) perform on state-of-the-art empirical phylogenomic… https://t.co/tRfWRSZawe"
+https://www.ncbi.nlm.nih.gov/pubmed/29177474
+Mol Biol Evol. 2018 Feb 1;35(2):486-503. doi: 10.1093/molbev/msx302.
+Evaluating Fast Maximum Likelihood-Based Phylogenetic Programs Using Empirical Phylogenomic Data Sets.
+Zhou X1,2, Shen XX3, Hittinger CT4, Rokas A3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850867/
+
+### ezTree
+https://github.com/yuwwu/ezTree
+
+https://www.ncbi.nlm.nih.gov/pubmed/29363425
+BMC Genomics. 2018 Jan 19;19(Suppl 1):921. doi: 10.1186/s12864-017-4327-9.
+ezTree: an automated pipeline for identifying phylogenetic marker genes and inferring evolutionary relationships among uncultivated prokaryotic draft genomes.
+Wu YW1.
+
+http://kazumaxneo.hatenablog.com/entry/2018/09/12/221645
+phylogenetic marker genesを検出し、marker genes全てを使って系統比較する自動化されたパイプライン ezTree - macでインフォマティクス
 
 ### bcgTree
+
+https://www.ncbi.nlm.nih.gov/pubmed/27603265
+Genome. 2016 Oct;59(10):783-791. Epub 2016 May 11.
+bcgTree: automatized phylogenetic tree building from bacterial core genomes.
+Ankenbrand MJ1,1, Keller A1,1.
+http://www.nrcresearchpress.com/doi/full/10.1139/gen-2015-0175?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed
+The pipeline automatically extracts 107 essential single-copy core genes, found in a majority of bacteria, using hidden Markov models and performs a partitioned maximum-likelihood analysis. 
 
 https://github.com/molbiodiv/bcgTree
 Automatically calculate phylogenetic trees from bacterial core genes
@@ -307,7 +330,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/23942190
 Nat Commun. 2013;4:2304. doi: 10.1038/ncomms3304.
 PhyloPhlAn is a new method for improved phylogenetic and taxonomic placement of microbes.
 Segata N1, Börnigen D, Morgan XC, Huttenhower C.
-
 
 https://github.com/alvaralmstedt/Tutorials/wiki/Creating-bacterial-phylogenetic-trees-with-PhyloPhlAn
 Creating bacterial phylogenetic trees with PhyloPhlAn
