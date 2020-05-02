@@ -12,7 +12,9 @@ Last Update: 2020-01
 [2019](#2019)
 [2018](#2018)
 [2017](#2017)
-- [OrthoFinder](#orthofinder)
+- [ortholog](#ortholog)
+  - [JustOrthologs](JustOrthologs)
+  - [OrthoFinder](#orthofinder)
 - [alignment](#alignment) アライメント、編集
   - [mafft](#mafft)
   - [Gblocks](#gblocks)
@@ -137,6 +139,71 @@ http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_zikken.html
 分子系統樹の作成
 東京大学大学院農学生命科学研究科　大森宏
 
+
+
+----------
+## ortholog
+
+### JustOrthologs
+https://github.com/ridgelab/JustOrthologs/
+
+https://www.ncbi.nlm.nih.gov/pubmed/30084941
+Bioinformatics. 2019 Feb 15;35(4):546-552. doi: 10.1093/bioinformatics/bty669.
+JustOrthologs: a fast, accurate and user-friendly ortholog identification algorithm.
+Miller JB1, Pickett BD1, Ridge PG1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378933/
+
+http://kazumaxneo.hatenablog.com/entry/2019/03/29/073000
+高速なオルソログ推論ツール JustOrthologs - macでインフォマティクス
+
+----------
+### OrthoFinder
+
+http://www.stevekellylab.com/software/orthofinder
+
+https://github.com/davidemms/OrthoFinder
+
+https://davidemms.github.io/
+OrthoFinder | OrthoFinder Tutorials
+
+https://www.ncbi.nlm.nih.gov/pubmed/31727128
+Genome Biol. 2019 Nov 14;20(1):238. doi: 10.1186/s13059-019-1832-y.
+OrthoFinder: phylogenetic orthology inference for comparative genomics.
+Emms DM1, Kelly S2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
+43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
+
+https://www.hobochuritsu.com/entry/2019/04/20/223105
+全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
+
+2018 年 11 月 9 日　改訂
+井上 潤
+http://www.fish-evol.org/orthofinder_ji.html
+Orthofinder (githab) はオーソログを推定するプログラムです．配列類似性 all-in-all 比較の結果を用いた MCL 解析によるグルーピングから，オーソログをオーソグループ (orthogroup) として推定します．
+オーソロジーは遺伝子系統樹によって推定するもので，配列類似性は予想にすぎない，
+
+https://www.hobochuritsu.com/entry/2018/10/24/204801
+OrthoFinderでFastTreeを使おうとしたらエラーが出た - ほぼ中立ブログ
+オーソログ推定プログラム「OrthoFinder」は、推定したオーソロググループ配列を使用してそのまま系統樹作成まで行うことができます。
+
+2018年07月27日
+https://qiita.com/MaedaTaro_Umiushi/items/7c8cee435347eeee1cf5
+orthofinder + mafft + trimal + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
+
+http://kazumaxneo.hatenablog.com/entry/2017/08/01/201224
+OrthoFinderでオルソロググループを探索する - macでインフォマティクス
+
+2017/2/22
+https://qiita.com/okuman/items/c7ef9588e990a670d3ee
+OrthoFinderを用いたOrthologous解析 - Qiita
+OrthoFinderでは、MCL (markov cluster algorithm)を用いてオーソログを推定します。
+このOrthoGroupにはオーソログだけでなく、パラログも含まれてしまう
+
+2016年03月12日
+https://qiita.com/NariseT/items/e2c90d0235316f8878d8
+OrthoFinder の使い方 - Qiita
+
+
 ----------
 ## alignment
 アライメント
@@ -236,53 +303,6 @@ https://www.fifthdimension.jp/wiki.cgi?page=%CA%AC%BB%D2%B0%E4%C5%C1%B3%D8%B4%D8
  trimAl
 　Gblocksを発展させてパラメータ自動設定機能を充実させたようなもの。
 
-
-----------
-## OrthoFinder
-
-http://www.stevekellylab.com/software/orthofinder
-
-https://github.com/davidemms/OrthoFinder
-
-https://davidemms.github.io/
-OrthoFinder | OrthoFinder Tutorials
-
-https://www.ncbi.nlm.nih.gov/pubmed/31727128
-Genome Biol. 2019 Nov 14;20(1):238. doi: 10.1186/s13059-019-1832-y.
-OrthoFinder: phylogenetic orthology inference for comparative genomics.
-Emms DM1, Kelly S2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
-43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
-
-https://www.hobochuritsu.com/entry/2019/04/20/223105
-全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
-
-2018 年 11 月 9 日　改訂
-井上 潤
-http://www.fish-evol.org/orthofinder_ji.html
-Orthofinder (githab) はオーソログを推定するプログラムです．配列類似性 all-in-all 比較の結果を用いた MCL 解析によるグルーピングから，オーソログをオーソグループ (orthogroup) として推定します．
-オーソロジーは遺伝子系統樹によって推定するもので，配列類似性は予想にすぎない，
-
-https://www.hobochuritsu.com/entry/2018/10/24/204801
-OrthoFinderでFastTreeを使おうとしたらエラーが出た - ほぼ中立ブログ
-オーソログ推定プログラム「OrthoFinder」は、推定したオーソロググループ配列を使用してそのまま系統樹作成まで行うことができます。
-
-2018年07月27日
-https://qiita.com/MaedaTaro_Umiushi/items/7c8cee435347eeee1cf5
-orthofinder + mafft + trimal + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
-
-http://kazumaxneo.hatenablog.com/entry/2017/08/01/201224
-OrthoFinderでオルソロググループを探索する - macでインフォマティクス
-
-2017/2/22
-https://qiita.com/okuman/items/c7ef9588e990a670d3ee
-OrthoFinderを用いたOrthologous解析 - Qiita
-OrthoFinderでは、MCL (markov cluster algorithm)を用いてオーソログを推定します。
-このOrthoGroupにはオーソログだけでなく、パラログも含まれてしまう
-
-2016年03月12日
-https://qiita.com/NariseT/items/e2c90d0235316f8878d8
-OrthoFinder の使い方 - Qiita
 
 ----------
 ## tree
