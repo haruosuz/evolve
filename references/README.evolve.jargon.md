@@ -6,6 +6,8 @@ Last Update: 2019-09
 # jargon
 
 ## Table of Contents
+- [unclassified](#unclassified)
+- [featuring](#featuring)
 - [2018](#2018)
 - [neutral theory](#neutral-theory) 中立説
 - [adaptation](#adaptation) 適応
@@ -41,17 +43,167 @@ Last Update: 2019-09
 - [selective inference](#selective-inference)
 - [taxon sampling](#taxon-sampling)
 - [pcm](#pcm) phylogenetic comparative methods
-- [network](#network)
 - [LBA](#lba) 長枝誘引
 - [substitution matrix](#substitution-matrix) 置換行列
+- [partition](#partition)
+- [network](#network)
+
+----------
+## network
 
 
 ----------
+
+## featuring
+
+https://quizlet.com/153288496/chpt-261-263-flash-cards/
+Chpt. 26.1-26.3単語カード | Quizlet
+branch points
+-in picture, point 3 is common ancestor of A, B, C
+-4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
+
+![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
+
+http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
+Morecular phylogeny
+2015年度生物測定学応用実験
+分子系統樹
+東京大学大学院農学生命科学研究科　大森宏
+2016年 1月 4日
+1. 塩基置換の確率モデル
+2. 系統樹作成手法
+参考文献
+分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+系統推定の基本用語
+
+https://ja.wikipedia.org/wiki/退化
+一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
+
+Tomoaki NISHIYAMA
+Wed Dec 27 18:49:55 JST 2000
+http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
+用語集
+
+![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
+
+
+----------
+
+https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
+１．分類学に関するおもな用語　更新日：2017.4.14
+
+２．系統学に関する用語
+
+phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
+A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
+
+numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
+★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
+
+cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
+A system of classification in which the only groups formally recognized are clades.
+★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
+
+
+----------
+## unclassified
+
+
+https://ja.wikipedia.org/wiki/姉妹群
+https://en.wikipedia.org/wiki/Sister_group
 
 https://ja.wikipedia.org/wiki/創始者効果
 
 https://ja.wikipedia.org/wiki/適応放散
 
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
+https://www.fifthdimension.jp/documents/molphytextbook/
+
+
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+http://www.nikkei-science.com/page/magazine/0809/200809_060.html
+生物の種とは何か | 日経サイエンス
+「系統学的種概念」
+　しかし，系統学的種概念の採用により，種の細分化が今後どんどん進んでしまうのではないかと警戒する意見もある。ロンドン大学インペリアルカレッジのメイス（Georgina Mace）は，「系統学的種概念の問題点は，どこまで分ければいいのかがわからないという点にある」という。少なくとも原理的には，突然変異が1つでもあれば，それを共有する小さな動物群に対して種名を与える根拠となるだろう。「しかし，そこまで細かく分けるのは少々ばかげている」と彼女は言う。メイスは，ある個体群を新種として独立させるためには，それが，地理的分布や気候条件あるいは捕食者被食者の関係の点で生態的に異なっていることを示すべきだと言う。
+　しかし，種を分けすぎることを心配するのではなく，あくまでデータに基づいて判断すべきだという研究者もいる。ニューヨーク州立大学ストーニーブルック校のウィーンズ（John Wiens）は，「種の細分化を懸念するのは本末転倒だろう」と反論する。「最初から『種数の上限はここまで』と制限するのはとても科学的とはいえない」と彼は主張する。
+　種の定義をめぐる問題をさらに厄介にしているのが微生物だ。生物多様性の90％以上を占める微生物の種は，どう定義すればよいのだろう？　動植物にも，微生物にも適用できる種の定義は可能なのだろうか？　
+
+----------
+## microbe
+
+最終更新日: 2020.05.07
+https://www.sbj.or.jp/sbj/sbj_yomoyama_2.html
+生物工学会誌 –『続・生物工学基礎講座－バイオよもやま話－』 | 公益社団法人 日本生物工学会
+微生物の系統樹，どう描くの？	飯野 隆夫・伊藤 隆	91-10-576
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9110/9110_yomoyama.pdf
+
+https://www.sbj.or.jp/sbj/sbj_yomoyama.html
+生物工学基礎講座－バイオよもやま話－（2011年89巻4号～2013年91巻3号掲載）　 | 公益社団法人 日本生物工学会
+知っておきたい殺菌・除菌・滅菌技術	松村 吉信・中田 訓浩	89–12–739
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_1.pdf
+何から始めよう　微生物の同定－細菌・アーキア編－	浜田 盛之・鈴木 健一朗	89–12–744
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_2.pdf
+
+https://jcm.brc.riken.jp/ja/
+微生物材料開発室 (JCM) (RIKEN BRC)
+
+----------
+
+## clade
+
+https://en.wikipedia.org/wiki/Monophyly
+In cladistics, a monophyletic group, or clade, is a group of organisms that consists of all the descendants of a common ancestor (or more precisely ancestral population).
+
+https://ja.wikipedia.org/wiki/系統群
+Clade）とは、共通の祖先から進化した生物群のこと。側系統群、単系統群、多系統群などがある。
+
+https://ja.wikipedia.org/wiki/単系統群
+とは、生物の分類群のうち、単一の進化的系統からなり、しかもその系統に属する生物すべてを含むものをいう。
+
+https://ja.wikipedia.org/wiki/分岐学
+分類学における分類群（タクソン）には、単一の系統からなる「単系統群」（例えば鳥類）と、大きな単系統群から一部の単系統群を除いてまとめた「側系統群」（鳥類を除いた爬虫類など）があるが、分岐学の立場では側系統群は分類群として認めるべきではなく、単系統群（分岐学ではクレードCladeという）のみを認めるべきだということになる（進化分類学と呼ばれる考え方では側系統群も認める）。
+
+http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
+単系統，側系統，多系統
+作成：仲田崇志
+更新：2006年10月13日
+「単系統」（monophyly）あるいは「単系統群」（monophyletic group）
+「分岐群」 （clade；「クレード」と字訳されることも多い）
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
+
+
+----------
+## partition
+
+2016 年 10 月 12日
+http://www.fish-evol.org/RAxML.html
+パーティションの設定
+
+2012 年 7 月 16 日
+http://www.fish-evol.org/DatabaseEnglish.html
+Partition 解析
+
+2015/10/20
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.pdf
+2.1.2 座位間の置換速度不均質性
+また、置換の起きない座位(invariable site)と置換が起きる座位(variable site)の2つにカテゴリ分けするモデル( + I と表記)や、 + G と + I を併用したモデルもあります。これらは一定の法則に従って自動的に行われるカテゴリ分けですが、解析者が任意のカテゴリ分け(partitioning)を指定することもできます( + SS (site specific rateの意)と表記)。異なるコドン位置(codon position)や遺伝子座などの置換速度は異なる可能性が高いので、これらがしばしばカテゴリとして指定されます。
+
+https://www.ism.ac.jp/editsec/toukei/pdf/56-1-145.pdf
+方法論の概略を述べ，真核生物の大系統の問題に関するデータ解析の実例を示した．
+結合のための統計モデルとして，単に個々の遺伝子（もしくは全データセットを構成する個々
+の ‘区分’）の連結データに対して 1 セットの枝長を推定する「連結モデル」，個別の遺伝子（区
+分）それぞれについて独立に枝長の推定を行う「分離モデル」，枝長が遺伝子（区分）間で比例し
+ているという仮定を置く「比例モデル」の 3 つのモデルを取り上げ，
+Three models of branch length estimation are considered assuming that all
+genes (or partitions for the full data set)have the same branch length (concatenate model),
+each gene (partition) has a separate set of branch lengths (separate model), and branch
+lengths are proportional among genes (partitions) (proportional model).
 
 ----------
 ## substitution matrix
@@ -235,9 +387,6 @@ https://www.ism.ac.jp/editsec/toukei/pdf/50-1-045.pdf
 入により考慮した解析を実例に対して試み，この方法の有効性を示した．
 
 ----------
-## network
-
-----------
 ## pcm
 phylogenetic comparative methods
 
@@ -361,58 +510,6 @@ Long branch attractionにも気をつけろ
 https://www.ikushimo.com/news/2007/02/10.html
 ◆ [Science] Detecting the Node-Density Artifact in Phylogeny Reconstruction - 09:53:39
 　タクソンサンプリング密度が高ければ高いほど、最節約・最尤・ベイジアン系統推定における多重置換検出率は上昇する。つまり、タクソンサンプリングが粗な分類群と密な分類群では枝長の推定精度が異なる。多重置換検出率が低ければ低いほど「見かけの進化速度」が遅くなり、逆は速くなる。ここで、現在の系統推定法では進化の速い分類群どうしが引きつけ合うLong-Branch Attractionという効果が知られている。故に、密にサンプリングされた分類群では多重置換がよく検出されて進化が見かけ上高速になり、そのような分類群どうしがLong-Branch Attractionによって引きつけ合う効果が生まれる。これが系統推定を誤る原因になり得る。
-
-----------
-
-https://quizlet.com/153288496/chpt-261-263-flash-cards/
-Chpt. 26.1-26.3単語カード | Quizlet
-branch points
--in picture, point 3 is common ancestor of A, B, C
--4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
-
-![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
-
-http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
-Morecular phylogeny
-2015年度生物測定学応用実験
-分子系統樹
-東京大学大学院農学生命科学研究科　大森宏
-2016年 1月 4日
-1. 塩基置換の確率モデル
-2. 系統樹作成手法
-参考文献
-分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-系統推定の基本用語
-
-https://ja.wikipedia.org/wiki/退化
-一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
-
-Tomoaki NISHIYAMA
-Wed Dec 27 18:49:55 JST 2000
-http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
-用語集
-
-![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
-
-
-----------
-
-https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
-１．分類学に関するおもな用語　更新日：2017.4.14
-
-２．系統学に関する用語
-
-phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
-A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
-
-numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
-★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
-
-cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
-A system of classification in which the only groups formally recognized are clades.
-★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
 
 ----------
 ## convergent
@@ -698,26 +795,6 @@ http://www.fish-evol.org/dNdS_ji.html
 dN/dS 検定
 2018 年 4 月 12 日　井上 潤，米澤 隆弘
 このサイトでは dN/dS 値を推定することで，タンパク質コーディング遺伝子 (DNA 配列) に働いた正の自然選択を検出する解析 (dN/dS 検定) を紹介します．PAML に含まれるプログラム codeml を使います．バージョンは paml4.7a を使っています．
-
-----------
-
-
-## clade
-https://ja.wikipedia.org/wiki/単系統群
-
-https://ja.wikipedia.org/wiki/分岐学
-分類学における分類群（タクソン）には、単一の系統からなる「単系統群」（例えば鳥類）と、大きな単系統群から一部の単系統群を除いてまとめた「側系統群」（鳥類を除いた爬虫類など）があるが、分岐学の立場では側系統群は分類群として認めるべきではなく、単系統群（分岐学ではクレードCladeという）のみを認めるべきだということになる（進化分類学と呼ばれる考え方では側系統群も認める）。
-
-http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
-単系統，側系統，多系統
-作成：仲田崇志
-更新：2006年10月13日
-「単系統」（monophyly）あるいは「単系統群」（monophyletic group）
-「分岐群」 （clade；「クレード」と字訳されることも多い）
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
-
 
 ----------
 ## adaptation
@@ -1057,7 +1134,6 @@ a, The yeast species phylogeny recovered from concatenation analysis of 1,070 
 
 ![https://www.nature.com/articles/nature12130/figures/1](https://media.nature.com/lw926/nature-assets/nature/journal/v497/n7449/images/nature12130-f1.2.jpg)
 
-
 2015-04-15
 http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
 RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
@@ -1080,6 +1156,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/
 Figure 2
 The seven topologies and the number of genes mapped to them, found by the Bayesian gene tree concordance analysis.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/figure/pone-0037607-g002/
+
+https://www.ncbi.nlm.nih.gov/pubmed/22272658
+BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
+Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae.
+Suzuki H1, Lefébure T, Bitar PP, Stanhope MJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
 
 https://www.ncbi.nlm.nih.gov/pubmed/14663083
 Microbiology. 2003 Dec;149(Pt 12):3507-17.
