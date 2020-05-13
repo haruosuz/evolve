@@ -1146,6 +1146,14 @@ The seven topologies and the number of genes mapped to them, found by the Bayesi
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/figure/pone-0037607-g002/
 
 https://www.fifthdimension.jp/documents/molphytextbook/
+分子系統学演習 - データセットの作成から仮説検定まで
+
+系統樹・系統仮説の可視化と系統仮説間の統計的比較：講義編
+https://www.fifthdimension.jp/documents/molphytextbook/hypothesistesting_lecture.pdf
+いつやるか
+● 最尤系統樹の中で特に重要な系統仮説を検証する
+● 既知の対立する系統仮説を比較する
+
 分子系統解析における様々な問題について
 https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 多遺伝子座連結解析の問題
