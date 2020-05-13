@@ -1105,11 +1105,16 @@ https://www.primate.or.jp/forum/第42回集団遺伝学講座/
 
 ----------
 ## concordance
+一致
 
 http://www.stat.wisc.edu/~ane/bucky/
 BUCKy: A program for Bayesian Concordance Analysis
 
 ![](http://www.stat.wisc.edu/~ane/bucky/images/buckywebfig2.gif)
+
+三つ以上の遺伝子で独立に系統樹を作成し,次にそれを重ね合わせる。
+そして樹形が concordance から conflict に転換する点を
+種の境界と認識する。
 
 https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 分子系統解析における様々な問題について
