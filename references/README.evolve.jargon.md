@@ -1107,23 +1107,11 @@ https://www.primate.or.jp/forum/第42回集団遺伝学講座/
 ## concordance
 一致
 
-http://www.stat.wisc.edu/~ane/bucky/
-BUCKy: A program for Bayesian Concordance Analysis
-
-![](http://www.stat.wisc.edu/~ane/bucky/images/buckywebfig2.gif)
-
 http://www.fish-evol.org/phyMarker.html
 系統推定
 19 Sep. 2019. Jun Inoue
 　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
 concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
-
-https://www.fifthdimension.jp/documents/molphytextbook/
-分子系統解析における様々な問題について
-https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
-多遺伝子座連結解析の問題
-● パラログ混入や浸透交雑、水平伝播、incomplete lineage
-sortingで、遺伝子座間で支持する系統樹が異なる(不調和)
 
 https://www.ncbi.nlm.nih.gov/pubmed/23657258
 Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
@@ -1135,12 +1123,34 @@ Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,07
 Figure 1: The yeast species phylogeny recovered from the concatenation analysis of 1,070 genes disagrees with every gene tree, despite absolute bootstrap support.
 a, The yeast species phylogeny recovered from concatenation analysis of 1,070 genes using maximum likelihood. Asterisks denote internodes that received 100% bootstrap support by the concatenation analysis. Values near internodes correspond to gene-support frequency and internode certainty, respectively. The scale bar is in units of amino-acid substitutions per site. b, 
 
-![https://www.nature.com/articles/nature12130/figures/1](https://media.nature.com/lw926/nature-assets/nature/journal/v497/n7449/images/nature12130-f1.2.jpg)
+![https://www.nature.com/articles/nature12130/figures/1](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature12130/MediaObjects/41586_2013_Article_BFnature12130_Fig1_HTML.jpg?as=webp)
+
+http://www.stat.wisc.edu/~ane/bucky/
+BUCKy: A program for Bayesian Concordance Analysis
+
+![](http://www.stat.wisc.edu/~ane/bucky/images/buckywebfig2.gif)
 
 2015-04-15
 http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
 RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
 (7) Bayesian concordance analysisによるconcordance treeの作成、種系統樹と異なる分岐を示す遺伝子の同定（BUCKyなどを使用）
+
+https://www.ncbi.nlm.nih.gov/pubmed/22666370
+PLoS One. 2012;7(5):e37607. doi: 10.1371/journal.pone.0037607. Epub 2012 May 30.
+Gene repertoire evolution of Streptococcus pyogenes inferred from phylogenomic analysis with Streptococcus canis and Streptococcus dysgalactiae.
+Lefébure T1, Richards VP, Lang P, Pavinski-Bitar P, Stanhope MJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/
+Level of concordance between core gene trees was also assessed using Bucky [39] 
+Figure 2
+The seven topologies and the number of genes mapped to them, found by the Bayesian gene tree concordance analysis.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/figure/pone-0037607-g002/
+
+https://www.fifthdimension.jp/documents/molphytextbook/
+分子系統解析における様々な問題について
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+多遺伝子座連結解析の問題
+● パラログ混入や浸透交雑、水平伝播、incomplete lineage
+sortingで、遺伝子座間で支持する系統樹が異なる(不調和)
 
 https://www.ncbi.nlm.nih.gov/pubmed/22936717
 Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
@@ -1150,15 +1160,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F2/
-
-https://www.ncbi.nlm.nih.gov/pubmed/22666370
-PLoS One. 2012;7(5):e37607. doi: 10.1371/journal.pone.0037607. Epub 2012 May 30.
-Gene repertoire evolution of Streptococcus pyogenes inferred from phylogenomic analysis with Streptococcus canis and Streptococcus dysgalactiae.
-Lefébure T1, Richards VP, Lang P, Pavinski-Bitar P, Stanhope MJ.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/
-Figure 2
-The seven topologies and the number of genes mapped to them, found by the Bayesian gene tree concordance analysis.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/figure/pone-0037607-g002/
 
 https://www.ncbi.nlm.nih.gov/pubmed/22272658
 BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
