@@ -1112,20 +1112,18 @@ BUCKy: A program for Bayesian Concordance Analysis
 
 ![](http://www.stat.wisc.edu/~ane/bucky/images/buckywebfig2.gif)
 
-三つ以上の遺伝子で独立に系統樹を作成し,次にそれを重ね合わせる。
-そして樹形が concordance から conflict に転換する点を
-種の境界と認識する。
-
-https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
-分子系統解析における様々な問題について
-田辺晶史
-多遺伝子座連結解析の問題
-
 http://www.fish-evol.org/phyMarker.html
 系統推定
 19 Sep. 2019. Jun Inoue
 　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
 concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
+
+https://www.fifthdimension.jp/documents/molphytextbook/
+分子系統解析における様々な問題について
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+多遺伝子座連結解析の問題
+● パラログ混入や浸透交雑、水平伝播、incomplete lineage
+sortingで、遺伝子座間で支持する系統樹が異なる(不調和)
 
 https://www.ncbi.nlm.nih.gov/pubmed/23657258
 Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
@@ -1167,6 +1165,12 @@ BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
 Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae.
 Suzuki H1, Lefébure T, Bitar PP, Stanhope MJ.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
+
+2005
+http://jppa.or.jp/archive/pdf/59_03_01.pdf
+三つ以上の遺伝子で独立に系統樹を作成し,次にそれを重ね合わせる。
+そして樹形が concordance から conflict に転換する点を
+種の境界と認識する。
 
 https://www.ncbi.nlm.nih.gov/pubmed/14663083
 Microbiology. 2003 Dec;149(Pt 12):3507-17.
