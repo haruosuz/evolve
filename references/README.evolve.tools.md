@@ -1,4 +1,4 @@
-Last Update: 2020-01
+Last Update: 2020-05
 
 ----------
 
@@ -53,6 +53,10 @@ https://git.scicore.unibas.ch/TBRU/Treemmer
 Treemmer 
 Python tool to reduce size and redundancy of phylogenetic datasets
 
+3:55 PM · Sep 17, 2019
+https://twitter.com/level3defless/status/1173852867712565248
+Koichi Higashi on Twitter: "すごく久々に系統解析やってるけど、ModelTest-NGがすごく使いやすいし速い。ProtTestの改良版。DNAに関してはGTR+I+Gにしとけばいいモデル選択いらない、みたいな話が最近あったけど、一応DNAにも対応してる。 https://t.co/bggA8Is0Kt" / Twitter
+
 ----------
 ## featuring
 
@@ -93,6 +97,12 @@ BMC Evol Biol. 2019 Dec 2;19(1):219. doi: 10.1186/s12862-019-1541-x.
 PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees.
 - Python
 (https://github.com/yangfangs/physpetools)
+
+
+2019年10月21日に更新
+https://qiita.com/kaizen_nagoya/items/150646f72c55a36f8c39
+遺伝子解析、遺伝子機能解析 - Qiita
+
 
 2019/10/19
 https://kimbio.info/mafft→raxml→figtreeで遺伝子の系統樹を作成する-ubuntu19-04
