@@ -10,7 +10,26 @@
 
 ----------
 
+https://ja.wikipedia.org/wiki/遺伝子音楽
+遺伝子音楽(いでんしおんがく，Gene Music）とは、遺伝学者の大野乾(おおの すすむ)が、昭和61年(1986年)に、幾つかの遺伝子の塩基配列を音符に変換することで記譜・演奏した音楽。DNAの塩基配列の構成原理に、音楽の音符の構成原理との同一性を見出し、このことを示すために行われた。
+
+https://home.hiroshima-u.ac.jp/amphibia/miura/music.html
+DNA MUSIC
+-Compose and Listen to DNA Music of Giant Salamander-
+「音楽が音楽たる由縁は、主題が少しずつ変化しならが繰り返されていくところにありますが、同様に繰り返しを持つDNAも音楽に変換しえるわけです」。この大野乾博士（1986）のアイデアに基づき、一定のルールに従って、国泰寺高校の生徒たちが解きあかしたオオサンショウウオのDNA配列を音楽に変換してみました。
+
+----------
+
 ## updates
+
+https://wired.jp/special/2016/dear-synechococcus/
+微生物に「わたしは人類」と言わせたい──やくしまるえつこ　微生物と音楽をめぐる対話 | WIRED.jp
+2016.09.21 WED 20:50
+アミノ酸をコードするコドン
+
+https://www.gizmodo.jp/2016/07/post_664782.html
+やくしまるえつこ、微生物のDNAに｢人類滅亡後の音楽｣をインストールしてKENPOKU ARTのテーマソングに | ギズモード・ジャパン
+
 
 ### 2015
 
@@ -51,9 +70,14 @@ DNA ミュージック：楽譜変換アルゴリズムの検討
 豊橋技術科学大学 工学部 知識情報工学系
 The 18th Annual Conference of the Japanese Society for Artificial Intelligence, 2004
 
+2002
+https://wired.jp/2002/05/24/dna塩基配列を音楽に変換して著作権保護？/
+:: Sorry, this page not found :: | WIRED.jp
+
 2001
 https://ci.nii.ac.jp/naid/130004575318
 https://www.jstage.jst.go.jp/article/ciqs/tokusi/0/tokusi_0_J17/_pdf
+https://www.jstage.jst.go.jp/article/ciqs2001/tokusi/0/tokusi_0_J17/_pdf/-char/ja
 分子ミュージックに関する研究: DNAミュージック
 (豊橋技科大)○川添康司、高橋由雅* 
 情報化学討論会・構造活性相関シンポジウム講演要旨集 tokusi(0), J17-J17, 2001
@@ -63,6 +87,13 @@ https://ir.lib.shimane-u.ac.jp/files/public/0/3614/20170425015146482355/c0040035
 35，pp.99_106(2001)
   文字列照合アルゴリズムの楽譜への適用
       家山智史・濱田 賢作 島根大学大学院総合理工学研究科数理・情報システム学専攻
+
+1986
+https://www.jstage.jst.go.jp/article/kagakukyouiku/34/3/34_KJ00003482276/_article/-char/ja/
+https://www.jstage.jst.go.jp/article/kagakukyouiku/34/3/34_KJ00003482276/_pdf/-char/ja
+DNA からの音楽的メッセージ(<特集>化学と芸術)
+松平 頼暁
+1986 年 34 巻 3 号 p. 216-217
 
 ----------
 ## data
