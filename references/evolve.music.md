@@ -73,6 +73,9 @@ Full-Text Music Databases
 https://www.print-gakufu.com/scene/detail/2035/
 MIDIデータ 大量配信中！ - ぷりんと楽譜
 
+https://www.tacsystem.com/products/hitnmix/
+Hit'n'Mix - 製品情報 ｜ TACSYSTEM
+
 https://staff.aist.go.jp/m.goto/RWC-MDB/index-j.html
 RWC Music Database (in Japanese)
 RWC研究用音楽データベース (DB) は、 研究者が研究目的に利用する上で、 共通利用の自由、学術利用の自由が確保された音楽情報処理研究用DBである。 
