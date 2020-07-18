@@ -46,11 +46,43 @@ Last Update: 2019-09
 - [LBA](#lba) 長枝誘引
 - [substitution matrix](#substitution-matrix) 置換行列
 - [partition](#partition)
+- [mutation](#mutation) 変異
 - [network](#network)
 
 ----------
 ## network
 
+----------
+## mutation
+
+https://en.wikipedia.org/wiki/Mutation_bias
+
+http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/170517/2017_生物配列解析基礎_3回目_資料.pdf
+分子系統樹 12
+DNAに蓄積する変異は一定の割合で起こっており、そのほとんどが自然選択とは無関 係な中立の変異である
+DNAの配列がどのくらい似ているかを調べることによって、進化的にどの程度近縁で あるかを知ることができる
+
+https://kimuraseminar.wordpress.com/2017年8月3日-系統学2/
+2017年8月3日 系統学2
+系統学２（岸野洋久）
+集団に固定されない有害な変異は観測されないので、分子進化速度は突然変異率と中立な変異の割合で表現されます。分子進化速度の一定性の作り出す分子時計からは、これら二つの要素が安定しており、あまり変化しないことが伺われます。
+
+2008
+https://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
+コドンモデルを用いた分岐年代のベイズ推定
+https://www.ism.ac.jp/editsec/toukei/pdf/56-1-037.pdf
+中立説の下では f = 1
+2N となり，分子進化速度は集団の大きさに左右されず，遺伝
+子の突然変異率になる．従って，突然変異率が一定であるような状況では，分子時計が成立す
+ることになる．進化速度の一定性が認められる場合においては，化石データと一部の配列デー
+タから推定された進化速度を全系統樹に適用し，系統樹の全ての分岐点の年代を推定すること
+ができる．
+
+2002
+https://www.ism.ac.jp/editsec/toukei/pdf/50-1-017.pdf
+中立説の下では，突然変異率が一定であれば，分子進化速度は
+一定となり，いわゆる分子時計が成立するため，これを検定する方式がいくつか提唱されてき
+た（
 
 ----------
 
