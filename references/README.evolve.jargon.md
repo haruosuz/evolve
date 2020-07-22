@@ -47,15 +47,78 @@ Last Update: 2019-09
 - [substitution matrix](#substitution-matrix) 置換行列
 - [partition](#partition)
 - [mutation](#mutation) 変異
+- [revisionterm](#revisionterm)
 - [network](#network)
 
 ----------
 ## network
 
 ----------
+## revisionterm
+
+2017
+年12月22日
+http://jams.med.or.jp/dic/h29material_s5.pdf
+平成29度日本医学会分科会用語委員会
+遺伝学用語改訂に関するワーキンググループについて
+```
+現行の用語 日本人類遺伝学会(2009)	日本遺伝学会(2017)
+Variant 変異体 多様体（バリアント）
+```
+
+https://www.jstage.jst.go.jp/article/mammalianscience/57/2/57_387/_article/-char/ja
+「Variation」の訳語として「変異」が使えなくなるかもしれない問題について：日本遺伝学会の新用語集における問題点
+浅原 正和
+https://www.jstage.jst.go.jp/article/mammalianscience/57/2/57_387/_pdf/-char/ja
+哺乳類科学　57(2)：387-390，2017
+©日本哺乳類学会
+今後も variation の訳語として，伝統的に用いられ，現在も
+広く使われている「変異」という訳語を残すことが望まし
+いと考えられる．
+
+https://gsj3.org/wordpress_v2/wp-content/themes/gsj3/assets/docs/pdf/revisionterm_20170911.pdf
+遺伝学用語改訂について
+2017.9.11 日本遺伝学会
+2017年9月に、「遺伝単　～遺伝学用語集　対訳集つき～」(生命の科学遺伝別
+冊：http://www.nts-book.co.jp/item/detail/summary/bio/20170929_182.html)が発刊されました。この
+書籍を通じて遺伝学用語の改訂を提案しています。改訂された主な用語は以下の通りです。
+```
+説明番号 英語 旧来の訳語 新たに改訂された訳語
+
+4 mutation 突然変異 [突然]変異**
+5 variation 変異、彷徨変異 (1)多様性(2)変動 ***
+6 diversity 多様性 (1)多様性(2)分岐 ***
+```
+
+https://jshg.jp/about/notice-reference/
+日本人類遺伝学会
+遺伝学用語の改訂
+https://jshg.jp/wp-content/uploads/2017/08/d5fdc84ae83d3a9a6627b7ac249e4db0.pdf
+4. variant 多様体（バリアント） 変異体
+
+----------
 ## mutation
 
 https://en.wikipedia.org/wiki/Mutation_bias
+
+2020年05月01日
+https://hc.nikkan-gendai.com/articles/272230?page=2
+ＲＮＡウイルスは塩基配列が変わりやすく、変異が蓄積する速度はヒトの核ゲノムのＤＮＡと比べて１００万倍速いといわれています。
+新型コロナウイルスの進化速度は、ＳＡＲＳ、ＭＥＲＳと比較して、ほぼ同じで新型コロナウイルスのＲＮＡゲノムに１年間で蓄積される塩基変異は３万個の塩基のうち２４個程度と推定されています。
+https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
+新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
+SARS-CoV-2の変異
+RNAウイルスの複製を担うRNAポリメラーゼは校正機構を有さないため，突然変異率が非常に高く，そのため塩基置換速度（進化速度）も非常に速い．ただし，コロナウイルスについては他のRNAウイルスと異なり，複製時のエラーを校正する酵素をもち15），SARS-CoV-2でも機能していると考えられる．2020年3月6日にエジンバラ大学のAndrew Rambautらが報告したSARS-CoV-2の176配列（進化速度解析に使用した配列は86配列）を用いた解析結果によると，進化速度は0.80×10－3 substitution/site/yearと推定された（95％信頼区間：0.14〜1.31×10－3）（http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356）．SARS-CoV-2のゲノムサイズがおよそ30×103塩基ということを考えると，1年でおよそ24箇所くらいの塩基置換が蓄積していくと考えられる※3．
+https://sites.google.com/site/sonakagawa/etc/sars-cov-2_yodosha_etc
+「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」執筆のよもやま話 - So Nakagawa Website
+・変異について、具体的に1年で24箇所くらいの変異を蓄積するという書き方ですが、これはどのくらいの変異があるのかを想像してほしくて具体的な数字を上げたものです。これは、ウイルス集団のなかで残っている株がそれぞれオリジナルと比較すると24程度の突然変異が残っているというだけで、集団中にはもっと多くの突然変異が存在します（これは集団サイズに依存します）。
+
+https://sites.google.com/site/nosada17/Home/osada_text?authuser=0
+Naoki Osada (CV) - 生命情報解析学テキスト
+生命情報解析学テキスト第2章
+https://drive.google.com/file/d/12TOTW2kOEtqC2G7vZRqRswH_5bNTXG5F/view
+第2章 集団遺伝学
+世代あたりに固定する変異 の数のことを分子進化速度(rate of molecular evolution)と呼ぶ.中立な変異では分子進化速 度は突然変異率に等しくなる.この関係が分子進化の中立説(the neutral theory of molecular evolution)と呼ばれる説の中心になる.
 
 http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/170517/2017_生物配列解析基礎_3回目_資料.pdf
 分子系統樹 12
