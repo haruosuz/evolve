@@ -42,6 +42,7 @@ IcyTree
 - [HyPhy](#hyphy): Hypothesis testing using Phylogenies
 - [MEGA](#mega)
 - [timetree](#timetree)
+- [treefinder](#treefinder)
 
 ----------
 ## unclassified
@@ -77,6 +78,43 @@ http://d.hatena.ne.jp/haruosuz/20080813
 
 https://ja.wikipedia.org/wiki/非加重結合法
 非加重結合法（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)
+
+
+----------
+## treefinder
+
+3:50 PM · Jul 17, 2020
+https://twitter.com/iNut/status/1284017692706406401
+Ⓝ on Twitter: "treefinder, もっとやばいページがあった… https://t.co/7ArmKVhvH6" / Twitter
+これだけ沢山citeされる優れたソフトウェアを作って無償で公開しているのに、自分は全く儲からないし(おそらく)リスペクトもされなかったというのが背景にあるのかもしれない… もしそうだとしたらなんて悲しい話なんだ…
+開発者のインタビューがあった
+これによるとTreefinderを開発して多くの人が便利に使ってくれたにも関わらず誰もまともな給料で雇おうとせず結局無職になってしまったということである 「移民の研究者やエンジニアで研究所を一杯にしているが、俺1人で作ったソフトウェアの方がずっと優れているし使われている」と
+
+12:25 PM · Jul 17, 2020
+https://twitter.com/leeswijzer/status/1283965910722781185
+MINAKA Nobuhiro on Twitter: "オープンアクセス誌に掲載したからソフトウェアともども “リトラクト” になったということですか．かつて南アフリカ共和国がアパルトヘイトを敷いていた頃， J. Felsenstein が PHYLIP を「南アでは使用不許可」にしていたことをふと思い出しました． https://t.co/Ml8eEtwmIb" / Twitter
+
+11:31 AM · Jul 17, 2020·
+https://twitter.com/lambtani____/status/1283952516112068608
+らむ on Twitter: "TREEFINDER (2004) の掲載が取り下げられていた https://t.co/GXuTipzCz0" / Twitter
+著者インタビューを読んでみると切ない。本人曰く、給料が毎月減らされていって、2004年からは2015年の時点で無職だったそうな。ライセンス変更のおもな理由は、アメリカとアカデミアのシステムへのプロテスト。
+2015-10-07
+https://www.homolog.us/blogs/distraction/2015/10/07/interview-with-gangolf-jobb-the-author-of-treefinder/
+Interview with Gangolf Jobb, the Author of Treefinder
+
+
+9:54 AM · Jul 17, 2020
+https://twitter.com/fukunagaTsu/status/1283928034852999170
+福永　津嵩 on Twitter: "6位の"TREEFINDER: a powerful graphical analysis environment for molecular phylogenetics. "とか捏造する要素どこにあるん・・？と思ったら、まさかの「ソフトウェアライセンスを変更して全ての研究者が無料で利用可能じゃなくなったのでjournal policyに反するから撤回」だった。" / Twitter
+https://twitter.com/fukunagaTsu/status/1283931088054661120
+なんかもう少し調べたらもっと政治的にヤバい問題だった(http://treefinder.de)。これを知らなかったのは恥。
+
+10:09 AM · Jan 27, 2016
+https://twitter.com/ka_ka_xyz/status/692152312605888513
+Ka-Ka on Twitter: ""米国の帝国主義に反対だから、米国の科学者には、2015年2月1日からツリーファインダー（Treefinder）の使用を認めないと宣言" なんかこー、色々とロックだ（こなみかん） / “「思想」：ガンゴルフ・ジョブ（Gangol…” https://t.co/kr6Ha9lQtA" / Twitter
+https://haklak.com/page_Gangolf_Jobb.html
+ガンゴルフ・ジョブ（Gangolf Jobb） | 白楽の研究者倫理
+特殊事件「思想」：ガンゴルフ・ジョブ（Gangolf Jobb）（ドイツ）
 
 
 ----------
@@ -182,6 +220,24 @@ OrthoFinder: phylogenetic orthology inference for comparative genomics.
 Emms DM1, Kelly S2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
 43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
+
+https://sites.google.com/view/phylocompgenomics2020/schedule
+Twitter: #VirtualPhyloComp2020 - Schedule
+Day 2
+Friday, July 17
+13:40 - 14:00
+OrthoFinder: Building a Fully Phylogenetic Orthology Analysis
+David Emms (Steve Kelly Lab - University of Oxford, UK)
+https://www.youtube.com/watch?v=ZBH75Vekpnc
+52:15 / 3:31:15
+
+3:51 AM · Jul 16, 2020
+https://twitter.com/David__Emms/status/1283474268701982720
+David Emms on Twitter: "There's a new version of OrthoFinder out! It uses the gene trees it already infers to infer a set of orthogroups at each phylogenetic level within the species tree. This increases accuracy substantially &amp; also lets you add outgroups to your analysis: https://t.co/ogbupnnbxx https://t.co/Th3uZOCHqW" / Twitter
+
+https://github.com/davidemms/OrthoFinder/issues/355
+No support value in SpeciesTree_rooted.txt · Issue #355 · davidemms/OrthoFinder
+
 
 https://www.hobochuritsu.com/entry/2019/04/20/223105
 全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
@@ -495,6 +551,12 @@ FigTree の使い方
 ----------
 ### iTOL
 
+
+5:40 AM · Jul 16, 2020
+https://twitter.com/kmoooooog/status/1283501696417554432
+itol有料化か。全然払ってもいい。
+https://itol.embl.de/pricing.cgi
+
 https://besshomanabulumi.wixsite.com/manabuhome/research-tips
 iTOL: 系統樹をかっこよくメイクアップできるツール。
 ProtTest3: ML,Bayes系統樹を書くときの置換モデルを推定してくれるツール。
@@ -610,10 +672,16 @@ Csurös M1.
 
 ----------
 ## HyPhy
-https://www.youtube.com/watch?v=4gcQ6CCTRIY
-Introduction to HyPhy: Hypothesis testing using Phylogenies - YouTube
 
 https://github.com/haruosuz/mgsa/tree/master/hyphy
+
+Jun 16, 2020
+https://www.youtube.com/watch?v=fgNrPbOTpxE
+Download, install, and run HYPHY in under 10 Minutes! A quick intro to our software - YouTube
+
+Oct 4, 2013
+https://www.youtube.com/watch?v=4gcQ6CCTRIY
+Introduction to HyPhy: Hypothesis testing using Phylogenies - YouTube
 
 ----------
 ## MEGA
@@ -629,6 +697,7 @@ MEGA3 チュートリアル（Actin gene coding region を例題として）
 - 配列データのアライメント
 - 分子系統樹の作成
 
+動画
 https://twitter.com/hashtag/ws222?f=live
 https://doi.org/10.7875/togotv.2019.193
 2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
@@ -637,6 +706,7 @@ https://doi.org/10.7875/togotv.2019.193
 https://ultrabem-branch3.com/informatics/bioinformatics/tree_make_mega_ml
 系統樹の作り方: MEGA で最尤法を使う
 
+動画
 https://doi.org/10.7875/togotv.2017.106
 2017-11-06 MEGA7を使って配列のアラインメント・系統解析を行う
 
