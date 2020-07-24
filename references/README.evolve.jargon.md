@@ -53,6 +53,29 @@ Last Update: 2019-09
 ----------
 ## network
 
+
+----------
+
+
+https://ja.wikipedia.org/wiki/クラドグラム
+
+http://www.h.chiba-u.jp/lab/florista/kokubun/biology/current/biology161005.pdf
+・枝の長さに意味がない系統樹（クラドグラム）と枝の長さが変化の度合いを示す系統樹（ファイログ
+ラム）がある。ファイログラムには必ずスケール（時間または形質の変化の数）がつく。
+
+https://www.ebi.ac.uk/training/online/course/introduction-phylogenetics/what-phylogeny/aspects-phylogenies/branches
+So if you see figures in the literature with branches longer than ~3 substitutions per site then you might want to worry about the confidence we have in those estimates!
+
+
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+分子系統解析における様々な問題について
+そもそもどこの配列を使うべき?
+● 置換が早すぎず遅すぎない(=多すぎず少なすぎない)
+https://www.youtube.com/watch?time_continue=10844&v=vq9Fzd0Yqzc&feature=emb_title
+分子系統学演習 - データセットの作成から仮説検定まで @ 分子系統樹推定法:理論と応用 ワークショップ - YouTube
+2:57:40 / 3:22:38
+「置換が速すぎる = 枝の長さ（1サイトあたりの置換数の平均値）が1を超える。全サイトを通して平均置換数が1を超えている。多重置換が起きている」
+
 ----------
 ## revisionterm
 
@@ -95,6 +118,19 @@ https://jshg.jp/about/notice-reference/
 遺伝学用語の改訂
 https://jshg.jp/wp-content/uploads/2017/08/d5fdc84ae83d3a9a6627b7ac249e4db0.pdf
 4. variant 多様体（バリアント） 変異体
+
+
+----------
+## 
+
+https://ja.wikipedia.org/wiki/非加重結合法
+（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)は系統樹を作製するためのボトムアップ式のクラスタ解析法である。入力データは対象の各ペア間の距離であり、有根系統樹が作製される。進化速度が一定（分子時計仮説）と仮定して有根系統樹を作製するのにときどき用いられる。
+UPGMAは進化速度一定の仮定を用いているため、これが対象に関して正しいことが示されない限り、系統樹の推定に適した方法ではない。
+やはり距離を用いる方法であるが上記の仮定を要しないものに近隣結合法（NJ法）がある。
+https://ja.wikipedia.org/wiki/近隣結合法
+
+https://shorebird.hatenablog.com/entry/20180601/1527842963
+「系統体系学の世界」 - shorebird　進化心理学中心の書評など
 
 ----------
 ## mutation
