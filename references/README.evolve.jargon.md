@@ -67,6 +67,10 @@ https://www.ebi.ac.uk/training/online/course/introduction-phylogenetics/what-phy
 So if you see figures in the literature with branches longer than ~3 substitutions per site then you might want to worry about the confidence we have in those estimates!
 
 
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
+Akifumi Tanabe
+https://www.fifthdimension.jp/documents/molphytextbook/
+田邉晶史
 https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 分子系統解析における様々な問題について
 そもそもどこの配列を使うべき?
@@ -534,6 +538,11 @@ phylogenetic comparative methods
 https://twitter.com/vsbuffalo/status/1216475530066743296
 Vince Buffalo on Twitter: "A question for comparative methods folks: when we think about patterns across extremely broad taxonomical groups, such as the body length and generation time (Bonner 1983) and body size and pop density (Damuth 1987), does it make sense to correct for phylogeny? https://t.co/0Ggr9uEAJA" / Twitter
 6:42 AM · Jan 13, 2020
+
+- https://lukejharmon.github.io/pcm/
+- https://lukejharmon.github.io/pcm/chapters/
+- https://lukejharmon.github.io/pcm/chapter1_introduction/
+Introduction · Phylogenetic Comparative Methods
 
 https://lukejharmon.github.io/pcm/pdf/phylogeneticComparativeMethods.pdf
 Phylogenetic Comparative Methods
