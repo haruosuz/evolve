@@ -43,21 +43,23 @@ Last Update: 2019-09
 - [selective inference](#selective-inference)
 - [taxon sampling](#taxon-sampling)
 - [pcm](#pcm) phylogenetic comparative methods
-- [LBA](#lba) 長枝誘引
 - [substitution matrix](#substitution-matrix) 置換行列
 - [partition](#partition)
 - [mutation](#mutation) 変異
 - [revisionterm](#revisionterm)
+- [branch length](#branch-length) 枝長
+- [LBA](#lba) 長枝誘引
 - [network](#network)
 
 ----------
 ## network
 
-
 ----------
-
+## branch length
+枝長
 
 https://ja.wikipedia.org/wiki/クラドグラム
+cladogram
 
 http://www.h.chiba-u.jp/lab/florista/kokubun/biology/current/biology161005.pdf
 ・枝の長さに意味がない系統樹（クラドグラム）と枝の長さが変化の度合いを示す系統樹（ファイログ
@@ -79,6 +81,47 @@ https://www.youtube.com/watch?time_continue=10844&v=vq9Fzd0Yqzc&feature=emb_titl
 分子系統学演習 - データセットの作成から仮説検定まで @ 分子系統樹推定法:理論と応用 ワークショップ - YouTube
 2:57:40 / 3:22:38
 「置換が速すぎる = 枝の長さ（1サイトあたりの置換数の平均値）が1を超える。全サイトを通して平均置換数が1を超えている。多重置換が起きている」
+
+----------
+## LBA
+Long branch attraction (LBA)
+長枝誘引
+
+https://en.wikipedia.org/wiki/Long_branch_attraction
+
+https://haruosuz.hatenadiary.org/entry/20080813
+
+
+BLAST検索が系統学的再構成の代理として使用される場合、短い分岐は体系的なアーティファクトにつながります。
+https://www.ncbi.nlm.nih.gov/pubmed/27894995
+Mol Phylogenet Evol. 2017 Feb;107:338-344. doi: 10.1016/j.ympev.2016.11.016. Epub 2016 Nov 26.
+Short branches lead to systematic artifacts when BLAST searches are used as surrogate for phylogenetic reconstruction.
+Dick AA1, Harlow TJ2, Gogarten JP3.
+https://linkinghub.elsevier.com/retrieve/pii/S1055-7903(16)30377-3
+Long Branch Attraction (LBA) is a well-known artifact in phylogenetic reconstruction when dealing with branch length heterogeneity. Here we show another phenomenon, Short Branch Attraction (SBA), which occurs when BLAST searches, a phenetic analysis, are used as a surrogate method for phylogenetic analysis.
+
+http://sourui.org/publications/sorui/list/Sourui_PDF/Sourui-55-02-111.pdf
+Jpn. J. Phycol. (Sorlli) 55: 111-116， JlI ly 10，2007
+ワークショップA 分子データ解析にかかわるエトセトラ: 偏りのない系統推定を目指して
+稲垣祐司 : ロン グブランチの誘惑一分子系統解析のダークサイド
+https://sites.google.com/site/memicrobes/home/members/yuji
+稲垣祐司　博士（理学）／Yuji Inagaki Ph.D
+
+http://feynmanino.watson.jp/6760_LBA.html
+Cladistics 21,163–193 (2005)
+A review of long-branch attraction（長枝誘引について）
+Johannes Bergsten
+
+https://www.ism.ac.jp/editsec/toukei/pdf/50-1-045.pdf
+統計数理（2002）
+分子系統樹法の応用と現状の問題点
+真核生物の初期進化の解析を例として *
+橋本 哲男1,2 ・有末 伸子2 ・長谷川 政美
+
+分子系統樹の推論を誤らせる最も大きな要因と
+して最近注目を集めている Long Branch Attraction アーテファクトについて実例に則して解説
+した．さらに，それを克服するための手法として，座位間の進化速度の不均質性を Γ 分布の導
+入により考慮した解析を実例に対して試み，この方法の有効性を示した．
 
 ----------
 ## revisionterm
@@ -487,49 +530,6 @@ Estimate Substitution Matrix (ML)
 Models | Estimate Substitution Matrix
 This option estimates and displays the nucleotide substitution rate matrix using the Maximum Likelihood method for the current data set and evolutionary model selected. This method finds the set of values for the substitution rate matrix parameters that maximizes the probability (likelihood) of the data. This is applicable only to nucleotide data (coding or non-coding).
 
-
-----------
-## LBA
-
-Long branch attraction (LBA)
-長枝誘引
-
-https://en.wikipedia.org/wiki/Long_branch_attraction
-
-https://haruosuz.hatenadiary.org/entry/20080813
-
-
-BLAST検索が系統学的再構成の代理として使用される場合、短い分岐は体系的なアーティファクトにつながります。
-https://www.ncbi.nlm.nih.gov/pubmed/27894995
-Mol Phylogenet Evol. 2017 Feb;107:338-344. doi: 10.1016/j.ympev.2016.11.016. Epub 2016 Nov 26.
-Short branches lead to systematic artifacts when BLAST searches are used as surrogate for phylogenetic reconstruction.
-Dick AA1, Harlow TJ2, Gogarten JP3.
-https://linkinghub.elsevier.com/retrieve/pii/S1055-7903(16)30377-3
-Long Branch Attraction (LBA) is a well-known artifact in phylogenetic reconstruction when dealing with branch length heterogeneity. Here we show another phenomenon, Short Branch Attraction (SBA), which occurs when BLAST searches, a phenetic analysis, are used as a surrogate method for phylogenetic analysis.
-
-http://sourui.org/publications/sorui/list/Sourui_PDF/Sourui-55-02-111.pdf
-Jpn. J. Phycol. (Sorlli) 55: 111-116， JlI ly 10，2007
-ワークショップA 分子データ解析にかかわるエトセトラ: 偏りのない系統推定を目指して
-稲垣祐司 : ロン グブランチの誘惑一分子系統解析のダークサイド
-https://sites.google.com/site/memicrobes/home/members/yuji
-稲垣祐司　博士（理学）／Yuji Inagaki Ph.D
-
-http://feynmanino.watson.jp/6760_LBA.html
-Cladistics 21,163–193 (2005)
-A review of long-branch attraction（長枝誘引について）
-Johannes Bergsten
-
-
-https://www.ism.ac.jp/editsec/toukei/pdf/50-1-045.pdf
-統計数理（2002）
-分子系統樹法の応用と現状の問題点
-真核生物の初期進化の解析を例として *
-橋本 哲男1,2 ・有末 伸子2 ・長谷川 政美
-
-分子系統樹の推論を誤らせる最も大きな要因と
-して最近注目を集めている Long Branch Attraction アーテファクトについて実例に則して解説
-した．さらに，それを克服するための手法として，座位間の進化速度の不均質性を Γ 分布の導
-入により考慮した解析を実例に対して試み，この方法の有効性を示した．
 
 ----------
 ## pcm
