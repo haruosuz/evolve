@@ -351,16 +351,22 @@ Castresana J1.
 
 http://trimal.cgenomics.org
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712344/
+https://pubmed.ncbi.nlm.nih.gov/19505945/
+Bioinformatics
+. 2009 Aug 1;25(15):1972-3. doi: 10.1093/bioinformatics/btp348. Epub 2009 Jun 8.
 trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses
+Salvador Capella-Gutiérrez 1, José M Silla-Martínez, Toni Gabaldón
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712344/
 In most scenarios (90%), trimAl outperformed Gblocks v0.91b with default parameters. 
 
-http://www.geocities.jp/ancientfishtree/trimAl_ji.html
-trimAl - 井上 潤
+http://www.fish-evol.org/trimAl_ji.html
+trimAl - JI
+2016 年 3 月 31日　改訂
+井上 潤
 
 https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
 1.5.3 整列の信頼できない座位
-ここではtrimAlを用いて整列の信頼できない座位をトリミングする手順を説明します。
+偽遺伝子や遺伝子間領域、イントロン、rRNA/tRNAのloop領域などの欠失や挿入の多い配列では、整列の信頼性が低くなってしまいます。誤って整列された座位は、系統樹推定の際のノイズとなってしまうため、除去した方がよいと言われています(Talavera and Castresana, 2007)。これまでのところ、そのような処理が研究者の経験と勘でなされることが多かったのですが、近年になって自動的に行ってくれるソフトウェアが登場してきました。それがGblocks (Castresana, 2000)・trimAl (Capella-Gutiérrez et al., 2009)・Aliscore (Misof and Misof, 2009)・BMGE (Criscuolo and Gribaldo, 2010)です。ここではtrimAlを用いて整列の信頼できない座位をトリミングする手順を説明します。
 
 https://www.fifthdimension.jp/wiki.cgi?page=%CA%AC%BB%D2%B0%E4%C5%C1%B3%D8%B4%D8%CF%A2
 分子遺伝学関連 - Life is fifthdimension.
@@ -437,6 +443,11 @@ PhyloPhlAn Segata et al. (2014)
 ### etetoolkit
 
 http://etetoolkit.org/
+
+http://etetoolkit.org/download/
+
+http://etetoolkit.org/cookbook/
+ETE Cookbook
 
 2019年12月11日に更新
 バイオインフォマティクス Advent Calendar 2019 11日目
