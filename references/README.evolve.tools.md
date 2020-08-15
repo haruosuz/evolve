@@ -241,16 +241,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
 43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
 
 動画
-2020-07-17
+Aug 3, 2020
+https://www.youtube.com/watch?v=L6eXJAE5J7g
+VirtualPhyloComp2020 day 2 David Emms - YouTube
 https://sites.google.com/view/phylocompgenomics2020/schedule
-Twitter: #VirtualPhyloComp2020 - Schedule
-Day 2
-Friday, July 17
-13:40 - 14:00
 OrthoFinder: Building a Fully Phylogenetic Orthology Analysis
-David Emms (Steve Kelly Lab - University of Oxford, UK)
-https://www.youtube.com/watch?v=ZBH75Vekpnc
-52:15 / 3:31:15
 
 3:51 AM · Jul 16, 2020
 https://twitter.com/David__Emms/status/1283474268701982720
