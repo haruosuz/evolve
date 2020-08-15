@@ -187,11 +187,10 @@ http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_zikken.html
 分子系統樹の作成
 東京大学大学院農学生命科学研究科　大森宏
 
-
-
 ----------
 ## ortholog
 
+----------
 ### JustOrthologs
 https://github.com/ridgelab/JustOrthologs/
 
@@ -203,6 +202,26 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378933/
 
 http://kazumaxneo.hatenablog.com/entry/2019/03/29/073000
 高速なオルソログ推論ツール JustOrthologs - macでインフォマティクス
+
+----------
+### ORTHOSCOPE
+
+動画
+2019-12-07
+https://doi.org/10.7875/togotv.2019.194
+分岐年代のベイズ推定 @ 分子系統樹推定法:理論と応用 ワークショップ
+0:00 - 15:00 / 1:04:11
+オーソグループ
+
+2019 年 1 月 10 日　改訂
+http://www.fish-evol.org/orthoscope_ji.html
+ORTHOSCOPE は遺伝子系統樹を推定して，オーソログを判定するウェブツールです．以下の解析が可能です：
+
+1. 未知 (あるいは既知) の遺伝子配列の機能を推定する．
+2. オーソログの配列を，他の種から得る．
+3. オーソログが他の種に存在する確かめる．
+
+解析には，脊椎動物を中心とした左右相称動物 350 種以上のゲノムデータ (アミノ酸配列と DNA 配列) をデータベースとして自由に選べます．
 
 ----------
 ### OrthoFinder
@@ -221,6 +240,8 @@ Emms DM1, Kelly S2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
 43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
 
+動画
+2020-07-17
 https://sites.google.com/view/phylocompgenomics2020/schedule
 Twitter: #VirtualPhyloComp2020 - Schedule
 Day 2
@@ -235,18 +256,24 @@ https://www.youtube.com/watch?v=ZBH75Vekpnc
 https://twitter.com/David__Emms/status/1283474268701982720
 David Emms on Twitter: "There's a new version of OrthoFinder out! It uses the gene trees it already infers to infer a set of orthogroups at each phylogenetic level within the species tree. This increases accuracy substantially &amp; also lets you add outgroups to your analysis: https://t.co/ogbupnnbxx https://t.co/Th3uZOCHqW" / Twitter
 
+Mar 9
 https://github.com/davidemms/OrthoFinder/issues/355
 No support value in SpeciesTree_rooted.txt · Issue #355 · davidemms/OrthoFinder
 
-
-https://www.hobochuritsu.com/entry/2019/04/20/223105
-全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
 
 2018 年 11 月 9 日　改訂
 井上 潤
 http://www.fish-evol.org/orthofinder_ji.html
 Orthofinder (githab) はオーソログを推定するプログラムです．配列類似性 all-in-all 比較の結果を用いた MCL 解析によるグルーピングから，オーソログをオーソグループ (orthogroup) として推定します．
 オーソロジーは遺伝子系統樹によって推定するもので，配列類似性は予想にすぎない，
+
+https://www.hobochuritsu.com/entry/2019/04/20/223105
+全自動でシングルコピー遺伝子の連結系統樹推定(OrthoFinder, MAFFT, trimAL, IQ-TREE) - ほぼ中立ブログ
+
+2019/03/06
+https://qiita.com/MaedaTaro_Umiushi/items/d4004d3fb219a4f991e8
+orthofinder + prequal+ mafft + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
+
 
 https://www.hobochuritsu.com/entry/2018/10/24/204801
 OrthoFinderでFastTreeを使おうとしたらエラーが出た - ほぼ中立ブログ
@@ -268,7 +295,6 @@ OrthoFinderでは、MCL (markov cluster algorithm)を用いてオーソログを
 2016年03月12日
 https://qiita.com/NariseT/items/e2c90d0235316f8878d8
 OrthoFinder の使い方 - Qiita
-
 
 ----------
 ## alignment
