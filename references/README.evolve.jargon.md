@@ -1393,6 +1393,11 @@ Analysis of concordance between techniques
 ----------
 ## treedist
 
+https://github.com/haruosuz/r4bioinfo/blob/master/R_tree/README.md#tree-distance
+
+https://en.wikipedia.org/wiki/Robinson–Foulds_metric
+Robinson–Foulds metric
+
 http://evolution.genetics.washington.edu/phylip/doc/treedist.html
 Treedist -- distances between trees
 
@@ -1401,17 +1406,24 @@ http://www.fish-evol.org/TREEDIST_JGI.html
 2009 年 11 月 14 日　改訂
 TREEDIST は系統樹間の違いを距離として表すプログラムです．PHYLIP パッケージに含まれるプログラムなので，PHYLIP のページから他のプログラムと一緒にダウンロードしてください．
 
-http://www.geocities.jp/ancientfishtree/TREEDIST_JGI.html
-井上 潤：TREEDIST
-2009 年 11 月 14 日　改訂
-TREEDIST は系統樹間の違いを距離として表すプログラムです．PHYLIP パッケージに含まれるプログラムなので，PHYLIP のページから他のプログラムと一緒にダウンロードしてください．
-
 https://sites.google.com/site/kfuku52/mp/disttopol
 樹形間距離 - Kenji Fukushima's website
-Robinson-Foulds distance
-
-https://en.wikipedia.org/wiki/Robinson–Foulds_metric
-Robinson–Foulds metric
+```
+Unweighted Robinson-Foulds distance 
+Weighted Robinson-Foulds distance
+Nearest-neighbor interchange distance (NNI distance)
+Subtree pruning and regrafting distance (SPR distance)
+Tree bisection and reconnection distance (TBR distance) 
+Quartet metric
+Triples metric
+Nodal distance
+Split nodal distance
+Branch score
+Transposition distance
+TreeKO
+Average standard deviation of split frequency (ASDSF)
+その他の方法
+```
 
 ----------
 ## divergence time
