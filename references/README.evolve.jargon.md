@@ -1336,8 +1336,6 @@ Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F2/
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg)
-
 https://www.ncbi.nlm.nih.gov/pubmed/22666370
 PLoS One. 2012;7(5):e37607. doi: 10.1371/journal.pone.0037607. Epub 2012 May 30.
 Gene repertoire evolution of Streptococcus pyogenes inferred from phylogenomic analysis with Streptococcus canis and Streptococcus dysgalactiae.
