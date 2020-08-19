@@ -191,6 +191,21 @@ http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_zikken.html
 ## ortholog
 
 ----------
+### SwiftOrtho
+
+https://pubmed.ncbi.nlm.nih.gov/31648300/
+Gigascience
+. 2019 Oct 1;8(10):giz118. doi: 10.1093/gigascience/giz118.
+SwiftOrtho: A fast, memory-efficient, multiple genome orthology classifier
+Xiao Hu 1, Iddo Friedberg 1
+https://academic.oup.com/gigascience/article/8/10/giz118/5606727
+While the proper inference of homology type involves tracing gene history using phylogenetic trees [2], several proxy methods have been developed over the years. The most common method to infer orthologs by proxy is reciprocal best hits (RBH) [3, 4]. Briefly, RBH states the following: when 2 proteins that are encoded by 2 genes, each in a different genome, find each other as the best-scoring match among all homologs, they are considered to be orthologs [3, 4].
+
+http://kazumaxneo.hatenablog.com/entry/2019/04/13/073000
+オルソログとパラログを小メモリ使用量で高速探索する SwiftOrtho - macでインフォマティクス
+オルソログを推論する最も一般的な方法は、Reciprocal Best Hit （相互ベストヒット）またはRBHである[ref.2、3]。簡単に言うと、RBHは次のように述べられている。異なる２ゲノムの２つの遺伝子によってコードされている2つのタンパク質が互いに最良のスコアリングマッチとして見つかると、それらはオルソログと見なされる[ref.2、3]。
+
+----------
 ### JustOrthologs
 https://github.com/ridgelab/JustOrthologs/
 
@@ -238,6 +253,9 @@ Genome Biol. 2019 Nov 14;20(1):238. doi: 10.1186/s13059-019-1832-y.
 OrthoFinder: phylogenetic orthology inference for comparative genomics.
 Emms DM1, Kelly S2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857279/
+Fig. 1
+Right-hand side: Reciprocal best hits (RBH) based on gene similarity scores that are monotonic with branch length and the orthology relationships inferred from these scores using standard heuristics (orthologs inferred using RBHs and co-orthology identified from within species hits better than closest RBH [8, 16]). 
+
 43. Emms D, Kelly S: Supplemental dataset for: OrthoFinder2: fast and accurate phylogenomic orthology analysis from gene sequences. https://doi.org/10.5281/zenodo.1481147 2019.
 
 動画
