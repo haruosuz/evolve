@@ -1361,8 +1361,6 @@ Comparative genomic analysis of the genus Staphylococcus including Staphylococcu
 Suzuki H1, Lefébure T, Bitar PP, Stanhope MJ.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/bin/1471-2164-13-38-1.jpg)
-
 統計数理(2008)
 https://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
 複数遺伝子の結合データに基づく分子系統樹の推測
