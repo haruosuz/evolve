@@ -1264,6 +1264,9 @@ https://www.primate.or.jp/forum/第42回集団遺伝学講座/
 ## concordance
 一致
 
+incongruence
+不調和
+
 https://www.fifthdimension.jp/documents/molphytextbook/
 分子系統学演習 - データセットの作成から仮説検定まで
 
@@ -1300,11 +1303,17 @@ Internode Certainty, ICAll, TreeC, TCA値で不調和を評価
 ● species tree methodを使う
 – STEM, BUCKy, ASTRAL, *BEAST, BEST(MrBayes)
 
+2015-04-15
+http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
+RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
+(7) Bayesian concordance analysisによるconcordance treeの作成、種系統樹と異なる分岐を示す遺伝子の同定（BUCKyなどを使用）
+
 http://www.fish-evol.org/phyMarker.html
 系統推定
 19 Sep. 2019. Jun Inoue
 　酵母 23 種から得られた 1070 遺伝子 (シンテニーからオーソログと確認されている) を系統解析した研究では，どの遺伝子から得られた樹形も concatenate して得られた樹形とは異なっていた．
 concatenate は本当に良いか疑問を投げかける．全配列を使うことよりも解析に有用な遺伝子配列だけを使うこと，および極端な不一致が見られた分岐を見極めること
+　 ブートストラップ解析は単一遺伝子など少数のデータ解析でサンプリングエラーを検出するために開発されたとする．このため，genome wide なデータを concatenate した解析には不向きと指摘．たとえ極端に異なる対立仮説があっても 100% の支持確率を出しやすいとする (Perspective 最初の段落)．
 
 https://www.ncbi.nlm.nih.gov/pubmed/23657258
 Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
@@ -1318,11 +1327,6 @@ a, The yeast species phylogeny recovered from concatenation analysis of 1,070 
 
 ![https://www.nature.com/articles/nature12130/figures/1](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature12130/MediaObjects/41586_2013_Article_BFnature12130_Fig1_HTML.jpg?as=webp)
 
-2015-04-15
-http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
-RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
-(7) Bayesian concordance analysisによるconcordance treeの作成、種系統樹と異なる分岐を示す遺伝子の同定（BUCKyなどを使用）
-
 https://www.ncbi.nlm.nih.gov/pubmed/22936717
 Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
 Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees.
@@ -1332,6 +1336,7 @@ Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F2/
 
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/22666370
 PLoS One. 2012;7(5):e37607. doi: 10.1371/journal.pone.0037607. Epub 2012 May 30.
@@ -1343,13 +1348,12 @@ Figure 2
 The seven topologies and the number of genes mapped to them, found by the Bayesian gene tree concordance analysis.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/figure/pone-0037607-g002/
 
-![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3364286_pone.0037607.g002.jpg)
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3364286/bin/pone.0037607.g002.jpg)
 
 http://www.stat.wisc.edu/~ane/bucky/
 BUCKy: A program for Bayesian Concordance Analysis
 
 ![](http://www.stat.wisc.edu/~ane/bucky/images/buckywebfig2.gif)
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/22272658
 BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
@@ -1357,7 +1361,7 @@ Comparative genomic analysis of the genus Staphylococcus including Staphylococcu
 Suzuki H1, Lefébure T, Bitar PP, Stanhope MJ.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
 
-
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/bin/1471-2164-13-38-1.jpg)
 
 統計数理(2008)
 https://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
