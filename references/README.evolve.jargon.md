@@ -1400,6 +1400,11 @@ Analysis of concordance between techniques
 http://evolution.genetics.washington.edu/phylip/doc/treedist.html
 Treedist -- distances between trees
 
+http://www.fish-evol.org/TREEDIST_JGI.html
+井上 潤：TREEDIST
+2009 年 11 月 14 日　改訂
+TREEDIST は系統樹間の違いを距離として表すプログラムです．PHYLIP パッケージに含まれるプログラムなので，PHYLIP のページから他のプログラムと一緒にダウンロードしてください．
+
 http://www.geocities.jp/ancientfishtree/TREEDIST_JGI.html
 井上 潤：TREEDIST
 2009 年 11 月 14 日　改訂
