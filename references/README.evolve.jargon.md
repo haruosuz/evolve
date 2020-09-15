@@ -947,6 +947,13 @@ dN/dS 検定
 このサイトでは dN/dS 値を推定することで，タンパク質コーディング遺伝子 (DNA 配列) に働いた正の自然選択を検出する解析 (dN/dS 検定) を紹介します．PAML に含まれるプログラム codeml を使います．バージョンは paml4.7a を使っています．
 
 ----------
+## arms race
+https://ja.wikipedia.org/wiki/進化的軍拡競走
+進化的軍拡競走（または、-争、evolutionary arms race）とは生物の進化において、ある適応とそれに対する対抗適応が競うように発達する（かのようにみえる）共進化プロセスの一種。
+
+共進化は必ずしも進化的軍拡を促すわけではない。例えば相利共生は協調的な適応を二つの種の間に引き起こすかも知れない。ある種の花は紫外線色の模様でミツバチを花の中心に誘導し、受粉を促す。また共進化は一般的な定義では異種間に起きるものを指す。雌雄間の対立のような同一種内の軍拡競走は除外される。身近な進化的軍拡は人間と微生物の間で行われる。抗生物質は微生物に選択圧を加え、微生物は薬剤耐性を進化させる。
+
+----------
 ## adaptation
 - https://ja.wikipedia.org/wiki/適応
 - https://kotobank.jp/word/適応-100764
@@ -1036,19 +1043,40 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5591236/
 Discussion
 To gain a snapshot on the general patterns of genomic nucleotide composition optimization or amelioration in the process in which bacteria diverge into different niches such as distinct hosts (e.g., humans vs livestock or wild animals) or different tissues (causing systemic vs local infections), we analyzed a subset of the highly conserved short sequence CTAG among representative Salmonella pathogens by profiling the SpeI cleavage sequence ACTAGT in comparison with E. coli and other enteric bacteria. 
 
+
+https://pubmed.ncbi.nlm.nih.gov/18356951/
+Genome
+. 2008 Feb;51(2):164-8. doi: 10.1139/g07-105.
+Gene amelioration demonstrated: the journey of nascent genes in bacteria
+Pradeep Reddy Marri 1, G Brian Golding
+
 https://www.ncbi.nlm.nih.gov/pubmed/15240837
 Mol Biol Evol. 2004 Oct;21(10):1884-94. Epub 2004 Jul 7.
 Successful lateral transfer requires codon usage compatibility between foreign genes and recipient genomes.
 Medrano-Soto A1, Moreno-Hagelsieb G, Vinuesa P, Christen JA, Collado-Vides J.
 https://academic.oup.com/mbe/article/21/10/1884/1025177
 Codon Usage Amelioration Is Unnecessary
-
 We need to re-evaluate the notion that a foreign gene or fragment of DNA (assumed as atypical in sequence characteristics) becomes compositionally more similar to the host genome with increasing residence time. This process has been called “amelioration,” after reasoning that it makes a gene “better” (Lawrence and Ochman 1997), implying better translatability. This concept is a natural consequence of methods assuming that most foreign genes display mainly a poor-CU profile. However, as our results indicate, most foreign genes with poor CU are counter-selected for successful integration, suggesting that CU amelioration might occur in a small fraction of genes. 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
-Variation in the strength of selected codon usage bias among bacteria
 
+https://pubmed.ncbi.nlm.nih.gov/15728743/
+Nucleic Acids Res
+. 2005 Feb 23;33(4):1141-53. doi: 10.1093/nar/gki242. Print 2005.
+Variation in the strength of selected codon usage bias among bacteria
+Paul M Sharp 1, Elizabeth Bailes, Russell J Grocock, John F Peden, R Elizabeth Sockett
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
 But even this may have little relevance: in the same way that it is thought that the codon usage of horizontally transferred genes may take many millions of years to ameliorate to that of a new host genome (58), strongly selectively biased codon usage may take a very long time to decay after a reduction in effective population size, i.e. the codon usage bias currently observed may still be due in some part to evolutionary processes that occurred millions of years ago.
+
+
+https://pubmed.ncbi.nlm.nih.gov/10430917/
+Comparative Study Proc Natl Acad Sci U S A
+. 1999 Aug 3;96(16):9184-9. doi: 10.1073/pnas.96.16.9184.
+Genome signature comparisons among prokaryote, plasmid, and mitochondrial DNA
+A Campbell 1, J Mrázek, S Karlin
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17754/
+- This similarity might mean either that relatively close genome signatures promote plasmid establishment or that the plasmids have acquired their hosts’ signatures during long-term residence. Experiments on conjugation can address issues such as specificity vs. wide host range and relevance of size and signature for plasmid compatibility. We interpret the similarities in signature between plasmids and their bacterial hosts as implying that they share much replication and repair machinery, perhaps because the prokaryotic cell is not compartmentalized to the degree that the eukaryotic cell is.
+- (ii) During the plasmid’s residence in its current host, the same pressures that homogenize the signature throughout the chromosome will also drive the plasmid’s signature towards that of the host. Such amelioration has been postulated for the G+C content of laterally transferred DNA (22). We suspect that the signature should ameliorate even more rapidly, for both plasmids and laterally transferred chromosomal segments. 
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/9689094
 Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9413-7.
@@ -1064,6 +1092,19 @@ Lawrence JG1, Ochman H.
 https://link.springer.com/article/10.1007/PL00006158
 
 At the time of introgression, horizontally transferred genes reflect the base composition of the donor genome; but, over time, these sequences will ameliorate to reflect the DNA composition of the new genome because the introgressed genes are subject to the same mutational processes affecting all genes in the recipient genome. This process of amelioration is evident in a large group of genes involved in host-cell invasion by enteric bacteria and can be modeled to predict the amount of time required after transfer for foreign DNA to resemble native DNA. 
+
+1. Base composition varies widely among bacterial species. Base compositions range from 25% GC in Mycoplasma to 75% GC in Micrococcus, which is much
+larger than the range in overall GC contents observed
+among animals or plants. The differences in base
+composition among bacterial species are largely due
+to biases in the mutation rates at each of the four
+bases—termed ‘‘directional mutation pressure’’ by
+Sueoka (1961, 1962, 1988, 1992, 1993, Sueoka et al.
+1959)—which vary between species.
+
+Because the process of amelioration is caused principally by mutational biases, the effects of this process are
+most obvious at sites having little or no selective constraints.
+
 
 https://www.caister.com/cimb/v/v3/91.pdf
 Synonymous Codon Usage in Bacteria
@@ -1998,15 +2039,30 @@ R - 井上 潤
 ape: BS 値付き tree の reroot はおかしい?
 reroot すると，BS 値の位置がおかしくなると聞きました．以下は例題です．左の tree を d という leaf で rooting しています．しかし，私には問題ないように思えます．
 
+2012
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+- 根（ルート、root）　他の全ての節に続く特定の節のことを根（ルート）と言う。根を持つ系統樹を有根系統樹(rooted tree), 根を持たない系統樹を無根系統樹(unrooted tree)と呼ぶ。無根系統樹は分類群相互の関連のみを示しており、進化的な関係（時間の経過を伴う類縁関係）を示していない。つまり、厳密に言うならば、無根系統樹は系統樹と見なせないという考え方もできる。　4つの末端節からなる無根系統樹のインターナルブランチをセントラル・ブランチ（central branch）と呼ぶ。
+- 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
+
+2009
+https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3b.pdf
+無根系統樹に根をつける方法
+根をつける方法は２つ
+１．最も遠い関係にあると知られている生物種の配列（外群、
+outgroup）を１つ以上含める
+２．最も遠い関係にある２つの配列を結ぶ枝の中点をinternal
+nodeとする
+
+http://bbs.jinruisi.net/blog/2010/07/829.html
+■無根系統樹と有根系統樹
+
+![](http://bbs.jinruisi.net/blog/wp-content/uploads/0-2のコピー.jpg)
+
 https://leeswijzer.hatenadiary.com/entry/20060715/1152931775
 『系統樹思考の世界：すべてはツリーとともに』 - leeswijzer: een nieuwe leeszaal van dagboek
 　第２節：グラフとしての系統樹――点・辺・根 168
 　　無根系統樹と有根系統樹
 　　祖先子孫関係は原理的に不可知である
-
-http://bbs.jinruisi.net/blog/2010/07/829.html
-■無根系統樹と有根系統樹
-![](http://bbs.jinruisi.net/blog/wp-content/uploads/0-2のコピー.jpg)
 
 2019/02/08
 https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
@@ -2028,6 +2084,9 @@ The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting a
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
 Figure 5
 The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
+
+
+
 
 ----------
 ## Newick
