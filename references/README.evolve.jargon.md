@@ -970,23 +970,6 @@ preadaptation
 
 
 
-
-https://lambtani.hatenablog.jp/entry/2020/05/10/200459
-中学生から始める適応進化理論 - Life is Beautiful
-1. 生物の適応進化の考え方
-1.1 遺伝する性質が進化する原理
-遺伝形質
-自然淘汰による進化
-（適応進化
-1.2 遺伝子はどこからくるのか：突然変異
-1.3 適応という考え方が「生物を理解する営み」を学問たらしめた
-1.4 いろいろな「なぜ」があっていい
-Nothing in Biology Makes Sense Except in the Light of Evolution -- 直訳すると、「生物学においては、進化を考慮してこそ、その意義がある」
-
-
-
-
-
 https://lambtani.hatenablog.jp/entry/2020/05/19/233210
 中学生から始める適応進化理論2：よくある誤解 - Life is Beautiful
 2. 自然淘汰による適応進化にまつわる よくある質問・誤解
@@ -1002,6 +985,22 @@ https://lambtani.hatenablog.jp/entry/2020/05/19/233210
 があり、どれも適応進化と中立進化にとって重要な要素です。
 2.6 退化も進化の一部
 2.7 大事なこと：「良い」、「優れている」、は自然には存在しない。
+
+
+
+https://lambtani.hatenablog.jp/entry/2020/05/10/200459
+中学生から始める適応進化理論 - Life is Beautiful
+1. 生物の適応進化の考え方
+1.1 遺伝する性質が進化する原理
+遺伝形質
+自然淘汰による進化
+（適応進化
+1.2 遺伝子はどこからくるのか：突然変異
+1.3 適応という考え方が「生物を理解する営み」を学問たらしめた
+1.4 いろいろな「なぜ」があっていい
+Nothing in Biology Makes Sense Except in the Light of Evolution -- 直訳すると、「生物学においては、進化を考慮してこそ、その意義がある」
+
+
 
 
 
