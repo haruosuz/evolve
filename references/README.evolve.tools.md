@@ -16,6 +16,7 @@ Last Update: 2020-05
   - [JustOrthologs](JustOrthologs)
   - [OrthoFinder](#orthofinder)
 - [alignment](#alignment) アライメント、編集
+  - [gap](#gap)
   - [mafft](#mafft)
   - [Gblocks](#gblocks)
   - [trimAl](#trimal)
@@ -82,6 +83,15 @@ https://ja.wikipedia.org/wiki/非加重結合法
 
 ----------
 ## treefinder
+
+https://www.treefinder.de/
+
+https://en.wikipedia.org/wiki/Treefinder
+
+2009 年 12 月 17 日　改訂
+http://www.fish-evol.org/Treefinder_JGI.html
+井上 潤：Treefinder
+Teefinder は最尤法による解析を高速に行うソフトウェアです．系統樹探索にも様々な機能が装備されています．
 
 3:50 PM · Jul 17, 2020
 https://twitter.com/iNut/status/1284017692706406401
@@ -312,9 +322,29 @@ OrthoFinder の使い方 - Qiita
 ## alignment
 アライメント
 
+http://kazumaxneo.hatenablog.com/archive/category/multiple%20sequence%20alignment%20%28MSA%29
+
+http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
+コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
+
+https://www.fifthdimension.jp/wiki.cgi?page=%A5%BF%A5%F3%A5%D1%A5%AF%A5%B3%A1%BC%A5%C9%CE%CE%B0%E8%B1%F6%B4%F0%C7%DB%CE%F3%A4%CE%A5%DE%A5%EB%A5%C1%A5%D7%A5%EB%A5%A2%A5%E9%A5%A4%A5%E1%A5%F3%A5%C8
+タンパクコード領域塩基配列のマルチプルアライメント - Life is fifthdimension.
+最終更新時間：2007年03月17日 05時57分52秒
+
 ### mafft
 
 https://mafft.cbrc.jp/alignment/software/
+MAFFT - a multiple sequence alignment program
+
+Fasta format.  example1 (LSU rRNA), example2 (protein)
+
+Manual (v6.240)
+https://mafft.cbrc.jp/alignment/software/manual/manual.html
+
+Tips (not yet included in the manual) for large alignment, ncRNA alignment, profile alignment, etc.
+https://mafft.cbrc.jp/alignment/software/tips0.html
+How to get a guide tree or a rough clustering
+How to give a user-defined guide tree
 
 https://mafft.cbrc.jp/alignment/software/anysymbol.html
 Ambiguous nucleotides (r, y, w, s, k, m, d, v, h, b; IUPAC-IUB codes) can be used and are scored as:
@@ -330,14 +360,14 @@ Run mafft through outsider in R
 #> done.
 ```
 
+3:17 PM · Oct 21, 2019
 https://twitter.com/chasewnelson/status/1186164467622498305
 Chase W. Nelson on Twitter: "@MinionLab @AprilWei001 The #MAFFT output for the same data was (1) faster and (2) makes actual sense. Thanks again! https://t.co/8bR2nJt1t1" / Twitter
-3:17 PM · Oct 21, 2019
 
+12:36 PM · Sep 28, 2019
 https://twitter.com/sighex/status/1177789066097487872
 工樂樹洋
 "MAFFT開発秘話。私が4回生で宮田研に加わった時、まず手動で多重アラインメントする訓練から始まりました。研究室内部で使われていたそのエディタに、後にMAFFTの主軸となるアルゴリズムが間もなく入りました。Xcedと呼ばれた、メンバーしか知らないエディタです。
-12:36 PM · Sep 28, 2019
 
 http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
 マルチプルアライメントを行うMAFFT - macでインフォマティクス
@@ -345,10 +375,8 @@ http://kazumaxneo.hatenablog.com/entry/2017/10/18/000312
 http://kazumaxneo.hatenablog.com/entry/2018/07/20/212444
 web上でマルチプルアライメントを実行し分子系統樹を出力する MAFFT online service - macでインフォマティクス
 
-http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
-コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
-
 ----------
+### gap
 
 https://doi.org/10.7875/togotv.2019.193
 2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
