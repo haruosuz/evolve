@@ -530,8 +530,31 @@ ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
 
 ### iqtree
 http://www.iqtree.org/
-Efficient software for phylogenomic inference
-Latest version 1.6.9 (December 20, 2018)
+IQ-TREE: Efficient phylogenomic software by maximum likelihood
+
+http://www.iqtree.org/doc/Quickstart
+
+9:33 PM · Nov 20, 2020
+https://twitter.com/kfuku0502/status/1329764837681926145
+Kenji Fukushima on Twitter: "iqtreeのsemi-empirical codon modelって、複数ヌクレオチド置換を許容した経験モデルに単一置換を仮定したメカニスティックモデルをかけたりしたら複数置換のマスが全部ゼロになってすっかすかのモデルにならない？それともomegaとかkappaで経験モデルを再調整するってこと？" / Twitter
+手元のデータで試してみたらAIC/BICと尤度はsemi-empirical modelで改善するな。ということは後者かな？でも経験モデルってそもそもomegaやkappaが反映された上であのマトリックスになっているはずだから、それをどう再調整するんだろう。
+この論文か。
+https://academic.oup.com/mbe/article/29/1/271/1749642
+違うっぽいな。iqtreeではこの論文の前半で説明されているピュアな経験モデルがECMK07で、同一論文の後半でomegaやkappaを入れているのをsemi-empirical modelの記法でECMK07_GYとして表現しているのか？
+https://academic.oup.com/mbe/article/24/7/1464/986344
+式６に書いてあった。単純にomegaとkappa（とコドン平衡頻度）を経験モデルのexchangeabilityに乗算してるっぽいな。上の疑問は残るけど、作法としてはそれでいいらしい。
+経験モデルのomegaはメカニスティックモデルのそれとは単純比較できないと説明してあるな。
+それを反映してかiqtreeのlogファイルにはomegaではなくomega_Eとして出力されている。
+
+http://kazumaxneo.hatenablog.com/entry/2020/06/07/235834
+IQ-TREE をwebで使える W-IQ-TREE - macでインフォマティクス
+既にIQ-TREE2も発表（pubmed）されており、condaを使って導入できるバージョンも２になっていますが、2020年6月現在、web版はstable versionの1.6です。注意して下さい。
+
+https://pubmed.ncbi.nlm.nih.gov/32011700/
+Mol Biol Evol
+. 2020 May 1;37(5):1530-1534. doi: 10.1093/molbev/msaa015.
+IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era
+Bui Quang Minh 1 2, Heiko A Schmidt 3, Olga Chernomor 3, Dominik Schrempf 3 4, Michael D Woodhams 5, Arndt von Haeseler 3 6, Robert Lanfear 2
 
 https://www.hobochuritsu.com/entry/2018/10/21/125017
 IQ-Treeの使い方まとめ - ほぼ中立ブログ
