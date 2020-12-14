@@ -26,7 +26,7 @@ Last Update: 2020-05
   - [RAxML](#raxml)
   - [bcgTree](#bcgTree)
   - [phylophlan](#phylophlan)
-  - [ETE Toolkit](#etetoolkit)
+  - [etetoolkit](#etetoolkit)
 - [viewer](#viewer) 可視化ツール
 Dendroscope3
 Tree viewer
@@ -140,41 +140,43 @@ https://haklak.com/page_Gangolf_Jobb.html
 https://evotools.blogspot.com/2019/12/beast2.html
 系統解析備忘録: BEAST2による分岐年代推定①
 
-https://www.ncbi.nlm.nih.gov/pubmed/31791235
-BMC Evol Biol. 2019 Dec 2;19(1):219. doi: 10.1186/s12862-019-1541-x.
-PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees.
-- Python
-(https://github.com/yangfangs/physpetools)
+https://pubmed.ncbi.nlm.nih.gov/31791235/
+BMC Evol Biol
+. 2019 Dec 2;19(1):219. doi: 10.1186/s12862-019-1541-x.
+PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees
+Yang Fang 1, Chengcheng Liu 2, Jiangyi Lin 3, Xufeng Li 1, Kambiz N Alavian 4 5, Yi Yang 6, Yulong Niu 7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6889546/
+(https://github.com/yangfangs/physpetools).
+https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1541-x
+Sequence alignment and tree reconstruction
+PhySpeTree integrates various tools for multiple sequence alignment and tree reconstruction. For sequence alignment, MUSCLE [21], MAFFT [22], and Clustal [22] are provided. To infer accurate phylogenies, the maximum likelihood-based method RAxML is set as the default option [18]. In addition, IQ-TREE [26] and FastTree [27] are alternatives to accelerate tree reconstruction. Advanced parameters of integrated tools can be specifically set and passed in PhySpeTree, allowing users to manipulate critical steps in sequence alignment and tree reconstruction.
 
+12:10 PM · Oct 28, 2019
+https://twitter.com/art_poon/status/1188654334436872192
+Art Poon on Twitter: "For my #BioInformatics class, I wrote a #d3js interactive #dataviz to teach my students the difference between an unrooted and rooted phylogeny. This displays a simplified version of the @sabeti_lab's Ebola virus phylogeny - root-to-tip regression is next! https://t.co/COTdboVyfb" / Twitter
 
 2019年10月21日に更新
 https://qiita.com/kaizen_nagoya/items/150646f72c55a36f8c39
 遺伝子解析、遺伝子機能解析 - Qiita
 
-
 2019/10/19
 https://kimbio.info/mafft→raxml→figtreeで遺伝子の系統樹を作成する-ubuntu19-04
 MAFFT→RAxML→FigTreeで遺伝子の系統樹を作成する - Ubuntu19.04 - Kim Biology & Informatics
 
-2019年09月25日
-https://qiita.com/MaedaTaro_Umiushi/items/d3e04cf4e2f6e0588406
-ggtreeを使ってRで系統樹を扱う
-
-https://twitter.com/art_poon/status/1188654334436872192
-Art Poon on Twitter: "For my #BioInformatics class, I wrote a #d3js interactive #dataviz to teach my students the difference between an unrooted and rooted phylogeny. This displays a simplified version of the @sabeti_lab's Ebola virus phylogeny - root-to-tip regression is next! https://t.co/COTdboVyfb" / Twitter
-12:10 PM · Oct 28, 2019
-
+2019/03/06
+https://qiita.com/MaedaTaro_Umiushi/items/d4004d3fb219a4f991e8
+orthofinder + prequal+ mafft + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
 
 ### 2018
+
+2018年07月27日
+https://qiita.com/MaedaTaro_Umiushi/items/7c8cee435347eeee1cf5
+orthofinder + mafft + trimal + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
 
 https://doi.org/10.7875/togotv.2018.093
 2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
 
 ### 2017
-
-2017年05月26日
-https://qiita.com/okuman/items/3dd1cd1292940442fcd0
-ETE Toolkitを使ってPythonで色々な形の系統樹を書く
 
 https://www.ncbi.nlm.nih.gov/pubmed/28174903
 Bioinformatics. 2017 Jun 15;33(12):1886-1888. doi: 10.1093/bioinformatics/btx063.
@@ -297,14 +299,6 @@ https://www.hobochuritsu.com/entry/2018/10/24/204801
 OrthoFinderでFastTreeを使おうとしたらエラーが出た - ほぼ中立ブログ
 オーソログ推定プログラム「OrthoFinder」は、推定したオーソロググループ配列を使用してそのまま系統樹作成まで行うことができます。
 
-2019/03/06
-https://qiita.com/MaedaTaro_Umiushi/items/d4004d3fb219a4f991e8
-orthofinder + prequal+ mafft + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
-
-2018年07月27日
-https://qiita.com/MaedaTaro_Umiushi/items/7c8cee435347eeee1cf5
-orthofinder + mafft + trimal + iq-treeでゲノム規模のデータから系統樹を作る - Qiita
-
 http://kazumaxneo.hatenablog.com/entry/2017/08/01/201224
 OrthoFinderでオルソロググループを探索する - macでインフォマティクス
 
@@ -392,6 +386,18 @@ https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#disc
 アラインメントから保存度の低い領域を破棄する
 Trimming a multiple sequence alignment by discarding columns with too many gaps.
 多重配列アライメントからギャップの多い列を破棄する
+
+
+----------
+### ClipKIT
+
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007
+ClipKIT: A multiple sequence alignment trimming software for accurate phylogenomic inference
+
+
+8:03 PM · Dec 2, 2020
+https://twitter.com/greatpunkin/status/1334090856106639360
+greatpunkin on Twitter: "系統樹の作成で（いくつかのツールで）multiple sequence alignmentのトリミングをして比較したところ、「ClipKIT」で良い系統樹が得られました。トリミングなしも意外に良かったのですが、いくつかのトリミングツールでは樹形がかなり悪化しました。トリミングは難しい…" / Twitter
 
 ----------
 ### Gblocks
@@ -507,8 +513,9 @@ PhyloPhlAn Segata et al. (2014)
 ランにはFasttreeが必要。
 
 ### etetoolkit
-
 http://etetoolkit.org/
+ETE Toolkit - Analysis and Visualization of (phylogenetic) trees
+
 
 http://etetoolkit.org/download/
 
@@ -524,7 +531,7 @@ ETE Toolkitを使った超簡便な分子系統樹作成法を紹介します。
 https://www.hobochuritsu.com/entry/2018/11/08/223813
 ETE Toolkitでノードに通し番号を付ける - ほぼ中立ブログ
 
-2017年05月26日に更新
+2017年05月26日
 https://qiita.com/okuman/items/3dd1cd1292940442fcd0
 ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
 
