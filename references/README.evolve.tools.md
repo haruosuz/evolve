@@ -7,7 +7,6 @@ Last Update: 2020-05
 
 ## Table of Contents
 - [unclassified](#unclassified)
-- [featuring](#featuring)
 - [updates](#updates)
 [2019](#2019)
 [2018](#2018)
@@ -59,8 +58,6 @@ Python tool to reduce size and redundancy of phylogenetic datasets
 https://twitter.com/level3defless/status/1173852867712565248
 Koichi Higashi on Twitter: "すごく久々に系統解析やってるけど、ModelTest-NGがすごく使いやすいし速い。ProtTestの改良版。DNAに関してはGTR+I+Gにしとけばいいモデル選択いらない、みたいな話が最近あったけど、一応DNAにも対応してる。 https://t.co/bggA8Is0Kt" / Twitter
 
-----------
-## featuring
 
 http://fish-evol.com/link.html
 系統解析リンク集 - 井上 潤
@@ -79,6 +76,31 @@ http://d.hatena.ne.jp/haruosuz/20080813
 
 https://ja.wikipedia.org/wiki/非加重結合法
 非加重結合法（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)
+
+
+
+----------
+## physpetools
+
+https://github.com/yangfangs/physpetools
+PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees
+
+12:00 PM · Dec 15, 2019
+https://twitter.com/fiddler_K/status/1206046415211728896
+(1) Kawai_Yusuke on Twitter: "［メモ］あとでちょっと使ってみる。種名を入れたら自動で系統樹を推定するソフト/PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees https://t.co/Nnk2ysKCSV" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/31791235/
+BMC Evol Biol
+. 2019 Dec 2;19(1):219. doi: 10.1186/s12862-019-1541-x.
+PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees
+Yang Fang 1, Chengcheng Liu 2, Jiangyi Lin 3, Xufeng Li 1, Kambiz N Alavian 4 5, Yi Yang 6, Yulong Niu 7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6889546/
+https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1541-x
+Sequence alignment and tree reconstruction
+PhySpeTree integrates various tools for multiple sequence alignment and tree reconstruction.
+MUSCLE [21], MAFFT [22], and Clustal [22]
+RAxML
+IQ-TREE [26] and FastTree [27]
 
 
 ----------
@@ -139,17 +161,6 @@ https://haklak.com/page_Gangolf_Jobb.html
 2019年12月2日月曜日
 https://evotools.blogspot.com/2019/12/beast2.html
 系統解析備忘録: BEAST2による分岐年代推定①
-
-https://pubmed.ncbi.nlm.nih.gov/31791235/
-BMC Evol Biol
-. 2019 Dec 2;19(1):219. doi: 10.1186/s12862-019-1541-x.
-PhySpeTree: an automated pipeline for reconstructing phylogenetic species trees
-Yang Fang 1, Chengcheng Liu 2, Jiangyi Lin 3, Xufeng Li 1, Kambiz N Alavian 4 5, Yi Yang 6, Yulong Niu 7
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6889546/
-(https://github.com/yangfangs/physpetools).
-https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1541-x
-Sequence alignment and tree reconstruction
-PhySpeTree integrates various tools for multiple sequence alignment and tree reconstruction. For sequence alignment, MUSCLE [21], MAFFT [22], and Clustal [22] are provided. To infer accurate phylogenies, the maximum likelihood-based method RAxML is set as the default option [18]. In addition, IQ-TREE [26] and FastTree [27] are alternatives to accelerate tree reconstruction. Advanced parameters of integrated tools can be specifically set and passed in PhySpeTree, allowing users to manipulate critical steps in sequence alignment and tree reconstruction.
 
 12:10 PM · Oct 28, 2019
 https://twitter.com/art_poon/status/1188654334436872192
@@ -318,13 +329,72 @@ OrthoFinder の使い方 - Qiita
 
 http://kazumaxneo.hatenablog.com/archive/category/multiple%20sequence%20alignment%20%28MSA%29
 
-http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
-コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
+
+https://molevol.mbl.edu/index.php/Alignment_tutorial
+Alignment tutorial - MolEvol
+This page was last edited on 2 August 2019, at 14:13.
+
 
 https://www.fifthdimension.jp/wiki.cgi?page=%A5%BF%A5%F3%A5%D1%A5%AF%A5%B3%A1%BC%A5%C9%CE%CE%B0%E8%B1%F6%B4%F0%C7%DB%CE%F3%A4%CE%A5%DE%A5%EB%A5%C1%A5%D7%A5%EB%A5%A2%A5%E9%A5%A4%A5%E1%A5%F3%A5%C8
 タンパクコード領域塩基配列のマルチプルアライメント - Life is fifthdimension.
 最終更新時間：2007年03月17日 05時57分52秒
 
+----------
+### decipher
+
+https://www.bioconductor.org/packages/devel/bioc/vignettes/DECIPHER/inst/doc/ArtOfAlignmentInR.pdf
+The Art of Multiple Sequence Alignment in R
+Erik S. Wright
+October 29, 2020
+
+1. The first is AlignTranslation, which will align DNA/RNA sequences based on their amino acid
+translation and then reverse translate them back to DNA/RNA. Aligning protein sequences is more
+accurate since amino acids are more conserved than their corresponding coding sequence.
+
+----------
+### macse
+http://mbb.univ-montp2.fr/macse
+
+http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
+コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
+2016年にversion2にアップデートされ、2018年夏にv2の論文が出ました。
+
+https://pubmed.ncbi.nlm.nih.gov/30165589/
+Mol Biol Evol
+. 2018 Oct 1;35(10):2582-2584. doi: 10.1093/molbev/msy159.
+MACSE v2: Toolkit for the Alignment of Coding Sequences Accounting for Frameshifts and Stop Codons
+Vincent Ranwez 1, Emmanuel J P Douzery 2, Cédric Cambon 1 2, Nathalie Chantret 1, Frédéric Delsuc 2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188553/
+https://academic.oup.com/mbe/article/35/10/2582/5079334
+
+https://bioweb.supagro.inra.fr/macse/
+http://mbb.univ-montp2.fr/MBB/
+
+https://pubmed.ncbi.nlm.nih.gov/21949676/
+PLoS One
+. 2011;6(9):e22594. doi: 10.1371/journal.pone.0022594. Epub 2011 Sep 16.
+MACSE: Multiple Alignment of Coding SEquences accounting for frameshifts and stop codons
+Vincent Ranwez 1, Sébastien Harispe, Frédéric Delsuc, Emmanuel J P Douzery
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174933/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022594
+
+----------
+### translatorx
+http://translatorx.co.uk
+
+https://pubmed.ncbi.nlm.nih.gov/20435676/
+Nucleic Acids Res
+. 2010 Jul;38(Web Server issue):W7-13. doi: 10.1093/nar/gkq291. Epub 2010 Apr 30.
+TranslatorX: multiple alignment of nucleotide sequences guided by amino acid translations
+Federico Abascal 1, Rafael Zardoya, Maximilian J Telford
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896173/
+https://academic.oup.com/nar/article/38/suppl_2/W7/1094709
+Figure 1.
+Example illustrating the different performance of the direct and back-translated nucleotide alignments (multiple alignments were built with Muscle with default parameters).
+
+
+
+----------
 ### mafft
 
 https://mafft.cbrc.jp/alignment/software/
@@ -540,6 +610,11 @@ http://www.iqtree.org/
 IQ-TREE: Efficient phylogenomic software by maximum likelihood
 
 http://www.iqtree.org/doc/Quickstart
+Getting Started
+
+http://www.iqtree.org/doc/Tutorial
+Beginner's Tutorial
+
 
 9:33 PM · Nov 20, 2020
 https://twitter.com/kfuku0502/status/1329764837681926145
@@ -796,7 +871,8 @@ MEGA: Molecular Evolutionary Genetics Analysis software
 
 https://www.megasoftware.net/
 
-http://evolgen.biol.se.tmu.ac.jp/MEGA/
+
+https://evolgen.biol.se.tmu.ac.jp/MEGA/
 MEGAXがリリースされました。(6/1/2018)
 
 MEGA3 チュートリアル（Actin gene coding region を例題として）
@@ -804,18 +880,57 @@ MEGA3 チュートリアル（Actin gene coding region を例題として）
 - 配列データのアライメント
 - 分子系統樹の作成
 
+https://evolgen.biol.se.tmu.ac.jp/MEGA/data-mining.htm
+入力データの準備
+１．配列データのダウンロード
+２．シーケンサーデータの入力
+３．テキストデータの入力（AlignmentExplorerの基本操作法）
+４．相同配列の検索
+
+https://evolgen.biol.se.tmu.ac.jp/MEGA/align-protocol.htm
+配列データのアライメント
+
+https://evolgen.biol.se.tmu.ac.jp/MEGA/tree-protocol.htm
+分子系統樹の作成
+１．近隣結合法による系統樹の作成とブートストラップ・テスト
+２．系統樹を基にした解析例
+（１） 分子時計を用いた分岐年代の推定 （哺乳類 チトクロームｂ遺伝子の場合）
+（２）分類群と分子系統との関連（人類集団のD-loop配列の場合）
+
+
+
 動画
 https://twitter.com/hashtag/ws222?f=live
 https://doi.org/10.7875/togotv.2019.193
 2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
 
+https://www.ncbi.nlm.nih.gov/pubmed/29722887
+Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
+MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
+Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
+
+https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/bioinfo18/bioinfo2018-4.pdf
+バイオインフォマティクス第四回
+得られたアラインメントを使ってMEGAで系統樹を作成
+デフォルトではOriginal Treeが表示されている
+Bootstrap consensus treeのタブを選択
+
 2018/01/20
 https://ultrabem-branch3.com/informatics/bioinformatics/tree_make_mega_ml
 系統樹の作り方: MEGA で最尤法を使う
+MEGA では、系統樹は .mts という拡張子で保存される。
+Original Tree と Bootstrap concensus tree という 2 つのタブがある。
 
 動画
 https://doi.org/10.7875/togotv.2017.106
 2017-11-06 MEGA7を使って配列のアラインメント・系統解析を行う
+
+http://www.tezuru-mozuru.com/?tag=mega
+MEGA – チームてづるもづる
+2017年3月24日
+http://www.tezuru-mozuru.com/?p=9939
+MEGAによる最尤法系統樹推定
 
 http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
 実習1: MEGA7のダウンロードとインストール
@@ -825,12 +940,6 @@ http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
 
 http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
 実習1: MEGA6のダウンロードとインストール
-
-https://www.ncbi.nlm.nih.gov/pubmed/29722887
-Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
-MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
-Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
 
 
 ----------
