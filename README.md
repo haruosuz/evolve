@@ -24,54 +24,6 @@ Last Update: 2020-07
 - [unclassified](#unclassified)
 
 
-
-----------
-
-
-9:54 AM · Oct 10, 2020
-https://twitter.com/kagakubarKIWI/status/1314730971204251650
-【Web科学バー新連載スタート！】長谷川政美先生の新連載「ウィルスという存在 ーヒトの進化にどうかかわってきたのか」が始まりました。◎第1話「微生物で満ちあふれているヒト」https://kagakubar.com/virus/01.html 文と写真：長谷川政美（分子系統学者）。写真：ビクーニャとグアナコ
-
-https://kagakubar.com/virus/01.html
-ウィルスという存在｜科学バー
-
-一方、ウイルスは、生物の細胞内でしか増殖できないので、普通は生物とは見なされない。しかし、どんな生物もほかの生物の助けを借りないと生きられないということであり、生物と無生物の境界は曖昧である。生物の特徴として、ゲノムを複製し、その際に生じる突然変異に対して自然選択が働くことによって子孫を増やすような形質が進化するということが挙げられる。そのように複製しながら進化するものを複製子（replicon）というが、ウイルスもまさに自分の子孫を増やすように進化する複製子である。
-
-現代のグローバル化した社会では、このような感染症は一気に世界中に広まることになる。
-近年の人口爆発の結果、ヒトは巨大な都市をつくって生活するようになった。また野生動物の生活圏で多くのヒトと家畜が密集して生活するようになった。ウイルスにとっては、このようなヒトや家畜への感染力を進化させれば将来の繁栄につながることになる。
-
-### 2014-10-23
-
-長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
-
-https://twitter.com/search?q=系統樹をさかのぼって見えてくる進化の歴史
-
-https://www.beret.co.jp/books/detail/544
-系統樹をさかのぼって見えてくる進化の歴史｜書籍案内｜ベレ出版
-
-https://shorebird.hatenablog.com/entry/20150308/1425781515
-「系統樹をさかのぼって見えてくる進化の歴史」 - shorebird　進化心理学中心の書評など
-
-http://kiwi-lab.blogspot.com/2015/01/blog-post_8.html
-科学バー店主のブログ（旧「日本橋べったら日記」）: 立花隆氏の書評：長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
-
-http://kagakubar.com/mandala/mandala01.html
-僕たちの祖先をめぐる15億年の旅｜科学バー
-文と写真　長谷川政美
-
-https://goto33.blog.so-net.ne.jp/2015-08-25
-書評：系統樹をさかのぼって見えてくる進化の歴史：海の研究者：：So-netブログ
-「進化の順番で寿司を食べる」という記事
-![](https://goto33.c.blog.so-net.ne.jp/_images/blog/_e3a/goto33/024.jpg)
-
-https://twitter.com/RPolyhedra/status/638104050152529920
-正多面体クラブ on Twitter: "『系統樹をさかのぼって見えてくる進化の歴史』 面白かった～ http://t.co/9BXIcs8FdY 「あらゆる生物は1つの先祖から進化したものである」 「1つの動物が他の動物よりも高等だとするのは不合理である」by ダーウィン http://t.co/gTqd7jO6cO"
-5:40 PM - 30 Aug 2015
-
-
-
-
-
 ----------
 
 ## tree
@@ -82,6 +34,41 @@ How to interpret the phylogenetic trees
 https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
+
+----------
+## circle tree
+
+https://twitter.com/copypasteusa/status/1309065045201096704
+"Tree A is in polar format (often called a circle tree).
+These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided. https://artic.network/how-to-read-a-tree.html
+
+2:02 PM · Sep 24, 2020
+https://twitter.com/windowmoon/status/1308995216729399296
+窓月＠S級在宅士 on Twitter: "何度も言ってますが、円形系統樹は害悪です。かっこいいだけで見やすくない。科学者なら使うべきではない。本当にやめてほしい。" / Twitter
+Most tree plotting programs have "collapse branches" function. Therefore, I recommend to use this function and plot "collapsed" whole tree and several subtrees of "collapsed" branches.
+
+5:35 PM · Mar 19, 2019
+https://twitter.com/windowmoon/status/1107923607349424129
+- 相変わらず皆さん円形系統樹好きですね。見づらいからやめろ。
+- 円形系統樹って、「デザイン的にカッコいい」以外のメリットあるんでしょうかね？
+- 一切ないと思います。有害無益。禁止すべき。円グラフみたいなものですね。
+
+12:58 AM - 19 Mar 2019
+https://twitter.com/Tyu_Shi/status/1107868946269519872
+Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.com/articles/s41559-019-0834-1 … キノコのTimetree論文。
+
+----------
+
+ 2019年4月1日 /  2019年7月15日
+https://tnishimaki.com/?p=1040
+進化距離〜Poisson Correction distance編〜 | t-24.web
+
+https://nam-students.blogspot.com/2013/03/blog-post_2476.html
+NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
+
+
+
+
 
 
 ----------
@@ -278,18 +265,6 @@ https://insectcell.exblog.jp/22371555/
 ----------
 
 
-
- 2019年4月1日 /  2019年7月15日
-https://tnishimaki.com/?p=1040
-進化距離〜Poisson Correction distance編〜 | t-24.web
-
-https://nam-students.blogspot.com/2013/03/blog-post_2476.html
-NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
-
-
-----------
-
-
 https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#2019-08-04
 - https://kimuraseminar.wordpress.com
 木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
@@ -381,12 +356,6 @@ https://twitter.com/tama_lion/status/1107599887644819457
 7:09 AM - 18 Mar 2019
 収斂進化が好き／アノールが好き／カモノハシが好き／学問上の論争が好き／ドゥーガル・ディクソン的進化妄想が好き／研究者の裏話や苦労話が好き／『フィンチの嘴』的な急速な進化の例をもっと知りたい／『ワンダフルライフ』は面白かったけどあの主張どこまで本当なの？という方にとくにおすすめです
 
-https://twitter.com/windowmoon/status/1107923607349424129
-相変わらず皆さん円形系統樹好きですね。見づらいからやめろ。
-4:35 AM - 19 Mar 2019
-https://twitter.com/Tyu_Shi/status/1107868946269519872
-Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.com/articles/s41559-019-0834-1 … キノコのTimetree論文。
-12:58 AM - 19 Mar 2019
 
 https://twitter.com/bluebacks_pub/status/1105154415051169792
 講談社ブルーバックス on Twitter: "【系統的に近いのに「似ていない」理由】 「どう見ても、ゴリラとチンパンジーの方が、見た目は似てるじゃないですか。それなのに、どうしてヒトとチンパンジーの方が系統的に近いと言えるんですか？」 https://t.co/kJjG28bEEG #ブルーバックス"
@@ -594,6 +563,48 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop.html
 http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop02.html
 進化と系統のあれやこれ
 
+## ‪Hasegawa‬ Masami
+
+9:54 AM · Oct 10, 2020
+https://twitter.com/kagakubarKIWI/status/1314730971204251650
+【Web科学バー新連載スタート！】長谷川政美先生の新連載「ウィルスという存在 ーヒトの進化にどうかかわってきたのか」が始まりました。◎第1話「微生物で満ちあふれているヒト」https://kagakubar.com/virus/01.html 文と写真：長谷川政美（分子系統学者）。写真：ビクーニャとグアナコ
+
+https://kagakubar.com/virus/01.html
+ウィルスという存在｜科学バー
+
+一方、ウイルスは、生物の細胞内でしか増殖できないので、普通は生物とは見なされない。しかし、どんな生物もほかの生物の助けを借りないと生きられないということであり、生物と無生物の境界は曖昧である。生物の特徴として、ゲノムを複製し、その際に生じる突然変異に対して自然選択が働くことによって子孫を増やすような形質が進化するということが挙げられる。そのように複製しながら進化するものを複製子（replicon）というが、ウイルスもまさに自分の子孫を増やすように進化する複製子である。
+
+現代のグローバル化した社会では、このような感染症は一気に世界中に広まることになる。
+近年の人口爆発の結果、ヒトは巨大な都市をつくって生活するようになった。また野生動物の生活圏で多くのヒトと家畜が密集して生活するようになった。ウイルスにとっては、このようなヒトや家畜への感染力を進化させれば将来の繁栄につながることになる。
+
+### 2014-10-23
+
+長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
+
+https://twitter.com/search?q=系統樹をさかのぼって見えてくる進化の歴史
+
+https://www.beret.co.jp/books/detail/544
+系統樹をさかのぼって見えてくる進化の歴史｜書籍案内｜ベレ出版
+
+https://shorebird.hatenablog.com/entry/20150308/1425781515
+「系統樹をさかのぼって見えてくる進化の歴史」 - shorebird　進化心理学中心の書評など
+
+http://kiwi-lab.blogspot.com/2015/01/blog-post_8.html
+科学バー店主のブログ（旧「日本橋べったら日記」）: 立花隆氏の書評：長谷川政美著『系統樹をさかのぼって見えてくる進化の歴史』
+
+http://kagakubar.com/mandala/mandala01.html
+僕たちの祖先をめぐる15億年の旅｜科学バー
+文と写真　長谷川政美
+
+https://goto33.blog.so-net.ne.jp/2015-08-25
+書評：系統樹をさかのぼって見えてくる進化の歴史：海の研究者：：So-netブログ
+「進化の順番で寿司を食べる」という記事
+![](https://goto33.c.blog.so-net.ne.jp/_images/blog/_e3a/goto33/024.jpg)
+
+https://twitter.com/RPolyhedra/status/638104050152529920
+正多面体クラブ on Twitter: "『系統樹をさかのぼって見えてくる進化の歴史』 面白かった～ http://t.co/9BXIcs8FdY 「あらゆる生物は1つの先祖から進化したものである」 「1つの動物が他の動物よりも高等だとするのは不合理である」by ダーウィン http://t.co/gTqd7jO6cO"
+5:40 PM - 30 Aug 2015
+
 ## inoue
 
 http://www.fish-evol.org/link.html
@@ -793,6 +804,24 @@ Akifumi S. Tanabe
 - https://www.fifthdimension.jp/wiki.cgi
 
 https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#akifumi-tanabe
+
+
+
+https://github.com/astanabe/ClaidentTutorial
+Tutorial scripts and data for Claident
+
+https://www.fifthdimension.jp/documents/metabarcodingtextbook/
+Metabarcoding and DNA barcoding for Ecologists
+https://www.fifthdimension.jp/documents/metabarcodingtextbook/metabarcodingtextbook.ja.html
+生態学のためのメタバーコーディングとDNAバーコーディング
+田辺晶史
+2018年5月8日
+
+https://www.fifthdimension.jp/wiki.cgi?page=%BC%AB%CD%B3%BD%B8%B2%F12016%A1%A7%A5%E1%A5%BF%A5%D0%A1%BC%A5%B3%A1%BC%A5%C7%A5%A3%A5%F3%A5%B0%A1%A6%B4%C4%B6%ADDNA%A5%D0%A1%BC%A5%B3%A1%BC%A5%C7%A5%A3%A5%F3%A5%B0%B2%F2%C0%CF%A4%CE%B5%BB%CB%A1
+自由集会2016：メタバーコーディング・環境DNAバーコーディング解析の技法
+模擬データと解析用Rスクリプト: Rscript_Kadowaki.zip(556)
+
+
 
 
 https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
