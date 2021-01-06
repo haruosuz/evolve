@@ -7,7 +7,6 @@ Last Update: 2019-09
 
 ## Table of Contents
 - [unclassified](#unclassified)
-- [featuring](#featuring)
 - [2018](#2018)
 - [neutral theory](#neutral-theory) 中立説
 - [adaptation](#adaptation) 適応
@@ -44,15 +43,212 @@ Last Update: 2019-09
 - [taxon sampling](#taxon-sampling)
 - [pcm](#pcm) phylogenetic comparative methods
 - [substitution matrix](#substitution-matrix) 置換行列
-- [partition](#partition)
 - [mutation](#mutation) 変異
 - [revisionterm](#revisionterm)
 - [branch length](#branch-length) 枝長
 - [LBA](#lba) 長枝誘引
+- [partition](#partition)
 - [network](#network)
 
 ----------
 ## network
+
+
+----------
+## partition
+パーティション
+
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.pdf
+2.1.2 座位間の置換速度不均質性
+座位 (site) 間における置換速度の不均質性 (heterogeneity) があることが知られており、これを表すモデルがいくつか
+提案されています。
+また、置換の起きない座位 (invariable site) と置換が起きる座位 (variable site) の 2 つにカテゴリ分けするモデル ( + I
+と表記) や、 + G と + I を併用したモデルもあります。これらは一定の法則に従って自動的に行われるカテゴリ分けで
+すが、解析者が任意のカテゴリ分け (partitioning) を指定することもできます ( + SS (site specific rate の意) と表記)。
+異なるコドン位置 (codon position) や遺伝子座などの置換速度は異なる可能性が高いので、これらがしばしばカテゴ
+リとして指定されます。
+
+2.1.3 Mixed model
+前節では座位 (site) 間での置換速度不均質性のみを考慮していましたが、塩基置換速度行列および置換速度不均質性の
+不均質性を考慮することも可能です。つまり、任意の座位のグループ＝パーティション (partition) ごとに異なる塩基
+置換速度行列、異なる ASRV モデルを当てはめます。これは mixed model と呼ばれています。論文によっては区分
+モデル (partitioned model) と呼んでいることもあります。これに対して、パーティション間に共通の塩基置換速度行
+列と ASRV モデルを当てはめるものは非区分モデル (nonpartitioned model) と呼ばれます。
+
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+分子系統解析における
+様々な問題について
+
+パーティションの切り方
+● Kakusan4は以下を比較して選択
+– 遺伝子座間・コドン位置間全部切る
+– 遺伝子座間全部切る・コドン位置間全部切らない
+– 遺伝子座間・コドン位置間全部切らない
+● もっと柔軟にな切り方があるのでは?
+– PartitionFinderで探索可能
+
+系統樹推定の勘所
+● パーティションの切り方
+● パーティション間モデル(等速度・比例・分離)
+● パーティション内モデル(JC69～GTR+G)
+
+冨田秀一郎 著 · ‎2018
+https://www.jstage.jst.go.jp/article/konchubiotec/87/2/87_2_091/_pdf
+蚕糸・昆虫バイオテック 87(2)、91-94(2018) SANSHI-KONCHU BIOTEC
+特集「ポストゲノム時代の形態進化研究」 によせて~進化研究と系統解析~
+
+図 1．DNA 塩基配列データの場合の分子進化モデル
+
+複数パーティションとなる場合にはパーティションごとに異
+なる置換確率行列と不均質性モデルを当てはめる。
+
+ さて，実際の分子系統解析は通常以下のようなステッ プを踏むことになる。
+  1)配列情報を収集する。
+  2)集めた配列を並べて，マルチプルアラインメントを行う。
+  3)分子進化モデルの選択とパーティショニングを行う。
+  4)系統推定を行う。
+  5)系統仮説の比較や妥当性の検定を行う。
+
+3)と 4)で私は にわかに途方に暮れることになった。系統推定を行うプ ログラムはモデル選択やパーティションの切り方を教え てくれないが，そもそもそれが何なのか知らなかったの である。
+
+(図 1)。この分 子進化様式は，厳密にいえばサイト(塩基のポジション) ごとに異なっているはずであるので，サイトごとに異な るモデルを適用すれば良いように思うかもしれないが， データからモデルを引き出している以上，それは統計学 でいうところのいわゆるフルモデルとなり決して良いモ デルとは言えない。そこで進化様式が似ていそうなとこ ろをまとめるのがパーティショニングである。遺伝子ご と，コドンポジションごとなどのストラテジーが考えら れ，それだけでも膨大なパターンになることも多い。そ こで，パーティションの切り方やモデル選択を AIC や BIC のような統計量基準で評価してくれるプログラムを 利用することになるが，最終的にその妥当性を判断する のは生物学者である。
+
+2017年3月22日
+http://www.tezuru-mozuru.com/?p=9927
+iqtreeによる最尤法系統樹推定 – チームてづるもづる
+iq treeは，パーティション分けが可能な最尤法系統樹推定ソフトです．
+
+2016 年 10 月 12日
+http://www.fish-evol.org/RAxML.html
+RAxML - 井上 潤
+パーティションの設定
+
+2012 年 7 月 16 日
+http://www.fish-evol.org/DatabaseEnglish.html
+井上 潤: 系統解析の英語例文
+Partition 解析
+
+
+Last-modified: 2015-05-13 (水) 16:39:20 (2042d)
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH17%2F系統学特論%2F最尤法
+H17/系統学特論/PAUP*使用法/最尤法 †
+課題2：Modeltestと系統解析 †
+本来ならば、Modeltestのときからコドンポジションでパーティションを作って解析を行いたいが、今回説明する手順でそれをやるのは難しい。そこで、パーティションを作らずにモデル選択した後、Modeltestで得られたlsetのsiteratesとratesをパーティション用の設定に置き換えて解析するという、簡便法をとる。
+
+2008
+https://www.ism.ac.jp/editsec/toukei/pdf/56-1-145.pdf
+複数遺伝子の結合データに基づく分子系統樹の 推測
+
+方法論の概略を述べ，真核生物の大系統の問題に関するデータ解析の実例を示した．
+結合のための統計モデルとして，単に個々の遺伝子（もしくは全データセットを構成する個々
+の ‘区分’）の連結データに対して 1 セットの枝長を推定する「連結モデル」，個別の遺伝子（区
+分）それぞれについて独立に枝長の推定を行う「分離モデル」，枝長が遺伝子（区分）間で比例し
+ているという仮定を置く「比例モデル」の 3 つのモデルを取り上げ，
+Three models of branch length estimation are considered assuming that all
+genes (or partitions for the full data set)have the same branch length (concatenate model),
+each gene (partition) has a separate set of branch lengths (separate model), and branch
+lengths are proportional among genes (partitions) (proportional model).
+
+
+
+----------
+## unclassified
+
+
+https://ja.wikipedia.org/wiki/姉妹群
+https://en.wikipedia.org/wiki/Sister_group
+
+https://ja.wikipedia.org/wiki/創始者効果
+
+https://ja.wikipedia.org/wiki/適応放散
+
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
+https://www.fifthdimension.jp/documents/molphytextbook/
+
+
+
+http://www.saitama-u.ac.jp/ohnishi/jikken/phylogenetic_methods.htm
+系統樹の基礎知識 (図参照)
+Node（節）とBranch（枝）から成っている．NodeにはExternal Nodes (右端の現生の [生物あるいは配列] （以下では配列とのみ記述）) と系統樹内のInternal Nodes (過去に存在した，あるいは，存在したと推定される配列) がある（図(1)）．Root (R)は仮想的な共通祖先 (Common ancestor)．
+また，Internal Nodesにはbifurcating (２鎖分岐)とmultifurcating (多鎖分岐) するものの２種類がある．原則的には，２鎖分岐のはずだが，分岐の順序が正確に決まらない場合は，multifurcatingの形に表示される．(下図 (2)右のN1)
+
+
+
+
+https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
+１．分類学に関するおもな用語　更新日：2017.4.14
+
+２．系統学に関する用語
+
+phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
+A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
+
+numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
+★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
+
+cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
+A system of classification in which the only groups formally recognized are clades.
+★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
+
+
+
+https://quizlet.com/153288496/chpt-261-263-flash-cards/
+Chpt. 26.1-26.3単語カード | Quizlet
+branch points
+-in picture, point 3 is common ancestor of A, B, C
+-4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
+
+![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
+
+http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
+Morecular phylogeny
+2015年度生物測定学応用実験
+分子系統樹
+東京大学大学院農学生命科学研究科　大森宏
+2016年 1月 4日
+1. 塩基置換の確率モデル
+2. 系統樹作成手法
+参考文献
+分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+系統推定の基本用語
+
+https://ja.wikipedia.org/wiki/退化
+一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
+
+Tomoaki NISHIYAMA
+Wed Dec 27 18:49:55 JST 2000
+http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
+用語集
+
+![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
+
+
+
+
+https://ja.wikipedia.org/wiki/非加重結合法
+（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)は系統樹を作製するためのボトムアップ式のクラスタ解析法である。入力データは対象の各ペア間の距離であり、有根系統樹が作製される。進化速度が一定（分子時計仮説）と仮定して有根系統樹を作製するのにときどき用いられる。
+UPGMAは進化速度一定の仮定を用いているため、これが対象に関して正しいことが示されない限り、系統樹の推定に適した方法ではない。
+やはり距離を用いる方法であるが上記の仮定を要しないものに近隣結合法（NJ法）がある。
+https://ja.wikipedia.org/wiki/近隣結合法
+
+https://shorebird.hatenablog.com/entry/20180601/1527842963
+「系統体系学の世界」 - shorebird　進化心理学中心の書評など
+
+
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+http://www.nikkei-science.com/page/magazine/0809/200809_060.html
+生物の種とは何か | 日経サイエンス
+「系統学的種概念」
+　しかし，系統学的種概念の採用により，種の細分化が今後どんどん進んでしまうのではないかと警戒する意見もある。ロンドン大学インペリアルカレッジのメイス（Georgina Mace）は，「系統学的種概念の問題点は，どこまで分ければいいのかがわからないという点にある」という。少なくとも原理的には，突然変異が1つでもあれば，それを共有する小さな動物群に対して種名を与える根拠となるだろう。「しかし，そこまで細かく分けるのは少々ばかげている」と彼女は言う。メイスは，ある個体群を新種として独立させるためには，それが，地理的分布や気候条件あるいは捕食者被食者の関係の点で生態的に異なっていることを示すべきだと言う。
+　しかし，種を分けすぎることを心配するのではなく，あくまでデータに基づいて判断すべきだという研究者もいる。ニューヨーク州立大学ストーニーブルック校のウィーンズ（John Wiens）は，「種の細分化を懸念するのは本末転倒だろう」と反論する。「最初から『種数の上限はここまで』と制限するのはとても科学的とはいえない」と彼は主張する。
+　種の定義をめぐる問題をさらに厄介にしているのが微生物だ。生物多様性の90％以上を占める微生物の種は，どう定義すればよいのだろう？　動植物にも，微生物にも適用できる種の定義は可能なのだろうか？　
+
+
+
 
 ----------
 ## branch length
@@ -106,6 +302,18 @@ Jpn. J. Phycol. (Sorlli) 55: 111-116， JlI ly 10，2007
 稲垣祐司 : ロン グブランチの誘惑一分子系統解析のダークサイド
 https://sites.google.com/site/memicrobes/home/members/yuji
 稲垣祐司　博士（理学）／Yuji Inagaki Ph.D
+
+
+https://pubmed.ncbi.nlm.nih.gov/16209710/
+BMC Evol Biol
+. 2005 Oct 6;5:50. doi: 10.1186/1471-2148-5-50.
+Heterotachy and long-branch attraction in phylogenetics
+Hervé Philippe 1, Yan Zhou, Henner Brinkmann, Nicolas Rodrigue, Frédéric Delsuc
+https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-5-50
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1274308/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1274308/figure/F1/
+Illustration of the branch length heterogeneity conditions commonly referred as the Felsenstein zone (a) and the Farris zone (b). The Felsenstein zone [3] is characterised by two long branches that are not adjacent in the model topology, a situation where most phylogenetic methods fall into the long-branch attraction artefact [1]. Conversely, in the Farris zone [17], also called the inverse-Felsenstein zone [8], the two long branches are adjacent in the model topology. This last condition strongly favours MP over ML because of the intrinsic bias of parsimony towards interpreting multiple changes that occurred along the two long branches as false synapomorphies [8].
+
 
 http://feynmanino.watson.jp/6760_LBA.html
 Cladistics 21,163–193 (2005)
@@ -168,18 +376,6 @@ https://jshg.jp/wp-content/uploads/2017/08/d5fdc84ae83d3a9a6627b7ac249e4db0.pdf
 
 
 ----------
-## 
-
-https://ja.wikipedia.org/wiki/非加重結合法
-（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)は系統樹を作製するためのボトムアップ式のクラスタ解析法である。入力データは対象の各ペア間の距離であり、有根系統樹が作製される。進化速度が一定（分子時計仮説）と仮定して有根系統樹を作製するのにときどき用いられる。
-UPGMAは進化速度一定の仮定を用いているため、これが対象に関して正しいことが示されない限り、系統樹の推定に適した方法ではない。
-やはり距離を用いる方法であるが上記の仮定を要しないものに近隣結合法（NJ法）がある。
-https://ja.wikipedia.org/wiki/近隣結合法
-
-https://shorebird.hatenablog.com/entry/20180601/1527842963
-「系統体系学の世界」 - shorebird　進化心理学中心の書評など
-
-----------
 ## mutation
 
 https://en.wikipedia.org/wiki/Mutation_bias
@@ -240,84 +436,6 @@ https://www.ism.ac.jp/editsec/toukei/pdf/50-1-017.pdf
 一定となり，いわゆる分子時計が成立するため，これを検定する方式がいくつか提唱されてき
 た（
 
-----------
-
-## featuring
-
-https://quizlet.com/153288496/chpt-261-263-flash-cards/
-Chpt. 26.1-26.3単語カード | Quizlet
-branch points
--in picture, point 3 is common ancestor of A, B, C
--4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
-
-![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
-
-http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
-Morecular phylogeny
-2015年度生物測定学応用実験
-分子系統樹
-東京大学大学院農学生命科学研究科　大森宏
-2016年 1月 4日
-1. 塩基置換の確率モデル
-2. 系統樹作成手法
-参考文献
-分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-系統推定の基本用語
-
-https://ja.wikipedia.org/wiki/退化
-一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
-
-Tomoaki NISHIYAMA
-Wed Dec 27 18:49:55 JST 2000
-http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
-用語集
-
-![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
-
-
-----------
-
-https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
-１．分類学に関するおもな用語　更新日：2017.4.14
-
-２．系統学に関する用語
-
-phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
-A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
-
-numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
-★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
-
-cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
-A system of classification in which the only groups formally recognized are clades.
-★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
-
-
-----------
-## unclassified
-
-
-https://ja.wikipedia.org/wiki/姉妹群
-https://en.wikipedia.org/wiki/Sister_group
-
-https://ja.wikipedia.org/wiki/創始者効果
-
-https://ja.wikipedia.org/wiki/適応放散
-
-https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
-https://www.fifthdimension.jp/documents/molphytextbook/
-
-
-http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
-「種問題」ははてしなく続く - archief voor stambomen
-http://www.nikkei-science.com/page/magazine/0809/200809_060.html
-生物の種とは何か | 日経サイエンス
-「系統学的種概念」
-　しかし，系統学的種概念の採用により，種の細分化が今後どんどん進んでしまうのではないかと警戒する意見もある。ロンドン大学インペリアルカレッジのメイス（Georgina Mace）は，「系統学的種概念の問題点は，どこまで分ければいいのかがわからないという点にある」という。少なくとも原理的には，突然変異が1つでもあれば，それを共有する小さな動物群に対して種名を与える根拠となるだろう。「しかし，そこまで細かく分けるのは少々ばかげている」と彼女は言う。メイスは，ある個体群を新種として独立させるためには，それが，地理的分布や気候条件あるいは捕食者被食者の関係の点で生態的に異なっていることを示すべきだと言う。
-　しかし，種を分けすぎることを心配するのではなく，あくまでデータに基づいて判断すべきだという研究者もいる。ニューヨーク州立大学ストーニーブルック校のウィーンズ（John Wiens）は，「種の細分化を懸念するのは本末転倒だろう」と反論する。「最初から『種数の上限はここまで』と制限するのはとても科学的とはいえない」と彼は主張する。
-　種の定義をめぐる問題をさらに厄介にしているのが微生物だ。生物多様性の90％以上を占める微生物の種は，どう定義すればよいのだろう？　動植物にも，微生物にも適用できる種の定義は可能なのだろうか？　
 
 ----------
 ## microbe
@@ -364,34 +482,6 @@ http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
 http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
 単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
 
-
-----------
-## partition
-
-2016 年 10 月 12日
-http://www.fish-evol.org/RAxML.html
-パーティションの設定
-
-2012 年 7 月 16 日
-http://www.fish-evol.org/DatabaseEnglish.html
-Partition 解析
-
-2015/10/20
-https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
-https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.pdf
-2.1.2 座位間の置換速度不均質性
-また、置換の起きない座位(invariable site)と置換が起きる座位(variable site)の2つにカテゴリ分けするモデル( + I と表記)や、 + G と + I を併用したモデルもあります。これらは一定の法則に従って自動的に行われるカテゴリ分けですが、解析者が任意のカテゴリ分け(partitioning)を指定することもできます( + SS (site specific rateの意)と表記)。異なるコドン位置(codon position)や遺伝子座などの置換速度は異なる可能性が高いので、これらがしばしばカテゴリとして指定されます。
-
-https://www.ism.ac.jp/editsec/toukei/pdf/56-1-145.pdf
-方法論の概略を述べ，真核生物の大系統の問題に関するデータ解析の実例を示した．
-結合のための統計モデルとして，単に個々の遺伝子（もしくは全データセットを構成する個々
-の ‘区分’）の連結データに対して 1 セットの枝長を推定する「連結モデル」，個別の遺伝子（区
-分）それぞれについて独立に枝長の推定を行う「分離モデル」，枝長が遺伝子（区分）間で比例し
-ているという仮定を置く「比例モデル」の 3 つのモデルを取り上げ，
-Three models of branch length estimation are considered assuming that all
-genes (or partitions for the full data set)have the same branch length (concatenate model),
-each gene (partition) has a separate set of branch lengths (separate model), and branch
-lengths are proportional among genes (partitions) (proportional model).
 
 ----------
 ## substitution matrix
@@ -1006,6 +1096,38 @@ https://lambtani.hatenablog.jp/entry/2020/05/19/233210
 https://ja.wikipedia.org/wiki/インテリジェント・デザイン
 『宇宙・自然界に起こっていることは機械的・非人称的な自然的要因だけではすべての説明はできず、そこには「デザイン」すなわち構想、意図、意志、目的といったものが働いていることを科学として認めよう』という理論・運動である。近年のアメリカ合衆国で始まったものであり、1990年代にアメリカの反進化論団体、一部の科学者などが提唱し始めたものである。
 
+----------
+## 
+生物の合目的性
+
+10月 24, 2014
+https://junotkja.wordpress.com/2014/10/
+10月 | 2014 | 大塚淳のサイト跡地
+現代の我々は、そうした合目的性が、自然選択を通じて実際の進化の原因になりうる、ということを知っています。しかしそれは一つの可能性・仮説に過ぎません。実のところそうした合目的性はたまたま生じた副産物であって、実際の進化の原因ではなかったかもしれない。
+
+
+2013年09月25日 22:30
+https://mixi.jp/view_bbs.pl?comm_id=82248&id=74922095
+[mixi]合目的性への挑戦 - 進化生物学 | mixiコミュニティ
+
+https://kagakubar.com/evolution/05.html
+進化の歴史｜科学バー
+第5話
+偶然性の重視
+文と写真　長谷川政美
+◎ダーウィンの「自然選択説」
+ダーウィンの「自然選択説」は、このようなデザイン論や目的論を否定する。彼は、集団中に偶然に生ずるたくさんの変異のなかからさまざまな環境によりよく適応した個体が生き残ることによって、進化が起るとした。多様な生物が進化する仕組みとして自然選択説を考えたのであった。目的論に頼らなくても、ランダムに起きる変異のなかからより適応した個体が選択されることによって、結果的に進化に方向性を与えられるのだ。無目的な偶然的な現象によって、生物の合目的性がもたらされるというこの考えは、画期的なものであった。
+
+http://fs1.law.keio.ac.jp/~popper/v3n1yamane.html
+進化論的認識論と行動的無意味
+－　リードルの人間理解　－
+山根　正気
+そのようにふるまう生物のシステムを、擬合理的装置とよび、その生物が過去に選別された条件がこんにちも続いているとすれば、それはまさに合目的的とみられるわけである。生物のもつ合目的性をこのようにとらえる立場にたいして、著者は科学的目的論（テレオノミー）という表現をもちいている。さて、問題はこの先である。
+生物個体がそなえている合目的性を疑う者はいまい。
+ところが、この本の著者は、合目的性の論理をいとも無批判に社会や種にまで拡張する。
+合目的性の原因を種の維持にもとめることが、いかに誤った結論を導くかをみてみよう。
+
+
 
 
 ----------
@@ -1090,6 +1212,7 @@ Genome
 Gene amelioration demonstrated: the journey of nascent genes in bacteria
 Pradeep Reddy Marri 1, G Brian Golding
 
+水平伝播の成功には、外来遺伝子と受容ゲノム間のコドン使用互換性が必要
 https://www.ncbi.nlm.nih.gov/pubmed/15240837
 Mol Biol Evol. 2004 Oct;21(10):1884-94. Epub 2004 Jul 7.
 Successful lateral transfer requires codon usage compatibility between foreign genes and recipient genomes.
@@ -1097,7 +1220,6 @@ Medrano-Soto A1, Moreno-Hagelsieb G, Vinuesa P, Christen JA, Collado-Vides J.
 https://academic.oup.com/mbe/article/21/10/1884/1025177
 Codon Usage Amelioration Is Unnecessary
 We need to re-evaluate the notion that a foreign gene or fragment of DNA (assumed as atypical in sequence characteristics) becomes compositionally more similar to the host genome with increasing residence time. This process has been called “amelioration,” after reasoning that it makes a gene “better” (Lawrence and Ochman 1997), implying better translatability. This concept is a natural consequence of methods assuming that most foreign genes display mainly a poor-CU profile. However, as our results indicate, most foreign genes with poor CU are counter-selected for successful integration, suggesting that CU amelioration might occur in a small fraction of genes. 
-
 
 https://pubmed.ncbi.nlm.nih.gov/15728743/
 Nucleic Acids Res
@@ -1388,6 +1510,18 @@ Internode Certainty, ICAll, TreeC, TCA値で不調和を評価
 http://hashiyuki.hatenablog.com/entry/2015/04/15/195458
 RNA-Seqデータを用いた系統解析 (1): 解析の方針 - NGSデータ解析まとめ
 (7) Bayesian concordance analysisによるconcordance treeの作成、種系統樹と異なる分岐を示す遺伝子の同定（BUCKyなどを使用）
+
+
+2015年9月18日
+http://www.nibb.ac.jp/plantdic/blog/?p=778
+Phylogeny of land plants 陸上植物の系統
+
+連結遺伝子を用いた解析では、ツノゴケ類が陸上植物の最基部、次いで、タイ類とセン類からなる単系統群が分岐した。コアレッセンス解析では、コケ植物の３群が単系統群となった。コケ植物が単系統という推定は、葉緑体ゲノム上の遺伝子をアミノ酸配列を用いて解析した結果と一致している(Nishiyama et al. 2004）。
+
+連結遺伝子を用いた解析とコアレッセンス解析とではどちらが妥当なのだろうか。まず、コアレッセンス解析について簡単に説明しよう。祖先集団で遺伝子多型があった場合、その遺伝子は種が分岐するよりも前に分岐していたり、種分化の途中で多型アリルのどちらかが失われたりする。これは、不完全遺伝子系統仕分け（incomplete lineage sorting)と呼ばれ、遺伝子系統樹と種系統樹が一致しない理由の一つである。そのため、より多くの遺伝子系統樹を比較して、そのうちでもっとも確率の高いものを種系統樹として推定するコアレッセンス解析が考案された (Mirarab et al. 2014)。
+
+一方、連結遺伝子を用いた系統解析は、コアレッセンス解析よりも解析が楽であるが、異なった進化モデル（進化速度など）と歴史を持つ遺伝子をまとめて一つにしているため、間違った系統樹が高い統計的支持を受ける場合があることがわかっている（Mirarab et al. 2014）。
+
 
 http://www.fish-evol.org/phyMarker.html
 系統推定
@@ -2003,9 +2137,20 @@ http://hp.brs.nihon-u.ac.jp/~inasweb/narai/narai/xiang_tong_zu_huanetoha.html
 相同組換えとは
 遺伝的組換えは，さらに以下の5種類に分けられます。
 
-https://twitter.com/NatureRevMicro/status/1088112422928506880
-Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evolution of prokaryotic core genomes @mbiojournal https://t.co/GxZrNxhsMB… "
-11:33 AM - 23 Jan 2019
+https://pubmed.ncbi.nlm.nih.gov/33238876/
+BMC Genomics
+. 2020 Nov 25;21(1):829. doi: 10.1186/s12864-020-07262-x.
+Impact of homologous recombination on core genome phylogenies
+Caroline M Stott 1, Louis-Marie Bobay 2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7691112/
+
+
+https://pubmed.ncbi.nlm.nih.gov/30670614/
+mBio
+. 2019 Jan 22;10(1):e02494-18. doi: 10.1128/mBio.02494-18.
+Impact of Homologous Recombination on the Evolution of Prokaryotic Core Genomes
+Pedro González-Torres 1 2 3, Francisco Rodríguez-Mateos 4, Josefa Antón 1 5, Toni Gabaldón 6 3 7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6343036/
 
 
 ----------
