@@ -16,6 +16,7 @@ Last Update: 2020-05
   - [OrthoFinder](#orthofinder)
 - [alignment](#alignment) アライメント、編集
   - [gap](#gap)
+  - [macse](#macse)
   - [mafft](#mafft)
   - [Gblocks](#gblocks)
   - [trimAl](#trimal)
@@ -23,6 +24,7 @@ Last Update: 2020-05
   - [IQ-Tree](#iqtree)
   - [FastTree](#fasttree)
   - [RAxML](#raxml)
+  - [phyml](#phyml)
   - [bcgTree](#bcgTree)
   - [phylophlan](#phylophlan)
   - [etetoolkit](#etetoolkit)
@@ -335,9 +337,30 @@ Alignment tutorial - MolEvol
 This page was last edited on 2 August 2019, at 14:13.
 
 
+http://www.gen-info.osaka-u.ac.jp/~uhmin/study/history.html
+History of uhmin tools
+2013年
+4月5日
+マルチプルアライメント Multiple sequence alignment
+・アミノ酸の読み枠を考慮したアライメントが可能になりました。
+tranalignを選択してコーディングフレームを入力すると、 アミノ酸に翻訳した後に mafft の自動モードでアライメントを行い、 アミノ酸アライメントの結果を元に塩基配列をアライメントします。
+タンパクコード領域塩基配列のマルチプルアライメントのサイトを参考にさせてもらいました。感謝！
+
+
+最終更新時間：2007年03月17日 05時57分52秒
 https://www.fifthdimension.jp/wiki.cgi?page=%A5%BF%A5%F3%A5%D1%A5%AF%A5%B3%A1%BC%A5%C9%CE%CE%B0%E8%B1%F6%B4%F0%C7%DB%CE%F3%A4%CE%A5%DE%A5%EB%A5%C1%A5%D7%A5%EB%A5%A2%A5%E9%A5%A4%A5%E1%A5%F3%A5%C8
 タンパクコード領域塩基配列のマルチプルアライメント - Life is fifthdimension.
-最終更新時間：2007年03月17日 05時57分52秒
+
+アミノ酸配列を参照しての塩基配列アライメント
+　EMBOSSのtranalignコマンドを用いて、アライメント済みアミノ酸配列をリファレンスとして塩基配列をアライメントします。これで翻訳後のアミノ酸配列の変化を最小化するような塩基配列のアライメントが完了します。
+
+https://www.ncbi.nlm.nih.gov/pubmed/22936717
+Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
+Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees.
+Sen D1, Brown CJ, Top EM, Sullivan J.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
+Nucleotide Sequence Alignments and Model Selection
+The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences.
 
 ----------
 ### decipher
@@ -353,7 +376,17 @@ accurate since amino acids are more conserved than their corresponding coding se
 
 ----------
 ### macse
+MACSE: Multiple Alignment of Coding SEquences
+
+https://bioweb.supagro.inra.fr/macse/
+
+https://bioweb.supagro.inra.fr/macse/index.php?menu=downloadTuto
+Download documents related to MACSE v2.03:
+Download the tutorial file: doc_MACSE_v2.03.pdf
+https://bioweb.supagro.inra.fr/macse/doc/doc_MACSE_v2.03.pdf
+
 http://mbb.univ-montp2.fr/macse
+http://mbb.univ-montp2.fr/MBB/
 
 http://kazumaxneo.hatenablog.com/entry/2017/09/09/014350
 コード領域のアミノ酸配列を考えてマルチプルアライメントを行うMUCSE - macでインフォマティクス
@@ -364,11 +397,8 @@ Mol Biol Evol
 . 2018 Oct 1;35(10):2582-2584. doi: 10.1093/molbev/msy159.
 MACSE v2: Toolkit for the Alignment of Coding Sequences Accounting for Frameshifts and Stop Codons
 Vincent Ranwez 1, Emmanuel J P Douzery 2, Cédric Cambon 1 2, Nathalie Chantret 1, Frédéric Delsuc 2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188553/
 https://academic.oup.com/mbe/article/35/10/2582/5079334
-
-https://bioweb.supagro.inra.fr/macse/
-http://mbb.univ-montp2.fr/MBB/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188553/
 
 https://pubmed.ncbi.nlm.nih.gov/21949676/
 PLoS One
@@ -391,6 +421,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896173/
 https://academic.oup.com/nar/article/38/suppl_2/W7/1094709
 Figure 1.
 Example illustrating the different performance of the direct and back-translated nucleotide alignments (multiple alignments were built with Muscle with default parameters).
+
+
+
+
+
 
 
 
@@ -493,6 +528,15 @@ Castresana J1.
 
 http://trimal.cgenomics.org
 
+http://trimal.cgenomics.org/getting_started_with_trimal_v1.2
+```
+   trimal -in example1 -out output1 -htmlout output1.html -gt 1
+```
+will remove all columns with any gap (equivalent to -nogaps option)
+
+
+
+
 https://pubmed.ncbi.nlm.nih.gov/19505945/
 Bioinformatics
 . 2009 Aug 1;25(15):1972-3. doi: 10.1093/bioinformatics/btp348. Epub 2009 Jun 8.
@@ -505,6 +549,7 @@ http://www.fish-evol.org/trimAl_ji.html
 trimAl - JI
 2016 年 3 月 31日　改訂
 井上 潤
+以下のように，自動的に削除するサイトを選んでくれるオプション (-gappyout) もあります．より厳しく削る場合は -strict か -strictplus を選びます．
 
 https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
 1.5.3 整列の信頼できない座位
@@ -701,6 +746,22 @@ https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.pdf
 https://sites.google.com/site/ouminishiswebsite/8-shi-yan-fang-fa-deta-jie-xi/raxmlde-xi-tong-jie-xi
 系統解析: RAxML - Oumi Nishi's Website
 
+----------
+### phyml
+
+http://www.atgc-montpellier.fr/phyml/usersguide.php
+PhyML 3.0: new algorithms, methods and utilities
+
+http://www.atgc-montpellier.fr/models/index.php?model=lg
+LG: An Improved, General Amino-Acid Replacement Matrix
+
+http://www.atgc-montpellier.fr/phyml/alrt/
+A fast implementation of aLRT in PhyML.
+"Approximate likelihood ratio test for branchs: A fast, accurate and powerful alternative."
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
+Evolution of Conjugation and Type IV Secretion Systems
+We performed the phylogenetic inference as mentioned earlier and additionally with PhyML 3.0 (Gascuel et al. 2010) under the LG model and with the bioNJ starting tree to get aLRT support values.
 
 ----------
 
@@ -897,6 +958,14 @@ https://evolgen.biol.se.tmu.ac.jp/MEGA/tree-protocol.htm
 （１） 分子時計を用いた分岐年代の推定 （哺乳類 チトクロームｂ遺伝子の場合）
 （２）分類群と分子系統との関連（人類集団のD-loop配列の場合）
 
+http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
+実習1: MEGA7のダウンロードとインストール
+
+http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
+実習１：　MEGA6のダウンロードとインストール
+
+http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
+実習1: MEGA6のダウンロードとインストール
 
 
 動画
@@ -913,6 +982,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
 https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/bioinfo18/bioinfo2018-4.pdf
 バイオインフォマティクス第四回
 得られたアラインメントを使ってMEGAで系統樹を作成
+(1) MEGAを起動してmafftで作成したアラインメント䛾読み込み
+
 デフォルトではOriginal Treeが表示されている
 Bootstrap consensus treeのタブを選択
 
@@ -931,16 +1002,6 @@ MEGA – チームてづるもづる
 2017年3月24日
 http://www.tezuru-mozuru.com/?p=9939
 MEGAによる最尤法系統樹推定
-
-http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
-実習1: MEGA7のダウンロードとインストール
-
-http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
-実習１：　MEGA6のダウンロードとインストール
-
-http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
-実習1: MEGA6のダウンロードとインストール
-
 
 ----------
 ## timetree
