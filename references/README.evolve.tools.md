@@ -384,6 +384,7 @@ https://bioweb.supagro.inra.fr/macse/index.php?menu=downloadTuto
 Download documents related to MACSE v2.03:
 Download the tutorial file: doc_MACSE_v2.03.pdf
 https://bioweb.supagro.inra.fr/macse/doc/doc_MACSE_v2.03.pdf
+In the output alignment produced by MACSE, frameshifts are indicated using '!'. 
 
 http://mbb.univ-montp2.fr/macse
 http://mbb.univ-montp2.fr/MBB/
@@ -442,8 +443,10 @@ https://mafft.cbrc.jp/alignment/software/manual/manual.html
 
 Tips (not yet included in the manual) for large alignment, ncRNA alignment, profile alignment, etc.
 https://mafft.cbrc.jp/alignment/software/tips0.html
-How to get a guide tree or a rough clustering
-How to give a user-defined guide tree
+- How to get a guide tree or a rough clustering
+- How to give a user-defined guide tree
+- 
+- Codon-based alignment or DNA alignment based on translated protein sequences
 
 https://mafft.cbrc.jp/alignment/software/anysymbol.html
 Ambiguous nucleotides (r, y, w, s, k, m, d, v, h, b; IUPAC-IUB codes) can be used and are scored as:
@@ -535,13 +538,12 @@ http://trimal.cgenomics.org/getting_started_with_trimal_v1.2
 will remove all columns with any gap (equivalent to -nogaps option)
 
 
-
-
 https://pubmed.ncbi.nlm.nih.gov/19505945/
 Bioinformatics
 . 2009 Aug 1;25(15):1972-3. doi: 10.1093/bioinformatics/btp348. Epub 2009 Jun 8.
 trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses
 Salvador Capella-Gutiérrez 1, José M Silla-Martínez, Toni Gabaldón
+https://academic.oup.com/bioinformatics/article/25/15/1972/213148
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712344/
 In most scenarios (90%), trimAl outperformed Gblocks v0.91b with default parameters. 
 
@@ -651,15 +653,29 @@ https://qiita.com/okuman/items/3dd1cd1292940442fcd0
 ETE Toolkitを使ってPythonで色々な形の系統樹を書く - Qiita
 
 ### iqtree
-http://www.iqtree.org/
+
+- http://www.iqtree.org/
 IQ-TREE: Efficient phylogenomic software by maximum likelihood
-
-http://www.iqtree.org/doc/Quickstart
+- http://www.iqtree.org/doc/Quickstart
 Getting Started
-
-http://www.iqtree.org/doc/Tutorial
+- http://www.iqtree.org/doc/Tutorial
 Beginner's Tutorial
+- http://www.iqtree.org/doc/Advanced-Tutorial
+Advanced Tutorial
+- http://www.iqtree.org/doc/Concordance-Factor
+Concordance Factor
+- http://www.iqtree.org/doc/Dating
+Phylogenetic Dating
 
+https://pubmed.ncbi.nlm.nih.gov/32011700/
+Mol Biol Evol
+. 2020 May 1;37(5):1530-1534. doi: 10.1093/molbev/msaa015.
+IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era
+Bui Quang Minh 1 2, Heiko A Schmidt 3, Olga Chernomor 3, Dominik Schrempf 3 4, Michael D Woodhams 5, Arndt von Haeseler 3 6, Robert Lanfear 2
+https://academic.oup.com/mbe/article/37/5/1530/5721363
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182206/
+
+https://twitter.com/search?q=iqtree%20lang%3Aja&f=live
 
 9:33 PM · Nov 20, 2020
 https://twitter.com/kfuku0502/status/1329764837681926145
@@ -676,12 +692,6 @@ https://academic.oup.com/mbe/article/24/7/1464/986344
 http://kazumaxneo.hatenablog.com/entry/2020/06/07/235834
 IQ-TREE をwebで使える W-IQ-TREE - macでインフォマティクス
 既にIQ-TREE2も発表（pubmed）されており、condaを使って導入できるバージョンも２になっていますが、2020年6月現在、web版はstable versionの1.6です。注意して下さい。
-
-https://pubmed.ncbi.nlm.nih.gov/32011700/
-Mol Biol Evol
-. 2020 May 1;37(5):1530-1534. doi: 10.1093/molbev/msaa015.
-IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era
-Bui Quang Minh 1 2, Heiko A Schmidt 3, Olga Chernomor 3, Dominik Schrempf 3 4, Michael D Woodhams 5, Arndt von Haeseler 3 6, Robert Lanfear 2
 
 https://www.hobochuritsu.com/entry/2018/10/21/125017
 IQ-Treeの使い方まとめ - ほぼ中立ブログ
