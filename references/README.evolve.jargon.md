@@ -334,15 +334,15 @@ https://www.ism.ac.jp/editsec/toukei/pdf/50-1-045.pdf
 ----------
 ## revisionterm
 
-2017
-年12月22日
+2017年12月22日
 http://jams.med.or.jp/dic/h29material_s5.pdf
 平成29度日本医学会分科会用語委員会
 遺伝学用語改訂に関するワーキンググループについて
-```
+
 現行の用語 日本人類遺伝学会(2009)	日本遺伝学会(2017)
+
 Variant 変異体 多様体（バリアント）
-```
+
 
 https://www.jstage.jst.go.jp/article/mammalianscience/57/2/57_387/_article/-char/ja
 「Variation」の訳語として「変異」が使えなくなるかもしれない問題について：日本遺伝学会の新用語集における問題点
@@ -358,7 +358,8 @@ https://gsj3.org/wordpress_v2/wp-content/themes/gsj3/assets/docs/pdf/revisionter
 遺伝学用語改訂について
 2017.9.11 日本遺伝学会
 2017年9月に、「遺伝単　～遺伝学用語集　対訳集つき～」(生命の科学遺伝別
-冊：http://www.nts-book.co.jp/item/detail/summary/bio/20170929_182.html)が発刊されました。この
+冊：http://www.nts-book.co.jp/item/detail/summary/bio/20170929_182.html
+)が発刊されました。この
 書籍を通じて遺伝学用語の改訂を提案しています。改訂された主な用語は以下の通りです。
 ```
 説明番号 英語 旧来の訳語 新たに改訂された訳語
@@ -371,8 +372,16 @@ https://gsj3.org/wordpress_v2/wp-content/themes/gsj3/assets/docs/pdf/revisionter
 https://jshg.jp/about/notice-reference/
 日本人類遺伝学会
 遺伝学用語の改訂
+（2009年（平成21年）9月改訂）
 https://jshg.jp/wp-content/uploads/2017/08/d5fdc84ae83d3a9a6627b7ac249e4db0.pdf
+No 英語 日本語 これまで
+
 4. variant 多様体（バリアント） 変異体
+5. mutant 変異体（突然変異体） 突然変異体
+
+mutant は「変異体（突然変異体も可）」、
+variant は「多様体（バリアントも可）」の訳を当てる。
+
 
 
 ----------
@@ -1535,12 +1544,23 @@ Nature. 2013 May 16;497(7449):327-31. doi: 10.1038/nature12130. Epub 2013 May 8.
 Inferring ancient divergences requires genes with strong phylogenetic signals.
 Salichos L1, Rokas A.
 https://www.nature.com/articles/nature12130
+http://vu-wp0.s3.amazonaws.com/wp-content/uploads/sites/191/pdfs/2013_Salichos_Rokas_Nature.pdf
 Phylogenomic analysis of 1,070 orthologues from 23 yeast genomes identified 1,070 distinct gene trees, which were all incongruent with the phylogeny inferred from concatenation. 
 
 Figure 1: The yeast species phylogeny recovered from the concatenation analysis of 1,070 genes disagrees with every gene tree, despite absolute bootstrap support.
 a, The yeast species phylogeny recovered from concatenation analysis of 1,070 genes using maximum likelihood. Asterisks denote internodes that received 100% bootstrap support by the concatenation analysis. Values near internodes correspond to gene-support frequency and internode certainty, respectively. The scale bar is in units of amino-acid substitutions per site. b, The distribution of the agreement between the bipartitions present in the 1,070 individual gene trees and the concatenation phylogeny, as well as the distribution of the agreement between the bipartitions present in 1,000 randomly generated trees of equal taxon number and the concatenation phylogeny, measured using the normalized Robinson–Foulds tree distance. 
 
 ![https://www.nature.com/articles/nature12130/figures/1](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature12130/MediaObjects/41586_2013_Article_BFnature12130_Fig1_HTML.jpg?as=webp)
+
+First, we should abandon using bootstrap support on concatenation analyses of large data sets. Bootstrapping was developed long before the discovery of high-throughput sequencing, and it is an extremely useful measure of sampling error—that is, the robustness of inference when data are limited39—such as when a single gene is analysed. Given the availability and ease of generating genome-scale data40, relying on bootstrap to analyse phylogenomic data sets is misleading, not only because sampling error is minimal but also because its application will, even in the presence of notable conflict9 or systematic error6,16, almost always result in 100% values9,19,41.
+
+https://tandy.cs.illinois.edu/yang-zhang.pdf
+Presented by Yang Zhang
+4/16/2015
+Bootstrap in concatenation is misleading
+
+
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/22936717
 Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
