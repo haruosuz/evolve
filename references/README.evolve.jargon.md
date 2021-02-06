@@ -54,6 +54,45 @@ Last Update: 2019-09
 ## network
 
 
+
+----------
+## basal
+
+https://en.wikipedia.org/wiki/Basal_(phylogenetics)
+deep-branching or early-branching are similar in meaning.
+
+2018/6/7
+http://darwin.c.u-tokyo.ac.jp/sesj2018/symposium/
+Basal lineageは「原始的」か？：生物界と分野を超えて
+http://darwin.c.u-tokyo.ac.jp/sesj2018/wp/wp-content/uploads/2018/08/5d5ef9dd328e3e7158e5fbaff5ce1d98.pdf
+特定の生物群において早い時期に分岐した系統は往々にして「basal lineage」と呼ばれ、その生物群の原始
+的な表現型を持つと考えられていることが多い。近年、ゲノム情報を利用した遺伝子機能の分化メカニズム
+の研究などから、「basal lineage は原始的である」という観念の再検討の必要が露わとなっている。多角的
+にこの問題を議論するため、生物界を超えた basal lineage の例について触れ、分野をまたいで議論する。
+
+Aug 22, 2018
+https://www.slideshare.net/leeswijzer/minaka-sesj2018-slideshare
+Minaka sesj2018 slideshare
+講演スライド—日本進化学会第20回大会シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）
+
+- https://twitter.com/search?q=Basal%20Lineage%20lang%3Aja
+  - https://twitter.com/copypasteusa/status/1032263315752284160
+#sesj2018 #日本進化学会第20回大会 #進化学会
+Basal lineageは「ない」
+Sister taxaは「ある」
+
+https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+basal taxa (at the bottom of the tree)
+
+https://quizlet.com/97829330/phylogenetic-terms-flash-cards/
+Phylogenetic Terms単語カード | Quizlet
+
+Root
+the most basal internode at the bottom of a tree. This is the common ancestor.
+
+
+
+
 ----------
 ## partition
 パーティション
@@ -1389,41 +1428,6 @@ https://www.slideshare.net/tmr_kohei/kashiwar-2
 言語系統樹と雑煮の祖先形質復元（Kashiwa.R #2）
 tmr_kohei
 田村光平
-
-----------
-## basal
-
-https://en.wikipedia.org/wiki/Basal_(phylogenetics)
-deep-branching or early-branching are similar in meaning.
-
-2018/6/7
-http://darwin.c.u-tokyo.ac.jp/sesj2018/symposium/
-Basal lineageは「原始的」か？：生物界と分野を超えて
-http://darwin.c.u-tokyo.ac.jp/sesj2018/wp/wp-content/uploads/2018/08/5d5ef9dd328e3e7158e5fbaff5ce1d98.pdf
-特定の生物群において早い時期に分岐した系統は往々にして「basal lineage」と呼ばれ、その生物群の原始
-的な表現型を持つと考えられていることが多い。近年、ゲノム情報を利用した遺伝子機能の分化メカニズム
-の研究などから、「basal lineage は原始的である」という観念の再検討の必要が露わとなっている。多角的
-にこの問題を議論するため、生物界を超えた basal lineage の例について触れ、分野をまたいで議論する。
-
-Aug 22, 2018
-https://www.slideshare.net/leeswijzer/minaka-sesj2018-slideshare
-Minaka sesj2018 slideshare
-講演スライド—日本進化学会第20回大会シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）
-
-- https://twitter.com/search?q=Basal%20Lineage%20lang%3Aja
-  - https://twitter.com/copypasteusa/status/1032263315752284160
-#sesj2018 #日本進化学会第20回大会 #進化学会
-Basal lineageは「ない」
-Sister taxaは「ある」
-
-https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-basal taxa (at the bottom of the tree)
-
-https://quizlet.com/97829330/phylogenetic-terms-flash-cards/
-Phylogenetic Terms単語カード | Quizlet
-
-Root
-the most basal internode at the bottom of a tree. This is the common ancestor.
 
 ----------
 ## duplication
