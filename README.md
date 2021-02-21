@@ -1,5 +1,4 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-07
+Last Update: 2021-02
 
 ----------
 
@@ -7,7 +6,7 @@ Last Update: 2020-07
 進化
 
 ## Table of Contents
-- [featuring](#featuring)
+- [unclassified](#unclassified)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
@@ -17,11 +16,22 @@ Last Update: 2020-07
 - [MPCM](#mpcm)
 - [concatenation](#concatenation)
 - [people](#people)
-  - [inoue](#inoue) 井上 潤
-  - [nakada](#nakada) 仲田崇志
-  - [fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
-  - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
-- [unclassified](#unclassified)
+[Vaughn Cooper]
+[Hasegawa Masami] 長谷川政美
+[inoue](#inoue) 井上 潤
+[nakada](#nakada) 仲田崇志
+[fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
+[leeswijzer](#leeswijzer) MINAKA Nobuhiro
+[sarashina isao](sarashina-isao)
+[shorebird](#shorebird)
+- [tree](#tree)
+  - [circle tree](#circle-tree)
+
+
+系統樹に根をつけるのが困難。
+7:09 PM · Aug 7, 2020
+https://twitter.com/AlexisCompBio/status/1291677772570603522
+Alexis Stamatakis on Twitter: "In our latest preprint https://t.co/kg6LYXJmaF we find that phylogenetic analyses of SARS-CoV-2 data are extremely challenging due to weak signal and that rooting the tree is difficult. We provide some recommendations on analyzing SARS-CoV-2 data." / Twitter
 
 
 ----------
@@ -35,12 +45,31 @@ https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
 
+https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+How to read a phylogenetic tree | Dave Hone's Archosaur Musings
+basal taxa (at the bottom of the tree)
+
 ----------
 ## circle tree
 
 https://twitter.com/copypasteusa/status/1309065045201096704
 "Tree A is in polar format (often called a circle tree).
 These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided. https://artic.network/how-to-read-a-tree.html
+
+
+Feb 5, 2021
+https://twitter.com/windowmoon/status/1357643379950067715
+だからあれほど円形系統樹は使うなと小一時間以下略。今回の例は一方向の系統樹にしても解釈が分かれそう。わたしは「どちらとも言えない」派かな。
+https://twitter.com/mutselbalance/status/1357642470587199490
+丸い系統樹で書いてしまうと、人間の遠近感覚には多様性があるため、解釈が困難になってしまう……その好例。僕には近いように見える…。
+https://twitter.com/Parapriacanthus/status/1357629304788590592
+長寿の木は進化的に離れた系統でみられる
+https://twitter.com/sPlot_iDiv/status/1357249814178725900
+How old do trees grow? Why and where?
+All answers in a #TansleyReview by #GianlucaPiovesan and #FrancoBiondi in 
+@NewPhyt
+https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17148
+On tree longevity
 
 2:02 PM · Sep 24, 2020
 https://twitter.com/windowmoon/status/1308995216729399296
@@ -57,19 +86,8 @@ https://twitter.com/windowmoon/status/1107923607349424129
 https://twitter.com/Tyu_Shi/status/1107868946269519872
 Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.com/articles/s41559-019-0834-1 … キノコのTimetree論文。
 
-----------
-
- 2019年4月1日 /  2019年7月15日
-https://tnishimaki.com/?p=1040
-進化距離〜Poisson Correction distance編〜 | t-24.web
-
 https://nam-students.blogspot.com/2013/03/blog-post_2476.html
 NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
-
-
-
-
-
 
 ----------
 
@@ -156,6 +174,7 @@ http://cse.naro.affrc.go.jp/minaka/files/yomigaeru-Darwin.html
 
 ## books
 
+### 
 
 https://twitter.com/bluebacks_pub/status/1238606119745945600
 講談社ブルーバックス on Twitter: "【言ってなかったとは！】 「この世に生き残る生物は、激しい変化にいち早く対応できたもの」 多くの人がダーウィンが残した名言として信じているこの言説は、実は、ダーウィンの言葉ではなく、彼が唱えた「進化論」に照らしてみても誤ったものだった。https://t.co/R3xTKCS3d3 #進化のからくり" / Twitter
@@ -165,132 +184,39 @@ https://gendai.ismedia.jp/articles/-/70729?page=2
 誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（2/2）
 あまり意識されることはないが、実は進化研究の成果は農業、製薬、医療などに幅広く利用されている。たとえば、新型コロナウイルスの感染ルート解明に欠かせぬ分子系統解析の技術は、進化理論の粋を集めたものである。
 
-
-
-更科功
-『若い読者に贈る美しい生物学講義』
-2019.12.15 4:35
-https://diamond.jp/articles/-/223378
-ダーウィンの「進化論」は誤解されている | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
-2019.12.14 4:25
-https://diamond.jp/articles/-/223238
-「トカゲ」は「ヒト」よりも進化している!? | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
-https://diamond.jp/articles/-/223238?page=2
-
-
-https://twitter.com/shorebird2000/status/1237335052985323521
-shorebird on Twitter: "書評をブログにアップしました．　「進化のからくり」 - shorebird　進化心理学中心の書評など https://t.co/lp39LjLIPN" / Twitter
-https://shorebird.hatenablog.com/entry/2020/03/10/201021
-書評　「進化のからくり」 - shorebird　進化心理学中心の書評など
-
+### 
 
 http://aracnologia.macn.gov.ar/st/biblio/Yang%202006%20Computational%20Molecular%20Evolution.pdf
 Yang (2006) Computational Molecular Evolution
 Fig. 3.18
 
 
-http://d.hatena.ne.jp/shorebird/
-shorebird　進化心理学中心の書評など
-
-http://d.hatena.ne.jp/shorebird/20180522
-[書評]　「思考の体系学」
-
-https://shorebird.hatenablog.com/entry/20180509/1525863616
-「Darwin Comes to Town」 - shorebird　進化心理学中心の書評など
-
-http://sciencebook.blog110.fc2.com/blog-entry-1208.html
-『 ミニ特集：進化研究の本 』
-
-- 
-- https://twitter.com/search?q=%20文化系統学への招待&f=live
-- https://togetter.com/li/541217
-文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
-- 
-- https://twitter.com/search?q=%22文化進化の考古学%22
-- http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
-#3905. 系統学の歴史言語学への適用について (1)
-- http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
-#3906. 系統学の歴史言語学への適用について (2)
-
-https://twitter.com/leeswijzer/status/1214654308597161984
-MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "［欹耳袋］ hellog～英語史ブログ「#3905. 系統学の歴史言語学への適用について (1)」（2020年1月5日） https://t.co/IbinPQumj5 ※三中信宏 2017. 考古学は進化学から何を学んだか？ Pp. 125-165：中尾央・松木武彦・三中信宏（編）『文化進化の考古学』勁草書房を踏まえて．" / Twitter
-http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
-#3905. 系統学の歴史言語学への適用について (1)
-
-https://twitter.com/leeswijzer/status/1214654846663421952
-MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "続）［欹耳袋］ hellog～英語史ブログ「#3906. 系統学の歴史言語学への適用について (2)」（2020年1月6日） https://t.co/Pck4hubATc" / Twitter
-http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
-#3906. 系統学の歴史言語学への適用について (2)
-
-
-----------
-## featuring
-
-
-
-2006
-https://doi.org/10.20551/jscstaikai.20.0_85
-茶道伝書の文化系統学的処理(特別セッション:文化情報学)
-矢野 環, 福田 智子
-https://www.jstage.jst.go.jp/article/jscstaikai/20/0/20_85/_pdf
-即ち、通常の生物は、遺伝子やゲノムが次世代に直接的に継代され、突然変異によって系統が分岐するのに対して、文化事象は系統間の交渉や融合が激しい（図1）4。
-4生物でも、ウイルス等により外部からゲノムに遺伝子が取り込まれる「水平伝播」が起こる。
-
-
-
-----------
-
-https://ja.wikipedia.org/wiki/鶏が先か、卵が先か
-
-https://twitter.com/Protohedgehog/status/969929755817664512
-Jon Tennant on Twitter: "Another age-long riddle solved by science.… "
-8:37 AM - 3 Mar 2018
-
-https://me.me/i/which-came-first-the-chicken-or-the-egg-turtles-lizards-6697870
-Which came first, the chicken or the egg?
-
-![](https://pics.me.me/which-came-first-the-chicken-or-the-egg-turtles-lizards-10442223.png)
-
-
-----------
-
-https://ja.wikipedia.org/wiki/種の起源
-ダーウィンは、『種の起源』の中で、evolution ではなく、descent with modification （変化を伴った由来）という用語を使っている。
-
-2014年 09月 09日
-https://insectcell.exblog.jp/22371555/
-ダーウィンは一回だけevolved と書いた : したっぱ昆虫細胞研究者のメモ
-一方、変化を伴う由来（Descent with modification）の方はそこら中にでてきた。
-
-----------
-
-
-https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#2019-08-04
-- https://kimuraseminar.wordpress.com
-木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
-- #kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
-- #pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
-
-
-
-https://gendai.ismedia.jp/list/series/shinkanokogi
-更科功の「一番簡単な進化の講義」 | ブルーバックス
-
-
-
-https://doi.org/10.7875/togotv.2014.024
-2014-04-07 ウェブで実践する配列比較解析〜相同性検索から分子系統解析まで@AJACS蝦夷3
-
-
-https://twitter.com/NikkeiScience/status/1106136676974370816
-日経サイエンス on Twitter: "「なぜヒトだけ無毛になったのか」 近年になって，毛深かったヒトの皮膚が裸になっていく過程についての手がかりが間接的に化石記録に残されていることに科学者たちが気づいた。【別冊日経サイエンス194　化石とゲノムで探る人類の起源と拡散】 https://t.co/J44P0866Ok #進化 #人類進化 #毛… https://t.co/dMIcJLDgYP"
-
 
 ----------
 ## updates
 
 
+## 2021
+
+8:09 AM · Feb 19, 2021
+https://twitter.com/RobLanfear/status/1362539868039962625
+Rob Social Distancing Lanfear on Twitter: "Congratulations to @CaitlinCherryh on her first preprint!!! Here's a little story behind the paper 🧵 We started with a simple question: If someone gives you an alignment, how do you know if a single bifurcating tree is a good enough summary of it? https://t.co/4R3KDr6zj0 https://t.co/Ky2vCqCAdZ" / Twitter
+We know concatenated analyses almost always violate the treelikeness assumption (that's why people use coalescent methods). But 
+@celimouseMontp
+ and 
+@GaltierNicolas
+ showed that individual genes often violate it too...
+
+
+
 ## 2020
+
+
+Nov 11, 2020
+https://twitter.com/kfuku0502/status/1326197214864142339
+Kenji Fukushima on Twitter: "系統特異的遺伝子とされるものは大半がホモログの検出に失敗しているだけという話。"Absence of evidence is not evidence of absence"の典型。 https://t.co/uXQ1opMm0K" / Twitter
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000862
+Many, but not all, lineage-specific genes can be explained by homology detection failure
 
 
 https://twitter.com/kfuku0502/status/1251956254404034560
@@ -333,6 +259,20 @@ Fisler M1, Crémière C2, Darlu P3, Lecointre G1.
 
 
 ## 2019
+
+
+----------
+
+
+2019年4月1日 / 最終更新日 : 2020年8月7日
+https://analysis-navi.com/?p=1040
+進化距離・その２〜Poisson distance編〜 | データサイエンス情報局| データサイエンス情報局
+
+2019年3月2日 / 最終更新日 : 2020年8月7日
+https://analysis-navi.com/?p=841
+進化距離(evolutionary distance)の意味と計算方法 | データサイエンス情報局| データサイエンス情報局
+
+
 
 https://twitter.com/pathogenomenick/status/1128970191059214339
 Nick Loman on Twitter: "I do like this slide that I stole from @MikeyJ to get that point across:… "
@@ -413,21 +353,7 @@ https://twitter.com/NikkeiScience/status/1054522973154099200
 https://gendai.ismedia.jp/articles/-/58507?media=bb
 11月24日　『種の起源』を出版（1859年） （ブルーバックス編集部） | ブルーバックス | 講談社
 
-2018-09-07
-https://gendai.ismedia.jp/articles/-/57351
-ゲノム解析でわかった我々と絶滅人類との深い関係（更科 功） | ブルーバックス | 講談社（1/4）
 
-https://blogs.yahoo.co.jp/tmizuo3333/36255522.html
-ゲノム解析でわかった我々と絶滅人類との深い関係（現代ビジネスからの転載です） - 田中瑞雄の母趾球歩きと薬ありの低糖質食 - Yahoo!ブログ
-
-2018-08-02
-https://gendai.ismedia.jp/articles/-/56608
-『種の起源』から約160年……まだ「種」が定義できないってマジ？（山田 俊弘） | ブルーバックス | 講談社（1/3）
-
-2018-05-09
-https://gendai.ismedia.jp/articles/-/55458
-「進化は進歩ではない」と言われて、あなたは納得できますか（更科 功） | ブルーバックス | 講談社（1/2）
-一方、ダーウィンの『種の起源』では、進化を意味する言葉として「世代を越えて伝わる変化」（decent with modification）がよく使われている。
 
 
 ## 2018-08
@@ -513,12 +439,6 @@ https://shorebird.hatenablog.com/entry/20170506/1494033271
 中国体陸の言語文化史を巡る謎　Sean Lee
 DNAにもとづく集団の系統関係と言語の系統関係との差異について　斎藤成也
 
-https://twitter.com/kagakubarKIWI/status/923513894454382592
-大人の科学バー on Twitter: "【更新しました！】◎Web科学バー・連載「進化の歴史」第8話「多様な生物の世界（その2）」進化生物学者の長谷川政美先生が綴る、分子系統学の誕生から、利点、問題点まで。ダーウィンの夢の一つを叶えた学問「分子系統学」とは何か。https://t.co/h6xBxODWij… https://t.co/bbmJau8Kix"
-7:37 AM - 26 Oct 2017
-
-![](https://pbs.twimg.com/media/DND6ll_UMAA-rL0.jpg)
-
 2017年9月21日
 http://www.natureasia.com/ja-jp/nature/highlights/89168
 分子進化学：	選ばれなかった無数の道
@@ -563,7 +483,125 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop.html
 http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop02.html
 進化と系統のあれやこれ
 
+
+## Vaughn Cooper
+
+5:32 AM · Feb 15, 2021
+https://twitter.com/vscooper/status/1361050785187049475
+Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A🧵inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
+
+## sarashina isao
+更科 功 
+
+https://gendai.ismedia.jp/list/author/kohsarashina
+更科 功 isao sarashina | ブルーバックス
+
+https://gendai.ismedia.jp/list/series/shinkanokogi
+更科功の「一番簡単な進化の講義」 | ブルーバックス
+
+https://gendai.ismedia.jp/list/tag/進化
+
+
+
+『若い読者に贈る美しい生物学講義』
+
+2020.6.7 5:10
+https://diamond.jp/articles/-/239303
+マンガでわかる「進化」とは「進歩して向上すること」ではない | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
+
+2019.12.15 4:35
+https://diamond.jp/articles/-/223378
+ダーウィンの「進化論」は誤解されている | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
+
+2019.12.14 4:25
+https://diamond.jp/articles/-/223238
+「トカゲ」は「ヒト」よりも進化している!? | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
+https://diamond.jp/articles/-/223238?page=2
+
+
+
+2018-09-07
+https://gendai.ismedia.jp/articles/-/57351
+ゲノム解析でわかった我々と絶滅人類との深い関係（更科 功） | ブルーバックス | 講談社（1/4）
+
+https://blogs.yahoo.co.jp/tmizuo3333/36255522.html
+ゲノム解析でわかった我々と絶滅人類との深い関係（現代ビジネスからの転載です） - 田中瑞雄の母趾球歩きと薬ありの低糖質食 - Yahoo!ブログ
+
+2018-08-02
+https://gendai.ismedia.jp/articles/-/56608
+『種の起源』から約160年……まだ「種」が定義できないってマジ？（山田 俊弘） | ブルーバックス | 講談社（1/3）
+
+2018-05-09
+https://gendai.ismedia.jp/articles/-/55458
+「進化は進歩ではない」と言われて、あなたは納得できますか（更科 功） | ブルーバックス | 講談社（1/2）
+一方、ダーウィンの『種の起源』では、進化を意味する言葉として「世代を越えて伝わる変化」（decent with modification）がよく使われている。
+
+https://twitter.com/bluebacks_pub/status/1105154415051169792
+講談社ブルーバックス on Twitter: "【系統的に近いのに「似ていない」理由】 「どう見ても、ゴリラとチンパンジーの方が、見た目は似てるじゃないですか。それなのに、どうしてヒトとチンパンジーの方が系統的に近いと言えるんですか？」 https://t.co/kJjG28bEEG #ブルーバックス"
+1:11 PM - 11 Mar 2019
+https://gendai.ismedia.jp/articles/-/36827
+ヒトとチンパンジー、どうして「似てる」といえるのか（更科 功） | ブルーバックス | 講談社（1/2）
+https://gendai.ismedia.jp/articles/-/36827?page=2
+ヒトとチンパンジー、どうして「似てる」といえるのか（更科 功） | ブルーバックス | 講談社（2/2）
+祖先と同じ特徴を「原始形質」、祖先とは異なる特徴を「派生形質」という。カンニングのときと同じで、二種の生物が「派生形質」を共有していれば同じグループに属する、つまり系統的に近縁である根拠になる。しかし「原始形質」をいくら共有していても、系統的に近縁である根拠にはならないのだ。
+
+https://gendai.ismedia.jp/articles/-/33391
+『化石の分子生物学　生命進化の謎を解く』～努力するかぎり人は迷う（更科 功） | ブルーバックス | 講談社（1/4）
+
+
+## shorebird
+
+http://d.hatena.ne.jp/shorebird/
+shorebird　進化心理学中心の書評など
+
+
+https://twitter.com/shorebird2000/status/1237335052985323521
+shorebird on Twitter: "書評をブログにアップしました．　「進化のからくり」 - shorebird　進化心理学中心の書評など https://t.co/lp39LjLIPN" / Twitter
+https://shorebird.hatenablog.com/entry/2020/03/10/201021
+書評　「進化のからくり」 - shorebird　進化心理学中心の書評など
+進化のからくり　現代のダーウィンたちの物語 (ブルーバックス)
+作者:千葉聡
+発売日: 2020/02/13
+
+
+http://d.hatena.ne.jp/shorebird/20180522
+[書評]　「思考の体系学」
+
+https://shorebird.hatenablog.com/entry/20180509/1525863616
+「Darwin Comes to Town」 - shorebird　進化心理学中心の書評など
+
+http://sciencebook.blog110.fc2.com/blog-entry-1208.html
+『 ミニ特集：進化研究の本 』
+
+- 
+- https://twitter.com/search?q=%20文化系統学への招待&f=live
+- https://togetter.com/li/541217
+文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
+- 
+- https://twitter.com/search?q=%22文化進化の考古学%22
+- http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
+#3905. 系統学の歴史言語学への適用について (1)
+- http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
+#3906. 系統学の歴史言語学への適用について (2)
+
+https://twitter.com/leeswijzer/status/1214654308597161984
+MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "［欹耳袋］ hellog～英語史ブログ「#3905. 系統学の歴史言語学への適用について (1)」（2020年1月5日） https://t.co/IbinPQumj5 ※三中信宏 2017. 考古学は進化学から何を学んだか？ Pp. 125-165：中尾央・松木武彦・三中信宏（編）『文化進化の考古学』勁草書房を踏まえて．" / Twitter
+http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
+#3905. 系統学の歴史言語学への適用について (1)
+
+https://twitter.com/leeswijzer/status/1214654846663421952
+MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "続）［欹耳袋］ hellog～英語史ブログ「#3906. 系統学の歴史言語学への適用について (2)」（2020年1月6日） https://t.co/Pck4hubATc" / Twitter
+http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
+#3906. 系統学の歴史言語学への適用について (2)
+
+
+
 ## ‪Hasegawa‬ Masami
+
+https://brh.co.jp/s_library/interview/70/
+統計学から進化と多様性の森に分け入って | サイエンティスト・ライブラリー | JT生命誌研究館
+Hasegawa Masami
+長谷川 政美
 
 9:54 AM · Oct 10, 2020
 https://twitter.com/kagakubarKIWI/status/1314730971204251650
@@ -576,6 +614,11 @@ https://kagakubar.com/virus/01.html
 
 現代のグローバル化した社会では、このような感染症は一気に世界中に広まることになる。
 近年の人口爆発の結果、ヒトは巨大な都市をつくって生活するようになった。また野生動物の生活圏で多くのヒトと家畜が密集して生活するようになった。ウイルスにとっては、このようなヒトや家畜への感染力を進化させれば将来の繁栄につながることになる。
+
+7:37 AM - 26 Oct 2017
+https://twitter.com/kagakubarKIWI/status/923513894454382592
+大人の科学バー on Twitter: "【更新しました！】◎Web科学バー・連載「進化の歴史」第8話「多様な生物の世界（その2）」進化生物学者の長谷川政美先生が綴る、分子系統学の誕生から、利点、問題点まで。ダーウィンの夢の一つを叶えた学問「分子系統学」とは何か。https://t.co/h6xBxODWij… https://t.co/bbmJau8Kix"
+
 
 ### 2014-10-23
 
@@ -626,6 +669,8 @@ DNAというものさしで生物種同士を比較する – 理化学研究所
 
 https://twitter.com/phyloinfokobe
 Kuraku Lab🧬自然派ゲノム研究室 (@phyloinfokobe) / Twitter
+
+
 
 ## [leeswijzer](http://leeswijzer.org/)
 MINAKA Nobuhiro
@@ -881,6 +926,64 @@ https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.p
 
 ----------
 ## unclassified
+
+
+2006
+https://doi.org/10.20551/jscstaikai.20.0_85
+茶道伝書の文化系統学的処理(特別セッション:文化情報学)
+矢野 環, 福田 智子
+https://www.jstage.jst.go.jp/article/jscstaikai/20/0/20_85/_pdf
+即ち、通常の生物は、遺伝子やゲノムが次世代に直接的に継代され、突然変異によって系統が分岐するのに対して、文化事象は系統間の交渉や融合が激しい（図1）4。
+4生物でも、ウイルス等により外部からゲノムに遺伝子が取り込まれる「水平伝播」が起こる。
+
+
+
+----------
+
+https://ja.wikipedia.org/wiki/鶏が先か、卵が先か
+
+https://twitter.com/Protohedgehog/status/969929755817664512
+Jon Tennant on Twitter: "Another age-long riddle solved by science.… "
+8:37 AM - 3 Mar 2018
+
+https://me.me/i/which-came-first-the-chicken-or-the-egg-turtles-lizards-6697870
+Which came first, the chicken or the egg?
+
+![](https://pics.me.me/which-came-first-the-chicken-or-the-egg-turtles-lizards-10442223.png)
+
+
+----------
+
+https://ja.wikipedia.org/wiki/種の起源
+ダーウィンは、『種の起源』の中で、evolution ではなく、descent with modification （変化を伴った由来）という用語を使っている。
+
+2014年 09月 09日
+https://insectcell.exblog.jp/22371555/
+ダーウィンは一回だけevolved と書いた : したっぱ昆虫細胞研究者のメモ
+一方、変化を伴う由来（Descent with modification）の方はそこら中にでてきた。
+
+----------
+
+
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#2019-08-04
+- https://kimuraseminar.wordpress.com
+木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
+- #kimuraseminar 木村資生記念 進化学セミナー https://kimuraseminar.wordpress.com
+- #pgjpws ゲノム多様性解析ワークショップ https://genomeanalysis.wordpress.com
+
+
+
+https://doi.org/10.7875/togotv.2014.024
+2014-04-07 ウェブで実践する配列比較解析〜相同性検索から分子系統解析まで@AJACS蝦夷3
+
+
+https://twitter.com/NikkeiScience/status/1106136676974370816
+日経サイエンス on Twitter: "「なぜヒトだけ無毛になったのか」 近年になって，毛深かったヒトの皮膚が裸になっていく過程についての手がかりが間接的に化石記録に残されていることに科学者たちが気づいた。【別冊日経サイエンス194　化石とゲノムで探る人類の起源と拡散】 https://t.co/J44P0866Ok #進化 #人類進化 #毛… https://t.co/dMIcJLDgYP"
+
+----------
+
+
+
 
 https://www.yodosha.co.jp/jikkenigaku/keyword/1168.html
 ブートストラップ値
