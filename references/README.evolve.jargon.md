@@ -836,7 +836,6 @@ https://ja.wikipedia.org/wiki/平行進化
 parallel evolution
 平行進化の結果が収斂である場合もある。
 
-
 5:17 AM · Feb 19, 2021
 https://twitter.com/kwasiscientific/status/1362496383618600961
 Kwasi Wrensford on Twitter: "Aight, I don’t want to just complain about it, so here’s a simple explainer! Convergent evolution describes when unrelated populations of living things independently evolve similar traits in response to similar pressures in their respective environments. (1/9)" / Twitter
@@ -958,7 +957,7 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/cnvergence.html
 
 わらし：同形形質（homoplasy ：ホモプラシー）ってやつだな。
 
-http://www.geocities.jp/se_kilos/sober.html
+http://seikilo.s1008.xrea.com/sober.html
 『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
 
 ホモロジー(相同:homology):２種の共有するある特性が、一方の種から他方に受け継がれたものかまたはその特性をもつ共通祖先から変化することなく遺伝されたものならば、その種の特性は他種の特性とホモロジーの関係にあると呼ばれる。
