@@ -82,6 +82,7 @@ Basal lineageは「ない」
 Sister taxaは「ある」
 
 https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+How to read a phylogenetic tree | Dave Hone's Archosaur Musings
 basal taxa (at the bottom of the tree)
 
 https://quizlet.com/97829330/phylogenetic-terms-flash-cards/
@@ -358,6 +359,31 @@ http://feynmanino.watson.jp/6760_LBA.html
 Cladistics 21,163–193 (2005)
 A review of long-branch attraction（長枝誘引について）
 Johannes Bergsten
+
+https://dl.ndl.go.jp/info:ndljp/pid/10940560?tocOpened=1
+最尤法による生物の系統関係推定について(数学者のための分子生物学入門,研究会報告) - 国立国会図書館デジタルコレクション
+https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/97613/1/KJ00004705532.pdf
+Title 最尤法による生物の系統関係推定について(数学者のため
+の分子生物学入門,研究会報告)
+Author(s) 加藤, 和貴; 桑田, 和正
+Citation 物性研究 (2003), 81(1): 69-80
+ | 
+近隣結合法
+ | 
+図 5:LongBranchAttractionの例
+ | 
+この方法の問題点として､長い枝 (種が分岐してか らの置換が沢山発生している枝)に
+対応する種同士が近隣の関係にあると推定されやすいことが挙げられる｡置換が全て異
+なる箇所で発生している場合は､配列の異なる箇所が即ち総置換数であるが､同じ箇所が
+幾度か置換 している場合は､配列の異なる箇所は総置換数より小さくなる｡後者の現象は
+置換 している箇所が何 らかの理由で偏っている場合や､総置換数が多い場合に発生する｡
+このとき､距離は配列の ｢近さ｣で定めるため､実際の置換数よ り距離を小さく見積 もる
+ことがある｡図 5において､正しくは左の系統樹であったものが誤って右の系統樹のよう
+に推定されて しまうのである｡これをlongbranchattraction(LBA)と呼ぶ｡
+この間題に対 し､配列の相違から総置換数を適切に推定するため､修正を加えた方法が
+必要になる｡一案 として､配列の各箇所の置換の発生頻度 (相対進化速度)が F分布 に従
+うと仮定 して総置換数を割 り出す方法が提案されている｡これは ML法とNJ法のどち ら
+でも利用できる｡
 
 https://www.ism.ac.jp/editsec/toukei/pdf/50-1-045.pdf
 統計数理（2002）
@@ -810,11 +836,37 @@ https://ja.wikipedia.org/wiki/平行進化
 parallel evolution
 平行進化の結果が収斂である場合もある。
 
+
+5:17 AM · Feb 19, 2021
+https://twitter.com/kwasiscientific/status/1362496383618600961
+Kwasi Wrensford on Twitter: "Aight, I don’t want to just complain about it, so here’s a simple explainer! Convergent evolution describes when unrelated populations of living things independently evolve similar traits in response to similar pressures in their respective environments. (1/9)" / Twitter
+
+5:32 AM · Feb 15, 2021
+https://twitter.com/vscooper/status/1361050785187049475
+Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A
+inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
+
+
+https://www.natureasia.com/ja-jp/nature/highlights/100765
+進化遺伝学：平行進化の経路
+2019年10月17日 Nature 574, 7778
+例えば、強心配糖体という毒素は、通常はNa+/K+-ATPアーゼを標的とするが、昆虫綱の6つの目では、この酵素のアミノ酸置換を平行進化させることにより、このような毒素に対する耐性を獲得している。
+収斂形質
+
 https://www.ncbi.nlm.nih.gov/pubmed/29650391
 Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
 Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
 Dietel AK1, Kaltenpoth M2, Kost C3.
 REVIEW
+
+
+
+6:21 AM · Apr 1, 2018
+https://twitter.com/9w9w9w92/status/980193458995437569
+「収斂進化: 異なる系統で、異なる発生経路を使って、類似した表現型が進化すること。分子レベルの場合は、異なる系統で、類似した形質が進化すること
+平行進化: 異なる系統で、同じ発生経路を使って、類似した表現型が進化すること」③232頁
+
+
 
 http://kagakubar.com/evolution/07.html
 第7話
@@ -831,7 +883,7 @@ http://kagakubar.com/evolution/07.html
 
 ◎分子進化の中立説
 このように収斂進化が起るので、2つの生物種で似たような特徴が見られても、それが共通祖先の特徴を受け継いだからなのか、あるいは別々の系統で同じような特徴が収斂的に進化したためなのかを判別しなければならない。
-ところが、ハリネズミとハリテンレックの例で見られるように、形態形質だけに頼る方法で収斂進化であると判定するのは難しいことが多い。
+ところが、ハリネズミとハリテンレックの例で見られるように、形態形質だけに頼る方法で収斂進化であると判定するのは難しいことが多い。形態的な特徴には、生きていく上で有利になるように適応したものが多いので、似た環境で似たような生活をしている生物の間には似た特徴が収斂的に進化しやすいのである。
 
 ‎2002 ‎
 https://www.ism.ac.jp/editsec/toukei/pdf/50-1-069.pdf
