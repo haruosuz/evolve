@@ -19,6 +19,7 @@ Last Update: 2021-02
 [Vaughn Cooper]
 [Hasegawa Masami] 長谷川政美
 [inoue](#inoue) 井上 潤
+[kazutaka-katoh](kazutaka-katoh)
 [nakada](#nakada) 仲田崇志
 [fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
 [leeswijzer](#leeswijzer) MINAKA Nobuhiro
@@ -27,11 +28,6 @@ Last Update: 2021-02
 - [tree](#tree)
   - [circle tree](#circle-tree)
 
-
-系統樹に根をつけるのが困難。
-7:09 PM · Aug 7, 2020
-https://twitter.com/AlexisCompBio/status/1291677772570603522
-Alexis Stamatakis on Twitter: "In our latest preprint https://t.co/kg6LYXJmaF we find that phylogenetic analyses of SARS-CoV-2 data are extremely challenging due to weak signal and that rooting the tree is difficult. We provide some recommendations on analyzing SARS-CoV-2 data." / Twitter
 
 
 ----------
@@ -198,18 +194,44 @@ Fig. 3.18
 
 ## 2021
 
-8:09 AM · Feb 19, 2021
-https://twitter.com/RobLanfear/status/1362539868039962625
-Rob Social Distancing Lanfear on Twitter: "Congratulations to @CaitlinCherryh on her first preprint!!! Here's a little story behind the paper 🧵 We started with a simple question: If someone gives you an alignment, how do you know if a single bifurcating tree is a good enough summary of it? https://t.co/4R3KDr6zj0 https://t.co/Ky2vCqCAdZ" / Twitter
-We know concatenated analyses almost always violate the treelikeness assumption (that's why people use coalescent methods). But 
-@celimouseMontp
- and 
-@GaltierNicolas
- showed that individual genes often violate it too...
+
+### 2021-02-18
+
+18 February 2021
+https://www.sciencedirect.com/science/article/pii/S0960982221001391
+A genome-scale phylogeny of the kingdom Fungi
+
+https://twitter.com/Monoblepharis/status/1362973704007917568
+菌類全体のファイロゲノミクス。まだ読み込めてないけど、個人的着目ポイントは、解析の内容次第では"Zygomycota"の再来となる点。このあたりは結論にはまだ遠い。難しい…
+Blastocladiomycotaの位置は、concatenation analysisではChytriomycotaより前に分岐してるけど、gene treeを見るとそのトポロジーはあんまり支持されないという複雑怪奇な状況。しんどい。
+
+### 2021-02-14
+
+2021-02-14 18:29:13
+https://togetter.com/li/1668424
+「系統樹的にそこにいていいのか!?」キノコはアメーバよりネコに近い生き物だったという図 - Togetter
+
+9:10 AM · Feb 15, 2021
+https://twitter.com/kaisekiriu/status/1361105667252084736
+この系統樹のポイントは
+1. SARが単系統群
+2. アーケプラスチダが単系統群
+3. Bikonta仮説（例がジアルジアなのでDiphoda仮説ではない）
+4. ハプト藻がアーケプラスチダの姉妹群
 
 
 
 ## 2020
+
+3:17 PM · Oct 4, 2020·
+https://twitter.com/DrKuragesan/status/1312637941894635524
+Dr. クラゲさんの研究室（YouTubeラボ） on Twitter: "【YouTube】 「系統樹において、単系統のみを分類群として認める分岐分類に固執してしまった結果、現在の分類学はややこしくなってしまった。 「エビ」「カタツムリ」「偶蹄類」「猛禽類」「爬虫類」「魚類」「双子葉植物」など、直感的に分かりやすい分類群は、今や妥当ではないのだ。」" / Twitter
+4:39 PM · Oct 2, 2020
+https://twitter.com/DrKuragesan/status/1311933686934245376
+Dr. クラゲさんの研究室（YouTubeラボ） on Twitter: "【YouTube】 「熱血★分類学講義」の第4回、絶賛公開中です！ 今回は系統樹の見方を語った後に、様々な具体例（鯨偶蹄類など）を出して語っております。 現在の分類学が複雑になったワケを知りたくないか？是非ご視聴を！ （てか、一番時間のかかる動画なので是非見て…涙） https://t.co/8iVI6ukIBF" / Twitter
+https://www.youtube.com/watch?v=i5tfJlZvwc8
+【専門家が講義】熱血★分類学講義！～第４講・系統樹の見方―有効な分類群とは？～ - YouTube
+
 
 
 Nov 11, 2020
@@ -259,6 +281,11 @@ Fisler M1, Crémière C2, Darlu P3, Lecointre G1.
 
 
 ## 2019
+
+公開日: 2019/11/12 最終更新日: 2020/10/20
+https://kimbio.info/系統樹の見方をわかりやすく解説/
+系統樹の見方をわかりやすく解説 – Kim Biology & Informatics
+
 
 
 ----------
@@ -483,12 +510,12 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop.html
 http://www5b.biglobe.ne.jp/~hilihili/keitou/keitoutop02.html
 進化と系統のあれやこれ
 
-
 ## Vaughn Cooper
 
 5:32 AM · Feb 15, 2021
 https://twitter.com/vscooper/status/1361050785187049475
-Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A🧵inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
+Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A
+inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
 
 ## sarashina isao
 更科 功 
@@ -656,6 +683,37 @@ http://www.fish-evol.org/link.html
 http://www.fish-evol.org/phyMarker.html
 系統推定
 19 Sep. 2019. Jun Inoue
+
+## kazutaka-katoh
+
+加藤 和貴 (Kazutaka Katoh)
+
+https://researchmap.jp/kazutaka-katoh
+
+http://www.biken.osaka-u.ac.jp/laboratories/detail/18
+Standley研究室 | 研究室 | 大阪大学微生物病研究所 RIMD 文部科学省共同利用・共同研究拠点
+メンバー
+教授: Daron M. Standley
+准教授: 加藤 和貴
+
+https://sysimm.org/news/2019-ncov-japanese
+新型コロナウイルス (2019-nCoV) に関連する配列解析支援について | News | Systems Immunology Laboratory
+私達の研究室に対する直接の要請は、MAFFT配列アラインメントソフトウェアが適切に使用されているか確認することです。
+
+https://dl.ndl.go.jp/info:ndljp/pid/10940560?tocOpened=1
+最尤法による生物の系統関係推定について(数学者のための分子生物学入門,研究会報告) - 国立国会図書館デジタルコレクション
+https://dl.ndl.go.jp/view/download/digidepo_10940560_po_ART0008411553.pdf?contentNo=1&alternativeNo=
+Author(s) 加藤, 和貴; 桑田, 和正
+Citation 物性研究 (2003), 81(1): 69-80
+Issue Date 2003-10-20
+
+2006
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/44/3/44_3_185/_article/-char/ja/
+実践的系統樹推定法
+原理と特徴, 樹形の信頼性評価, およびソフトウェア
+隈 啓一, 加藤 和貴
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/44/3/44_3_185/_pdf/-char/ja
+
 
 ## kuraku
 
