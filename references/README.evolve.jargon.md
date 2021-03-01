@@ -957,8 +957,18 @@ http://www5b.biglobe.ne.jp/~hilihili/keitou/cnvergence.html
 
 わらし：同形形質（homoplasy ：ホモプラシー）ってやつだな。
 
+https://www.keisoshobo.co.jp/book/b61590.html
+　1.4　形質不整合とホモプラシーの問題
+
 http://seikilo.s1008.xrea.com/sober.html
 『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
+
+1.3対象と属性
+
+祖先的(ancestral)あるいは原始的(plesiomorphic)な形質状態を0、
+子孫的(derived)派生的(apomorphic)な形質形態を1と置く。
+
+1.4形質不整合とホモプラシーの問題
 
 ホモロジー(相同:homology):２種の共有するある特性が、一方の種から他方に受け継がれたものかまたはその特性をもつ共通祖先から変化することなく遺伝されたものならば、その種の特性は他種の特性とホモロジーの関係にあると呼ばれる。
 
