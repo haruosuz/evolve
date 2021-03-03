@@ -1544,6 +1544,10 @@ https://www.primate.or.jp/forum/第42回集団遺伝学講座/
 incongruence
 不調和
 
+Last update: May 8, 2020, Contributors: M Bui
+http://www.iqtree.org/doc/Concordance-Factor
+Concordance Factor
+
 https://www.fifthdimension.jp/documents/molphytextbook/
 分子系統学演習 - データセットの作成から仮説検定まで
 
@@ -1625,16 +1629,21 @@ Presented by Yang Zhang
 Bootstrap in concatenation is misleading
 
 
-
-
 https://www.ncbi.nlm.nih.gov/pubmed/22936717
 Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
 Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees.
 Sen D1, Brown CJ, Top EM, Sullivan J.
+https://academic.oup.com/mbe/article/30/1/154/1020766
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
-Fig. 2.
-Cladograms showing four topologies produced by 21 gene trees.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F2/
+
+Fig. 2.
+Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
+
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
+
+For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/22666370
 PLoS One. 2012;7(5):e37607. doi: 10.1371/journal.pone.0037607. Epub 2012 May 30.
@@ -2292,7 +2301,7 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 ## root
 系統樹に根(root)をつける
 
-http://phylobotanist.blogspot.jp/2015/01/how-to-root-phylogenetic-tree-outgroup.html
+http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html
 How to root a phylogenetic tree: outgroup, midpoint and other methods
 - Outgroup rooting
 - Midpoint rooting
@@ -2300,8 +2309,32 @@ How to root a phylogenetic tree: outgroup, midpoint and other methods
 - Asymmetric step-matrices
 - Gene duplication events
 
-http://cabbagesofdoom.blogspot.jp/2012/06/how-to-root-phylogenetic-tree.html
+http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html
 How to root a phylogenetic tree
+
+
+7:09 PM · Aug 7, 2020
+https://twitter.com/AlexisCompBio/status/1291677772570603522
+Alexis Stamatakis on Twitter: "In our latest preprint https://t.co/kg6LYXJmaF we find that phylogenetic analyses of SARS-CoV-2 data are extremely challenging due to weak signal and that rooting the tree is difficult. We provide some recommendations on analyzing SARS-CoV-2 data." / Twitter
+
+https://www.biorxiv.org/content/10.1101/2020.08.05.239046v1
+Phylogenetic analysis of SARS-CoV-2 data is difficult | bioRxiv
+We further find that rooting the inferred phylogeny with some degree of confidence either via the bat and pangolin outgroups or by applying novel computational methods on the ingroup phylogeny does not appear to be possible.
+
+
+8:03 AM - 20 Jul 2018
+https://twitter.com/NatureEcoEvo/status/1020277970299162624
+Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
+
+![](https://pbs.twimg.com/media/DijBYQTXkAAd3AU.jpg)
+
+https://pubmed.ncbi.nlm.nih.gov/29388565/
+Nat Ecol Evol
+. 2017 Jun 19;1:193. doi: 10.1038/s41559-017-0193.
+Phylogenetic rooting using minimal ancestor deviation
+Fernando Domingues Kümmel Tria 1, Giddy Landan 1, Tal Dagan 1
+https://www.nature.com/articles/s41559-017-0193
+Access options
 
 http://www.fish-evol.com/R_JI.html
 R - 井上 潤
