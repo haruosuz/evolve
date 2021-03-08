@@ -16,15 +16,15 @@ Last Update: 2021-02
 - [MPCM](#mpcm)
 - [concatenation](#concatenation)
 - [people](#people)
-[Vaughn Cooper]
-[Hasegawa Masami] 長谷川政美
-[inoue](#inoue) 井上 潤
-[kazutaka-katoh](kazutaka-katoh)
-[nakada](#nakada) 仲田崇志
-[fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
-[leeswijzer](#leeswijzer) MINAKA Nobuhiro
-[sarashina isao](sarashina-isao)
-[shorebird](#shorebird)
+  - [Vaughn Cooper]
+  - [Hasegawa Masami] 長谷川政美
+  - [inoue](#inoue) 井上 潤
+  - [kazutaka-katoh](#kazutaka-katoh) 加藤 和貴
+  - [nakada](#nakada) 仲田崇志
+  - [fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
+  - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
+  - [sarashina isao](sarashina-isao)
+  - [shorebird](#shorebird)
 - [tree](#tree)
   - [circle tree](#circle-tree)
 
@@ -419,11 +419,6 @@ http://darwin.c.u-tokyo.ac.jp/sesj2018/
 
 ## 2018-07
 
-https://twitter.com/NatureEcoEvo/status/1020277970299162624
-Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
-8:03 AM - 20 Jul 2018
-
-![](https://pbs.twimg.com/media/DijBYQTXkAAd3AU.jpg)
 
 https://twitter.com/rvosa/status/988702084286566400
 Rutger Vos on Twitter: "Behind the paper: Renewing Felsenstein’s Phylogenetic Bootstrap in the Era of Big Data https://t.co/fi4CGURZMf… "
