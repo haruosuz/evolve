@@ -45,6 +45,8 @@ IcyTree
 - [MEGA](#mega)
 - [timetree](#timetree)
 - [treefinder](#treefinder)
+- [physpetools](#physpetools)
+
 
 ----------
 ## unclassified
@@ -78,7 +80,6 @@ http://d.hatena.ne.jp/haruosuz/20080813
 
 https://ja.wikipedia.org/wiki/非加重結合法
 非加重結合法（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)
-
 
 
 ----------
@@ -154,6 +155,28 @@ https://haklak.com/page_Gangolf_Jobb.html
 ----------
 
 ## updates
+
+### 2021
+
+1:01 AM · Feb 18, 2021
+https://twitter.com/richardneher/status/1362069636381032448
+Richard Neher on Twitter: "Do you find yourself in need of aligning 500k very similar sequences on a laptop? We (mostly @ivan_aksamentov) developed a reference aligner 'nextalign' that aligns 500k sequences in 30min using 8 cores and just a few GB of RAM. https://t.co/ElItsr2sWr https://t.co/GCBCbSyIkq" / Twitter
+
+https://twitter.com/AineToole
+4:29 AM · Feb 18, 2021
+https://twitter.com/AineToole/status/1362122104796282880
+Áine O'Toole on Twitter: "pangolin PSA 📢 We've just tagged a new release of pangolin (v2.3) that comes with an optional flag `--alignment`, so you can now easily output an alignment of your sequences along with the lineage report. https://t.co/0Cso0z8DPk" / Twitter
+
+
+08 February 2021
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab093/6130791
+FASTRAL: Improving scalability of phylogenomic analysis | Bioinformatics | Oxford Academic
+ASTRAL is the current leading method for species tree estimation from phylogenomic datasets (i.e., hundreds to thousands of genes) that addresses gene tree discord resulting from incomplete lineage sorting (ILS). ASTRAL is statistically consistent under the multi-locus coalescent model (MSC), runs in polynomial time, and is able to run on large datasets.
+ASTRALは、数百から数千の遺伝子を含む系統図データから種の木を推定するための現在の主要な手法です。
+incomplete lineage sorting (ILS)に起因する遺伝子ツリーの不一致に対処する、
+ASTRALは、multi-locus coalescent model (MSC)の下で統計的に一貫しており、
+https://github.com/PayamDiba/FASTRAL
+
 
 ### 2020
 
@@ -667,6 +690,15 @@ Concordance Factor
 - http://www.iqtree.org/doc/Dating
 Phylogenetic Dating
 
+
+http://www.iqtree.org/doc/Frequently-Asked-Questions#how-does-iq-tree-treat-gapmissingambiguous-characters
+How does IQ-TREE treat gap/missing/ambiguous characters?
+
+Nucleotide	Meaning
+
+?, -, ., ~, O, N, X	A, G, C or T (unknown; all 4 nucleotides are equally likely)
+
+
 https://pubmed.ncbi.nlm.nih.gov/32011700/
 Mol Biol Evol
 . 2020 May 1;37(5):1530-1534. doi: 10.1093/molbev/msaa015.
@@ -699,6 +731,64 @@ IQ-Treeの使い方まとめ - ほぼ中立ブログ
 2017年3月22日
 http://www.tezuru-mozuru.com/?p=9927
 iqtreeによる最尤法系統樹推定 – チームてづるもづる
+
+----------
+### QMaker
+
+https://pubmed.ncbi.nlm.nih.gov/33616668/
+Syst Biol
+. 2021 Feb 22;syab010. doi: 10.1093/sysbio/syab010. Online ahead of print.
+QMaker: Fast and accurate method to estimate empirical models of protein evolution
+Bui Quang Minh 1 2, Cuong Cao Dang 3, Le Sy Vinh 3, Robert Lanfear 2
+https://doi.org/10.1093/sysbio/syab010
+
+
+Software implementation
+We provided an implementation of QMaker as part of the IQ-TREE software version
+2.0-rc1. The entire training stage for the Pfam dataset can be accomplished with just two
+command lines. The first one is
+iqtree -S ALN_DIR -nt 48
+
+All data are available from the online supplementary material
+(https://doi.org/10.6084/m9.figshare.9768101).
+
+
+7:28 AM · Feb 23, 2021
+https://twitter.com/RobLanfear/status/1363979095390912513
+Rob Social Distancing Lanfear on Twitter: "Pleased to announce the birth of QMaker, which allows you to easily estimate amino-acid replacement matrices from your own data. Doing this work with @bq_minh, Cuong Cao Dang, and Le Sy Vinh threw up a few surprises, so here's a little  https://t.co/wWlFi5pHAf" / Twitter
+
+
+https://www.biorxiv.org/content/10.1101/2020.02.20.958819v1
+QMaker: Fast and accurate method to estimate empirical models of protein evolution | bioRxiv
+https://www.biorxiv.org/content/10.1101/2020.02.20.958819v1.full
+
+
+8:20 PM · Oct 8, 2020
+https://twitter.com/kfuku0502/status/1314163771741556738
+iqtreeで経験モデル作れる方法のプレプリント出てた気がするけどなんだったけ？から30分くらいかけてやっと辿り着いたのでメモ。QMakerだった。
+でもこれアミノ酸配列限定か。コドンのを作りたいんだよな。ミトコンとかプラスチド用の経験的コドンモデルってどこかにないでしょうか？もし汎用的なのがあれば自前で作る必要ないんですが。
+
+6:15 AM · Mar 15, 2020
+https://twitter.com/kfuku0502/status/1238936843028254720
+IQ-TREEでサポートされているらしい新しいアミノ酸置換モデルのプレプリント。大まかな系統ごとに経験的置換モデルを作っている。Fig. 2を見ると、なぜか植物で他の系統よりスコアがいい。
+
+
+
+
+
+----------
+
+### VeryFastTree
+https://github.com/citiususc/veryfasttree.
+
+Dec 1, 2020
+https://twitter.com/kfuku0502/status/1333425581963292672
+系統推定界のスピード狂、FastTree2が更なる並列化を含むカリッカリのチューニングを経てVeryFastTreeへ進化。331k個の16S rRNA配列の系統推定が4.5 hで終わる。
+https://pubmed.ncbi.nlm.nih.gov/32573652/
+Bioinformatics
+. 2020 Nov 1;36(17):4658-4659. doi: 10.1093/bioinformatics/btaa582.
+Very Fast Tree: speeding up the estimation of phylogenies for large alignments through parallelization and vectorization strategies
+César Piñeiro 1, José M Abuín 1, Juan C Pichel 1
 
 ### FastTree
 
