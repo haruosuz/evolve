@@ -30,6 +30,14 @@ Last Update: 2021-02
 
 
 
+
+----------
+
+http://phyloseminar.org/
+
+https://www.youtube.com/user/phyloseminar
+
+
 ----------
 
 ## tree
@@ -195,6 +203,16 @@ Fig. 3.18
 ## 2021
 
 
+
+Mar 27, 2021
+https://twitter.com/copypasteusa/status/1375802463190609922
+Haruo Suzuki on Twitter: "モデルや解析方法によって推定される系統関係が大きく変化した3つの例。好熱性のThermusと中温性のDeinococcusの姉妹群の関係。真核生物における長枝のMicrosporidiaの位置。生命の樹における真核生物の位置。" / Twitter
+https://twitter.com/OfficialSMBE/status/1375799024582684673
+GBE latest:  Inferring the deep past from molecular data
+
+
+
+
 ### 2021-02-18
 
 18 February 2021
@@ -332,10 +350,6 @@ https://gendai.ismedia.jp/articles/-/36827
 https://gendai.ismedia.jp/articles/-/33391
 『化石の分子生物学　生命進化の謎を解く』～努力するかぎり人は迷う（更科 功） | ブルーバックス | 講談社（1/4）
 
-
-https://twitter.com/hshimodaira/status/1102152186283229188
-下平英寿 on Twitter: "クモ綱が単系統ではない，つまりカブトガニが入る，っていう主張のところで提案手法使ってもらえてて嬉しい．Topology comparisons using the approximately unbiased test (Shimodaira, 2002) rejected the monophyly of Arachnida (p = 0.009).… https://t.co/8lFOrShJgA"
-5:22 AM - 3 Mar 2019
 
 
 1809年2月12日
@@ -570,6 +584,33 @@ https://gendai.ismedia.jp/articles/-/36827?page=2
 https://gendai.ismedia.jp/articles/-/33391
 『化石の分子生物学　生命進化の謎を解く』～努力するかぎり人は迷う（更科 功） | ブルーバックス | 講談社（1/4）
 
+----------
+
+## shimodaira
+
+http://stat.sys.i.kyoto-u.ac.jp/members-ja/shimo-ja/
+下平英寿 – Shimodaira Lab
+
+https://twitter.com/hshimodaira
+
+
+https://twitter.com/hshimodaira/status/1102152186283229188
+下平英寿 on Twitter: "クモ綱が単系統ではない，つまりカブトガニが入る，っていう主張のところで提案手法使ってもらえてて嬉しい．Topology comparisons using the approximately unbiased test (Shimodaira, 2002) rejected the monophyly of Arachnida (p = 0.009).… https://t.co/8lFOrShJgA"
+5:22 AM - 3 Mar 2019
+
+http://stat.sys.i.kyoto-u.ac.jp/titech/vmpar/para%20toukeigakkai%2020080909.pdf
+Ｒを用いたブートストラップ法の大規模並列計算
+利用したアプリケーションはＲのライブラリ pvclust と scaleboot であり，ともにマルチスケール・ブートストラップ法の実装である．
+
+https://www.ism.ac.jp/editsec/toukei/pdf/56-1-003.pdf
+統計数理（2008）
+特集「分子進化と統計科学」
+［研究詳解］滑らかでない境界をもつ領域のためのマルチスケール・ブートストラップ法の理論と実装
+scaleboot（Shimodaira, 2006）
+
+http://stat.sys.i.kyoto-u.ac.jp/prog/scaleboot/
+
+----------
 
 ## shorebird
 
