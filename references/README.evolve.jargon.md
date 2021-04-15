@@ -48,12 +48,78 @@ Last Update: 2019-09
 - [branch length](#branch-length) 枝長
 - [LBA](#lba) 長枝誘引
 - [partition](#partition)
+- [brownian](#brownian) ブラウン運動モデル
 - [network](#network)
+- [](#)
 
 ----------
 ## network
 
+----------
+## brownian
 
+Brownian motion
+ブラウン運動モデル
+
+http://www.phytools.org/***SanJuan2016/ex/5/Fitting-BM.html
+Exercise 5.2: Fitting Brownian motion models
+
+https://lukejharmon.github.io/ilhabela/instruction/2015/07/04/multi-regime-models/
+Multi-rate, multi-regime, and multivariate models for continuous traits
+Jul 4, 2015
+This tutorial is about fitting multi-rate Brownian motion models (using phytools), multi-regime OU models (using the OUwie package), and multivariate Brownian models (using phytools).
+Written by Liam J. Revell. Last updated July 4, 2015
+
+http://phytools.org/eqg/Exercise_4.1/
+Simulating Brownian motion in R
+Written by Liam J. Revell. Last updated Aug. 8, 2013
+
+
+6:59 PM · Jul 6, 2018
+https://twitter.com/tharano34/status/1015173437885538305
+系統種間比較では、形質の進化にブラウン運動モデルを仮定するのが一般的である。ブラウン運動モデルでは、進化の方向と変化量がランダムに変化する。このモデルに対して、ネコ科系統樹内でウンピョウ、スミロドン、ホモテリウムのそれぞれに至る枝に、方向性選択の効果を表すパラメータを組み込んだ。
+
+https://sites.google.com/site/nkutsukake/research/phenotype/pcms
+a. 系統種間比較 - nkutsukake
+研究‎ > ‎2. 表現型の進化・多様性‎ > ‎
+a. 系統種間比較
+JSTさきがけ研究「表現型の進化モデルと系統種間比較から適応進化を明らかにする計算行動生態学」 の最終報告書です。
+　動物の行動や表現型形質の適応的意義を考察する際、生物進化の歴史である系統関係を考慮することが必要不可欠である。その理由として、進化の歴史を最近まで共有してきた近縁な二種は、形質が類似することが多く、統計的に独立であるとみなせないためである。Felsenstein (1985, Am Nat)に始まる系統種間比較 (phylogenetic comparative methods) と呼ばれるアプローチでは、現世種にみられる形質の種間比較から、進化のプロセス（進化速度、進化モード、祖先形質）を推定することが可能である（沓掛 2012 行動生態学）。現在までに、系統種間比較を用いた研究は数多く行われ、適応進化に関する多くの知見をもたらしてきた。しかし、従来の系統種間比較には、単純な進化モデルしか検証することしかできないという欠点が存在した。多くの系統種間比較法において、表現型の進化モデルとして用いられるものがブラウン運動Brownian motionである。この進化モードは中立進化に相当し、適応進化の検出を主目的とする研究において有用なモデルと見なせるかどうかについては議論があった。ブラウン運動に基づくモデルを拡張し、異なる進化速度を持つ複数のブラウン運動による進化、進化速度の加速・減速を伴うブラウン運動などを想定した手法も開発されてきたが、これらも先述の議論に答えを与えるものではない。そのため、系統樹上で複数の進化モードが混在する進化モデルのもと、各パラメーターの推定、さらには複数の進化モデルの統計的に比較する手法は限定されてきた。さらに、多くの手法では形質の種内変異が考慮されていなかった。 この現状は、遺伝子型を対象にした系統関連の分析手法が大きく発展している状態とは対照的である。とくに、遺伝子型の研究で頻用されている計算機的手法やベイズ統計学は、表現型を対象にした系統種間比較では十分に導入されていない。 　これらの問題点をふまえ、本研究では新しい系統種間比較の理論・分析手法を開発した（図１）。開発した分析手法を進化・行動生態学の実証的研究に適用し、従来の研究では実現できなかった適応進化プロセスの推定を行った。  
+
+https://www.jsps.go.jp/j-biol/29_pastrecipients_speach.html
+国際生物学賞｜日本学術振興会
+第29回国際生物学賞 受賞者あいさつ
+ジョセフ・フェルゼンシュタイン博士
+Dr. Joseph Felsenstein
+
+最初は系統樹の推定という問題に最尤法という統計学的手法を取り入れました。その結果、エドワーズとカヴァッリ＝スフォルツァの先駆的な論文で提起された問題のいくつかを解決することができました。彼らの論文の内容は、系統樹の進化過程の推定に、遺伝子頻度の変化を表すブラウン運動モデルを利用するというものでした。1973年、私は系統樹の尤度を計算するための効率的な動的プログラミング・アルゴリズムを作成し、1981年には、そのアルゴリズムをDNA塩基配列データに応用しました。
+
+http://www.ecology.kyoto-u.ac.jp/~ushio/rstat/20101126PhyloAnal.pdf
+統計セミナー第６回　2010年11月26日
+「系統解析」
+川北 篤
+系統的最小二乗法
+PhylogeneTc generalized least squares 
+ (PGLS) method
+•系統的独立対比の拡張版
+•ブラウン運動モデルを補正し、系統の効果を
+調節する
+•α parameter 
+　　0のときブラウン運動モデルと同じ
+　　大きい値をとるほど系統の効果がなくなる
+
+20090903EvoJapanPoster.pdf
+Untitled - Akifumi S. Tanabehttps://www.fifthdimension.jp › wiki
+PDF
+従来の分子進化速度がブラウン運動すると仮定した分岐年代推定法では分岐の一方では加速、 ... 従来法と、分岐の両方で加速や両方で減速を採用しやすい「​定向進化的モデル」を仮定した ... 系統樹:有胎盤哺乳類の最尤系統樹 (Murphy et al​.
+
+2008年 福岡
+https://www.esj.ne.jp/meeting/abst/55/P3-159.html
+日本生態学会全国大会 ESJ55 講演要旨
+一般講演（ポスター発表） P3-159
+形質進化における自然選択と遺伝的浮動の相対的な重要性：ブラウン運動モデルとの比較
+*遠山弘法（九大・理・生態）, 矢原徹一（九大・理・生態）
+選択と浮動の相対的な重要性を明らかにするために、系統樹を基にした解析を行った。具体的には、系統樹と形質値から推定される対比を用いて、中立（ブラウン運動モデル）を仮定した形質進化を10000回シミュレーションし、実データとの比較を行った。
 
 ----------
 ## basal
@@ -90,8 +156,6 @@ Phylogenetic Terms単語カード | Quizlet
 
 Root
 the most basal internode at the bottom of a tree. This is the common ancestor.
-
-
 
 
 ----------
@@ -1416,6 +1480,16 @@ https://github.com/haruosuz/r4bioinfo/tree/master/R_tree#ancestral-reconstructio
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
 
+
+7:09 AM · Jun 17, 2019
+https://twitter.com/iwasakiw/status/114038790766759936
+論文「祖先状態復元と可視化のための高速最尤法」が出版になりました。
+http://doi.org/10.1093/molbev/msz131
+進化情報学において「祖先状態復元」は生物進化のプロセスを知るための重要な手段です。その具体的な手法としては周辺事後確率を推定するものと同時確率を推定するものがありますが、
+いずれも、結果をそのまま可視化して解釈を行うことは困難でした。本研究では意思決定理論で用いられるBrier scoreと可視化上の工夫とを行うことで、解釈が容易な祖先状態復元ソフトウェアPastMLとして実装し、ウェブサーバーを公開しました。 https://pastml.pasteur.fr
+論文ではさらに実際にデングウイルスやHIVウイルスの祖先状態復元を行い、その有効性を検証しています。
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/30371900
 Nucleic Acids Res. 2019 Jan 8;47(D1):D271-D279. doi: 10.1093/nar/gky1009.
 Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life.
@@ -1484,39 +1558,19 @@ https://ci.nii.ac.jp/naid/110002936265
 分岐学における祖先推定：　組合せ最適化問題としての系統推定
 三中 信宏 
 
+1995
+http://www.naro.affrc.go.jp/archive/niaes/sinfo/result/result11/result11_27.html
+系統樹における祖先形質状態の最節約的復元法
+[要約]
+種の形質データと系統樹の樹形を与えたとき、系統樹上の仮想的共通祖先の形質状態を最節約的に復元するための基礎理論を離散数学を用いて展開し、動的計画法に基づく計算アルゴリズムを開発した。
+[その他]
+研究課題名：生物系統分類のための数量的方法の開発
+
 Published on Mar 3, 2012
 https://www.slideshare.net/tmr_kohei/kashiwar-2
 言語系統樹と雑煮の祖先形質復元（Kashiwa.R #2）
 tmr_kohei
 田村光平
-
-----------
-## duplication
-
-https://ja.wikipedia.org/wiki/遺伝子重複
-
-https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_article/-char/ja
-ゲノム情報全盛のいま使える分子系統解析のエッセンス
-山口 和晃, 工樂 樹洋
-2019 年 45 巻 166 号 p. 26-31
-https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_pdf/-char/ja
-MBD4 と MeCP2 はともにメチル化 CpG 結
-合ドメインを持っており、無脊椎動物を外群として含
-めた分子系統樹によって、これらが脊椎動物の進化の
-初期に遺伝子重複によって分かれたことが示された（図
-4D）。
-
-https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
-生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
-
-この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
-
-https://www.jstage.jst.go.jp/article/jjb/19/Special_Issue/19_Special_Issue_S5/_article/-char/ja/
-遺伝子系統樹から我々はなにを絞りだせるか
-斎藤 成也
-1998 年 19 巻 Special_Issue 号 p. S5-S13
-
-遺伝子重複の時点を種分化の時点と誤って推定することがありえる(図3 a)。この場合,種分岐の年代を過大に見積もることになる。もちろん,種分化のあとに,そ. れぞれの種で独立に遺伝子重複が生じることもある(図3b)。
 
 ----------
 ## concerted evolution
@@ -1628,21 +1682,6 @@ Presented by Yang Zhang
 4/16/2015
 Bootstrap in concatenation is misleading
 
-
-https://www.ncbi.nlm.nih.gov/pubmed/22936717
-Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
-Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees.
-Sen D1, Brown CJ, Top EM, Sullivan J.
-https://academic.oup.com/mbe/article/30/1/154/1020766
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F2/
-
-Fig. 2.
-Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
-
-<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
-
-For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/22666370
@@ -2298,6 +2337,38 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 ```
 
 ----------
+## duplication
+
+https://ja.wikipedia.org/wiki/遺伝子重複
+
+https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_article/-char/ja
+ゲノム情報全盛のいま使える分子系統解析のエッセンス
+山口 和晃, 工樂 樹洋
+2019 年 45 巻 166 号 p. 26-31
+https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_pdf/-char/ja
+MBD4 と MeCP2 はともにメチル化 CpG 結合ドメインを持っており、無脊椎動物を外群として含めた分子系統樹によって、これらが脊椎動物の進化の初期に遺伝子重複によって分かれたことが示された（図4D）。
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
+生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
+
+生物最初の分岐に関する論争：何が問題だったのか
+
+問題の解決：古細菌は真核生物に近縁
+
+　すべての生物は一対の重複遺伝子EF-1a/Tuと EF-2/Gを持っている。すべての生物がこの一対の酵素を持っているということは、この一対の遺伝子を作った遺伝子重複は3つの超生物界が枝分かれする前に起きたことになる。たしかにGTP結合タンパク質族の系統樹はそのことを再現している。このことを利用すると超生物界の有根系統樹が作れる。3つの超生物界それぞれからEF-1a/Tuと EFｰ2/Gを取り出し、これらのアミノ酸配列の比較から無根系統樹をまず作る。そしてEFｰ1α/TuとEFｰ2/Gが遺伝子重複によって枝分かれした時期が、3つの超生物界が枝分かれする以前になるように系統樹の根を決める。
+
+この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
+
+生物最古の時代に頻繁に起きた遺伝子水平移動
+
+https://www.jstage.jst.go.jp/article/jjb/19/Special_Issue/19_Special_Issue_S5/_article/-char/ja/
+遺伝子系統樹から我々はなにを絞りだせるか
+斎藤 成也
+1998 年 19 巻 Special_Issue 号 p. S5-S13
+
+遺伝子重複の時点を種分化の時点と誤って推定することがありえる(図3 a)。この場合,種分岐の年代を過大に見積もることになる。もちろん,種分化のあとに,そ. れぞれの種で独立に遺伝子重複が生じることもある(図3b)。
+
+----------
 ## root
 系統樹に根(root)をつける
 
@@ -2311,7 +2382,10 @@ How to root a phylogenetic tree: outgroup, midpoint and other methods
 
 http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html
 How to root a phylogenetic tree
-
+Unrooted. 
+Midpoint Rooting.
+Outgroup Rooting.
+Why does the root matter?
 
 7:09 PM · Aug 7, 2020
 https://twitter.com/AlexisCompBio/status/1291677772570603522
@@ -2325,8 +2399,6 @@ We further find that rooting the inferred phylogeny with some degree of confiden
 8:03 AM - 20 Jul 2018
 https://twitter.com/NatureEcoEvo/status/1020277970299162624
 Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
-
-![](https://pbs.twimg.com/media/DijBYQTXkAAd3AU.jpg)
 
 https://pubmed.ncbi.nlm.nih.gov/29388565/
 Nat Ecol Evol
@@ -2387,8 +2459,6 @@ The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting a
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
 Figure 5
 The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
-
-
 
 
 ----------
