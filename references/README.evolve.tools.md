@@ -598,8 +598,16 @@ Trimming a multiple sequence alignment by discarding columns with too many gaps.
 ----------
 ### ClipKIT
 
-https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007
+https://github.com/JLSteenwyk/ClipKIT
+https://jlsteenwyk.com/ClipKIT/
+
+https://pubmed.ncbi.nlm.nih.gov/33264284/
+PLoS Biol
+. 2020 Dec 2;18(12):e3001007. doi: 10.1371/journal.pbio.3001007. eCollection 2020 Dec.
 ClipKIT: A multiple sequence alignment trimming software for accurate phylogenomic inference
+Jacob L Steenwyk 1, Thomas J Buida 3rd 2, Yuanning Li 1, Xing-Xing Shen 3, Antonis Rokas 1
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735675/
 
 
 https://twitter.com/search?q=ClipKIT%20lang%3Aja
