@@ -490,12 +490,12 @@ score(r,a) = ( score(a,a) + score(g,a) ) / 2
 
 https://mafft.cbrc.jp/alignment/software/algorithms/algorithms.html
 MAFFT ver.7 - a multiple sequence alignment program
-
+```
 Algorithms and parameters (unfinished)
 (a) FFT-NS-1, FFT-NS-2 — Progressive methods
 (b) FFT-NS-i, NW-NS-i — Iterative refinement method
 (c) L-INS-i, E-INS-i, G-INS-i — Iterative refinement methods using WSP and consistency scores
-
+```
 For pairwise alignment, three different types of algorithms are implemented, global alignment (Needleman-Wunsch), local alignment (Smith-Waterman) with affine gap costs (Gotoh) and local alignment with generalized affine gap costs (Altschul). The differences in the accuracy values among these methods are small for the currently available benchmarks, as shown here. However, each of them has different characteristics, according to the algorithm in the pairwise alignment stage:
 
 
