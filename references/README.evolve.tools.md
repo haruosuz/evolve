@@ -35,7 +35,6 @@ IcyTree
   - [figtree](#figtree)
   - [iTOL](#itol)
   - [SeaView](#seaview)
-  - [annotree](#annotree)
 - [gene loss](#gene-loss) 遺伝子ロス
   - [Notung](#notung)
   - [count](#count)
@@ -1047,23 +1046,6 @@ SeaView 使用法
 SeaView を用いたアラインメント編集
 作成：仲田崇志
 更新：2008年03月10日
-
-----------
-
-### annotree
-
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638
-AnnoTree: visualization and exploration of a functionally annotated microbial tree of life | Nucleic Acids Research | Oxford Academic
-
-https://twitter.com/strnr/status/1117782170645483520
-AnnoTree: visualization and exploration of a functionally annotated microbial tree of life
-Paper https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz246/5432638 …
-App http://annotree.uwaterloo.ca/ 
-Code https://bitbucket.org/account/user/doxeylabcrew/projects/AN …
-Docs https://annotree-docs.readthedocs.io/en/latest/ 
-Data http://gtdb.ecogenomic.org/downloads 
-9:30 AM - 15 Apr 2019
-![](https://pbs.twimg.com/media/D4Mo9PSXoAEYnZ1.jpg)
 
 ----------
 ## gene loss
