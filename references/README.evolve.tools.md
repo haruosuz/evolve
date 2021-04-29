@@ -47,6 +47,48 @@ IcyTree
 - [physpetools](#physpetools)
 
 
+
+
+
+----------
+## command-line
+
+ETE tools
+
+
+### BuddySuite
+https://pubmed.ncbi.nlm.nih.gov/28333216/
+Mol Biol Evol
+. 2017 Jun 1;34(6):1543-1546. doi: 10.1093/molbev/msx089.
+BuddySuite: Command-Line Toolkits for Manipulating Sequences, Alignments, and Phylogenetic Trees
+Stephen R Bond 1, Karl E Keat 1, Sofia N Barreira 1, Andreas D Baxevanis 1
+https://academic.oup.com/mbe/article/34/6/1543/3049544
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850830/
+Documentation for each BuddySuite tool, including usage examples, is available at http://tiny.cc/buddysuite_wiki. All software is open source and freely available through http://research.nhgri.nih.gov/software/BuddySuite.
+
+### phyx
+
+https://github.com/FePhyFoFum/phyx
+
+https://pubmed.ncbi.nlm.nih.gov/28174903/
+Bioinformatics
+. 2017 Jun 15;33(12):1886-1888. doi: 10.1093/bioinformatics/btx063.
+Phyx: phylogenetic tools for unix
+Joseph W Brown 1, Joseph F Walker 1, Stephen A Smith 1
+https://academic.oup.com/bioinformatics/article/33/12/1886/2975328
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870855/
+
+
+### phylommand
+
+https://github.com/RybergGroup/phylommand
+Phylommand (Phylogenetics on the command line) is a software package for creating, manipulating, and/or getting statistics from trees or working with pairwise alignments. 
+
+22 Dec 2016
+https://doi.org/10.12688/f1000research.10446.1
+Phylommand - a command line software package for phylogenetics [version 1; peer review: 2 approved with reservations]
+
+
 ----------
 ## unclassified
 
@@ -786,15 +828,10 @@ Advanced Tutorial
 Concordance Factor
 - http://www.iqtree.org/doc/Dating
 Phylogenetic Dating
-
-
-http://www.iqtree.org/doc/Frequently-Asked-Questions#how-does-iq-tree-treat-gapmissingambiguous-characters
-How does IQ-TREE treat gap/missing/ambiguous characters?
-
-Nucleotide	Meaning
-
-?, -, ., ~, O, N, X	A, G, C or T (unknown; all 4 nucleotides are equally likely)
-
+- http://www.iqtree.org/doc/Frequently-Asked-Questions
+Frequently Asked Questions
+- http://www.iqtree.org/doc/Substitution-Models
+Substitution Models
 
 https://pubmed.ncbi.nlm.nih.gov/32011700/
 Mol Biol Evol
@@ -1117,6 +1154,14 @@ Introduction to HyPhy: Hypothesis testing using Phylogenies - YouTube
 MEGA: Molecular Evolutionary Genetics Analysis software
 
 https://www.megasoftware.net/
+
+7:10 PM · Apr 26, 2021
+https://twitter.com/fiddler_K/status/1386623833897984003
+［メモ］MEGA11がリリースされてる。機械学習で進化速度の自己相関をテストする方法やベイズ法で進化確率(EP)を推定する方法が追加されてるよう/MEGA11: Molecular Evolutionary Genetics Analysis version 11
+
+https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab120/6248099
+MEGA11: Molecular Evolutionary Genetics Analysis version 11 
+Koichiro Tamura, Glen Stecher, Sudhir Kumar
 
 
 https://evolgen.biol.se.tmu.ac.jp/MEGA/
