@@ -334,6 +334,8 @@ http://www.stevekellylab.com/software/orthofinder
 
 https://github.com/davidemms/OrthoFinder
 
+https://github.com/davidemms/OrthoFinder/blob/master/OrthoFinder-manual.pdf
+
 https://davidemms.github.io/
 OrthoFinder | OrthoFinder Tutorials
 
