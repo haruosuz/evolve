@@ -861,6 +861,8 @@ This option estimates and displays the nucleotide substitution rate matrix using
 ## pcm
 phylogenetic comparative methods
 
+https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
+
 https://twitter.com/vsbuffalo/status/1216475530066743296
 Vince Buffalo on Twitter: "A question for comparative methods folks: when we think about patterns across extremely broad taxonomical groups, such as the body length and generation time (Bonner 1983) and body size and pop density (Damuth 1987), does it make sense to correct for phylogeny? https://t.co/0Ggr9uEAJA" / Twitter
 6:42 AM · Jan 13, 2020
