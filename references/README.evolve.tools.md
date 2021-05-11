@@ -395,6 +395,14 @@ OrthoFinder の使い方 - Qiita
 ## alignment
 アライメント
 
+https://pubmed.ncbi.nlm.nih.gov/32797207/
+Syst Biol
+. 2021 Apr 15;70(3):440-462. doi: 10.1093/sysbio/syaa064.
+Do Alignment and Trimming Methods Matter for Phylogenomic (UCE) Analyses?
+Daniel M Portik 1 2, John J Wiens 1
+
+
+
 http://kazumaxneo.hatenablog.com/archive/category/multiple%20sequence%20alignment%20%28MSA%29
 
 
@@ -843,6 +851,35 @@ Bui Quang Minh 1 2, Heiko A Schmidt 3, Olga Chernomor 3, Dominik Schrempf 3 4, M
 https://academic.oup.com/mbe/article/37/5/1530/5721363
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182206/
 
+
+
+http://www.iqtree.org/doc/Tutorial#choosing-the-right-substitution-model
+
+
+
+
+
+
+
+Last update: Mar 15, 2021, Contributors: Minh Bui
+http://www.iqtree.org/doc/Assessing-Phylogenetic-Assumptions
+Assessing Phylogenetic Assumptions
+
+Tests of symmetry
+IQ-TREE provides three matched-pairs tests of symmetry (Naser-Khdour et al., 2019) to test the two assumptions of stationarity and homogeneity. A simple analysis:
+
+https://pubmed.ncbi.nlm.nih.gov/31536115/
+Genome Biol Evol
+. 2019 Dec 1;11(12):3341-3352. doi: 10.1093/gbe/evz193.
+The Prevalence and Impact of Model Violations in Phylogenetic Analysis
+Suha Naser-Khdour 1, Bui Quang Minh 1 2, Wenqi Zhang 1, Eric A Stone 1, Robert Lanfear 1
+https://academic.oup.com/gbe/article/11/12/3341/5571717
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893154/
+In phylogenetic inference, we commonly use models of substitution which assume that sequence evolution is stationary, reversible, and homogeneous (SRH).
+
+
+
+
 https://twitter.com/search?q=iqtree%20lang%3Aja&f=live
 
 9:33 PM · Nov 20, 2020
@@ -1161,14 +1198,14 @@ https://www.megasoftware.net/
 https://twitter.com/fiddler_K/status/1386623833897984003
 ［メモ］MEGA11がリリースされてる。機械学習で進化速度の自己相関をテストする方法やベイズ法で進化確率(EP)を推定する方法が追加されてるよう/MEGA11: Molecular Evolutionary Genetics Analysis version 11
 
+https://pubmed.ncbi.nlm.nih.gov/33892491/
+Mol Biol Evol
+. 2021 Apr 23;msab120. doi: 10.1093/molbev/msab120. Online ahead of print.
+MEGA11: Molecular Evolutionary Genetics Analysis version 11
+Koichiro Tamura 1 2, Glen Stecher 3, Sudhir Kumar 3 4 5
 https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab120/6248099
-MEGA11: Molecular Evolutionary Genetics Analysis version 11 
-Koichiro Tamura, Glen Stecher, Sudhir Kumar
 
-
-https://evolgen.biol.se.tmu.ac.jp/MEGA/
-MEGAXがリリースされました。(6/1/2018)
-
+https://evolgen.biol.se.tmu.ac.jp/MEGA/default.html
 MEGA3 チュートリアル（Actin gene coding region を例題として）
 - 入力データの準備
 - 配列データのアライメント
@@ -1199,7 +1236,6 @@ http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
 
 http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
 実習1: MEGA6のダウンロードとインストール
-
 
 動画
 https://twitter.com/hashtag/ws222?f=live
