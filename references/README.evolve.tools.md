@@ -1174,8 +1174,6 @@ Count: evolutionary analysis of phylogenetic profiles with parsimony and likelih
 Csurös M1.
 
 ----------
-
-----------
 ## HyPhy
 
 https://github.com/haruosuz/mgsa/tree/master/hyphy
@@ -1192,7 +1190,84 @@ Introduction to HyPhy: Hypothesis testing using Phylogenies - YouTube
 ## MEGA
 MEGA: Molecular Evolutionary Genetics Analysis software
 
-https://www.megasoftware.net/
+- https://www.megasoftware.net/
+
+| | | |
+|:---------|:---------|:---------|
+| Windows / macOS | Graphical (GUI) | MEGA X (64-bit) |
+
+Documentation
+[Online Manual](https://www.megasoftware.net/web_help)
+
+https://www.megasoftware.net/videos
+Instructional Videos
+
+### TUTORIALS
+
+#### KUMAR LAB VIDEOS
+
+Molecular Dating with MEGA
+
+Choosing and Acquiring Sequences Part 1
+https://www.youtube.com/watch?v=raaOgtvMJWw
+2018/10/09
+
+Choosing and Acquiring Sequences Part 2
+https://www.youtube.com/watch?v=cVdmH7nNboE
+2018/10/09
+
+Reconstructing Ancestral Sequences
+https://www.youtube.com/watch?v=djju9WFMvn0
+2018/10/09
+
+Relative Rate Framework for Efficient, Reliable, and Relaxed Clock Dating in MEGA
+
+Inferring Selection with MEGA
+
+MEGA X CC For Analysis Pipelines
+
+Tree Inference with MEGA
+https://www.youtube.com/watch?v=_ch8YIPvR-M
+2019/08/01
+This is presentation that took place at SMBE 2018 in Japan about a protocol on how to reconstruct phylogenetic trees with MEGA 10.
+
+Bootstrap with MEGA
+https://www.youtube.com/watch?v=qTmfQxT9HJc
+2019/08/01
+This is presentation that took place at SMBE 2018 in Japan about a protocol on how to bootstrap trees with MEGA 10.
+
+#### MEGA X
+
+Align Sequences then Compute Substitution Matrix, Compute Pairwise distance matrix, Construct ML Tree, and Find Gene Duplication
+https://www.youtube.com/watch?v=m3qwVttzsKA
+How to use MEGA software for evolutionary studies of HSP
+2018/07/18
+
+Build a Mega File from Multiple Fasta Files, then Construct a Neighbor Joining Tree
+https://www.youtube.com/watch?v=hlgB3aRyE_8
+How to use Molecular evolutionary Genetic Analysis (MEGA) software
+2018/07/31
+
+### PTME5
+
+Phylogenetic Trees Made Easy, Fifth Edition
+Barry G. Hall
+- https://learninglink.oup.com/access/hall-5e
+- https://learninglink.oup.com/access/hall-5e-student-resources
+All Resources
+- PTME5e 2018 Update for MEGA X
+- PTME5e Companion Files (Linux)
+- PTME5e Companion Files (Mac)
+- PTME5e Companion Files (Win)
+
+### MEGA_
+
+2020/07/06
+https://www.youtube.com/watch?v=8eTkVIdmHbg
+Phylogenetic Analysis with MEGA X - YouTube
+KENNETH FRANCIS RODRIGUES -
+This video tutorial describes the application of MEGA X for the alignment and phylogenetic reconstruction using a single locus.
+
 
 7:10 PM · Apr 26, 2021
 https://twitter.com/fiddler_K/status/1386623833897984003
@@ -1204,6 +1279,19 @@ Mol Biol Evol
 MEGA11: Molecular Evolutionary Genetics Analysis version 11
 Koichiro Tamura 1 2, Glen Stecher 3, Sudhir Kumar 3 4 5
 https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab120/6248099
+
+https://www.ncbi.nlm.nih.gov/pubmed/29722887
+Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
+MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
+Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
+
+
+動画
+https://twitter.com/hashtag/ws222?f=live
+https://doi.org/10.7875/togotv.2019.193
+2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
+
 
 https://evolgen.biol.se.tmu.ac.jp/MEGA/default.html
 MEGA3 チュートリアル（Actin gene coding region を例題として）
@@ -1228,25 +1316,6 @@ https://evolgen.biol.se.tmu.ac.jp/MEGA/tree-protocol.htm
 （１） 分子時計を用いた分岐年代の推定 （哺乳類 チトクロームｂ遺伝子の場合）
 （２）分類群と分子系統との関連（人類集団のD-loop配列の場合）
 
-http://evolgen.biol.se.tmu.ac.jp/labo/tamura/161026.pdf
-実習1: MEGA7のダウンロードとインストール
-
-http://evolgen.biol.se.tmu.ac.jp/labo/tamura/141106.htm
-実習１：　MEGA6のダウンロードとインストール
-
-http://cse.naro.affrc.go.jp/minaka/cladist/KoichiroTamura_tutorial2014.pdf
-実習1: MEGA6のダウンロードとインストール
-
-動画
-https://twitter.com/hashtag/ws222?f=live
-https://doi.org/10.7875/togotv.2019.193
-2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
-
-https://www.ncbi.nlm.nih.gov/pubmed/29722887
-Mol Biol Evol. 2018 Jun 1;35(6):1547-1549. doi: 10.1093/molbev/msy096.
-MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
-Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
 
 https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/bioinfo18/bioinfo2018-4.pdf
 バイオインフォマティクス第四回
