@@ -1199,6 +1199,10 @@ MEGA: Molecular Evolutionary Genetics Analysis software
 Documentation
 [Online Manual](https://www.megasoftware.net/web_help)
 
+MEGAX-Help
+
+[First Time User](https://www.megasoftware.net/web_help_10/index.htm#t=First_Time_User.htm)
+
 https://www.megasoftware.net/videos
 Instructional Videos
 
@@ -1248,26 +1252,7 @@ https://www.youtube.com/watch?v=hlgB3aRyE_8
 How to use Molecular evolutionary Genetic Analysis (MEGA) software
 2018/07/31
 
-### PTME5
-
-Phylogenetic Trees Made Easy, Fifth Edition
-Barry G. Hall
-- https://learninglink.oup.com/access/hall-5e
-- https://learninglink.oup.com/access/hall-5e-student-resources
-All Resources
-- PTME5e 2018 Update for MEGA X
-- PTME5e Companion Files (Linux)
-- PTME5e Companion Files (Mac)
-- PTME5e Companion Files (Win)
-
-### MEGA_
-
-2020/07/06
-https://www.youtube.com/watch?v=8eTkVIdmHbg
-Phylogenetic Analysis with MEGA X - YouTube
-KENNETH FRANCIS RODRIGUES -
-This video tutorial describes the application of MEGA X for the alignment and phylogenetic reconstruction using a single locus.
-
+### MEGA_Tamura
 
 7:10 PM · Apr 26, 2021
 https://twitter.com/fiddler_K/status/1386623833897984003
@@ -1286,12 +1271,13 @@ MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms.
 Kumar S1,2,3, Stecher G1, Li M1, Knyaz C1, Tamura K4,5.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967553/
 
+https://biosciencedbc.jp/blog/20200303-01.html
+新型コロナウイルス（SARS-CoV-2）および新型コロナウイルス感染症（COVID-19）に関する研究データ・リソース - NBDC
+DBCLSがNBDCとの共同研究の一環で運営する「統合TV」には、MEGAの最新バージョンを用いた分子系統樹の推定についての講義動画（日本語）が掲載されています。登壇者はMEGAの開発者である首都大学東京（東京都立大学）の田村教授です。
 
-動画
-https://twitter.com/hashtag/ws222?f=live
+MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ | 統合TV
 https://doi.org/10.7875/togotv.2019.193
-2019-12-06 MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
-
+https://twitter.com/hashtag/ws222?f=live
 
 https://evolgen.biol.se.tmu.ac.jp/MEGA/default.html
 MEGA3 チュートリアル（Actin gene coding region を例題として）
@@ -1315,6 +1301,39 @@ https://evolgen.biol.se.tmu.ac.jp/MEGA/tree-protocol.htm
 ２．系統樹を基にした解析例
 （１） 分子時計を用いた分岐年代の推定 （哺乳類 チトクロームｂ遺伝子の場合）
 （２）分類群と分子系統との関連（人類集団のD-loop配列の場合）
+
+### PTME5
+
+Phylogenetic Trees Made Easy, Fifth Edition
+Barry G. Hall
+- https://learninglink.oup.com/access/hall-5e
+- https://learninglink.oup.com/access/hall-5e-student-resources
+All Resources
+- PTME5e 2018 Update for MEGA X
+- PTME5e Companion Files (Linux)
+- PTME5e Companion Files (Mac)
+- PTME5e Companion Files (Win)
+
+### MEGA_unclassified
+
+2020/07/06
+https://www.youtube.com/watch?v=8eTkVIdmHbg
+Phylogenetic Analysis with MEGA X - YouTube
+KENNETH FRANCIS RODRIGUES -
+This video tutorial describes the application of MEGA X for the alignment and phylogenetic reconstruction using a single locus.
+
+
+https://sites.google.com/view/enter-the-fungi/phylogenetic-analysis/alignment
+Enter the FUNGI - Fasta の整理とMUSCLE/ MAFFT でのアライメント
+メモ MEGA X インストールコマンド on Linux 
+
+https://bio-and.info/post/DNA_Analysis/PhylogeneticTreeConstruct
+系統樹の書き方（MEGAを使用した系統樹の書き方） - バイオとインフォまとめ -
+①. MEGAのインストール
+②. アミノ酸配列の準備
+③. MEGAにアミノ酸配列を取り込み、マルチプルアライメント
+④. 系統樹の作成
+
 
 
 https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/bioinfo18/bioinfo2018-4.pdf
