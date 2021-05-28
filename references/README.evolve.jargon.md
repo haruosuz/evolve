@@ -97,8 +97,8 @@ http://www.fish-evol.org/Constraint.html
 ----------
 ## saturation
 Substitution saturation
+飽和
 transition/transversion
-
 
 https://www.frontiersin.org/articles/10.3389/fmars.2021.573853/full
 Frontiers | Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species | Marine Science
@@ -108,6 +108,12 @@ Investigation of Substitution Saturation
 FIGURE 1
 (B) Substitution saturation plots for transition and transversion of the coding region of the Fgg, Mdm4, Chek2, and Dtl genes chosen from those previously regarded as positively selected (Marra et al., 2019). Each dot indicates a pair of species in the dataset. The white and black dots indicate transitions and transversions, respectively. The horizontal axis indicates the distance based on the TN93 substitution model (Tamura and Nei, 1993). The vertical axis indicates the observed proportion of transition and transversion. The amino acid sequences were aligned with MAFFT v7.299b (Katoh and Standley, 2013) using the L-INS-i option. Nucleotide sequences were aligned based on the amino acid sequence alignment using the emboss tranalign tool. Unreliably aligned regions were removed using Gblocks v0.91b (Talavera and Castresana, 2007) based on the default parameters. Transversion and transition frequencies were calculated with the TN93 substitution model using the DAMBE program (Xia, 2018). The details of the sequences used for the analysis are included in Supplementary Data (https://doi.org/10.6084/m9.figshare.13521329). 
 
+
+http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/180502/20180502.pdf
+Microsoft PowerPoint - 2018_生物配列解析基礎_3回目.pptx
+１つの遺伝⼦の系統解析だけでは進化の歴史を調べるのに不⼗分な場合がある
+- 異なる遺伝⼦を⽤いて系統樹を作成した場合に，トポロジーが⼀致しないことがある
+- これには，遺伝⼦の⽔平移動，分岐年代の近さ，塩基・アミノ酸置換の飽和，個々の遺伝⼦にかかる選択圧の違いなど，様々な原因が考えられる
 
 
 https://pubmed.ncbi.nlm.nih.gov/26609078/
@@ -125,6 +131,28 @@ Declining transition/transversion ratios through time reveal limitations to the 
 Sebastián Duchêne 1, Simon Y W Ho 2, Edward C Holmes 3 4
 https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0312-6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358783/
+
+
+http://www.fish-evol.org/DatabaseEnglish.html
+系統解析の英語例文
+2012 年 7 月 16 日
+井上 潤　
+
+3rd ポジション
+この結果は，統計的有為さに悪影響を及ぼす高度の飽和を示している．このため，解析から除外する．
+This preliminary result indicates
+a high degree of saturation that severely affected the statistical significance of the estimates (results not shown) and,
+thus, we excluded these sites from the analysis (Schrago and Russo, 2003).
+
+飽和しているが，3rd には系統情報が含まれていることがある．
+Third codon positions for both mitochondrial genes,
+despite obvious potential saturation problems (Cao et al. 1994),
+often contain phylogenetic information, even among distantly related species (Zardoya and Meyer, 1996).
+
+系統樹が解けないときの理由
+3rd の TV でも，いくらか飽和があるのは明らか．
+It was apparent that some degree of saturation also occurred in 3rd-codons TVs (Yamanoue et al. 2009).
+
 
 https://pubmed.ncbi.nlm.nih.gov/17274688/
 PLoS Genet
@@ -2486,6 +2514,37 @@ Unrooted.
 Midpoint Rooting.
 Outgroup Rooting.
 Why does the root matter?
+
+### Coleman_2021
+
+https://pubmed.ncbi.nlm.nih.gov/33958464/
+Comment Science
+. 2021 May 7;372(6542):574-575. doi: 10.1126/science.abh2814.
+Illuminating the first bacteria
+Laura A Katz 1
+https://science.sciencemag.org/content/372/6542/574
+
+https://pubmed.ncbi.nlm.nih.gov/33958449/
+Science
+. 2021 May 7;372(6542):eabe0511. doi: 10.1126/science.abe0511.
+A rooted phylogeny resolves early bacterial evolution
+Gareth A Coleman # 1, Adrián A Davín # 2, Tara A Mahendrarajah 3, Lénárd L Szánthó 4 5, Anja Spang 3 6, Philip Hugenholtz # 7, Gergely J Szöllősi # 8 5 9, Tom A Williams # 10
+https://science.sciencemag.org/content/372/6542/eabe0511
+Our analyses place the root between two major bacterial clades, the Gracilicutes and Terrabacteria. We found no support for a root between the Candidate Phyla Radiation (CPR), a lineage comprising putative symbionts and parasites with small genomes, and all other Bacteria. Instead, the CPR was inferred to be a member of the Terrabacteria and formed a sister lineage to the Chloroflexota and Dormibacterota. 
+
+6:40 PM · May 7, 2021
+https://twitter.com/BIRDlab_ENS/status/1390602531219312647
+Alice Lebreton on Twitter: ""Illuminating the first bacteria": Perspective by Laura A. Katz in @ScienceMagazine on recent research that aim at finding out where the bacterial tree is rooted. https://t.co/iGcpUV1P24 https://t.co/PZztmTbRKU" / Twitter
+https://twitter.com/BIRDlab_ENS/status/1390602535124209664
+Alice Lebreton on Twitter: "The original research: "A rooted phylogeny resolves early bacterial evolution", by Coleman, Davín et al. in @ScienceMagazine. https://t.co/uz1IuHs3g1 https://t.co/ipg4dH9GCR" / Twitter
+
+11:36 AM · May 7, 2021
+https://twitter.com/takatoh_life/status/1390495662588923906
+本研究では独自開発した手法により、遺伝子の垂直伝搬だけでなく水平伝搬や遺伝子の重複や消失を考慮して、細菌の系統樹の根元を推定した。その結果、遺伝子の伝達の2/3は垂直方向であり、その根元はグラム陰性菌Gracilicutesとグラム陽性菌Terrabacteriaの間に根元がある可能性が高いと推定した。
+
+![](https://pbs.twimg.com/media/E0wIbolVkAIQoBg?format=png&name=small)
+
+### root_2020
 
 7:09 PM · Aug 7, 2020
 https://twitter.com/AlexisCompBio/status/1291677772570603522
