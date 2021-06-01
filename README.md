@@ -30,12 +30,25 @@ Last Update: 2021-02
 
 
 
+----------
+
+https://nrid.nii.ac.jp/nrid/1000070192656/
+藤 博幸  Toh Hiroyuki
+
+https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
+系統分類学 第三回
 
 ----------
+## video
 
 http://phyloseminar.org/
 
 https://www.youtube.com/user/phyloseminar
+
+
+2015/05/29
+https://www.youtube.com/watch?v=t1vAhQvukRY
+1. Phylogenetic analysis of pathogens(lecture - part1) -
 
 
 ----------
@@ -52,6 +65,8 @@ Revision Date:	2018-07-30
 https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 How to read a phylogenetic tree | Dave Hone's Archosaur Musings
 basal taxa (at the bottom of the tree)
+
+
 
 ----------
 ## circle tree
@@ -94,6 +109,59 @@ https://nam-students.blogspot.com/2013/03/blog-post_2476.html
 NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
 
 ----------
+
+
+
+
+
+----------
+
+## 2021
+
+### Coleman_2021
+
+
+
+https://www.biorxiv.org/content/10.1101/2020.07.15.205187v1
+A rooted phylogeny resolves early bacterial evolution | bioRxiv
+https://www.biorxiv.org/content/10.1101/2020.07.15.205187v1.full
+
+
+https://science.sciencemag.org/content/372/6542/eabe0511
+A rooted phylogeny resolves early bacterial evolution | Science
+
+Our method, amalgamated likelihood estimation (ALE), improves on earlier approaches by explicitly accounting for uncertainty in the gene tree topologies and in the events leading to those topologies while simultaneously estimating rates of gene duplication, transfer, and loss directly from the data (31).
+
+https://science.sciencemag.org/content/sci/suppl/2021/05/05/372.6542.eabe0511.DC1/abe0511_Coleman_SM.pdf
+
+Gene family clustering and ALE analysis
+
+Page 5 of 55
+
+Testing the robustness of the inferred root region
+
+https://github.com/ssolo/ALE
+ALE: Reconstruction of reconciled gene trees and estimation of DTL rates from a sample of gene trees and a rooted species tree.
+For installation instructions, please refer to the INSTALL file.
+
+Amalgamated likelihood estimation (ALE)
+
+The species tree needs to be rooted.
+
+4:27 AM · May 7, 2021
+https://twitter.com/tweethinking/status/1390387666903085058
+Tom Williams on Twitter: "Some new work from us that may be of interest if you are into early bacterial evolution. An even-handed collaboration with @sllsi @PhilHugenholtz @anjspa1 @garethandrewco1 Adrian Davin @TAMahendrarajah @drenal_eu! https://t.co/EayG9i3NNb" / Twitter
+
+11:35 AM · May 7, 2021
+https://twitter.com/takatoh_life/status/1390495501783498754
+高遠 頼@生命科学VTuber(たかとー らい) on Twitter: "本日発表された論文により、細菌の最古の共通祖先がどのような生物であるか推定された
+
+
+
+
+----------
+
+
 
 ## 2020-06
 
@@ -661,6 +729,13 @@ http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
 
 ## ‪Hasegawa‬ Masami
 
+
+8:52 AM · Apr 29, 2021
+https://twitter.com/kagakubarKIWI/status/1387555229005058055
+【Web科学バーの最新話！】好評連載「ウイルスという存在」第29話は「ウイルスの起源」。この時代に生きる人は必読。ちょっと話は込み入りますが、ぜひ。http://kagakubar.com/virus/29.html 文：長谷川政美（進化生物学者）。図：細胞性生物の進化と、それに関連するウイルスの起源に関する三つの考え
+http://kagakubar.com/virus/29.html
+ウイルスという存在｜科学バー
+
 https://brh.co.jp/s_library/interview/70/
 統計学から進化と多様性の森に分け入って | サイエンティスト・ライブラリー | JT生命誌研究館
 Hasegawa Masami
@@ -677,6 +752,7 @@ https://kagakubar.com/virus/01.html
 
 現代のグローバル化した社会では、このような感染症は一気に世界中に広まることになる。
 近年の人口爆発の結果、ヒトは巨大な都市をつくって生活するようになった。また野生動物の生活圏で多くのヒトと家畜が密集して生活するようになった。ウイルスにとっては、このようなヒトや家畜への感染力を進化させれば将来の繁栄につながることになる。
+
 
 7:37 AM - 26 Oct 2017
 https://twitter.com/kagakubarKIWI/status/923513894454382592
@@ -766,8 +842,10 @@ Kuraku Lab🧬自然派ゲノム研究室 (@phyloinfokobe) / Twitter
 
 
 
-## [leeswijzer](http://leeswijzer.org/)
+## leeswijzer
 MINAKA Nobuhiro
+
+http://leeswijzer.org/
 
 http://www.leeswijzer.org/cladist/cladist-top.html
 結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
@@ -827,7 +905,6 @@ https://note.mu/leeswijzer/n/ne827077ad556
 Feb 22, 2017
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
-
 http://www.a-m-u.jp/report/201702_wiad2017_minaka_1.html/
 ダイアグラム思考――分類と系統の世界観　1/2　三中信宏 ―― World IA Day 2017 Japan（Tokyo） ｜amu
 http://www.a-m-u.jp/report/201702_wiad2017_minaka_2.html/
@@ -835,8 +912,6 @@ http://www.a-m-u.jp/report/201702_wiad2017_minaka_2.html/
 https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka
 World IA Day 2017 Tokyo Nobuhiro Minaka
 ダイアグラム思考 — 分類と系統の世界観 —
-https://www.youtube.com/watch?v=PYLukN7xUcU
-WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
 
 http://leeswijzer.org/files/SystematicPhilosophy.html
 系統体系学の世界：生物学の哲学とたどった道のり
@@ -862,11 +937,20 @@ https://www.youtube.com/watch?v=6WgsOO_brQ4
 https://www.youtube.com/watch?v=QYT4BJwpSDg
 3.形質データ行列の作成と分岐分析の演習 ／ 生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
 
+
+
+https://www.youtube.com/watch?v=g4J_Q26OdEs
+5.分子系統学（1）：配列のアラインメント（三中 信宏 先生）
+
 https://www.youtube.com/watch?v=I5C7Nz6x7i4
 6.分子系統学（2）：分子進化の統計モデル（三中 信宏 先生）
 
 https://www.youtube.com/watch?v=LmZSk6EmxeM
 7.距離法・最節約法・最尤法の演習（三中 信宏 先生）
+
+
+http://leeswijzer.hatenablog.com/entry/2012/12/27/061217
+ポケモン系統樹ふたたび
 
 2012/10/17 - 体系学的思考. ̶ 分類と系統からみた多様性 ̶.
 http://cse.naro.affrc.go.jp/minaka/cladist/SystematicThinking2014.pdf
@@ -897,6 +981,13 @@ II アブダクションとしての系統推定
 https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_article/-char/ja/
 進化生物学と統計科学：系統樹の推定をめぐって
 https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_pdf
+
+
+2005
+https://www.jstage.jst.go.jp/article/taxa/19/0/19_KJ00004992970/_article/-char/ja/
+Ernst MayrとWilli Hennig : 生物体系学論争をふたたび鳥瞰する
+三中 信宏
+
 
 1996年
 http://www.e-jsps.com/2007hp/topic/Datesoudo84/date.html
@@ -942,9 +1033,17 @@ Akifumi S. Tanabe
 - https://twitter.com/windowmoon
 - https://www.fifthdimension.jp/wiki.cgi
 
-https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#akifumi-tanabe
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
+Akifumi Tanabe
 
+https://www.fifthdimension.jp/documents/molphytextbook/
+Life is fifthdimension.::Documents::分子系統学演習
+分子系統学演習 - データセットの作成から仮説検定まで
 
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+分子系統学演習 データセットの作成から仮説検定まで
+田辺晶史
+2015/10/20
 
 https://github.com/astanabe/ClaidentTutorial
 Tutorial scripts and data for Claident
@@ -967,33 +1066,6 @@ https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJap
 [PDF]ベイジアン MCMC による生物間系統関係の推定法
 生物学における系統樹の必要性
 
-https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
-分子系統解析における様々な問題について
-
-変異がある座位だけのデータに関する注意事項
-形態形質・SNPなどのデータでは、変異がある座位しか含まれ
-ていない
-● これは、「データ収集にバイアスascertainment biasがある」
-● RAxMLでは以下のオプションで補正した尤度を使用する
-```
-● -m ASC_BINGAMMA
-● -m ASC_MULTIGAMMA
-● -m ASC_GTRGAMMA
-● -m ASC_PROTGAMMA[matrixname](F)
-```
-
-https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
-分子系統樹推定に適した　　配列データセットの作成　講義編
-
-データサンプリングのバイアスについて
-● SNP や制限酵素座位の有無、形態は
-変異がある
-形質だけがサンプリングされるので、偏っている
-● これを ascertainment bias とか coding bias という
-● 最尤法やベイズ法では、バイアスを補正するモデルを適用する
-必要がある (RAxML ・ MrBayes などが対応 )
-● 最節約法では気にしなくてよい
-
 2014年12月11日
 http://koke.asrc.kanazawa-u.ac.jp/ECAT/Opensemi7.html
 ゲノム時代の分子系統学と計算機科学のあり方
@@ -1003,20 +1075,6 @@ https://www.fifthdimension.jp/wiki.cgi
 田辺晶史, 2010, "ベイジアンMCMCによる生物間系統関係の推定法", 2010年度日本計量生物学会特別セッション『農学・生態学・進化学でのベイズ統計手法の応用に関する諸問題』. Preprint PDF: 20100522BiometricsJapanPreprint.pdf(5955)
 https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
 
-https://www.fifthdimension.jp/documents/molphytextbook/
-Life is fifthdimension.::Documents::分子系統学演習
-
-分子系統樹推定に適した配列データセットの作成：講義編
-https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
-
-
-整列が
-怪しいとき～
-
-捨てれば
-いいじゃない
-
-トリミング
 
 ----------
 ## unclassified
