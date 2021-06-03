@@ -47,9 +47,6 @@ IcyTree
 - [physpetools](#physpetools)
 
 
-
-
-
 ----------
 ## command-line
 
@@ -852,13 +849,7 @@ https://academic.oup.com/mbe/article/37/5/1530/5721363
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182206/
 
 
-
 http://www.iqtree.org/doc/Tutorial#choosing-the-right-substitution-model
-
-
-
-
-
 
 
 Last update: Mar 15, 2021, Contributors: Minh Bui
@@ -1192,16 +1183,22 @@ MEGA: Molecular Evolutionary Genetics Analysis software
 
 - https://www.megasoftware.net/
 
-| | | |
-|:---------|:---------|:---------|
-| Windows / macOS | Graphical (GUI) | MEGA X (64-bit) |
-
 Documentation
 [Online Manual](https://www.megasoftware.net/web_help)
+First Time User
 
-MEGAX-Help
+[walkthrough tutorial](https://www.megasoftware.net/web_help_10/Introduction.htm)
+Introduction
 
-[First Time User](https://www.megasoftware.net/web_help_10/index.htm#t=First_Time_User.htm)
+![](https://www.megasoftware.net/web_help_10/main-tool-bar.png)
+
+I want to learn about:
+
+1. [Mega Basics](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/MEGA_Basics.htm)
+2. [Aligning Sequences](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Aligning_Sequences.htm)
+3. [Estimating Evolutionary Distances](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Estimating_Evolutionary_Distances.htm)
+4. [Building Trees from Sequence Data](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Building_Trees_From_Sequence_Data.htm)
+5. [Testing Tree Reliability](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Testing_Tree_Reliability.htm)
 
 https://www.megasoftware.net/videos
 Instructional Videos
@@ -1313,6 +1310,18 @@ All Resources
 - PTME5e Companion Files (Linux)
 - PTME5e Companion Files (Mac)
 - PTME5e Companion Files (Win)
+
+### Janecka Genomics
+
+2020/12/19
+https://www.youtube.com/watch?v=xKS5qZwl1GY
+Making a Phylogenetic Tree with Bootstrap Support Values in MEGA
+This video shows the steps in MEGA for opening a multiple sequence alignment, determining the best sequence evolution model, reconstructing a maximum likelihood phylogenetic tree with bootstrap support values, and saving the tree in three different formats. 
+
+2020/12/13
+https://www.youtube.com/watch?v=Pq4Cy76zNew
+Making a Multiple Sequence Alignment in MEGA
+This video shows the steps of obtaining nucleotide gene sequences from NCBI, editing the downloaded fasta file, importing the sequences into MEGA, and building a multiple sequence alignment.
 
 ### MEGA_unclassified
 
