@@ -1,4 +1,4 @@
-Last Update: 2020-05
+Last Update: 2020-06
 
 ----------
 
@@ -15,9 +15,10 @@ Last Update: 2020-05
   - [JustOrthologs](JustOrthologs)
   - [OrthoFinder](#orthofinder)
 - [alignment](#alignment) アライメント、編集
-  - [gap](#gap)
+  - [clustal-omega](#clustal-omega)
   - [macse](#macse)
   - [mafft](#mafft)
+  - [gap](#gap)
   - [Gblocks](#gblocks)
   - [trimAl](#trimal)
 - [tree](#tree) 系統樹
@@ -45,7 +46,6 @@ IcyTree
 - [timetree](#timetree)
 - [treefinder](#treefinder)
 - [physpetools](#physpetools)
-
 
 ----------
 ## command-line
@@ -392,23 +392,15 @@ OrthoFinder の使い方 - Qiita
 ## alignment
 アライメント
 
+
+http://kazumaxneo.hatenablog.com/archive/category/multiple%20sequence%20alignment%20%28MSA%29
+
 https://pubmed.ncbi.nlm.nih.gov/32797207/
 Syst Biol
 . 2021 Apr 15;70(3):440-462. doi: 10.1093/sysbio/syaa064.
 Do Alignment and Trimming Methods Matter for Phylogenomic (UCE) Analyses?
 Daniel M Portik 1 2, John J Wiens 1
 
-
-
-http://kazumaxneo.hatenablog.com/archive/category/multiple%20sequence%20alignment%20%28MSA%29
-
-
-https://github.com/haruosuz/r4bioinfo/blob/master/R_tree/README.md#multiple-sequence-alignment
-https://bioconductor.org/packages/release/bioc/html/DECIPHER.html
-DECIPHER
-The Art of Multiple Sequence Alignment in R
-https://bioconductor.org/packages/release/bioc/vignettes/DECIPHER/inst/doc/ArtOfAlignmentInR.pdf
-3 Alignment Accuracy
 
 03 November 2006
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-484
@@ -450,16 +442,18 @@ Nucleotide Sequence Alignments and Model Selection
 The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences.
 
 ----------
-### decipher
+### clustal-omega
 
-https://www.bioconductor.org/packages/devel/bioc/vignettes/DECIPHER/inst/doc/ArtOfAlignmentInR.pdf
-The Art of Multiple Sequence Alignment in R
-Erik S. Wright
-October 29, 2020
+https://kazumaxneo.hatenablog.com/entry/2020/07/30/073000
+マルチプルシーケンスアラインメントを行う Clustal Omega - macでインフォマティクス
 
-1. The first is AlignTranslation, which will align DNA/RNA sequences based on their amino acid
-translation and then reverse translate them back to DNA/RNA. Aligning protein sequences is more
-accurate since amino acids are more conserved than their corresponding coding sequence.
+2017.04.09
+https://bi.biopapyrus.jp/seq/alignment/software/clustal-omega.html
+Clustal Omega
+
+2015.03.16
+https://doi.org/10.7875/togotv.2015.019
+Clustal Omega を使ってマルチプルアラインメントを行う | TogoTV
 
 ----------
 ### macse
@@ -1190,17 +1184,14 @@ First Time User
 [walkthrough tutorial](https://www.megasoftware.net/web_help_10/Introduction.htm)
 Introduction
 
-![](https://www.megasoftware.net/web_help_10/main-tool-bar.png)
-
-I want to learn about:
-
 1. [Mega Basics](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/MEGA_Basics.htm)
 2. [Aligning Sequences](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Aligning_Sequences.htm)
 3. [Estimating Evolutionary Distances](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Estimating_Evolutionary_Distances.htm)
 4. [Building Trees from Sequence Data](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Building_Trees_From_Sequence_Data.htm)
 5. [Testing Tree Reliability](https://www.megasoftware.net/web_help_10/Part_I_Getting_Started/A_Walk_Through_MEGA/Testing_Tree_Reliability.htm)
 
-https://www.megasoftware.net/videos
+Site Links
+[Videos](https://www.megasoftware.net/videos)
 Instructional Videos
 
 ### TUTORIALS
@@ -1298,18 +1289,6 @@ https://evolgen.biol.se.tmu.ac.jp/MEGA/tree-protocol.htm
 ２．系統樹を基にした解析例
 （１） 分子時計を用いた分岐年代の推定 （哺乳類 チトクロームｂ遺伝子の場合）
 （２）分類群と分子系統との関連（人類集団のD-loop配列の場合）
-
-### PTME5
-
-Phylogenetic Trees Made Easy, Fifth Edition
-Barry G. Hall
-- https://learninglink.oup.com/access/hall-5e
-- https://learninglink.oup.com/access/hall-5e-student-resources
-All Resources
-- PTME5e 2018 Update for MEGA X
-- PTME5e Companion Files (Linux)
-- PTME5e Companion Files (Mac)
-- PTME5e Companion Files (Win)
 
 ### Janecka Genomics
 
