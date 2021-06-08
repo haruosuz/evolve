@@ -15,7 +15,6 @@ Last Update: 2019-09
 - [allele](#allele) 対立遺伝子
 - [ancestral reconstruction](#ancestral-reconstruction) 祖先推定
 - [basal](#basal)
-- [duplication](#duplication) 遺伝子重複
 - [concerted evolution](#concerted-evolution) 協調進化
 - [convergent](#convergent) 収斂進化
 - [concordance](#concordance)
@@ -31,7 +30,6 @@ Last Update: 2019-09
   - [JTT](#jtt)
 - [phylogenetic diversity](#phylogenetic-diversity)
 - [recombination](#recombination) 組換え
-- [root](#root)
 - [Newick](#newick)
 - [species](#species)
 - [taxon](#taxon)
@@ -53,6 +51,10 @@ Last Update: 2019-09
 - [microbe](#microbe) 微生物
 - [](#)
 - [constraint](#constraint) 制約
+- [duplication](#duplication) 遺伝子重複
+- [togetter](#togetter)
+- [outgroup](#outgroup)
+- [root](#root)
 
 ----------
 ## network
@@ -1608,9 +1610,36 @@ https://github.com/haruosuz/r4bioinfo/tree/master/R_tree#ancestral-reconstructio
 
 https://en.wikipedia.org/wiki/Ancestral_reconstruction
 
+### Akanuma
+
+https://www.waseda.jp/top/news/70339
+新酵素創出　環境負荷の低減に期待 – 早稲田大学
+最も古い祖先よりも現代に近い年代の酵素を復元したところ、高い耐熱性と常温での高い酵素活性を併せ持つ、現存の天然酵素にはあまり見られない特性を示した
+早稲田大学人間科学学術院の赤沼哲史（あかぬま　さとし）教授、古川龍太郎（ふるかわ　りゅうたろう）助教らの研究チームは、現在の自然界には存在しないが過去には存在したと推定される酵素の祖先アミノ酸配列を予測し、実際に復元しました。得られた祖先復元型酵素の耐熱性と酵素活性を調べた結果、常温での高い酵素活性と耐熱性を併せ持つ、現存の天然酵素にはあまり見られない特性を持つ酵素であることが分かりました。
+・掲載誌：Scientific Reports
+・論文名：Ancestral sequence reconstruction produces thermally stable enzymes with mesophilic enzyme‑like catalytic properties
+https://www.nature.com/articles/s41598-020-72418-4
+Ryutaro Furukawa, Wakako Toma, Koji Yamazaki & Satoshi Akanuma 
+
+2016
+https://www.jstage.jst.go.jp/article/chikyukagaku/50/3/50_199/_article/-char/ja/
+ゲノム配列の比較から明らかになった初期生命の好熱性
+赤沼 哲史
+4.1 コンピュータ解析による祖先配列の推定
+
+2013?
+http://www.f.waseda.jp/akanuma/research/currenttopics/ancestor.html
+Ancestral design
+祖先型設計法による耐熱性タンパク質の創出
+産業利用に有利なタンパク質を開発するうえで、タンパク質の耐熱化設計は重要な課題である。
+　今後は、この祖先型設計法を用いて、産業に利用可能な多くのタンパク質の耐熱化設計に取り組む予定であり、すでに、リグ ニン分解酵素等を標的として選んでいる。
+赤沼哲史、山岸明彦
+
+
+### 
 
 7:09 AM · Jun 17, 2019
-https://twitter.com/iwasakiw/status/114038790766759936
+https://twitter.com/iwasakiw/status/1140380790766759936
 論文「祖先状態復元と可視化のための高速最尤法」が出版になりました。
 http://doi.org/10.1093/molbev/msz131
 進化情報学において「祖先状態復元」は生物進化のプロセスを知るための重要な手段です。その具体的な手法としては周辺事後確率を推定するものと同時確率を推定するものがありますが、
@@ -1658,12 +1687,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/26351909
 Biol Chem. 2016 Jan;397(1):1-21. doi: 10.1515/hsz-2015-0158.
 Ancestral protein reconstruction: techniques and applications.
 Merkl R, Sterner R.
-
-2016
-https://www.jstage.jst.go.jp/article/chikyukagaku/50/3/50_199/_article/-char/ja/
-ゲノム配列の比較から明らかになった初期生命の好熱性
-赤沼 哲史
-4.1 コンピュータ解析による祖先配列の推定
 
 http://kmooog.hatenablog.com/entry/2015/07/31/133246
 祖先配列再構築-marginal reconstruction と joint reconstruction
@@ -2415,6 +2438,39 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6343036/
 
 
 ----------
+## duplication
+
+https://ja.wikipedia.org/wiki/遺伝子重複
+
+https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_article/-char/ja
+ゲノム情報全盛のいま使える分子系統解析のエッセンス
+山口 和晃, 工樂 樹洋
+2019 年 45 巻 166 号 p. 26-31
+https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_pdf/-char/ja
+MBD4 と MeCP2 はともにメチル化 CpG 結合ドメインを持っており、無脊椎動物を外群として含めた分子系統樹によって、これらが脊椎動物の進化の初期に遺伝子重複によって分かれたことが示された（図4D）。
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
+生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
+
+生物最初の分岐に関する論争：何が問題だったのか
+
+問題の解決：古細菌は真核生物に近縁
+
+　すべての生物は一対の重複遺伝子EF-1a/Tuと EF-2/Gを持っている。すべての生物がこの一対の酵素を持っているということは、この一対の遺伝子を作った遺伝子重複は3つの超生物界が枝分かれする前に起きたことになる。たしかにGTP結合タンパク質族の系統樹はそのことを再現している。このことを利用すると超生物界の有根系統樹が作れる。3つの超生物界それぞれからEF-1a/Tuと EFｰ2/Gを取り出し、これらのアミノ酸配列の比較から無根系統樹をまず作る。そしてEFｰ1α/TuとEFｰ2/Gが遺伝子重複によって枝分かれした時期が、3つの超生物界が枝分かれする以前になるように系統樹の根を決める。
+
+この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
+
+生物最古の時代に頻繁に起きた遺伝子水平移動
+
+https://www.jstage.jst.go.jp/article/jjb/19/Special_Issue/19_Special_Issue_S5/_article/-char/ja/
+遺伝子系統樹から我々はなにを絞りだせるか
+斎藤 成也
+1998 年 19 巻 Special_Issue 号 p. S5-S13
+
+遺伝子重複の時点を種分化の時点と誤って推定することがありえる(図3 a)。この場合,種分岐の年代を過大に見積もることになる。もちろん,種分化のあとに,そ. れぞれの種で独立に遺伝子重複が生じることもある(図3b)。
+
+
+----------
 ## togetter
 
 https://togetter.com/li/742642
@@ -2463,38 +2519,6 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 ● 系統樹上の分岐点・端点の密度ができるだけ偏らない方が良い
 – 同一配列や近縁配列が一部では多く一部では少ないのは×
 ```
-
-----------
-## duplication
-
-https://ja.wikipedia.org/wiki/遺伝子重複
-
-https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_article/-char/ja
-ゲノム情報全盛のいま使える分子系統解析のエッセンス
-山口 和晃, 工樂 樹洋
-2019 年 45 巻 166 号 p. 26-31
-https://www.jstage.jst.go.jp/article/nl2008jsce/45/166/45_26/_pdf/-char/ja
-MBD4 と MeCP2 はともにメチル化 CpG 結合ドメインを持っており、無脊椎動物を外群として含めた分子系統樹によって、これらが脊椎動物の進化の初期に遺伝子重複によって分かれたことが示された（図4D）。
-
-https://www.brh.co.jp/research/formerlab/miyata/2005/post_000008.html
-生物最古の枝分かれ：問題点と重複遺伝子による解決- 宮田　隆の進化の話 - JT生命誌研究館
-
-生物最初の分岐に関する論争：何が問題だったのか
-
-問題の解決：古細菌は真核生物に近縁
-
-　すべての生物は一対の重複遺伝子EF-1a/Tuと EF-2/Gを持っている。すべての生物がこの一対の酵素を持っているということは、この一対の遺伝子を作った遺伝子重複は3つの超生物界が枝分かれする前に起きたことになる。たしかにGTP結合タンパク質族の系統樹はそのことを再現している。このことを利用すると超生物界の有根系統樹が作れる。3つの超生物界それぞれからEF-1a/Tuと EFｰ2/Gを取り出し、これらのアミノ酸配列の比較から無根系統樹をまず作る。そしてEFｰ1α/TuとEFｰ2/Gが遺伝子重複によって枝分かれした時期が、3つの超生物界が枝分かれする以前になるように系統樹の根を決める。
-
-この複合系統樹は、EFｰ1α/TuとEFｰ2/Gのいずれにおいても、古細菌は真核生物に近縁な関係にあり、真正細菌とは遠縁になることを示している（図3）。こうして生物の最も初期の進化で起きた分岐の順序が決定できた。
-
-生物最古の時代に頻繁に起きた遺伝子水平移動
-
-https://www.jstage.jst.go.jp/article/jjb/19/Special_Issue/19_Special_Issue_S5/_article/-char/ja/
-遺伝子系統樹から我々はなにを絞りだせるか
-斎藤 成也
-1998 年 19 巻 Special_Issue 号 p. S5-S13
-
-遺伝子重複の時点を種分化の時点と誤って推定することがありえる(図3 a)。この場合,種分岐の年代を過大に見積もることになる。もちろん,種分化のあとに,そ. れぞれの種で独立に遺伝子重複が生じることもある(図3b)。
 
 ----------
 ## root
