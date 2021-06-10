@@ -819,13 +819,19 @@ Author(s) 加藤, 和貴; 桑田, 和正
 Citation 物性研究 (2003), 81(1): 69-80
 Issue Date 2003-10-20
 
-2006
+
+2006 年 44 巻 3 号 p. 185-191
 https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/44/3/44_3_185/_article/-char/ja/
 実践的系統樹推定法
 原理と特徴, 樹形の信頼性評価, およびソフトウェア
 隈 啓一, 加藤 和貴
 https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/44/3/44_3_185/_pdf/-char/ja
 
+2006 年 44 巻 2 号 p. 102-108
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/44/2/44_2_102/_article/-char/ja/
+実践的マルチプルアラインメント
+加藤 和貴, 隈 啓一
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/44/2/44_2_102/_pdf/-char/ja
 
 ## kuraku
 
@@ -1093,15 +1099,19 @@ https://www.jstage.jst.go.jp/article/jscstaikai/20/0/20_85/_pdf
 ----------
 
 https://ja.wikipedia.org/wiki/鶏が先か、卵が先か
+https://en.wikipedia.org/wiki/Chicken_or_the_egg
+
+https://www.science.org.au/curious/earth-environment/which-came-first-chicken-or-egg
+Which came first: the chicken or the egg? - Curious
+
+Back to our original question: with amniotic eggs showing up roughly 340 million or so years ago, and the first chickens evolving at around 58 thousand years ago at the earliest, it’s a safe bet to say the egg came first.
+
+![](https://www.science.org.au/curious/sites/default/files/images/sketchingscience-chicken-or-egg-evolution.jpg)
+
 
 https://twitter.com/Protohedgehog/status/969929755817664512
 Jon Tennant on Twitter: "Another age-long riddle solved by science.… "
 8:37 AM - 3 Mar 2018
-
-https://me.me/i/which-came-first-the-chicken-or-the-egg-turtles-lizards-6697870
-Which came first, the chicken or the egg?
-
-![](https://pics.me.me/which-came-first-the-chicken-or-the-egg-turtles-lizards-10442223.png)
 
 
 ----------
