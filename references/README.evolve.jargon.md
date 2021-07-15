@@ -64,8 +64,6 @@ Last Update: 2019-09
 ----------
 ## clade
 
-
-
 https://en.wikipedia.org/wiki/Monophyly
 In cladistics, a monophyletic group, or clade, is a group of organisms that consists of all the descendants of a common ancestor (or more precisely ancestral population).
 
@@ -77,6 +75,11 @@ https://ja.wikipedia.org/wiki/単系統群
 
 https://ja.wikipedia.org/wiki/分岐学
 分類学における分類群（タクソン）には、単一の系統からなる「単系統群」（例えば鳥類）と、大きな単系統群から一部の単系統群を除いてまとめた「側系統群」（鳥類を除いた爬虫類など）があるが、分岐学の立場では側系統群は分類群として認めるべきではなく、単系統群（分岐学ではクレードCladeという）のみを認めるべきだということになる（進化分類学と呼ばれる考え方では側系統群も認める）。
+
+
+『カラー図解　進化の教科書　第３巻　系統樹や生態から見た進化』
+p.22
+図9-11　クレード（単系統群）は、大きな系統樹からハサミを１回だけ使って切り取ることができる。もしハサミを２回使う必要があるなら、それはクレードではない。クレードは、ある生物とそのすべての子孫からなる。
 
 
 https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
