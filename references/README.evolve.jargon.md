@@ -47,7 +47,6 @@ Last Update: 2019-09
 - [partition](#partition)
 - [brownian](#brownian) ブラウン運動モデル
 - [network](#network)
-- [clade](#clade) 分岐群、単系統群
 - [microbe](#microbe) 微生物
 - [](#)
 - [constraint](#constraint) 制約
@@ -55,9 +54,48 @@ Last Update: 2019-09
 - [togetter](#togetter)
 - [outgroup](#outgroup)
 - [root](#root)
+- [clade](#clade) 分岐群、単系統群
 
 ----------
 ## network
+
+
+
+----------
+## clade
+
+
+
+https://en.wikipedia.org/wiki/Monophyly
+In cladistics, a monophyletic group, or clade, is a group of organisms that consists of all the descendants of a common ancestor (or more precisely ancestral population).
+
+https://ja.wikipedia.org/wiki/系統群
+Clade）とは、共通の祖先から進化した生物群のこと。側系統群、単系統群、多系統群などがある。
+
+https://ja.wikipedia.org/wiki/単系統群
+とは、生物の分類群のうち、単一の進化的系統からなり、しかもその系統に属する生物すべてを含むものをいう。
+
+https://ja.wikipedia.org/wiki/分岐学
+分類学における分類群（タクソン）には、単一の系統からなる「単系統群」（例えば鳥類）と、大きな単系統群から一部の単系統群を除いてまとめた「側系統群」（鳥類を除いた爬虫類など）があるが、分岐学の立場では側系統群は分類群として認めるべきではなく、単系統群（分岐学ではクレードCladeという）のみを認めるべきだということになる（進化分類学と呼ばれる考え方では側系統群も認める）。
+
+
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+分子系統学演習 データセットの作成から仮説検定まで
+田辺晶史
+2015/10/20
+6.1 クレード・単系統・側系統・多系統・祖先的・派生的
+まず、クレード(clade)についてです。クレードとは、系統樹上で複数のOTUが所属する部分系統樹のことです。ただし、有根系統樹と無根系統樹ではやや意味が異なります。無根系統樹では、ある内分枝(internal/interior branch)の一方の端点に接続されている部分系統樹をクレードと言いますが、有根系統樹では内分枝の根から遠い側の端点に接続されている部分系統樹を指します。つまり、有根系統樹上のクレードが根点を含むことはありません。
+
+
+http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
+単系統，側系統，多系統
+作成：仲田崇志
+更新：2006年10月13日
+「単系統」（monophyly）あるいは「単系統群」（monophyletic group）
+「分岐群」 （clade；「クレード」と字訳されることも多い）
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
 
 
 ----------
@@ -288,42 +326,6 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_2.pdf
 
 https://jcm.brc.riken.jp/ja/
 微生物材料開発室 (JCM) (RIKEN BRC)
-
-----------
-
-## clade
-
-https://en.wikipedia.org/wiki/Monophyly
-In cladistics, a monophyletic group, or clade, is a group of organisms that consists of all the descendants of a common ancestor (or more precisely ancestral population).
-
-https://ja.wikipedia.org/wiki/系統群
-Clade）とは、共通の祖先から進化した生物群のこと。側系統群、単系統群、多系統群などがある。
-
-https://ja.wikipedia.org/wiki/単系統群
-とは、生物の分類群のうち、単一の進化的系統からなり、しかもその系統に属する生物すべてを含むものをいう。
-
-https://ja.wikipedia.org/wiki/分岐学
-分類学における分類群（タクソン）には、単一の系統からなる「単系統群」（例えば鳥類）と、大きな単系統群から一部の単系統群を除いてまとめた「側系統群」（鳥類を除いた爬虫類など）があるが、分岐学の立場では側系統群は分類群として認めるべきではなく、単系統群（分岐学ではクレードCladeという）のみを認めるべきだということになる（進化分類学と呼ばれる考え方では側系統群も認める）。
-
-
-https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
-分子系統学演習 データセットの作成から仮説検定まで
-田辺晶史
-2015/10/20
-6.1 クレード・単系統・側系統・多系統・祖先的・派生的
-まず、クレード(clade)についてです。クレードとは、系統樹上で複数のOTUが所属する部分系統樹のことです。ただし、有根系統樹と無根系統樹ではやや意味が異なります。無根系統樹では、ある内分枝(internal/interior branch)の一方の端点に接続されている部分系統樹をクレードと言いますが、有根系統樹では内分枝の根から遠い側の端点に接続されている部分系統樹を指します。つまり、有根系統樹上のクレードが根点を含むことはありません。
-
-
-http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/monophyly.html
-単系統，側系統，多系統
-作成：仲田崇志
-更新：2006年10月13日
-「単系統」（monophyly）あるいは「単系統群」（monophyletic group）
-「分岐群」 （clade；「クレード」と字訳されることも多い）
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-単系統群 (monophyletic group), クレード (clade)　１つの共通祖先と、それから派生した分類群全てを含むグループのこと。分子系統学では、クレードという用語を、１つの共通祖先から派生した分類群からなるグループで、他のグループのものとはその祖先を共有しないものに使う。系統樹を見て、分類群同士の関係を議論するのに、最も普通に使われる用語。
-
 
 
 ----------
@@ -2469,7 +2471,6 @@ https://www.jstage.jst.go.jp/article/jjb/19/Special_Issue/19_Special_Issue_S5/_a
 
 遺伝子重複の時点を種分化の時点と誤って推定することがありえる(図3 a)。この場合,種分岐の年代を過大に見積もることになる。もちろん,種分化のあとに,そ. れぞれの種で独立に遺伝子重複が生じることもある(図3b)。
 
-
 ----------
 ## togetter
 
@@ -2485,15 +2486,18 @@ https://togetter.com/li/399359
 ----------
 ## outgroup
 
-https://ja.wikipedia.org/wiki/外群
-- 外群の選択
-最適な外群は以下の2つの条件を満足しなければならない。
-  - 内群に含まれてはならない
-  - 内群と意味のある比較ができるほど内群に近縁でなければならない
-
 http://nesseiken.info/Chiba_lab/index.php?授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
 - 内群（ingroup）　今、系統推定の対象としているグループのこと。
 - 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
+
+https://ja.wikipedia.org/wiki/外群
+外群は、内群の他のグループに近縁であるが、しかし他のどの内群のグループよりも互いに遠縁であると考えられるものを選択する。
+外群は内群の姉妹群、またはより遠縁なものである[2]。
+
+外群の選択
+最適な外群は以下の2つの条件を満足しなければならない。
+1. 内群に含まれてはならない
+2. 内群と意味のある比較ができるほど内群に近縁でなければならない
 
 https://togetter.com/li/399359?page=2
 - #166ws Outgroupの選定も重要。一本だけというのはあまりよくないことが多い。
