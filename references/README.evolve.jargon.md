@@ -2431,8 +2431,10 @@ https://ja.wikipedia.org/wiki/進化的軍拡競走
 https://ja.wikipedia.org/wiki/前適応
 preadaptation
 
-
-
+2:15 PM · Oct 9, 2022
+https://twitter.com/KawataMasakado/status/1578977453623545856
+Masakado Kawata on Twitter: "進化学における「適応」ついて改めて解説しました。定義を明確にするというよりも、「適応」を定義することの難しさについて考察しました。 進化における「適応」という言葉をめぐって｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/decOO7lLRS" / Twitter
+https://note.com/masakadokawata/n/n2dfc4217831e
 
 https://lambtani.hatenablog.jp/entry/2020/05/10/200459
 中学生から始める適応進化理論 - Life is Beautiful
@@ -2445,8 +2447,6 @@ https://lambtani.hatenablog.jp/entry/2020/05/10/200459
 1.3 適応という考え方が「生物を理解する営み」を学問たらしめた
 1.4 いろいろな「なぜ」があっていい
 Nothing in Biology Makes Sense Except in the Light of Evolution -- 直訳すると、「生物学においては、進化を考慮してこそ、その意義がある」
-
-
 
 https://lambtani.hatenablog.jp/entry/2020/05/19/233210
 中学生から始める適応進化理論2：よくある誤解 - Life is Beautiful
