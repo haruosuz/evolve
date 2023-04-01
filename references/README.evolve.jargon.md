@@ -1814,9 +1814,26 @@ https://www.youtube.com/watch?time_continue=10844&v=vq9Fzd0Yqzc&feature=emb_titl
 Long branch attraction (LBA)
 長枝誘引
 
+https://haruosuz.hatenadiary.org/entry/20080813
+
 https://en.wikipedia.org/wiki/Long_branch_attraction
 
-https://haruosuz.hatenadiary.org/entry/20080813
+https://ja.wikipedia.org/wiki/長枝誘引
+長枝誘引[1][2]（ちょうしゆういん、英：Long Branch Attraction）は、系統解析において、系統的に近縁でない2つの分類群の進化速度が極めて速い場合に、系統樹の枝が相対的に長くなり、これらの長い枝の先端に付く分類群が誤って近縁と推定される現象。系統推定法のうち特に最大節約法への影響が顕著であるが、最尤法や近隣結合法などの他の系統推定法でも主要な課題の一つである[3]。
+
+
+https://www.jstage.jst.go.jp/article/jsbibr/2/1/2_jsbibr.2021.7/_html/-char/ja
+総説
+分子系統解析の最前線
+松井 求 
+相対的に極端に長い枝が存在する場合、長枝誘引という現象が起きることが知られており［32］、特に最節約法への悪影響が大きい。
+
+https://pubmed.ncbi.nlm.nih.gov/33528562/
+Syst Biol
+. 2021 Jun 16;70(4):838-843. doi: 10.1093/sysbio/syab001.
+Long Branch Attraction Biases in Phylogenetics
+Edward Susko 1, Andrew J Roger 2
+https://academic.oup.com/sysbio/article/70/4/838/6126433
 
 2020 年
 https://www.jstage.jst.go.jp/article/mammalianscience/60/2/60_269/_article/-char/ja/
@@ -1891,8 +1908,6 @@ https://www.jstage.jst.go.jp/article/mammalianscience/60/2/60_269/_pdf
 
 
 
-
-
 https://www.natureasia.com/ja-jp/nature/highlights/92171
 Nature ハイライト：ミトコンドリアの祖先を再検討する | Nature | Nature Portfolio
 2018年5月3日 Nature 557, 7703
@@ -1925,10 +1940,24 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1274308/figure/F1/
 Illustration of the branch length heterogeneity conditions commonly referred as the Felsenstein zone (a) and the Farris zone (b). The Felsenstein zone [3] is characterised by two long branches that are not adjacent in the model topology, a situation where most phylogenetic methods fall into the long-branch attraction artefact [1]. Conversely, in the Farris zone [17], also called the inverse-Felsenstein zone [8], the two long branches are adjacent in the model topology. This last condition strongly favours MP over ML because of the intrinsic bias of parsimony towards interpreting multiple changes that occurred along the two long branches as false synapomorphies [8].
 
 
-http://feynmanino.watson.jp/6760_LBA.html
-Cladistics 21,163–193 (2005)
-A review of long-branch attraction（長枝誘引について）
-Johannes Bergsten
+https://pubmed.ncbi.nlm.nih.gov/34892859/
+Cladistics
+. 2005 Apr;21(2):163-193. doi: 10.1111/j.1096-0031.2005.00059.x.
+A review of long-branch attraction
+Johannes Bergsten 1
+https://onlinelibrary.wiley.com/doi/10.1111/j.1096-0031.2005.00059.x
+Methods suggested to avoid LBA-artifacts include excluding long-branch taxa, excluding faster evolving third codon positions, using inference methods less sensitive to LBA such as likelihood, the Aguinaldo et al. approach, sampling more taxa to break up long branches and sampling more characters especially of another kind, and the pros and cons of these are discussed.
+
+Adding taxa to break up long branches
+This leads to one of the most widely suggested remedies for LBA artifacts, i.e., to add more taxa to break up long branches (
+
+https://pubmed.ncbi.nlm.nih.gov/15336677/
+Mol Phylogenet Evol
+. 2004 Nov;33(2):440-51. doi: 10.1016/j.ympev.2004.06.015.
+Should we be worried about long-branch attraction in real data sets? Investigations using metazoan 18S rDNA
+Frank E Anderson 1, David L Swofford
+https://www.sciencedirect.com/science/article/abs/pii/S1055790304002052?via%3Dihub
+Attempts to break up long branches for problematic subsamples through increased taxon sampling reduced, but did not eliminate, LBA problems. 
 
 
 2004年12月15日
