@@ -25,7 +25,6 @@
 http://phyloseminar.org/
 https://www.youtube.com/user/phyloseminar
 
-
 ----------
 ## roslin
 
@@ -36,14 +35,10 @@ The Roslin Institute - Training
 
 ### Sam Lycett
 
-2015/06/12
-https://www.youtube.com/watch?v=-D2IRGQInH0&list=PLbyRmcun-givl8ofEKQjrPn6cBKU6HiPu
-1. Phylogenetics & Phylogeography(lecture-part 1)
+2016/06/03
+https://www.youtube.com/playlist?list=PLbyRmcun-givl8ofEKQjrPn6cBKU6HiPu
+Phylogenetics & Phylogeography(Advanced Analytical Methods) - YouTube
 
-2015/06/12
-https://www.youtube.com/watch?v=2zPXHmqM3rk&list=RDLV6_XMKmFQ_w8&index=12
-https://www.youtube.com/watch?v=2zPXHmqM3rk&list=RDLV6_XMKmFQ_w8
-https://www.youtube.com/watch?v=2zPXHmqM3rk
 2. Phylogenetics & Phylogeography(lecture-part 2)
 a.Why consider time?
 
@@ -55,20 +50,14 @@ a.Why consider time?
 
 ### Ross Fitzgerald
 
-2015/06/10
-Ross Fitzgerald
-https://www.youtube.com/watch?v=S731fDm4O44&list=PLbyRmcun-giuxxB-h2-7u5j5s0sC7tlSd
-1. Phylogenetic analysis of pathogens(lecture - part1)
-
-2015/05/29
-https://www.youtube.com/watch?v=t1vAhQvukRY
-1. Phylogenetic analysis of pathogens(lecture - part1)
+2016/06/03
+https://www.youtube.com/playlist?list=PLbyRmcun-giuxxB-h2-7u5j5s0sC7tlSd
+Phylogenetic analysis of pathogens: Staphylococcus aureus, host switching and antibiotic resistance - YouTube
 
 2018-07-30
 Andrew Rambaut
 https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
-
 
 ----------
 ## updates
