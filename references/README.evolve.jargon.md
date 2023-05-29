@@ -1320,7 +1320,6 @@ Midpoint Rooting.
 Outgroup Rooting.
 Why does the root matter?
 
-
 https://www.fifthdimension.jp/documents/molphytextbook/modelselection_lecture.pdf
 分子進化の統計モデリングとモデル選択
 時間反転可能モデル
@@ -1329,8 +1328,7 @@ https://www.fifthdimension.jp/documents/molphytextbook/modelselection_lecture.pd
 root_digger
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#root_digger
 
-IQ-TREE
-時間反転不能モデルを用いて、外群なしで有根系統樹を推定
+IQ-TREE Non-Reversible Models 時間反転不能モデルを用いて、外群なしで有根系統樹を推定
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#iqtree_rootstrap
 http://www.iqtree.org/doc/Rootstrap#inferring-rooted-trees-without-outgroup
 
@@ -1342,11 +1340,11 @@ http://www.microbesonline.org/fasttree/#FAQ
 What does the rooting of the tree mean?
 FastTree's placement of the root is arbitrary and is not biologically meaningful. To place the root accurately, you need outside information beyond what is in the alignment. If you do not have such information, another common approach is to use the midpoint, so that the maximum distance from the root to any leaf is minimized. This makes sense if the sequences are evolving according to a molecular clock. Most tree viewers can reroot a tree, but for huge trees I use the stat/reroot.pl script in MicrobesOnline's code base.
 
-
 https://github.com/haruosuz/DS4GD/blob/master/2021/CaseStudy.md#mega
 Barry G. Hall (2017) Phylogenetic Trees Made Easy: A How-To Manual (5th edition)
 - p.79-80 Rooted and Unrooted Trees | For display purposes, MEGA has put a bend in one branch or another by the midpoint rooting method, but that does not accurately root an unrooted tree. (see Chapter 7 for a more detailed discussion of rooting trees.)
 - p.112 Rooting a Tree | The rectangular format is obtained by selecting a branch of an unrooted tree and placing an interior node—the root—within that branch. Some tree-draw-ing programs simply place the apparent root in the branch that leads to the first sequence listed in the alignment. MEGA improves upon that by placing the apparent root at the midpoint of the NJ tree, in the branch located midway between the two most distant sequences. If the rate of evolution is roughly con- stant along all branches, then this midpoint rooting will have placed the root correctly. More often, however, midpoint rooting places the root incorrectly, so it should not be trusted. So how can we find the root of the tree?
+
 
 
 
@@ -1401,9 +1399,7 @@ https://twitter.com/takatoh_life/status/1390495662588923906
 
 ![](https://pbs.twimg.com/media/E0wIbolVkAIQoBg?format=png&name=small)
 
-
-
-### root_2020
+### 
 
 7:09 PM · Aug 7, 2020
 https://twitter.com/AlexisCompBio/status/1291677772570603522
@@ -1413,9 +1409,37 @@ https://www.biorxiv.org/content/10.1101/2020.08.05.239046v1
 Phylogenetic analysis of SARS-CoV-2 data is difficult | bioRxiv
 We further find that rooting the inferred phylogeny with some degree of confidence either via the bat and pangolin outgroups or by applying novel computational methods on the ingroup phylogeny does not appear to be possible.
 
-8:03 AM - 20 Jul 2018
-https://twitter.com/NatureEcoEvo/status/1020277970299162624
-Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
+
+
+### 
+
+2:27 PM · May 23, 2020
+https://twitter.com/MicrobiomDigest/status/1264065321817653248
+Elisabeth Bik on Twitter: "Assessing the accuracy of phylogenetic rooting methods on prokaryotic gene families - Taylor Wade et al. * 3098 gene trees from 504 bacterial species * parsimonious Duplication-Transfer-Loss rooting, Minimal Ancestor Deviation rooting most accurate https://t.co/1UKaubCOJS https://t.co/zMma2416gh" / Twitter
+
+### 2019-03-01
+https://pubmed.ncbi.nlm.nih.gov/30753429/
+Genome Biol Evol
+. 2019 Mar 1;11(3):883-898. doi: 10.1093/gbe/evz034.
+Investigating the Origins of Membrane Phospholipid Biosynthesis Genes Using Outgroup-Free Rooting
+Gareth A Coleman 1, Richard D Pancost 2, Tom A Williams 1
+https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6431249/
+
+Materials and Methods
+
+Phylogenetics
+
+The trees were rooted with an uncorrelated lognormal relaxed molecular clock (RMC), using the LG model with a discretized Gamma distribution (Yang 1994) with four rate categories, and a Yule tree prior (Stadler 2009; Hartmann et al. 2010) in BEAST (Drummond and Rambaut 2007; Drummond et al. 2012). We also rooted the trees using minimal ancestor deviation (MAD) rooting (Tria et al 2017). 
+
+Results and Discussion
+
+Table 1
+
+We used two complementary approaches to root these single-gene trees: a RMC in BEAST (Drummond and Rambaut 2007; Drummond et al. 2012), and the recently described MAD rooting method of Tria et al. (2017). 
+
+### 2017-06-19
+Tria
 
 https://pubmed.ncbi.nlm.nih.gov/29388565/
 Nat Ecol Evol
@@ -1424,6 +1448,31 @@ Phylogenetic rooting using minimal ancestor deviation
 Fernando Domingues Kümmel Tria 1, Giddy Landan 1, Tal Dagan 1
 https://www.nature.com/articles/s41559-017-0193
 Access options
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/1rcqpmf/cdi_proquest_miscellaneous_1993387992
+Tria, Fernando Domingues Kümmel ; Landan, Giddy ; Dagan, Tal
+
+6:00 AM · Mar 23, 2018
+https://twitter.com/kfuku0502/status/976926638012211200
+Kenji Fukushima (福島 健児) on Twitter: 
+minimal ancestor deviation法でのルーティング、いくつかの遺伝子系統樹で試してみたけどめちゃくちゃうまくいく。２５１枝中１枝のみ、そこでルーティングすると遺伝子重複イベントが最小となるような樹形でも的確にその１枝を見つけている。
+重複イベントの最小化と組み合せたら精度増すんじゃないかと思ってたけど、MADだけで十分かも。
+今試してみたらこの系統樹はmidpoint rootingでもきちんと遺伝子重複数最小の枝でルーティングされる…。
+うーん、やっぱりいろんなデータ見てると最終的にはreconciliation-basedのルーティングに落ち着きそうなきがする…。
+reconciliation-basedの方法はroot node付近がduplication nodesばかりだと爆死するので、そういう場合でなおかつreconciliation scoreが最小の枝の中にMADの枝があればそれを採用、という方向で行こう。
+
+8:03 AM - 20 Jul 2018
+https://twitter.com/NatureEcoEvo/status/1020277970299162624
+Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
+
+### 2015
+
+2015
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/188bto4/alma99275963904031
+Welcome to the Microbiome : Getting to Know the Trillions of Bacteria and Other Microbes In, On, and Around You / Rob DeSalle, Susan L. Perkins.
+DeSalle, Rob, author. Perkins, Susan L., author. Wynne, Patricia J.
+What Is Life? 23
+If traces of a single gene family can be found in organisms of all three major groups of cells (Archaea, Eukarya, and Bacteria), then one can assume that the gene duplication event occurred in the common ancestor of all life on the planet, and a gene from one can be used to root genes in the others. The rooting of one gene family with a closely related gene family is called “paralog rooting”
+パラログ・ルーティング
 
 http://www.fish-evol.com/R_JI.html
 R - 井上 潤
@@ -1455,14 +1504,6 @@ https://leeswijzer.hatenadiary.com/entry/20060715/1152931775
 　第２節：グラフとしての系統樹――点・辺・根 168
 　　無根系統樹と有根系統樹
 　　祖先子孫関係は原理的に不可知である
-
-2019/02/08
-https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
-Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting
-
-https://www.ncbi.nlm.nih.gov/pubmed/29388565
-Nat Ecol Evol. 2017 Jun 19;1:193. doi: 10.1038/s41559-017-0193.
-Phylogenetic rooting using minimal ancestor deviation.
 
 Midpoint rooting の例:
 
@@ -2184,7 +2225,11 @@ Inferring Orthologs: Open Questions and Perspectives
 Fredj Tekaia 1
 https://journals.sagepub.com/doi/10.4137/GEI.S37925
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778853/
+Abstract
 With the increasing number of sequenced genomes and their comparisons, the detection of orthologs is crucial for reliable functional annotation and evolutionary analyses of genes and species. Yet, the dynamic remodeling of genome content through gain, loss, transfer of genes, and segmental and whole-genome duplication hinders reliable orthology detection. Moreover, the lack of direct functional evidence and the questionable quality of some available genome sequences and annotations present additional difficulties to assess orthology. 
+
+Xenologous genes are genes that appear falsely as orthologs because at least one of the pair is acquired via HGT from another species. Usually it is difficult to identify xenologs in pairwise genome comparisons. Xenologs and true orthologs might be distinguished in multiple genome comparisons if the origin of each gene can be identified.16
+
 
 https://pubmed.ncbi.nlm.nih.gov/23552219/
 Review Nat Rev Genet. 2013 May;14(5):360-6. doi: 10.1038/nrg3456. Epub 2013 Apr 4.
@@ -2192,7 +2237,35 @@ Functional and evolutionary implications of gene orthology
 Toni Gabaldón 1, Eugene V Koonin
 https://www.nature.com/articles/nrg3456
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877793/
+Abstract
 Orthologues and paralogues are types of homologous genes that are related by speciation or duplication, respectively. Orthologous genes are generally assumed to retain equivalent functions in different organisms and to share other key properties.
+
+Glossary
+
+Paralogues	Homologous genes related by duplication.
+Xenologues	Homologous genes that originate from horizontal gene transfer.
+
+
+https://pubmed.ncbi.nlm.nih.gov/25646426/
+Proc Natl Acad Sci U S A
+. 2015 Feb 17;112(7):2058-63. doi: 10.1073/pnas.1412770112. Epub 2015 Feb 2.
+Phylogenomics with paralogs
+Marc Hellmuth 1, Nicolas Wieseke 2, Marcus Lechner 3, Hans-Peter Lenhof 4, Martin Middendorf 2, Peter F Stadler 5
+https://www.pnas.org/doi/10.1073/pnas.1412770112
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4343152/
+SIGNIFICANCE
+We demonstrate that the distribution of paralogs in large gene families contains in itself sufficient phylogenetic signal to infer fully resolved species phylogenies. This source of phylogenetic information is independent of information contained in orthologous sequences and is resilient against horizontal gene transfer. An important consequence is that phylogenomics data sets need not be restricted to 1:1 orthologs.
+
+To evaluate the robustness of the species trees in response to noise in the input data, we used simulated gene families with different noise models and levels: (i) insertion and deletion of edges in the orthology graph (homologous noise), (ii) insertion of edges (orthologous noise), (iii) deletion of edges (paralogous noise), and (iv) modification of gene/species assignments (xenologous noise). 
+
+https://pubmed.ncbi.nlm.nih.gov/16285863/
+Review Annu Rev Genet
+. 2005;39:309-38. doi: 10.1146/annurev.genet.39.073003.114725.
+Orthologs, paralogs, and evolutionary genomics
+Eugene V Koonin 1
+https://www.annualreviews.org/doi/10.1146/annurev.genet.39.073003.114725
+Keywords
+homolog, ortholog, paralog, pseudoortholog, pseudoparalog, xenolog
 
 https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
 相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
@@ -2214,8 +2287,6 @@ https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.p
 https://ameblo.jp/sakaguchikengo/entry-11560351406.html
 酵素やタンパク質因子の多様性分類 | ぐうたら能無し教授の日記（坂口謙吾）
 　更にこの多様化をつぶさに観察すると、もう一つの特徴が浮き出る。普通に考えるとメカが同じなら、そのメカを司る酵素や因子も進化の過程で同じ遺伝子が進化発展したと考えがちである。こういう同じ遺伝子から発展した類縁関係のある遺伝子群（類縁遺伝子）のことを“ホモログ”（homolog）と呼んでいる。しかし、必ずしも“ホモログ”ではない。SSB/RPAを見ると、確かに原核生物のSSBと真核生物のRPAには遺伝子の発展として断絶がある。このように機能活性は同じだが、遺伝子の起源が異なる遺伝子同士は“アナログ”（analog）と呼んでいる。このような観点から酵素やタンパク質因子を見ると、かなり細かくいろいろなタイプに分かれる。これを正確に分類するために5つに分けた専門用語が作られた。
-
-
 
 　＊“ホモログ”（homolog）；これは“パラログ”（paralog）や“オルソログ”（ortholog）を含む総称で、共通の祖先（起源）を持つ類縁遺伝子である。相同性の高い遺伝子配列を持つ。
 
