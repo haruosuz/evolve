@@ -48,7 +48,7 @@ Last Update: 2022
 - [tree](#tree)
   - [circle tree](#circle-tree)
 - [marker](#marker)
-- [taxon_sampling](#taxon_sampling)
+- [taxon_sampling](#taxon_sampling) タクソンサンプリング
 - [](#)
 - [model](#model)
   - [GTR](#gtr)
@@ -58,6 +58,115 @@ Last Update: 2022
 - [mutation](#mutation) 変異
 - [HGT](#hgt) 遺伝子水平伝播
 - [](#)
+
+----------
+## saturation
+Substitution saturation
+飽和
+transition/transversion
+
+https://www.frontiersin.org/articles/10.3389/fmars.2021.573853/full
+Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species
+
+FIGURE 1
+(B) Substitution saturation plots for transition and transversion of the coding region of the Fgg, Mdm4, Chek2, and Dtl genes chosen from those previously regarded as positively selected (Marra et al., 2019).
+
+Investigation of Substitution Saturation
+
+To investigate possible substitution saturation, we further analyzed the Fgg, Mdm4, Chek2, and Dtl genes. Indices of substitution saturation (Iss), introduced by Xia (2009), were computed for the first, second, and third codon positions of ortholog sequences using the DAMBE program (Xia, 2018). 
+
+https://jlsteenwyk.com/PhyKIT/
+Alignment- and tree-based functions
+Saturation
+https://jlsteenwyk.com/PhyKIT/usage/index.html#saturation
+Tutorials
+Saturation
+https://jlsteenwyk.com/PhyKIT/tutorials/index.html#saturation
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
+PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
+(11)Saturation. Saturation refers to when an MSA contains many sites that have experienced multiple substitutions in individual taxa. Saturation is estimated from the slope of the regression line between patristic distances and pairwise identities. Saturated MSAs have reduced phylogenetic information and can result in issues of long branch attraction (Lake, 1991; Philippe et al., 2011).
+
+http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/180502/20180502.pdf
+Microsoft PowerPoint - 2018_生物配列解析基礎_3回目.pptx
+１つの遺伝⼦の系統解析だけでは進化の歴史を調べるのに不⼗分な場合がある
+- 異なる遺伝⼦を⽤いて系統樹を作成した場合に，トポロジーが⼀致しないことがある
+- これには，遺伝⼦の⽔平移動，分岐年代の近さ，塩基・アミノ酸置換の飽和，個々の遺伝⼦にかかる選択圧の違いなど，様々な原因が考えられる
+
+https://bookclub.kodansha.co.jp/product?item=0000194810
+『分子からみた生物進化　ＤＮＡが明かす生物の歴史』（宮田　隆）
+p. 326, 358
+飽和
+
+http://www.fish-evol.org/DatabaseEnglish.html
+系統解析の英語例文
+2012 年 7 月 16 日
+井上 潤　
+
+3rd ポジション
+この結果は，統計的有為さに悪影響を及ぼす高度の飽和を示している．このため，解析から除外する．
+This preliminary result indicates
+a high degree of saturation that severely affected the statistical significance of the estimates (results not shown) and,
+thus, we excluded these sites from the analysis (Schrago and Russo, 2003).
+
+飽和しているが，3rd には系統情報が含まれていることがある．
+Third codon positions for both mitochondrial genes,
+despite obvious potential saturation problems (Cao et al. 1994),
+often contain phylogenetic information, even among distantly related species (Zardoya and Meyer, 1996).
+
+系統樹が解けないときの理由
+3rd の TV でも，いくらか飽和があるのは明らか．
+It was apparent that some degree of saturation also occurred in 3rd-codons TVs (Yamanoue et al. 2009).
+
+https://pubmed.ncbi.nlm.nih.gov/26609078/
+Mol Biol Evol
+. 2016 Mar;33(3):595-602. doi: 10.1093/molbev/msv274. Epub 2015 Nov 25.
+On the Causes of Evolutionary Transition:Transversion Bias
+Arlin Stoltzfus 1, Ryan W Norris 2
+https://academic.oup.com/mbe/article/33/3/595/2579658
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107541/
+
+https://pubmed.ncbi.nlm.nih.gov/25886870/
+BMC Evol Biol
+. 2015 Mar 11;15:36. doi: 10.1186/s12862-015-0312-6.
+Declining transition/transversion ratios through time reveal limitations to the accuracy of nucleotide substitution models
+Sebastián Duchêne 1, Simon Y W Ho 2, Edward C Holmes 3 4
+https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0312-6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358783/
+
+https://pubmed.ncbi.nlm.nih.gov/17274688/
+PLoS Genet
+. 2007 Feb 2;3(2):e22. doi: 10.1371/journal.pgen.0030022.
+Transition-transversion bias is not universal: a counter example from grasshopper pseudogenes
+Irene Keller 1, Douda Bensasson, Richard A Nichols
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030022
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1790724/
+
+https://pubmed.ncbi.nlm.nih.gov/10093216/
+J Mol Evol
+. 1999 Mar;48(3):274-83. doi: 10.1007/pl00006470.
+Estimation of the transition/transversion rate bias and species sampling
+Z Yang 1, A D Yoder
+https://link.springer.com/article/10.1007%2FPL00006470
+
+----------
+## microbe
+
+最終更新日: 2020.05.07
+https://www.sbj.or.jp/sbj/sbj_yomoyama_2.html
+生物工学会誌 –『続・生物工学基礎講座－バイオよもやま話－』 | 公益社団法人 日本生物工学会
+微生物の系統樹，どう描くの？	飯野 隆夫・伊藤 隆	91-10-576
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9110/9110_yomoyama.pdf
+
+https://www.sbj.or.jp/sbj/sbj_yomoyama.html
+生物工学基礎講座－バイオよもやま話－（2011年89巻4号～2013年91巻3号掲載）　 | 公益社団法人 日本生物工学会
+知っておきたい殺菌・除菌・滅菌技術	松村 吉信・中田 訓浩	89–12–739
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_1.pdf
+何から始めよう　微生物の同定－細菌・アーキア編－	浜田 盛之・鈴木 健一朗	89–12–744
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_2.pdf
+
+https://jcm.brc.riken.jp/ja/
+微生物材料開発室 (JCM) (RIKEN BRC)
 
 ----------
 ## taxon_sampling
@@ -1643,101 +1752,6 @@ http://www.fish-evol.org/Constraint.html
 分岐年代推定に用いる制約の選び方
 2014 年 11 月 20 日　改訂
 井上 潤
-
-
-----------
-## saturation
-Substitution saturation
-飽和
-transition/transversion
-
-https://www.frontiersin.org/articles/10.3389/fmars.2021.573853/full
-Frontiers | Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species | Marine Science
-
-Investigation of Substitution Saturation
-
-FIGURE 1
-(B) Substitution saturation plots for transition and transversion of the coding region of the Fgg, Mdm4, Chek2, and Dtl genes chosen from those previously regarded as positively selected (Marra et al., 2019). Each dot indicates a pair of species in the dataset. The white and black dots indicate transitions and transversions, respectively. The horizontal axis indicates the distance based on the TN93 substitution model (Tamura and Nei, 1993). The vertical axis indicates the observed proportion of transition and transversion. The amino acid sequences were aligned with MAFFT v7.299b (Katoh and Standley, 2013) using the L-INS-i option. Nucleotide sequences were aligned based on the amino acid sequence alignment using the emboss tranalign tool. Unreliably aligned regions were removed using Gblocks v0.91b (Talavera and Castresana, 2007) based on the default parameters. Transversion and transition frequencies were calculated with the TN93 substitution model using the DAMBE program (Xia, 2018). The details of the sequences used for the analysis are included in Supplementary Data (https://doi.org/10.6084/m9.figshare.13521329). 
-
-
-http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/180502/20180502.pdf
-Microsoft PowerPoint - 2018_生物配列解析基礎_3回目.pptx
-１つの遺伝⼦の系統解析だけでは進化の歴史を調べるのに不⼗分な場合がある
-- 異なる遺伝⼦を⽤いて系統樹を作成した場合に，トポロジーが⼀致しないことがある
-- これには，遺伝⼦の⽔平移動，分岐年代の近さ，塩基・アミノ酸置換の飽和，個々の遺伝⼦にかかる選択圧の違いなど，様々な原因が考えられる
-
-
-https://pubmed.ncbi.nlm.nih.gov/26609078/
-Mol Biol Evol
-. 2016 Mar;33(3):595-602. doi: 10.1093/molbev/msv274. Epub 2015 Nov 25.
-On the Causes of Evolutionary Transition:Transversion Bias
-Arlin Stoltzfus 1, Ryan W Norris 2
-https://academic.oup.com/mbe/article/33/3/595/2579658
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107541/
-
-https://pubmed.ncbi.nlm.nih.gov/25886870/
-BMC Evol Biol
-. 2015 Mar 11;15:36. doi: 10.1186/s12862-015-0312-6.
-Declining transition/transversion ratios through time reveal limitations to the accuracy of nucleotide substitution models
-Sebastián Duchêne 1, Simon Y W Ho 2, Edward C Holmes 3 4
-https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0312-6
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358783/
-
-
-http://www.fish-evol.org/DatabaseEnglish.html
-系統解析の英語例文
-2012 年 7 月 16 日
-井上 潤　
-
-3rd ポジション
-この結果は，統計的有為さに悪影響を及ぼす高度の飽和を示している．このため，解析から除外する．
-This preliminary result indicates
-a high degree of saturation that severely affected the statistical significance of the estimates (results not shown) and,
-thus, we excluded these sites from the analysis (Schrago and Russo, 2003).
-
-飽和しているが，3rd には系統情報が含まれていることがある．
-Third codon positions for both mitochondrial genes,
-despite obvious potential saturation problems (Cao et al. 1994),
-often contain phylogenetic information, even among distantly related species (Zardoya and Meyer, 1996).
-
-系統樹が解けないときの理由
-3rd の TV でも，いくらか飽和があるのは明らか．
-It was apparent that some degree of saturation also occurred in 3rd-codons TVs (Yamanoue et al. 2009).
-
-
-https://pubmed.ncbi.nlm.nih.gov/17274688/
-PLoS Genet
-. 2007 Feb 2;3(2):e22. doi: 10.1371/journal.pgen.0030022.
-Transition-transversion bias is not universal: a counter example from grasshopper pseudogenes
-Irene Keller 1, Douda Bensasson, Richard A Nichols
-https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030022
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1790724/
-
-https://pubmed.ncbi.nlm.nih.gov/10093216/
-J Mol Evol
-. 1999 Mar;48(3):274-83. doi: 10.1007/pl00006470.
-Estimation of the transition/transversion rate bias and species sampling
-Z Yang 1, A D Yoder
-https://link.springer.com/article/10.1007%2FPL00006470
-
-----------
-## microbe
-
-最終更新日: 2020.05.07
-https://www.sbj.or.jp/sbj/sbj_yomoyama_2.html
-生物工学会誌 –『続・生物工学基礎講座－バイオよもやま話－』 | 公益社団法人 日本生物工学会
-微生物の系統樹，どう描くの？	飯野 隆夫・伊藤 隆	91-10-576
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9110/9110_yomoyama.pdf
-
-https://www.sbj.or.jp/sbj/sbj_yomoyama.html
-生物工学基礎講座－バイオよもやま話－（2011年89巻4号～2013年91巻3号掲載）　 | 公益社団法人 日本生物工学会
-知っておきたい殺菌・除菌・滅菌技術	松村 吉信・中田 訓浩	89–12–739
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_1.pdf
-何から始めよう　微生物の同定－細菌・アーキア編－	浜田 盛之・鈴木 健一朗	89–12–744
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_2.pdf
-
-https://jcm.brc.riken.jp/ja/
-微生物材料開発室 (JCM) (RIKEN BRC)
 
 ----------
 ## basal
