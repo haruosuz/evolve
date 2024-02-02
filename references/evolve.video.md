@@ -128,8 +128,21 @@ https://www.youtube.com/channel/UCNs44pVYt49mkdW8TzvG51w
 KEM BIOLOGY(高校生物学習チャンネル・大学受験用）
 
 ----------
-## 
+## 2017
 
+Dr. Claire Says
+
+2020/11/01
+https://www.youtube.com/playlist?list=PL9ATyFDE83-CUs_vXgKEy-Mep9jtbsjeK
+BIOL 181 Online
+
+Lectures for BIOL 181 at CSU - Pueblo.
+
+2017/09/05
+https://www.youtube.com/watch?v=t0iAm-JQcrs
+Parsimony
+
+Biol 181 Lecture on how to use parsimony to evaluate phylogenetic trees.
 
 ----------
 ## 2016
