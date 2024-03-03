@@ -54,9 +54,11 @@ Last Update: 2022
   - [GTR](#gtr)
   - [JTT](#jtt)
 - [substitution matrix](#substitution-matrix) 置換行列
+- [HGT](#hgt) 遺伝子水平伝播
+- [](#)
 - [rate_of_evolution](#rate_of_evolution) 進化速度
 - [mutation](#mutation) 変異
-- [HGT](#hgt) 遺伝子水平伝播
+- [saturation](#saturation) 飽和
 - [](#)
 
 ----------
@@ -134,6 +136,7 @@ Sebastián Duchêne 1, Simon Y W Ho 2, Edward C Holmes 3 4
 https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0312-6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358783/
 
+
 https://pubmed.ncbi.nlm.nih.gov/17274688/
 PLoS Genet
 . 2007 Feb 2;3(2):e22. doi: 10.1371/journal.pgen.0030022.
@@ -148,6 +151,189 @@ J Mol Evol
 Estimation of the transition/transversion rate bias and species sampling
 Z Yang 1, A D Yoder
 https://link.springer.com/article/10.1007%2FPL00006470
+
+----------
+## rate_of_evolution
+進化速度
+
+https://en.wikipedia.org/wiki/Rate_of_evolution
+
+https://pubmed.ncbi.nlm.nih.gov/31570957/
+J Mol Evol
+. 2019 Dec;87(9-10):317-326. doi: 10.1007/s00239-019-09912-5. Epub 2019 Sep 30.
+Investigating Evolutionary Rate Variation in Bacteria
+Beth Gibson 1, Adam Eyre-Walker 2
+https://link.springer.com/article/10.1007/s00239-019-09912-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858405/
+ Across species, we find that accumulation rates vary by over 3700-fold. We investigate whether accumulation rates are associated to a number potential correlates including genome size, GC content, measures of the natural selection and the time frame over which the accumulation rates were estimated. After controlling for phylogenetic non-independence, we find that the accumulation rate is not significantly correlated to any factor. Furthermore, contrary to previous results, we find that it is not impacted by the time frame of which the estimate was made.
+
+We compiled estimates of the accumulation rate for 34 species of bacteria. These vary by over 3700 fold (Fig. 1.), but the majority of species accumulate mutations at rates of between 1 × 10−6 and 2 × 10−6 per site per year. 
+
+Fig.  1
+Distribution of accumulation rate estimates for 34 species of bacteria
+
+Duchêne S, et al. Genome-scale rates of evolutionary change in bacteria. Microb Gen. 2016;2(11):e000094. [PMC free article] [PubMed] [Google Scholar]
+
+2016-11-30
+https://pubmed.ncbi.nlm.nih.gov/28348834/
+Microb Genom
+. 2016 Nov 30;2(11):e000094. doi: 10.1099/mgen.0.000094. eCollection 2016 Nov.
+Genome-scale rates of evolutionary change in bacteria
+Sebastian Duchêne 1 2 3, Kathryn E Holt 2 3, François-Xavier Weill 4, Simon Le Hello 4, Jane Hawkey 2 3, David J Edwards 2 3, Mathieu Fourment 1, Edward C Holmes 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000094#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320706/
+The robustly estimated evolutionary rates spanned several orders of magnitude, from approximately 10−5 to 10−8 nucleotide substitutions per site year−1. 
+
+Despite the wealth of sequence data, genome-wide rates of evolutionary change in bacteria are often uncertain. At one end of the spectrum, rates as high as ~10−5 nucleotide substitutions per site year−1 have been reported for Neisseria gonorrhoeae (Pérez-Losada et al., 2007). In contrast, genome-wide rates of only ~10−9 substitutions per site year−1 have been observed in Mycobacterium tuberculosis (Comas et al., 2013). Importantly, however, these estimates are not always readily comparable because they use different methods and sources of data. 
+
+To provide a comprehensive picture of genomic-scale evolutionary rates in bacteria and their temporal dynamics, particularly the extent of time-dependency in the data, we analysed, using a variety of phylogenetic methods, 36 publically available whole genome SNP data sets from bacterial pathogens associated with human disease sampled over periods extending over 2000 years.
+
+https://pubmed.ncbi.nlm.nih.gov/33560364/
+PhyKIT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
+estimation of mutation rate
+
+https://jlsteenwyk.com/PhyKIT/usage/index.html#evolutionary-rate
+Calculate a tree-based estimation of the evolutionary rate of a gene.
+Evolutionary rate is the total tree length divided by the number of terminals.
+Calculate evolutionary rate following Telford et al., Proceedings of the Royal Society B (2014).
+
+https://jlsteenwyk.com/PhyKIT/usage/index.html#covarying-evolutionary-rates
+Determine if two genes have a signature of covariation with one another. Genes that have covarying evolutionary histories tend to have similar functions and expression levels.
+
+2015/06/12
+https://www.youtube.com/watch?v=2zPXHmqM3rk&list=RDLV6_XMKmFQ_w8
+2. Phylogenetics & Phylogeography(lecture-part 2)
+a.Why consider time?
+
+| | RNA Viruses | DNA Viruses | Bacteria |
+|:---------|:---------|:---------|:---------|
+| Mutations per year | 10-100 | 1-20 | 0-1 |
+
+6:01 AM · Jul 18, 2018
+https://twitter.com/ASMicrobiology/status/1019326186625912832
+ASM on Twitter: "Complexities of viral mutation rates, including 3 hypotheses for why mutation rates have not evolved to be zero, in a new @JVirology Gem: https://t.co/bWwl3Xa6Ti https://t.co/SnGlN65JxL" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/29720522/
+Review J Virol
+. 2018 Jun 29;92(14):e01031-17. doi: 10.1128/JVI.01031-17. Print 2018 Jul 15.
+Complexities of Viral Mutation Rates
+Kayla M Peck 1, Adam S Lauring 2 3
+https://journals.asm.org/doi/10.1128/JVI.01031-17
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026756/
+substitutions per nucleotide site per cell infection (s/n/c)
+
+https://covid-19chronicles.cseas.kyoto-u.ac.jp/post-041-jp-html/
+東南アジアにおける新型コロナウイルスの突然変異と拡散──今後のワクチンの行方── | Corona Chronicles: Voices from the Field
+
+図3 RNAウイルスの進化速度の比較。進化速度（s/n/y、塩基置換を塩基あたり、年あたりで示す）はy軸上、ゲノムサイズ（nt、塩基数に基づく）はx軸上に示す。より大きなゲノムを持つ生命体は、変異速度がより遅い傾向にある。SARS-CoV-2を含むコロナウイルス科は、30,000ntという巨大なゲノムを持ち、その他のRNAウイルスに比べて遅い変異を示す。DNAウイルスの単純ヘルペスウイルスは、比較のために示すもの。データは複数の資料を基に編集した16,17,19–22。
+
+
+https://www.nig.ac.jp/museum/evolution-x/01_c.html
+遺伝学電子博物館
+
+分子進化の中立説　～木村資生と中立説
+(1) 中立説の誕生
+
+(2)中立説の展開
+
+「機能的に重要でない分子(または分子内の重要でない部分)ほど、そうでないものより進化の過程でアミノ酸やDNA塩基の置換が急速に起こり、置換率(進化速度)の最高は突然変異率で決まる」という考えに達したのは1973年頃で、これが伝統的な進化遺伝学から見れば全くの異端的な考えであることは十分承知していた。
+
+(3)中立説の確立
+筆者は1977年に、もし、進化速度の上限が突然変異率で決まるという結果が分子進化の研究から将来出れば、それは中立説を支持することになるという主張を発表したが、しばらくして、予想もしなかったところからこれを支持する劇的なデータが出てきた。それはマウスで見い出されたヘモグロビンの偽遺伝子に関するものである。ここで、偽遺伝子(pseudogene)とは、既知の正常遺伝子と塩基配列の上で非常に似ているが、正常遺伝子から重複によって生まれた後、何らかの理由で遺伝子としての機能を失ったもので、「死んだ遺伝子」とよばれることもあるものである。九州大学の宮田隆博士は世界に先がけ、この進化速度の推定に成功した。得られた値はDNAの塩基置換率としては最高と考えられる値であった。
+
+(4) 中立説と分子進化速度
+4-1：速度の一定性の説明
+
+　分子進化には二つの大きな特徴、すなわち年あたりの「速度の一定性」と、変化様式の「保守性」がある。これらの特徴は中立説によってどのように説明されるであろうか。
+
+　 中立突然変異に対しては「進化速度=突然変異率」という簡単な法則が成り立つ。したがって、進化速度の年あたりの一定性は中立突然変異の出現率が特定の遺伝子(またはそれから作られるタンパク質)について各種の生物の系統で年あたり一定であると仮定して説明される。したがって、中立説が正しければ、分子レベルの突然変異(DNA塩基の変化)、特に中立突然変異の起こる率は環境条件、集団の大きさ、一世代の長さほとんど影響されないはずである。
+
+4-2：単位は世代か物理的時間か
+
+4-3：突然変異率は生殖細胞の分裂回数に比例
+
+4-5：世代あたりで一定の突然変異
+
+資料：木村資生「生物進化を考える」岩波新書,1988
+
+2005年4月1日
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.php
+【パラダイムシフト：分子進化の中立説】 | JT生命誌研究館
+
+もしこの関係を知っていれば、置換数から分岐年代が簡単に推定できることになる。
+　分子時計は、言い方を変えれば、分子進化速度の一定性である。この結果は中立説で容易に理解できる。中立説によると、分子進化速度ｋは総突然変異率μに対する中立な突然変異の割合ｆに比例する。
+　　　　　　　　　　k ＝ f・μ　　　　　　　　　　(1)
+
+2005年8月1日
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000006.php
+　DNA、RNA、タンパク質といった分子の進化速度は機能的制約の強さに直接依存する。分子進化の中立説によると、分子進化速度kは中立な突然変異率で決まる。すなわち、k=f・μである（本シリーズ「パラダイムシフト：分子進化の中立説」を参照）。ここで、μは総突然変異率で、fはそのうちの中立な変異の割合である。突然変異は大ざっぱに有利、不利、及び中立な変異に分けられるが、有利な変異は数の上で非常に少ないので無視すると、1-fは不利な変異の割合になり、機能的制約の大きさに比例する量である。従って機能的制約が大きくなるとfが小さくなり、進化速度kが小さくなる。このことを実際の例で確かめてみよう。
+
+----------
+## mutation
+
+https://en.wikipedia.org/wiki/Mutation_bias
+
+2020年05月01日
+https://hc.nikkan-gendai.com/articles/272230?page=2
+ＲＮＡウイルスは塩基配列が変わりやすく、変異が蓄積する速度はヒトの核ゲノムのＤＮＡと比べて１００万倍速いといわれています。
+新型コロナウイルスの進化速度は、ＳＡＲＳ、ＭＥＲＳと比較して、ほぼ同じで新型コロナウイルスのＲＮＡゲノムに１年間で蓄積される塩基変異は３万個の塩基のうち２４個程度と推定されています。
+https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
+新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
+SARS-CoV-2の変異
+RNAウイルスの複製を担うRNAポリメラーゼは校正機構を有さないため，突然変異率が非常に高く，そのため塩基置換速度（進化速度）も非常に速い．ただし，コロナウイルスについては他のRNAウイルスと異なり，複製時のエラーを校正する酵素をもち15），SARS-CoV-2でも機能していると考えられる．2020年3月6日にエジンバラ大学のAndrew Rambautらが報告したSARS-CoV-2の176配列（進化速度解析に使用した配列は86配列）を用いた解析結果によると，進化速度は0.80×10－3 substitution/site/yearと推定された（95％信頼区間：0.14〜1.31×10－3）（http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356）．SARS-CoV-2のゲノムサイズがおよそ30×103塩基ということを考えると，1年でおよそ24箇所くらいの塩基置換が蓄積していくと考えられる※3．
+https://sites.google.com/site/sonakagawa/etc/sars-cov-2_yodosha_etc
+「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」執筆のよもやま話 - So Nakagawa Website
+・変異について、具体的に1年で24箇所くらいの変異を蓄積するという書き方ですが、これはどのくらいの変異があるのかを想像してほしくて具体的な数字を上げたものです。これは、ウイルス集団のなかで残っている株がそれぞれオリジナルと比較すると24程度の突然変異が残っているというだけで、集団中にはもっと多くの突然変異が存在します（これは集団サイズに依存します）。
+
+https://sites.google.com/site/nosada17/Home/osada_text?authuser=0
+Naoki Osada (CV) - 生命情報解析学テキスト
+https://drive.google.com/file/d/12TOTW2kOEtqC2G7vZRqRswH_5bNTXG5F/view
+第2章 集団遺伝学
+
+世代あた りに固定する変異の数は μ となり，突然変異率と等しくなる.世代あたりに固定する変異 の数のことを分子進化速度(rate of molecular evolution)と呼ぶ.中立な変異では分子進化速 度は突然変異率に等しくなる.この関係が分子進化の中立説(the neutral theory of molecular evolution)と呼ばれる説の中心になる.
+
+https://drive.google.com/file/d/1gHH9qLdrOrOF5ptLaJCBIg_LJ25UfVFa/view?usp=sharing
+第3章 分子進化
+- 中立な変異の置 換速度は突然変異率(μ)に等しくなることは第 2 章で既に述べた.
+- Kimura’s 2-parameter model
+前章でも述べたとおり，塩基間の突然変異率は(JC モデルで仮定しているように)均一で はない.一般的にはトランジッションと呼ばれるプリン，ピリミジン同士の変異がトランス バージョンと呼ばれるプリン，ピリミジン間での変異よりも 2 倍程度起こりやすいことが 知られている.この違いを考慮に入れているのが，木村の 2 パラメータモデル(Kimura’s 2- parameter model)である(
+- サイトによる置換速度の違い
+これまでのモデルではサイトごとの置換速度は一定と仮定されていた.ところが，遺伝子の 中でも塩基配列の置換速度には差があることがよく知られている.これは突然変異率がサ イトによって違っていることが原因の一つだろう.例えば前述したように CpG サイトの C は変異率が他に比べてとても高い.程度の差こそあれ，このような置換速度のばらつきが存 在する.この問題を解決するために様々な方法が提案されてきたが，よく用いられているの が，サイトごとの置換速度のばらつきをガンマ分布(gamma distribution)と仮定するモデル である (Yang1993).
+- 同義・非同義サイト
+非コード領域においては，「サイト当たりの突然変異率」などのように塩基サイトの定義は 明確であった.それではコドンを考えた場合の同義・非同義サイトの定義はどうなるだろう.
+- 非同義置換と同義置換の比
+非同義置換率を KA または dN，同義置換率を KS または dS と表記することが多い.これらの 比(コドンモデルでは ω として推定されるパラメータ)は遺伝子ごとのコドンに対する自 然選択を表す指標として用いられている.同義置換には自然選択が働かないと仮定すると， Ks はその領域での突然変異率を反映していると考えられる.
+
+http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/170517/2017_生物配列解析基礎_3回目_資料.pdf
+分子系統樹 12
+DNAに蓄積する変異は一定の割合で起こっており、そのほとんどが自然選択とは無関 係な中立の変異である
+DNAの配列がどのくらい似ているかを調べることによって、進化的にどの程度近縁で あるかを知ることができる
+
+https://kimuraseminar.wordpress.com/2017年8月3日-系統学2/
+2017年8月3日 系統学2
+系統学２（岸野洋久）
+集団に固定されない有害な変異は観測されないので、分子進化速度は突然変異率と中立な変異の割合で表現されます。分子進化速度の一定性の作り出す分子時計からは、これら二つの要素が安定しており、あまり変化しないことが伺われます。
+
+2008
+https://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
+コドンモデルを用いた分岐年代のベイズ推定
+https://www.ism.ac.jp/editsec/toukei/pdf/56-1-037.pdf
+中立説の下では f = 1
+2N となり，分子進化速度は集団の大きさに左右されず，遺伝
+子の突然変異率になる．従って，突然変異率が一定であるような状況では，分子時計が成立す
+ることになる．進化速度の一定性が認められる場合においては，化石データと一部の配列デー
+タから推定された進化速度を全系統樹に適用し，系統樹の全ての分岐点の年代を推定すること
+ができる．
+
+2002
+https://www.ism.ac.jp/editsec/toukei/pdf/50-1-017.pdf
+中立説の下では，突然変異率が一定であれば，分子進化速度は
+一定となり，いわゆる分子時計が成立するため，これを検定する方式がいくつか提唱されてき
+た（
+
+----------
+
 
 ----------
 ## microbe
@@ -371,7 +557,6 @@ https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
 
 2.3 より複雑なモデル
 
-
 https://bi.biopapyrus.jp/seq/
 2018.08.17
 https://bi.biopapyrus.jp/seq/score-matrix.html
@@ -459,144 +644,6 @@ Estimate Substitution Matrix (ML)
 Models | Estimate Substitution Matrix
 This option estimates and displays the nucleotide substitution rate matrix using the Maximum Likelihood method for the current data set and evolutionary model selected. This method finds the set of values for the substitution rate matrix parameters that maximizes the probability (likelihood) of the data. This is applicable only to nucleotide data (coding or non-coding).
 
-----------
-## rate_of_evolution
-進化速度
-
-https://en.wikipedia.org/wiki/Rate_of_evolution
-
-https://pubmed.ncbi.nlm.nih.gov/31570957/
-J Mol Evol
-. 2019 Dec;87(9-10):317-326. doi: 10.1007/s00239-019-09912-5. Epub 2019 Sep 30.
-Investigating Evolutionary Rate Variation in Bacteria
-Beth Gibson 1, Adam Eyre-Walker 2
-https://link.springer.com/article/10.1007/s00239-019-09912-5
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858405/
- Across species, we find that accumulation rates vary by over 3700-fold. We investigate whether accumulation rates are associated to a number potential correlates including genome size, GC content, measures of the natural selection and the time frame over which the accumulation rates were estimated. After controlling for phylogenetic non-independence, we find that the accumulation rate is not significantly correlated to any factor. Furthermore, contrary to previous results, we find that it is not impacted by the time frame of which the estimate was made.
-
-We compiled estimates of the accumulation rate for 34 species of bacteria. These vary by over 3700 fold (Fig. 1.), but the majority of species accumulate mutations at rates of between 1 × 10−6 and 2 × 10−6 per site per year. 
-
-Fig.  1
-Distribution of accumulation rate estimates for 34 species of bacteria
-
-Duchêne S, et al. Genome-scale rates of evolutionary change in bacteria. Microb Gen. 2016;2(11):e000094. [PMC free article] [PubMed] [Google Scholar]
-
-2016-11-30
-https://pubmed.ncbi.nlm.nih.gov/28348834/
-Microb Genom
-. 2016 Nov 30;2(11):e000094. doi: 10.1099/mgen.0.000094. eCollection 2016 Nov.
-Genome-scale rates of evolutionary change in bacteria
-Sebastian Duchêne 1 2 3, Kathryn E Holt 2 3, François-Xavier Weill 4, Simon Le Hello 4, Jane Hawkey 2 3, David J Edwards 2 3, Mathieu Fourment 1, Edward C Holmes 1
-https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000094#tab2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320706/
-The robustly estimated evolutionary rates spanned several orders of magnitude, from approximately 10−5 to 10−8 nucleotide substitutions per site year−1. 
-
-Despite the wealth of sequence data, genome-wide rates of evolutionary change in bacteria are often uncertain. At one end of the spectrum, rates as high as ~10−5 nucleotide substitutions per site year−1 have been reported for Neisseria gonorrhoeae (Pérez-Losada et al., 2007). In contrast, genome-wide rates of only ~10−9 substitutions per site year−1 have been observed in Mycobacterium tuberculosis (Comas et al., 2013). Importantly, however, these estimates are not always readily comparable because they use different methods and sources of data. 
-
-To provide a comprehensive picture of genomic-scale evolutionary rates in bacteria and their temporal dynamics, particularly the extent of time-dependency in the data, we analysed, using a variety of phylogenetic methods, 36 publically available whole genome SNP data sets from bacterial pathogens associated with human disease sampled over periods extending over 2000 years.
-
-https://pubmed.ncbi.nlm.nih.gov/33560364/
-PhyKIT
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
-estimation of mutation rate
-
-https://jlsteenwyk.com/PhyKIT/usage/index.html#evolutionary-rate
-Calculate a tree-based estimation of the evolutionary rate of a gene.
-Evolutionary rate is the total tree length divided by the number of terminals.
-Calculate evolutionary rate following Telford et al., Proceedings of the Royal Society B (2014).
-
-https://jlsteenwyk.com/PhyKIT/usage/index.html#covarying-evolutionary-rates
-Determine if two genes have a signature of covariation with one another. Genes that have covarying evolutionary histories tend to have similar functions and expression levels.
-
-2015/06/12
-https://www.youtube.com/watch?v=2zPXHmqM3rk&list=RDLV6_XMKmFQ_w8
-2. Phylogenetics & Phylogeography(lecture-part 2)
-a.Why consider time?
-
-| | RNA Viruses | DNA Viruses | Bacteria |
-|:---------|:---------|:---------|:---------|
-| Mutations per year | 10-100 | 1-20 | 0-1 |
-
-6:01 AM · Jul 18, 2018
-https://twitter.com/ASMicrobiology/status/1019326186625912832
-ASM on Twitter: "Complexities of viral mutation rates, including 3 hypotheses for why mutation rates have not evolved to be zero, in a new @JVirology Gem: https://t.co/bWwl3Xa6Ti https://t.co/SnGlN65JxL" / Twitter
-
-https://pubmed.ncbi.nlm.nih.gov/29720522/
-Review J Virol
-. 2018 Jun 29;92(14):e01031-17. doi: 10.1128/JVI.01031-17. Print 2018 Jul 15.
-Complexities of Viral Mutation Rates
-Kayla M Peck 1, Adam S Lauring 2 3
-https://journals.asm.org/doi/10.1128/JVI.01031-17
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026756/
-substitutions per nucleotide site per cell infection (s/n/c)
-
-https://covid-19chronicles.cseas.kyoto-u.ac.jp/post-041-jp-html/
-東南アジアにおける新型コロナウイルスの突然変異と拡散──今後のワクチンの行方── | Corona Chronicles: Voices from the Field
-
-図3 RNAウイルスの進化速度の比較。進化速度（s/n/y、塩基置換を塩基あたり、年あたりで示す）はy軸上、ゲノムサイズ（nt、塩基数に基づく）はx軸上に示す。より大きなゲノムを持つ生命体は、変異速度がより遅い傾向にある。SARS-CoV-2を含むコロナウイルス科は、30,000ntという巨大なゲノムを持ち、その他のRNAウイルスに比べて遅い変異を示す。DNAウイルスの単純ヘルペスウイルスは、比較のために示すもの。データは複数の資料を基に編集した16,17,19–22。
-
-----------
-## mutation
-
-https://en.wikipedia.org/wiki/Mutation_bias
-
-2020年05月01日
-https://hc.nikkan-gendai.com/articles/272230?page=2
-ＲＮＡウイルスは塩基配列が変わりやすく、変異が蓄積する速度はヒトの核ゲノムのＤＮＡと比べて１００万倍速いといわれています。
-新型コロナウイルスの進化速度は、ＳＡＲＳ、ＭＥＲＳと比較して、ほぼ同じで新型コロナウイルスのＲＮＡゲノムに１年間で蓄積される塩基変異は３万個の塩基のうち２４個程度と推定されています。
-https://www.yodosha.co.jp/jikkenigaku/special/SARS-CoV-2.html
-新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析｜2020年5月号｜実験医学online：羊土社 - 羊土社
-SARS-CoV-2の変異
-RNAウイルスの複製を担うRNAポリメラーゼは校正機構を有さないため，突然変異率が非常に高く，そのため塩基置換速度（進化速度）も非常に速い．ただし，コロナウイルスについては他のRNAウイルスと異なり，複製時のエラーを校正する酵素をもち15），SARS-CoV-2でも機能していると考えられる．2020年3月6日にエジンバラ大学のAndrew Rambautらが報告したSARS-CoV-2の176配列（進化速度解析に使用した配列は86配列）を用いた解析結果によると，進化速度は0.80×10－3 substitution/site/yearと推定された（95％信頼区間：0.14〜1.31×10－3）（http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356）．SARS-CoV-2のゲノムサイズがおよそ30×103塩基ということを考えると，1年でおよそ24箇所くらいの塩基置換が蓄積していくと考えられる※3．
-https://sites.google.com/site/sonakagawa/etc/sars-cov-2_yodosha_etc
-「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」執筆のよもやま話 - So Nakagawa Website
-・変異について、具体的に1年で24箇所くらいの変異を蓄積するという書き方ですが、これはどのくらいの変異があるのかを想像してほしくて具体的な数字を上げたものです。これは、ウイルス集団のなかで残っている株がそれぞれオリジナルと比較すると24程度の突然変異が残っているというだけで、集団中にはもっと多くの突然変異が存在します（これは集団サイズに依存します）。
-
-https://sites.google.com/site/nosada17/Home/osada_text?authuser=0
-Naoki Osada (CV) - 生命情報解析学テキスト
-https://drive.google.com/file/d/12TOTW2kOEtqC2G7vZRqRswH_5bNTXG5F/view
-第2章 集団遺伝学
-
-世代あた りに固定する変異の数は μ となり，突然変異率と等しくなる.世代あたりに固定する変異 の数のことを分子進化速度(rate of molecular evolution)と呼ぶ.中立な変異では分子進化速 度は突然変異率に等しくなる.この関係が分子進化の中立説(the neutral theory of molecular evolution)と呼ばれる説の中心になる.
-
-https://drive.google.com/file/d/1gHH9qLdrOrOF5ptLaJCBIg_LJ25UfVFa/view?usp=sharing
-第3章 分子進化
-- 中立な変異の置 換速度は突然変異率(μ)に等しくなることは第 2 章で既に述べた.
-- Kimura’s 2-parameter model
-前章でも述べたとおり，塩基間の突然変異率は(JC モデルで仮定しているように)均一で はない.一般的にはトランジッションと呼ばれるプリン，ピリミジン同士の変異がトランス バージョンと呼ばれるプリン，ピリミジン間での変異よりも 2 倍程度起こりやすいことが 知られている.この違いを考慮に入れているのが，木村の 2 パラメータモデル(Kimura’s 2- parameter model)である(
-- サイトによる置換速度の違い
-これまでのモデルではサイトごとの置換速度は一定と仮定されていた.ところが，遺伝子の 中でも塩基配列の置換速度には差があることがよく知られている.これは突然変異率がサ イトによって違っていることが原因の一つだろう.例えば前述したように CpG サイトの C は変異率が他に比べてとても高い.程度の差こそあれ，このような置換速度のばらつきが存 在する.この問題を解決するために様々な方法が提案されてきたが，よく用いられているの が，サイトごとの置換速度のばらつきをガンマ分布(gamma distribution)と仮定するモデル である (Yang1993).
-- 同義・非同義サイト
-非コード領域においては，「サイト当たりの突然変異率」などのように塩基サイトの定義は 明確であった.それではコドンを考えた場合の同義・非同義サイトの定義はどうなるだろう.
-- 非同義置換と同義置換の比
-非同義置換率を KA または dN，同義置換率を KS または dS と表記することが多い.これらの 比(コドンモデルでは ω として推定されるパラメータ)は遺伝子ごとのコドンに対する自 然選択を表す指標として用いられている.同義置換には自然選択が働かないと仮定すると， Ks はその領域での突然変異率を反映していると考えられる.
-
-http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/170517/2017_生物配列解析基礎_3回目_資料.pdf
-分子系統樹 12
-DNAに蓄積する変異は一定の割合で起こっており、そのほとんどが自然選択とは無関 係な中立の変異である
-DNAの配列がどのくらい似ているかを調べることによって、進化的にどの程度近縁で あるかを知ることができる
-
-https://kimuraseminar.wordpress.com/2017年8月3日-系統学2/
-2017年8月3日 系統学2
-系統学２（岸野洋久）
-集団に固定されない有害な変異は観測されないので、分子進化速度は突然変異率と中立な変異の割合で表現されます。分子進化速度の一定性の作り出す分子時計からは、これら二つの要素が安定しており、あまり変化しないことが伺われます。
-
-2008
-https://www.ism.ac.jp/editsec/toukei/abstract/56-1j.html
-コドンモデルを用いた分岐年代のベイズ推定
-https://www.ism.ac.jp/editsec/toukei/pdf/56-1-037.pdf
-中立説の下では f = 1
-2N となり，分子進化速度は集団の大きさに左右されず，遺伝
-子の突然変異率になる．従って，突然変異率が一定であるような状況では，分子時計が成立す
-ることになる．進化速度の一定性が認められる場合においては，化石データと一部の配列デー
-タから推定された進化速度を全系統樹に適用し，系統樹の全ての分岐点の年代を推定すること
-ができる．
-
-2002
-https://www.ism.ac.jp/editsec/toukei/pdf/50-1-017.pdf
-中立説の下では，突然変異率が一定であれば，分子進化速度は
-一定となり，いわゆる分子時計が成立するため，これを検定する方式がいくつか提唱されてき
-た（
 
 ----------
 ## HGT
@@ -1426,11 +1473,13 @@ https://togetter.com/li/161578?page=3
 
 2016-04-21
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/
-Encyclopedia of Evolutionary Biology. 2016 : 489–493.
-Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8
-PMCID: PMC7149615
 Rooting Trees, Methods for
-T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
+
+(Brady et al., 2011, 
+
+Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed]
+https://pubmed.ncbi.nlm.nih.gov/21600997/
+outgroup versus paralogous rooting
 
 2015-01-05
 http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html
@@ -1523,8 +1572,21 @@ Pablo N Hess 1, Claudia A DE Moraes Russo 1
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7110036/
 Interestingly, the more consistent the outgroup root is, the more successful MPR appears to be. This is a strong indication that the MPR method is valuable, particularly for cases where a proper outgroup is unavailable.
 
-### Coleman_2021
+
+### 2021-23-09
+
+https://pubmed.ncbi.nlm.nih.gov/34436605/
+Mol Biol Evol
+. 2021 Dec 9;38(12):5514-5527. doi: 10.1093/molbev/msab254.
+Phylogenetic Signal, Congruence, and Uncertainty across Bacteria and Archaea
+Carolina A Martinez-Gutierrez 1, Frank O Aylward 1 2
+https://academic.oup.com/mbe/article/38/12/5514/6358142?login=false
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662615/
+Our results indicate that the Patescibacteria (also called the CPR) are a derived group that is sister to the Chloroflexota, consistent with two recent studies (Coleman et al. 2021). This is in contrast to other studies that placed this group as either basal-branching or falling outside of the Terrabacteria (Hug et al. 2016; Parks et al. 2017; Castelle et al. 2018; Méheust et al. 2019). 
+
 ### 2021-05-07
+
+https://scholar.google.co.jp/scholar?cites=15482149728459064999&as_sdt=2005&sciodt=0,5&hl=ja
 
 https://pubmed.ncbi.nlm.nih.gov/33958464/
 Comment Science
