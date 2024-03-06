@@ -1265,33 +1265,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4957270/
 https://www.nhm.ac.uk/our-science/our-work/origins-evolution-and-futures/phylogenetic-comparative-methods.html
 Phylogenetic comparative methods can be used to investigate the relationships between body size, life span and flight
 
-
-http://blog.phytools.org/2015/12/on-important-common-misperception-about.html
-Phylogenetic Tools for Comparative Biology: On an important & common misperception about phylogenetic contrasts regression
-```
-phylomorphospace(tree,cbind(x,y),label="off",node.size=c(0,1))
-```
-
-2014
-https://link.springer.com/book/10.1007/978-1-4614-9542-0
-Functional and Phylogenetic Ecology in R | 
-Comparative Methods and Phylogenetic Signal
-Nathan G. Swenson
-Pages 147-171
-https://link.springer.com/chapter/10.1007/978-1-4614-9542-0_7
-7.3.3 Pagel’s Lambda
-Fig. 7.3
-
-2012
-https://link.springer.com/book/10.1007/978-1-4614-1743-9
-Analysis of Phylogenetics and Evolution with R | 
-Analysis of Macroevolution with Phylogenies
-Emmanuel Paradis
-Pages 203-312
-https://link.springer.com/content/pdf/10.1007%2F978-1-4614-1743-9_6
-6.1 Phylogenetic Comparative Methods
-
-
 https://www.esj.ne.jp/meeting/abst/62/T02-4.html
 日本生態学会第62回全国大会 (2015年3月、鹿児島) 
 系統種間比較法（PCM: phylogenetic comparative methods）は種間の系統関係を考慮した形質比較を行う手法であり，適応進化を検証するうえで有力なアプローチである．これまで，量的形質に関する分析では系統一般化最小二乗法（PGLS: phylogenetic generalized least squares）が用いられることが多かった．しかし，PGLSは形質進化が基本的にブラウン運動（ランダム浮動）に従うことを仮定するため，検証できるモデルが限られる．一方で，近年開発された近似ベイズ計算（ABC: approximate Bayesian computation）を用いた系統種間比較（ABC-PCM; Kutsukake & Innan 2013）ではより柔軟なモデルも検証できる．
