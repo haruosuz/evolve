@@ -67,6 +67,43 @@ Substitution saturation
 飽和
 transition/transversion
 
+### phykit saturation
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
+PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
+(11)Saturation. Saturation refers to when an MSA contains many sites that have experienced multiple substitutions in individual taxa. Saturation is estimated from the slope of the regression line between patristic distances and pairwise identities. Saturated MSAs have reduced phylogenetic information and can result in issues of long branch attraction (Lake, 1991; Philippe et al., 2011).
+
+https://jlsteenwyk.com/PhyKIT/tutorials/index.html#saturation
+Saturation
+Saturation in a multiple sequence alignments is driven by sites with multiple substitutions and results in the alignment underestimating real genetic distances among taxa. Values of 1 have no saturation and values of 0 are completely saturated by multiple substitutions (Philippe et al. 2011).
+
+https://jlsteenwyk.com/PhyKIT/
+Alignment- and tree-based functions
+Saturation
+https://jlsteenwyk.com/PhyKIT/usage/index.html#saturation
+Saturation
+
+Calculate saturation for a given tree and alignment.
+
+Saturation is defined as sequences in multiple sequence alignments that have undergone numerous substitutions such that the distances between taxa are underestimated.
+
+Data with no saturation will have a value of 1. Completely saturated data will have a value of 0.
+
+Saturation is calculated following Philippe et al., PLoS Biology (2011), doi: 10.1371/journal.pbio.1000602.
+
+https://pubmed.ncbi.nlm.nih.gov/21423652/
+PLoS Biol
+. 2011 Mar;9(3):e1000602. doi: 10.1371/journal.pbio.1000602. Epub 2011 Mar 15.
+Resolving difficult phylogenetic questions: why more sequences are not enough
+Hervé Philippe 1, Henner Brinkmann, Dennis V Lavrov, D Timothy J Littlewood, Michael Manuel, Gert Wörheide, Denis Baurain
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000602
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057953/
+Figure 5. Saturation levels of datasets from Schierwater et al., Dunn et al., and Philippe et al.
+
+
+### 
+
+2021-03-10
 https://www.frontiersin.org/articles/10.3389/fmars.2021.573853/full
 Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species
 
@@ -77,17 +114,34 @@ Investigation of Substitution Saturation
 
 To investigate possible substitution saturation, we further analyzed the Fgg, Mdm4, Chek2, and Dtl genes. Indices of substitution saturation (Iss), introduced by Xia (2009), were computed for the first, second, and third codon positions of ortholog sequences using the DAMBE program (Xia, 2018). 
 
-https://jlsteenwyk.com/PhyKIT/
-Alignment- and tree-based functions
-Saturation
-https://jlsteenwyk.com/PhyKIT/usage/index.html#saturation
-Tutorials
-Saturation
-https://jlsteenwyk.com/PhyKIT/tutorials/index.html#saturation
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
-PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
-(11)Saturation. Saturation refers to when an MSA contains many sites that have experienced multiple substitutions in individual taxa. Saturation is estimated from the slope of the regression line between patristic distances and pairwise identities. Saturated MSAs have reduced phylogenetic information and can result in issues of long branch attraction (Lake, 1991; Philippe et al., 2011).
+2012
+http://ape-package.ird.fr/APER.html
+https://link.springer.com/book/10.1007/978-1-4614-1743-9
+Analysis of Phylogenetics and Evolution with R | SpringerLink
+https://link.springer.com/chapter/10.1007/978-1-4614-1743-9_5
+130 5 Phylogeny Estimation
+5.1.2 Exploring and Assessing Distances
+|
+On the other hand, large distances will lead to a similar problem because of mutation saturation: the JC69 distance cannot exceed 0.75, but in practice distances greater than 0.3 lead to difficulties.
+A second useful, though very simple, graphical exploration tool is to plot two sets of distances computed on the same data with the goal to contrast the effect of different methods. A form of this approach is well-known as the ‘saturation plot’ where the number of transitions or transversions is plotted against the K80 distance (see p. 191), but this can be generalized. 
+
+5.8 Case Studies 189 
+Table 5.5. Some points to be considered in phylogeny estimation
+|
+Histogram and saturation plots
+
+190 5 Phylogeny Estimation
+5.8.1 Sylvia Warblers
+|
+This shows that the GG95 distances differ substantially from the others. Note that a perfect correlation does not guarantee that the distances are the same: some graphical analyses are needed to check this. We do this to examine the saturation of substitutions in the sequences. We first compute the distances using the JC69 model and the raw distance (i.e., proportion of different sites):
+
+5.8 Case Studies 191
+|
+Fig. 5.15. Saturation plots for the cytochrome b sequences of 25 species of Sylvia showing the effects of multiple substitutions (left) and of the transition/transversion ratio (right)
+
+This analysis, though informative, is not what is usually called “saturation plots” in the literature. The latter is a plot, eventually for each codon position, of the numbers of transitions and transversions on the x-axis against the K80 distance on the y-axis. 
+
 
 http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/180502/20180502.pdf
 Microsoft PowerPoint - 2018_生物配列解析基礎_3回目.pptx
@@ -95,6 +149,7 @@ Microsoft PowerPoint - 2018_生物配列解析基礎_3回目.pptx
 - 異なる遺伝⼦を⽤いて系統樹を作成した場合に，トポロジーが⼀致しないことがある
 - これには，遺伝⼦の⽔平移動，分岐年代の近さ，塩基・アミノ酸置換の飽和，個々の遺伝⼦にかかる選択圧の違いなど，様々な原因が考えられる
 
+2014年01月21日
 https://bookclub.kodansha.co.jp/product?item=0000194810
 『分子からみた生物進化　ＤＮＡが明かす生物の歴史』（宮田　隆）
 p. 326, 358
