@@ -1248,10 +1248,6 @@ phylogenetic comparative methods
 https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
 Phylogenetic comparative methods (PCMs) use information on the historical relationships of lineages (phylogenies) to test evolutionary hypotheses.
 
-July 18, 2022
-https://www.jpedia.wiki/blog/en/Phylogenetic_comparative_methods
-系統発生的比較法
-
 https://hydrodictyon.eeb.uconn.edu/people/plewis/courses/phylogenetics/lectures/2022/IndependentContrasts.pdf
 Fig. 5 from Felsenstein (1985)
 Fig. 6 from Felsenstein (1985b)
@@ -1325,25 +1321,22 @@ https://www.esj.ne.jp/meeting/abst/62/T02-4.html
 系統種間比較法（PCM: phylogenetic comparative methods）は種間の系統関係を考慮した形質比較を行う手法であり，適応進化を検証するうえで有力なアプローチである．これまで，量的形質に関する分析では系統一般化最小二乗法（PGLS: phylogenetic generalized least squares）が用いられることが多かった．しかし，PGLSは形質進化が基本的にブラウン運動（ランダム浮動）に従うことを仮定するため，検証できるモデルが限られる．一方で，近年開発された近似ベイズ計算（ABC: approximate Bayesian computation）を用いた系統種間比較（ABC-PCM; Kutsukake & Innan 2013）ではより柔軟なモデルも検証できる．
 
 https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
-ベイジアン MCMC による生物間系統関係の推定法 田辺 晶史
-そもそも、これまでに「系統的に独立した生物」は確認 されていない。そのため、統計解析上の最も重要な仮定の一つである「サンプル間の独立 性」が生物では成立し得ないことは明白である。ここで、仮に 100 種のトカゲの体色を考 えてみる。草原と砂漠にそれぞれ 50 種生息し、草原に生息する種は緑色と褐色がそれぞ れ 40 種と 10 種、砂漠に生息する種は緑色と褐色がそれぞれ 20 種と 30 種だったとしよ う (表 3)。では、生息環境と体色に関連性はあるだろうか。系統関係を考慮しない研究者
-はサンプル間の非独立性には気付かず、Fisher の正確確率検定を用いてしまうかもしれな い。すると、p = 0.00008039 となり、生息環境と体色に関連性を見いだすことになるだ ろう。しかし、仮に表 3 のマス目の各種群が単系統であったならどうだろう。数えるべき は種数ではなく単系統群の数であり、各マス目の数値は 1 ということになる。以上のよう に、系統関係を考慮するかしないかで結論が大きく変化し得ることがわかるだろう。そこ で、系統関係=サンプル間の非依存性を考慮して統計解析を行うことでこのような問題を 解決しようとする手法があり、系統的独立比較法などと呼ばれている (Felsenstein, 1985; Grafen, 1989)。
+田辺晶史, 2010, "ベイジアンMCMCによる生物間系統関係の推定法"
 
-http://www.jbon.org/wp/wp-content/uploads/2009/04/e8a995e4bea1e4ba88e6b8ac2_ootani.pdf
-系統関係を考慮した解析法
-- Phylogenetically independent contrast
-(PIC; Felsenstein 1985)
-  - 系統樹の枝先の姉妹群(ペア)の対比，ノードの平均値の対比のみを使う方法
-  - 非独立性を過剰評価してしまうことがある
-- 空間自己相関の解析法を応用
-- ランダム効果の導入
+生物学における系統樹の必要性
+
+系統樹は、表現型形質などをその上に配置 (祖先形質復 元) したりすることで進化の過程を明らかにすることがで きる。
+
+そもそも、これまでに「系統的に独立した生物」は確認 されていない。そのため、統計解析上の最も重要な仮定の一つである「サンプル間の独立 性」が生物では成立し得ないことは明白である。
+系統関係=サンプル間の非依存性を考慮して統計解析を行うことでこのような問題を 解決しようとする手法があり、系統的独立比較法などと呼ばれている (Felsenstein, 1985; Grafen, 1989)。これが系統樹の第 2 の用途である。
+
+系統樹の第 3 の用途は、多様性の定量化である。
 
 https://www.ikushimo.com/news/2009/03/23.html
 ◆ [Science] 空間自己相関と時間自己相関、そして系統自己相関 - 00:45:32
 　空間自己相関がある(空間的に近い点は互いに似ている)データを独立データと見なして解析してはいけない、というのが「自己相関と偽反復」企画集会の趣旨でした。もちろん、自己相関があるのは空間だけではなく、時間にもあります。時間自己相関を考慮した解析は昔からあり、時系列解析と呼ばれる解析方法群がそれに当たります。
 　また、時間自己相関の1種と言えるかもしれませんが、系統的に近い生物は互いに似ているという系統自己相関も存在します。これをちゃんと考慮に入れてやろうというのが、系統自由集会でもう一人の演者が話した「系統的独立比較」(Phylogenetic Independent Contrast)です。
 　しかし、空間自己相関には実は他の二つとは大きく異なる点があります。それは、「跳躍」があり得るという点です。
-
 
 http://leeswijzer.org/files/seibutsu-keitou.html
 統計的独立の問題。種間に系統関係があるならば、統計学的にみてデータ点は独立ではあり得ない。（三中信宏「生物系統学」334ページ）
