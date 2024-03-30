@@ -1212,6 +1212,23 @@ https://togetter.com/li/399359
 
 ----------
 
+10:03 PM · Mar 6, 2023
+https://twitter.com/M123Takahashi/status/1632728666873696261
+高橋将宜 Masayoshi Takahashi on X: "確かにt検定、分散分析、回帰分析を同じ枠組みで考えられることに言及している書籍は少ないかもしれませんね。なお、拙著『統計的因果推論の理論と実装』p.43と岩崎先生の『統計的因果推論』p.50では、説明変数にダミー変数のみを用いた回帰分析は2標本t検定と同じであることに言及しています。" / X
+
+6:35 AM · Feb 25, 2020
+https://twitter.com/gekkou583/status/1232056543006183424
+トリウマ on Twitter: "いわゆる『ゾウの時間　ネズミの時間』説に対する疑義。内温性外温性含む陸上性脊椎動物4100種のデータ比較、代謝速度と寿命に負の相関があるという‘rate‐of‐living’ 理論は証明されず、その平均寿命は外因によるところが大きいとのこと。 https://t.co/Du5H6OmwQw" / Twitter
+https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13069
+No evidence for the ‘rate‐of‐living’ theory across the tetrapod tree of life
+
+10:53 AM · Dec 10, 2019
+https://twitter.com/JunShimizu/status/1204217634662731776
+Junichi Shimizu / 清水準一 on Twitter: "気をつけたい。　関西学院大学の清水先生のブログ「都道府県単位の分析、国単位の分析は、いろいろ罠があるので気をつけようね、というお話でした。」 納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up! https://t.co/JvGfvTWF2Y" / Twitter
+2019年12月10日 by norimune
+http://norimune.net/3313
+納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up!
+
 2019-06-15
 http://www.unp.or.jp/ISBN/ISBN978-4-8158-0950-8.html
 生命科学の実験デザイン［第4版］ « 名古屋大学出版会
@@ -1228,18 +1245,18 @@ http://www.unp.or.jp/ISBN/ISBN978-4-8158-0950-8.html
 　5.3　非独立性に対処する
 　　　　5.3.1　反復体の非独立性は生物学的な問題である
 
-10:53 AM · Dec 10, 2019
-https://twitter.com/JunShimizu/status/1204217634662731776
-Junichi Shimizu / 清水準一 on Twitter: "気をつけたい。　関西学院大学の清水先生のブログ「都道府県単位の分析、国単位の分析は、いろいろ罠があるので気をつけようね、というお話でした。」 納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up! https://t.co/JvGfvTWF2Y" / Twitter
-2019年12月10日 by norimune
-http://norimune.net/3313
-納豆と牛肉の「イケナイ」関係：空間的自己相関のモデリング | Sunny side up!
 
-6:35 AM · Feb 25, 2020
-https://twitter.com/gekkou583/status/1232056543006183424
-トリウマ on Twitter: "いわゆる『ゾウの時間　ネズミの時間』説に対する疑義。内温性外温性含む陸上性脊椎動物4100種のデータ比較、代謝速度と寿命に負の相関があるという‘rate‐of‐living’ 理論は証明されず、その平均寿命は外因によるところが大きいとのこと。 https://t.co/Du5H6OmwQw" / Twitter
-https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13069
-No evidence for the ‘rate‐of‐living’ theory across the tetrapod tree of life
+
+2016 年
+https://www.jstage.jst.go.jp/article/sjpr/59/1/59_123/_article/-char/ja/
+統計学の現場は一枚岩ではない
+三中 信宏
+https://www.jstage.jst.go.jp/article/sjpr/59/1/59_123/_pdf
+2．統計学の使用と誤用：
+農業試験研究の場合
+　いったん実験や観察が開始されたならば，それらの初期設定を変えてはならないし，事後の統計解析は事前の実験計画に忠実に沿わなければならない。Fisher はイギリス王立統計学会の会長就任講演で，「実験終了後に統計学者に相談を持ちかけるのは，統計学者に，単に死後診察を行って下さいと頼むようなものである。統計学者はおそらく何が原因で実験が失敗したかという実験の死因について意見を述べてくれるだけであろう」（Fisher, 1953；Rao, 1997: 183 から引用）と述べたほどである。
+　ところが，私が見てきた農業試験研究の現場では必ずしもそうではない。たとえば，本来ならば「反復（replicate）」は別々の実験区から複数回抽出しなければならないにもかかわらず，同一の実験区から複数個のサンプルを抽出したもので代用するという「擬似反復（pseudoreplicate）」の誤用がきわめて多く見られると指摘されている（Hurlbert, 1984；山村，1999）。擬似反復を使えばたくさんの実験区を用意する必要がないからだ。これはもちろん「反復実施」の原則に反する。「無作為化」に違反して，無作為化すべき実験区をちゃんと無作為化しなかったという初歩的なミスもいまなおある。また，乱塊法のブロックの切り方があやふやな事例も少なからず見受けられる。まちがったブロック設置は「局所管理」の原則に抵触する危険がある。
+　このような実験計画法上の“誤用”を生む原因には，実験者がもともと実験区配置の理論を知らなかったとか，（農業試験場ではよくあることだが）前任者が実施した試験設計をそのまま継承せざるを得ないという情状酌量の余地がある場合もある。しかし，その一方で，得られたデータから何とか“有意” な検定結果を導き出すために故意に行われる“不正” の手口もいろいろ見聞きした。上述の「擬似反復」のほかにも，つごうの悪いデータに「外れ値（outlier）」という主観的なレッテルを貼って解析から除外するという事例もある。さらには，多要因実験で高次の交互作用項を恣意的に誤差とみなすことで，自由度を荒稼ぎして，検定結果を有意にもちこむというような“裏ワザ” が農業試験ではときどきある（「p 値ハッキング」の一例）。あるいは，実験前に仮定した統計モデルとは異なる分散分析を事後的に適用してしまうという事例もある。得られたデータを前にしてモデルそのものを操作するというこの“誤用” は「HARKing」そのもので，その動機は検定結果を有意にしたいという思惑である。このようなダークゾーンの「QRPs」は農業試験研究では相当前からあったものと推測される。
 
 ----------
 ## pcm
@@ -1247,11 +1264,6 @@ phylogenetic comparative methods
 
 https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
 Phylogenetic comparative methods (PCMs) use information on the historical relationships of lineages (phylogenies) to test evolutionary hypotheses.
-
-
-10:03 PM · Mar 6, 2023
-https://twitter.com/M123Takahashi/status/1632728666873696261
-高橋将宜 Masayoshi Takahashi on X: "確かにt検定、分散分析、回帰分析を同じ枠組みで考えられることに言及している書籍は少ないかもしれませんね。なお、拙著『統計的因果推論の理論と実装』p.43と岩崎先生の『統計的因果推論』p.50では、説明変数にダミー変数のみを用いた回帰分析は2標本t検定と同じであることに言及しています。" / X
 
 
 https://hydrodictyon.eeb.uconn.edu/people/plewis/courses/phylogenetics/lectures/2022/IndependentContrasts.pdf
