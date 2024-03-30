@@ -1248,10 +1248,38 @@ phylogenetic comparative methods
 https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
 Phylogenetic comparative methods (PCMs) use information on the historical relationships of lineages (phylogenies) to test evolutionary hypotheses.
 
+
+10:03 PM · Mar 6, 2023
+https://twitter.com/M123Takahashi/status/1632728666873696261
+高橋将宜 Masayoshi Takahashi on X: "確かにt検定、分散分析、回帰分析を同じ枠組みで考えられることに言及している書籍は少ないかもしれませんね。なお、拙著『統計的因果推論の理論と実装』p.43と岩崎先生の『統計的因果推論』p.50では、説明変数にダミー変数のみを用いた回帰分析は2標本t検定と同じであることに言及しています。" / X
+
+
 https://hydrodictyon.eeb.uconn.edu/people/plewis/courses/phylogenetics/lectures/2022/IndependentContrasts.pdf
 Fig. 5 from Felsenstein (1985)
 Fig. 6 from Felsenstein (1985b)
 Fig. 7 from Felsenstein (1985b)
+
+https://www.jstor.org/stable/2461605
+Joseph Felsenstein (1985) Phylogenies and the Comparative Method
+
+FIG. 7.-The same data set, with the points distinguished to show the members of the 2
+monophyletic taxa. It can immediately be seen that the apparently significant relationship of
+fig. 6 is illusory
+
+http://web.biosci.utexas.edu/bio386/Readings/Literature/Quantitative%20Char/Felsenstein.AmNat.125.1.pdf
+
+
+https://pubmed.ncbi.nlm.nih.gov/34750532/
+Nat Ecol Evol
+. 2021 Dec;5(12):1624-1636. doi: 10.1038/s41559-021-01573-2. Epub 2021 Nov 8.
+Plasmids do not consistently stabilize cooperation across bacteria but may promote broad pathogen host-range
+Anna E Dewar # 1, Joshua L Thomas # 2, Thomas W Scott 2, Geoff Wild 3, Ashleigh S Griffin 2, Stuart A West 2, Melanie Ghoul 2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612097/
+
+Statistical tests typically assume that data points are independent, and even slight non-independence can lead to heavily biased results (type I errors)21,22. There is an extensive literature in the field of evolutionary biology showing that species share characteristics inherited though common descent, rather than through independent evolution, and so cannot be considered independent data points23–25. Genomes are nested within species, and genes are nested within genomes, multiplying this problem of non-independence, analogous to the problem of pseudoreplication in experimental studies26–29.
+
+Why does using bacterial genomes as independent data points lead to a significant result? By using a Wilcoxon signed-rank test, at the level of the genome, we are implicitly assuming that all the genomes analysed are: (i) independent from one another; (ii) a representative sample of bacteria in nature. Neither of these are true for multi-species genomic datasets. First, due to shared ancestry, species are not independent from one another, and so neither are genomes in such analyses24,42. Even a slight lack of independence can lead to heavily biased results in statistical analyses and spurious conclusions21. Second, genomic databases tend to have a disproportionate abundance of certain species and genera. This will bias the results towards commonly sequenced species.
+
 
 8:02 AM · Aug 6, 2020
 https://twitter.com/wsdewitt/status/1291147602507862016
@@ -1339,18 +1367,10 @@ https://www.ikushimo.com/news/2009/03/23.html
 　しかし、空間自己相関には実は他の二つとは大きく異なる点があります。それは、「跳躍」があり得るという点です。
 
 http://leeswijzer.org/files/seibutsu-keitou.html
+　　　５－１－１－２：懊悩－統計的独立の問題 334
 統計的独立の問題。種間に系統関係があるならば、統計学的にみてデータ点は独立ではあり得ない。（三中信宏「生物系統学」334ページ）
 FIG.2. データ点が独立
 FIG.3. データ点が非独立
-
-https://www.jstor.org/stable/2461605
-Joseph Felsenstein (1985) Phylogenies and the Comparative Method
-
-FIG. 7.-The same data set, with the points distinguished to show the members of the 2
-monophyletic taxa. It can immediately be seen that the apparently significant relationship of
-fig. 6 is illusory
-
-http://web.biosci.utexas.edu/bio386/Readings/Literature/Quantitative%20Char/Felsenstein.AmNat.125.1.pdf
 
 ----------
 ### lukejharmon
