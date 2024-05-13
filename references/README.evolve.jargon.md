@@ -116,7 +116,6 @@ Substitution saturation is often strongly pronounced in datasets comprising dist
 
 How to analyze substitution saturation in PhyloSuite?
 
-
 ### 
 
 2021-03-10
@@ -1651,6 +1650,54 @@ Lenore Pipes 1, Hongru Wang 1, John P Huelsenbeck 1, Rasmus Nielsen 1 2 3
 https://academic.oup.com/mbe/article/38/4/1537/6028993
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7798932/
 
+5:55 AM · May 31, 2023
+https://twitter.com/DaganLab/status/1663650390057930752
+DaganLab on Twitter: "Phylogenomic Testing of Root Hypotheses. Extremely happy to have this work out. We reformulate root inference in the framework of statistical hypothesis testing and outline an analytical procedure to test competing root positions for a group of species. https://t.co/n0Z2WUIt34" / Twitter
+2023-05-29
+https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evad096/7185701
+
+### MPR
+midpoint rooting (MPR)
+
+例:
+
+2020
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/ A Novel Family of Acinetobacter Mega-Plasmids Are Disseminating Multi-Drug Resistance Across the Globe While Acquiring Location-Specific Accessory Genes
+The resulting tree was annotated with FigTree v.1.4.3 (Rambaut, 2017) with midpoint root.
+
+2019 Jan 8;
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/ Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil
+FIG 3
+Phylogenetic tree constructed from core gene codon alignment with midpoint rooting.
+The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting and plotted with Ape v5.1 (82).
+
+2006 May
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
+Figure 5
+The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
+
+### 2022-04
+
+2022-04
+https://pubmed.ncbi.nlm.nih.gov/35143961/
+Mol Phylogenet Evol
+. 2022 Apr;169:107434. doi: 10.1016/j.ympev.2022.107434. Epub 2022 Feb 7.
+The performance of outgroup-free rooting under evolutionary radiations
+Alessandra P Lamarca 1, Beatriz Mello 1, Carlos G Schrago 2
+https://www.sciencedirect.com/science/article/abs/pii/S1055790322000471
+調査したすべての枝長の組み合わせを考慮すると、両手法とも平均成功率は50%未満、MADはMPRをわずかに上回った。系統樹のバランスは手法の相対的な性能に大きく影響した。
+
+### 2007-12
+https://pubmed.ncbi.nlm.nih.gov/32287391/
+Biol J Linn Soc Lond
+. 2007 Dec;92(4):669-674. doi: 10.1111/j.1095-8312.2007.00864.x. Epub 2007 Dec 7.
+An empirical test of the midpoint rooting method
+Pablo N Hess 1, Claudia A DE Moraes Russo 1
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7110036/
+Interestingly, the more consistent the outgroup root is, the more successful MPR appears to be. This is a strong indication that the MPR method is valuable, particularly for cases where a proper outgroup is unavailable.
+
+>>>>>>> df544f60cbd60d37c9f1d1da7936a6a81ee1d891
+
 ### 2021-23-09
 
 https://pubmed.ncbi.nlm.nih.gov/34436605/
@@ -1775,6 +1822,7 @@ https://royalsocietypublishing.org/doi/10.1098/rstb.2009.0035
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2873003/
 
 
+<<<<<<< HEAD
 ### MPR
 midpoint rooting (MPR)
 
@@ -1804,7 +1852,6 @@ Pablo N Hess 1, Claudia A DE Moraes Russo 1
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7110036/
 Interestingly, the more consistent the outgroup root is, the more successful MPR appears to be. This is a strong indication that the MPR method is valuable, particularly for cases where a proper outgroup is unavailable.
 
-
 ### 2015
 
 2015
@@ -1814,7 +1861,6 @@ DeSalle, Rob, author. Perkins, Susan L., author. Wynne, Patricia J.
 What Is Life? 23
 If traces of a single gene family can be found in organisms of all three major groups of cells (Archaea, Eukarya, and Bacteria), then one can assume that the gene duplication event occurred in the common ancestor of all life on the planet, and a gene from one can be used to root genes in the others. The rooting of one gene family with a closely related gene family is called “paralog rooting”
 パラログ・ルーティング
-
 
 http://www.fish-evol.com/R_JI.html
 R - 井上 潤
@@ -2007,8 +2053,6 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 ● パーティション間モデル(等速度・比例・分離)
 ● パーティション内モデル(JC69～GTR+G)
 
-
-
 冨田秀一郎 著 · ‎2018
 https://www.jstage.jst.go.jp/article/konchubiotec/87/2/87_2_091/_pdf
 蚕糸・昆虫バイオテック 87(2)、91-94(2018) SANSHI-KONCHU BIOTEC
@@ -2017,10 +2061,20 @@ https://www.jstage.jst.go.jp/article/konchubiotec/87/2/87_2_091/_pdf
 分子系統解析について私見を述べさせていただく。最初にお断りさせていただくが，筆者は，系統解析の専門家ではなく，むしろ単なるユーザーであるので，数理統計学的な面で誤解をしている可能性もある。
 
 図 1．DNA 塩基配列データの場合の分子進化モデル
-。複数パーティションとなる場合にはパーティションごとに異なる置換確率行列と不均質性モデルを当てはめる。
+
+複数パーティションとなる場合にはパーティションごとに異
+なる置換確率行列と不均質性モデルを当てはめる。
+
+ さて，実際の分子系統解析は通常以下のようなステッ プを踏むことになる。
+  1)配列情報を収集する。
+  2)集めた配列を並べて，マルチプルアラインメントを行う。
+  3)分子進化モデルの選択とパーティショニングを行う。
+  4)系統推定を行う。
+  5)系統仮説の比較や妥当性の検定を行う。
+
+3)と 4)で私は にわかに途方に暮れることになった。系統推定を行うプ ログラムはモデル選択やパーティションの切り方を教え てくれないが，そもそもそれが何なのか知らなかったの である。
 
 (図 1)。この分 子進化様式は，厳密にいえばサイト(塩基のポジション) ごとに異なっているはずであるので，サイトごとに異な るモデルを適用すれば良いように思うかもしれないが， データからモデルを引き出している以上，それは統計学 でいうところのいわゆるフルモデルとなり決して良いモ デルとは言えない。そこで進化様式が似ていそうなとこ ろをまとめるのがパーティショニングである。遺伝子ご と，コドンポジションごとなどのストラテジーが考えら れ，それだけでも膨大なパターンになることも多い。そ こで，パーティションの切り方やモデル選択を AIC や BIC のような統計量基準で評価してくれるプログラムを 利用することになるが，最終的にその妥当性を判断する のは生物学者である。
-
 
 2017年3月22日
 http://www.tezuru-mozuru.com/?p=9927
@@ -2045,7 +2099,6 @@ H17/系統学特論/PAUP*使用法/最尤法 †
 
 2008
 https://www.ism.ac.jp/editsec/toukei/pdf/56-1-145.pdf
-統計数理
 
 複数遺伝子の結合データに基づく分子系統樹の 推測
 真核生物の大系統の解析を例として
@@ -2713,10 +2766,10 @@ https://twitter.com/KawataMasakado/status/1578977453623545856
 Masakado Kawata on Twitter: "進化学における「適応」ついて改めて解説しました。定義を明確にするというよりも、「適応」を定義することの難しさについて考察しました。 進化における「適応」という言葉をめぐって｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/decOO7lLRS" / Twitter
 https://note.com/masakadokawata/n/n2dfc4217831e
 
-
 8:06 AM · May 11, 2020
 https://twitter.com/mutselbalance/status/1259620836740263937
 らむ on X: "中学生から始める適応進化理論 - Life is Beautiful @academist_cf との共催 #数理で読み解く科学の世界 のフォローアップ第一弾です。 https://t.co/rELMhF4T2c" / X
+
 https://lambtani.hatenablog.jp/entry/2020/05/10/200459
 中学生から始める適応進化理論 - Life is Beautiful
 1. 生物の適応進化の考え方
