@@ -1640,65 +1640,7 @@ In this work we analyzed the performance of two of these methods, the midpoint r
 調査したすべての枝長の組み合わせを考慮すると、両手法とも平均成功率は50%未満、MADはMPRをわずかに上回った。系統樹のバランスは手法の相対的な性能に大きく影響した。
 If predictive models of the outcomes of outgroup-free rooting methods could be inferred for any topology, they would be useful in situations when phylogenetically close outgroups are absent, as is the case in evolutionary analyses of fast evolving pathogens and bacteria (Pipes et al., 2021). 
 
-### 2021-04-13
-
-https://pubmed.ncbi.nlm.nih.gov/33295605/
-Mol Biol Evol
-. 2021 Apr 13;38(4):1537-1543. doi: 10.1093/molbev/msaa316.
-Assessing Uncertainty in the Rooting of the SARS-CoV-2 Phylogeny
-Lenore Pipes 1, Hongru Wang 1, John P Huelsenbeck 1, Rasmus Nielsen 1 2 3
-https://academic.oup.com/mbe/article/38/4/1537/6028993
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7798932/
-
-5:55 AM · May 31, 2023
-https://twitter.com/DaganLab/status/1663650390057930752
-DaganLab on Twitter: "Phylogenomic Testing of Root Hypotheses. Extremely happy to have this work out. We reformulate root inference in the framework of statistical hypothesis testing and outline an analytical procedure to test competing root positions for a group of species. https://t.co/n0Z2WUIt34" / Twitter
-2023-05-29
-https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evad096/7185701
-
-### MPR
-midpoint rooting (MPR)
-
-例:
-
-2020
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738440/ A Novel Family of Acinetobacter Mega-Plasmids Are Disseminating Multi-Drug Resistance Across the Globe While Acquiring Location-Specific Accessory Genes
-The resulting tree was annotated with FigTree v.1.4.3 (Rambaut, 2017) with midpoint root.
-
-2019 Jan 8;
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/ Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil
-FIG 3
-Phylogenetic tree constructed from core gene codon alignment with midpoint rooting.
-The Newick trees were processed with Phangorn v2.4.0 (81) for midpoint rooting and plotted with Ape v5.1 (82).
-
-2006 May
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1458961/ Genome Sequence of Rickettsia bellii Illuminates the Role of Amoebae in Gene Exchanges between Intracellular Pathogens
-Figure 5
-The tree was built using a maximum likelihood method with JTT substitution model and midpoint rooting based on the concatenated sequence alignment of TraDF and TraGF.
-
-### 2022-04
-
-2022-04
-https://pubmed.ncbi.nlm.nih.gov/35143961/
-Mol Phylogenet Evol
-. 2022 Apr;169:107434. doi: 10.1016/j.ympev.2022.107434. Epub 2022 Feb 7.
-The performance of outgroup-free rooting under evolutionary radiations
-Alessandra P Lamarca 1, Beatriz Mello 1, Carlos G Schrago 2
-https://www.sciencedirect.com/science/article/abs/pii/S1055790322000471
-調査したすべての枝長の組み合わせを考慮すると、両手法とも平均成功率は50%未満、MADはMPRをわずかに上回った。系統樹のバランスは手法の相対的な性能に大きく影響した。
-
-### 2007-12
-https://pubmed.ncbi.nlm.nih.gov/32287391/
-Biol J Linn Soc Lond
-. 2007 Dec;92(4):669-674. doi: 10.1111/j.1095-8312.2007.00864.x. Epub 2007 Dec 7.
-An empirical test of the midpoint rooting method
-Pablo N Hess 1, Claudia A DE Moraes Russo 1
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7110036/
-Interestingly, the more consistent the outgroup root is, the more successful MPR appears to be. This is a strong indication that the MPR method is valuable, particularly for cases where a proper outgroup is unavailable.
-
->>>>>>> df544f60cbd60d37c9f1d1da7936a6a81ee1d891
-
-### 2021-23-09
+### 2021-12-09
 
 https://pubmed.ncbi.nlm.nih.gov/34436605/
 Mol Biol Evol
@@ -1738,7 +1680,15 @@ Alice Lebreton on Twitter: "The original research: "A rooted phylogeny resolves 
 https://twitter.com/takatoh_life/status/1390495662588923906
 本研究では独自開発した手法により、遺伝子の垂直伝搬だけでなく水平伝搬や遺伝子の重複や消失を考慮して、細菌の系統樹の根元を推定した。その結果、遺伝子の伝達の2/3は垂直方向であり、その根元はグラム陰性菌Gracilicutesとグラム陽性菌Terrabacteriaの間に根元がある可能性が高いと推定した。
 
-![](https://pbs.twimg.com/media/E0wIbolVkAIQoBg?format=png&name=small)
+### 2021-04-13
+
+https://pubmed.ncbi.nlm.nih.gov/33295605/
+Mol Biol Evol
+. 2021 Apr 13;38(4):1537-1543. doi: 10.1093/molbev/msaa316.
+Assessing Uncertainty in the Rooting of the SARS-CoV-2 Phylogeny
+Lenore Pipes 1, Hongru Wang 1, John P Huelsenbeck 1, Rasmus Nielsen 1 2 3
+https://academic.oup.com/mbe/article/38/4/1537/6028993
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7798932/
 
 ### 2020-08-06
 
@@ -1822,7 +1772,15 @@ https://royalsocietypublishing.org/doi/10.1098/rstb.2009.0035
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2873003/
 
 
-<<<<<<< HEAD
+### 2015
+2015
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/188bto4/alma99275963904031
+Welcome to the Microbiome : Getting to Know the Trillions of Bacteria and Other Microbes In, On, and Around You / Rob DeSalle, Susan L. Perkins.
+DeSalle, Rob, author. Perkins, Susan L., author. Wynne, Patricia J.
+What Is Life? 23
+If traces of a single gene family can be found in organisms of all three major groups of cells (Archaea, Eukarya, and Bacteria), then one can assume that the gene duplication event occurred in the common ancestor of all life on the planet, and a gene from one can be used to root genes in the others. The rooting of one gene family with a closely related gene family is called “paralog rooting”
+パラログ・ルーティング
+
 ### MPR
 midpoint rooting (MPR)
 
@@ -1852,19 +1810,11 @@ Pablo N Hess 1, Claudia A DE Moraes Russo 1
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7110036/
 Interestingly, the more consistent the outgroup root is, the more successful MPR appears to be. This is a strong indication that the MPR method is valuable, particularly for cases where a proper outgroup is unavailable.
 
-### 2015
+### root_jp
 
-2015
-https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/188bto4/alma99275963904031
-Welcome to the Microbiome : Getting to Know the Trillions of Bacteria and Other Microbes In, On, and Around You / Rob DeSalle, Susan L. Perkins.
-DeSalle, Rob, author. Perkins, Susan L., author. Wynne, Patricia J.
-What Is Life? 23
-If traces of a single gene family can be found in organisms of all three major groups of cells (Archaea, Eukarya, and Bacteria), then one can assume that the gene duplication event occurred in the common ancestor of all life on the planet, and a gene from one can be used to root genes in the others. The rooting of one gene family with a closely related gene family is called “paralog rooting”
-パラログ・ルーティング
-
-http://www.fish-evol.com/R_JI.html
-R - 井上 潤
-2015 年 6 月 8 日　改訂
+2023 年 12 月 7 日
+井上 潤
+https://fish-evol.org/R_JI.html
 ape: BS 値付き tree の reroot はおかしい?
 reroot すると，BS 値の位置がおかしくなると聞きました．以下は例題です．左の tree を d という leaf で rooting しています．しかし，私には問題ないように思えます．
 
@@ -1873,7 +1823,10 @@ http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生
 - 根（ルート、root）　他の全ての節に続く特定の節のことを根（ルート）と言う。根を持つ系統樹を有根系統樹(rooted tree), 根を持たない系統樹を無根系統樹(unrooted tree)と呼ぶ。無根系統樹は分類群相互の関連のみを示しており、進化的な関係（時間の経過を伴う類縁関係）を示していない。つまり、厳密に言うならば、無根系統樹は系統樹と見なせないという考え方もできる。　4つの末端節からなる無根系統樹のインターナルブランチをセントラル・ブランチ（central branch）と呼ぶ。
 - 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
 
-### 2009
+2009
+https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/
+分子系統解析（講義３）
+講義資料3
 https://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3b.pdf
 無根系統樹に根をつける方法
 根をつける方法は２つ
@@ -1882,25 +1835,26 @@ outgroup）を１つ以上含める
 ２．最も遠い関係にある２つの配列を結ぶ枝の中点をinternal
 nodeとする
 
-### 2010/07
-http://bbs.jinruisi.net/blog/2010/07/829.html
-■無根系統樹と有根系統樹
 
-![](http://bbs.jinruisi.net/blog/wp-content/uploads/0-2のコピー.jpg)
+2018
+http://leeswijzer.org/files/activity.html
+●日本進化学会第20回大会・シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」→ Slideshare
+https://www.slideshare.net/slideshow/minaka-sesj2018-slideshare/111052581
+19. 間接法（indirect method）＝外群比較法 対象となる内群（ingroup）に対して “近縁” と仮定さ れる外群（outgroup）を仮定し，外群を基準として内 群の形質状態の原始性／派生性の方向性を推定し，内 群の最節約分岐図（外群有根化）を推定する． ↓ 内群＋外群の全体にわたる大域的最節約分析（MP）を 行うと同時に，無根最節約分岐図の樹形推定と同時に 原始性／派生性の方向性が決まり，外群有根化される．
+20. 直接法（direct method）＝個体発生法 外群の仮定を置かずに，個体発生形質（発生段階遷移 の情報）を用いれば，より直接的な形質状態の方向性（原 始性／派生性）の推定と分岐図の有根化が可能だろう という主張が 1970 年代に分岐学派の中で活発に議論 された．その後，十年以上も論争が続いたが，方向性 推定の方法としては，最終的に外群比較法に押されて 影が薄くなってしまったようだ．
 
-### 20060715
+20060715
 https://leeswijzer.hatenadiary.com/entry/20060715/1152931775
 『系統樹思考の世界：すべてはツリーとともに』 - leeswijzer: een nieuwe leeszaal van dagboek
 　第２節：グラフとしての系統樹――点・辺・根 168
 　　無根系統樹と有根系統樹
 　　祖先子孫関係は原理的に不可知である
 
-### 2018
-http://leeswijzer.org/files/activity.html
-●日本進化学会第20回大会・シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」→ Slideshare
-https://www.slideshare.net/slideshow/minaka-sesj2018-slideshare/111052581
-19. 間接法（indirect method）＝外群比較法 対象となる内群（ingroup）に対して “近縁” と仮定さ れる外群（outgroup）を仮定し，外群を基準として内 群の形質状態の原始性／派生性の方向性を推定し，内 群の最節約分岐図（外群有根化）を推定する． ↓ 内群＋外群の全体にわたる大域的最節約分析（MP）を 行うと同時に，無根最節約分岐図の樹形推定と同時に 原始性／派生性の方向性が決まり，外群有根化される．
-20. 直接法（direct method）＝個体発生法 外群の仮定を置かずに，個体発生形質（発生段階遷移 の情報）を用いれば，より直接的な形質状態の方向性（原 始性／派生性）の推定と分岐図の有根化が可能だろう という主張が 1970 年代に分岐学派の中で活発に議論 された．その後，十年以上も論争が続いたが，方向性 推定の方法としては，最終的に外群比較法に押されて 影が薄くなってしまったようだ．
+2010年07月02日
+http://bbs.jinruisi.net/blog/2010/07/829.html
+■無根系統樹と有根系統樹
+
+![](http://bbs.jinruisi.net/blog/wp-content/uploads/0-2のコピー.jpg)
 
 ----------
 ## clade
