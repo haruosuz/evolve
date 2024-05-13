@@ -99,7 +99,11 @@ Hervé Philippe 1, Henner Brinkmann, Dennis V Lavrov, D Timothy J Littlewood, Mi
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000602
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057953/
 Figure 5. Saturation levels of datasets from Schierwater et al., Dunn et al., and Philippe et al.
+The level of saturation was estimated for each dataset by computing the slope of the regression line of patristic distances (y-axis) versus uncorrected distances (x-axis), as previously described [12]. 
 
+01 March 1994
+https://academic.oup.com/jeb/article-abstract/7/2/247/7322433
+https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1420-9101.1994.7020247.xFig. 6. (A) Comparison, for SOD data, between the number of substitutions estimated from the most parsimonious tree (X-axis) and the number of observed differences (Y-axis). (B) Comparison, for our rRNA data setbetween the number of substitutions estimated from the most parsimonious tree (X axis) and the number of observed differences (Y axis).
 ### 2023-02-16
 
 https://www.youtube.com/watch?v=qtAL8X3314g
@@ -116,11 +120,17 @@ Substitution saturation is often strongly pronounced in datasets comprising dist
 
 How to analyze substitution saturation in PhyloSuite?
 
-### 
+### 2021-07-26
+https://www.frontiersin.org/articles/10.3389/fmars.2021.696523/full
+Frontiers | Commentary: Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species
+Nicholas J. Marra1 Michael J. Stanhope2 Nathaniel K. Jue3 Vincent P. Richards4 Stephen J. O'Brien5,6 Agostinho Antunes7,8 Mahmood S. Shivji5,9*
 
-2021-03-10
+Response To Investigation of Substitution Saturation
+
+### 2021-03-10
 https://www.frontiersin.org/articles/10.3389/fmars.2021.573853/full
-Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species
+Frontiers | Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species
+Kazuaki Yamaguchi Shigehiro Kuraku*
 
 FIGURE 1
 (B) Substitution saturation plots for transition and transversion of the coding region of the Fgg, Mdm4, Chek2, and Dtl genes chosen from those previously regarded as positively selected (Marra et al., 2019).
@@ -205,7 +215,6 @@ Declining transition/transversion ratios through time reveal limitations to the 
 Sebastián Duchêne 1, Simon Y W Ho 2, Edward C Holmes 3 4
 https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0312-6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358783/
-
 
 https://pubmed.ncbi.nlm.nih.gov/17274688/
 PLoS Genet
