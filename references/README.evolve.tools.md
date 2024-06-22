@@ -82,8 +82,14 @@ https://github.com/haruosuz/mgsa/tree/master/hyphy
 ----------
 ### TreeBASE
 https://treebase.org/
+TreeBASE is a repository of phylogenetic information, specifically user-submitted phylogenetic trees and the data used to generate them. TreeBASE accepts all kinds of phylogenetic data (e.g., trees of species, trees of populations, trees of genes) representing all biotic taxa.
+
+https://treebase.org/treebase-web/urlAPI.html
+Programmatic Data Access
+In addition to the web interface, TreeBASE can be accessed programmatically through a stateless web service interface and URL architecture. This interface can deliver data in several different formats, including NEWICK, NEXUS, JSON, NeXML.
 
 https://ja.wikipedia.org/wiki/TreeBASE
+TreeBASE (トゥリーベイス) [1]は、「Scientific journal（英語版） 」誌に掲載された系統学のデータのリポジトリである。TreeBASE使用上の系統学の研究における研究データとは、分類群の一組やその一組の分類群に関するメタデータおよび分類群間での進化的関係を最もよく説明する為に推論されている系統樹について、（例えば、形質進化の変化の回数が最小になるように、系統推定を行う方法や多重整列などを）比較している結果や報告などを収集または生成されて得られる。
 
 2011 年 1 月 31 日　改訂
 井上 潤
