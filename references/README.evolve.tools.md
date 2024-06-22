@@ -50,6 +50,8 @@ IcyTree
 - [physpetools](#physpetools)
 - [HyPhy](#hyphy): Hypothesis testing using Phylogenies
 - [phykit](#phykit)
+- [TreeBASE](#treebase)
+
 
 ----------
 ### phykit
