@@ -997,18 +997,19 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453245/
 
 #### iqtree_Rootstrap
 
-2021-08-13
-https://pubmed.ncbi.nlm.nih.gov/34387349/
-Syst Biol
-. 2021 Aug 13;syab067. doi: 10.1093/sysbio/syab067. Online ahead of print.
-Assessing Confidence in Root Placement on Phylogenies: An Empirical Study Using Non-Reversible Models for Mammals
-Suha Naser-Khdour 1, Bui Quang Minh 1 2, Robert Lanfear 1
-https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab067/6350503
-
-2021-05-18
+Last update: Jun 7, 2024, Contributors: Minh Bui, Suha Naser
 http://www.iqtree.org/doc/Rootstrap
 Rooting phylogenies
 http://www.iqtree.org/doc/Rootstrap#inferring-rooted-trees-without-outgroup
+
+2022-06-16
+https://pubmed.ncbi.nlm.nih.gov/34387349/
+Syst Biol
+. 2022 Jun 16;71(4):959-972. doi: 10.1093/sysbio/syab067.
+Assessing Confidence in Root Placement on Phylogenies: An Empirical Study Using Nonreversible Models for Mammals
+Suha Naser-Khdour 1, Bui Quang Minh 1 2, Robert Lanfear 1
+https://academic.oup.com/sysbio/article/71/4/959/6350503
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9260635/
 
 #### iqtree_Assessing-Phylogenetic-Assumptions
 
@@ -1028,13 +1029,15 @@ https://academic.oup.com/gbe/article/11/12/3341/5571717
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893154/
 In phylogenetic inference, we commonly use models of substitution which assume that sequence evolution is stationary, reversible, and homogeneous (SRH).
 
-
 #### iqtree_Concordance-Factor
 
-- http://www.iqtree.org/doc/Concordance-Factor
+Last update: May 27, 2024, Contributors: Minh Bui, Rob Lanfear, Trongnhan Uit
+http://www.iqtree.org/doc/Concordance-Factor
 Concordance Factor
 
-http://www.robertlanfear.com/blog/files/concordance_factors.html
+HINT: See very nice tips on how to use and interpret concordance factors written by Rob Lanfear.
+14 December 2018
+https://www.robertlanfear.com/blog/files/concordance_factors.html
 Calculating and interpreting gene- and site-concordance factors in phylogenomics | None | The Lanfear Lab @ANU
 
 https://pubmed.ncbi.nlm.nih.gov/32365179/
