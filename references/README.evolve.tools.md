@@ -49,13 +49,72 @@ IcyTree
 - [timetree](#timetree)
 - [physpetools](#physpetools)
 - [HyPhy](#hyphy): Hypothesis testing using Phylogenies
-- [phykit](#phykit)
 - [TreeBASE](#treebase)
-
+- [jlsteenwyk](#jlsteenwyk)
 
 ----------
-### phykit
 
+----------
+## jlsteenwyk
+
+https://x.com/jlsteenwyk
+
+https://jlsteenwyk.com/tutorials/phylogenomics_made_easy.html
+Five-step phylogenomics, from proteomes to species tree
+
+----------
+### PhyKIT
+
+https://github.com/JLSteenwyk/PhyKIT
+online documentation.
+https://jlsteenwyk.com/PhyKIT/
+https://jlsteenwyk.com/PhyKIT/tutorials/index.html
+
+https://www.preprints.org/manuscript/202404.1514/v1
+PhyKIT: A Multitool for Phylogenomics
+
+2021-08-25
+https://pubmed.ncbi.nlm.nih.gov/33560364/
+Bioinformatics
+. 2021 Aug 25;37(16):2325-2331. doi: 10.1093/bioinformatics/btab096.
+PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
+Jacob L Steenwyk 1, Thomas J Buida 2, Abigail L Labella 1, Yuanning Li 1, Xing-Xing Shen 3, Antonis Rokas 1
+https://academic.oup.com/bioinformatics/article/37/16/2325/6131675
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
+
+----------
+### ClipKIT
+
+https://github.com/JLSteenwyk/ClipKIT
+https://jlsteenwyk.com/ClipKIT/
+
+2020-12-02
+https://pubmed.ncbi.nlm.nih.gov/33264284/
+PLoS Biol
+. 2020 Dec 2;18(12):e3001007. doi: 10.1371/journal.pbio.3001007. eCollection 2020 Dec.
+ClipKIT: A multiple sequence alignment trimming software for accurate phylogenomic inference
+Jacob L Steenwyk 1, Thomas J Buida 3rd 2, Yuanning Li 1, Xing-Xing Shen 3, Antonis Rokas 1
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735675/
+
+https://jlsteenwyk.com/ClipKIT/advanced/index.html#codon
+Trims codon-based alignments. If one position in a codon should be trimmed, the whole codon will be trimmed. To conduct codon-based trimming, use the -co/\-\-codon argument.
+
+----------
+### BioKIT
+
+https://github.com/JLSteenwyk/BioKIT
+online documentation.
+https://jlsteenwyk.com/BioKIT/
+Quick Start — biokit documentation
+
+2022-07-04
+https://pubmed.ncbi.nlm.nih.gov/35536198/
+Genetics
+. 2022 Jul 4;221(3):iyac079. doi: 10.1093/genetics/iyac079.
+BioKIT: a versatile toolkit for processing and analyzing diverse types of sequence data
+Jacob L Steenwyk 1 2, Thomas J Buida 3, Carla Gonçalves 1 2 4 5, Dayna C Goltz 6, Grace Morales 7, Matthew E Mead 1 2, Abigail L LaBella 1 2, Christina M Chavez 1 2, Jonathan E Schmitz 7, Maria Hadjifrangiskou 2 7, Yuanning Li 1, Antonis Rokas 1 2
+https://academic.oup.com/genetics/article-abstract/221/3/iyac079/6583183
 
 ----------
 ### phyx
@@ -743,37 +802,6 @@ https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#disc
 アラインメントから保存度の低い領域を破棄する
 Trimming a multiple sequence alignment by discarding columns with too many gaps.
 多重配列アライメントからギャップの多い列を破棄する
-
-----------
-### ClipKIT
-
-https://github.com/JLSteenwyk/ClipKIT
-https://jlsteenwyk.com/ClipKIT/
-
-https://pubmed.ncbi.nlm.nih.gov/33264284/
-PLoS Biol
-. 2020 Dec 2;18(12):e3001007. doi: 10.1371/journal.pbio.3001007. eCollection 2020 Dec.
-ClipKIT: A multiple sequence alignment trimming software for accurate phylogenomic inference
-Jacob L Steenwyk 1, Thomas J Buida 3rd 2, Yuanning Li 1, Xing-Xing Shen 3, Antonis Rokas 1
-https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735675/
-
-
-https://twitter.com/search?q=ClipKIT%20lang%3Aja
-
-2:38 AM · Dec 8, 2020
-https://twitter.com/HomareZuki/status/1336002096236150784
-質問させてください。Fig2を見るとno trimの結果がClipKITより良いですよね。
-一般的にMSA後にトリミングした方がよいので、トリミング方法を従来のものと比較したらClipKITが良いということでしょうか？
-一方で、no trimの結果がこんなに良いのはなぜでしょうか？完全長配列で系統樹を描いてるから？
-
-9:25 PM · Dec 7, 2020
-https://twitter.com/kfuku0502/status/1335923465069670400
-これ使えばコドン配列にもClipKIT使えます。
-5:29 PM · Nov 10, 2020
-https://twitter.com/kfuku0502/status/1326079504071217152
-I added a new function to cdskit for back-translating trimmed protein alignments, as there doesn't seem to be anything else like it. You can combine this with protein alignment trimming tools, such as ClipKIT, to obtain trimmed codon sequences.
-https://github.com/kfuku52/cdskit
 
 ----------
 ### Gblocks
