@@ -1076,13 +1076,24 @@ Bui Quang Minh 1 2, Matthew W Hahn 3 4, Robert Lanfear 2
 https://academic.oup.com/mbe/article/37/9/2727/5828940
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7475031/
 
+#### iqtree_UFBoot
+
+https://pubmed.ncbi.nlm.nih.gov/29077904/
+Mol Biol Evol
+. 2018 Feb 1;35(2):518-522. doi: 10.1093/molbev/msx281.
+UFBoot2: Improving the Ultrafast Bootstrap Approximation
+Diep Thi Hoang 1, Olga Chernomor 2, Arndt von Haeseler 2 3, Bui Quang Minh 2, Le Sy Vinh 1
+https://academic.oup.com/mbe/article/35/2/518/4565479
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850222/
+
+
 #### iqtree_lang_ja
 
 https://twitter.com/search?q=iqtree%20lang%3Aja&f=live
 
-2021年09月02日
+2023年08月07日
 https://qiita.com/YF_bio/items/d952f54c8d570a6ea0cb
-IQ-TREEで系統樹の最尤推定
+IQ-TREEで系統樹の最尤推定 #bioinformatics - Qiita
 
 http://kazumaxneo.hatenablog.com/entry/2020/06/07/235834
 IQ-TREE をwebで使える W-IQ-TREE - macでインフォマティクス
