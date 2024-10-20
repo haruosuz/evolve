@@ -79,10 +79,18 @@ Bioinformatics
 PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
 (11)Saturation. Saturation refers to when an MSA contains many sites that have experienced multiple substitutions in individual taxa. Saturation is estimated from the slope of the regression line between patristic distances and pairwise identities. Saturated MSAs have reduced phylogenetic information and can result in issues of long branch attraction (Lake, 1991; Philippe et al., 2011).
+
+https://jlsteenwyk.com/PhyKIT/usage/index.html#saturation
+Calculate saturation for a given tree and alignment.
+
+Saturation is defined as sequences in multiple sequence alignments that have undergone numerous substitutions such that the distances between taxa are underestimated.
+
+Data with no saturation will have a value of 1. The closer the value is to 1, the less saturated the data.
+
+Saturation is calculated following Philippe et al., PLoS Biology (2011), 
+
 https://jlsteenwyk.com/PhyKIT/tutorials/index.html#saturation
 Saturation in a multiple sequence alignments is driven by sites with multiple substitutions and results in the alignment underestimating real genetic distances among taxa. Values of 1 have no saturation and values of 0 are completely saturated by multiple substitutions (Philippe et al. 2011).
-https://jlsteenwyk.com/PhyKIT/usage/index.html#saturation
-Saturation is calculated following Philippe et al., PLoS Biology (2011)
 
 https://pubmed.ncbi.nlm.nih.gov/21423652/
 PLoS Biol
