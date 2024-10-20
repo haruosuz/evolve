@@ -99,6 +99,10 @@ Resolving difficult phylogenetic questions: why more sequences are not enough
 Hervé Philippe 1, Henner Brinkmann, Dennis V Lavrov, D Timothy J Littlewood, Michael Manuel, Gert Wörheide, Denis Baurain
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000602
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057953/
+Saturation: When sequences in a multiple alignment have undergone so many multiple substitutions that apparent distances largely underestimate the real genetic distances, the alignment is said to be saturated. Phylogenetic inference works best with datasets that are only slightly saturated. Owing to their reduced state space (four possible bases), nucleotide sequences saturate more rapidly than protein sequences (20 possible amino acids).
+
+Depending on both functional constraints and evolutionary trajectory, different genes can include positions subject to different ranges of multiple substitutions, i.e., they may display variable levels of saturation. To estimate the saturation in the three datasets [2]–[4], we used the comparison of patristic and uncorrected distances [47]. As shown by the slope of the regression line (data without any saturation have slope = 1; see [12]), the three datasets (Figure 5) are different, with that of Schierwater et al. being the most saturated (slope = 0.38) and that of Philippe et al. the least affected by multiple substitutions (slope = 0.53). 
+
 Figure 5. Saturation levels of datasets from Schierwater et al., Dunn et al., and Philippe et al.
 The level of saturation was estimated for each dataset by computing the slope of the regression line of patristic distances (y-axis) versus uncorrected distances (x-axis), as previously described [12]. 
 
