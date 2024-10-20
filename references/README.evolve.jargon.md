@@ -67,27 +67,33 @@ Substitution saturation
 飽和
 transition/transversion
 
-### phykit saturation
+### saturation_PhyKIT
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
+https://www.preprints.org/manuscript/202404.1514/v1
+PhyKIT: A Multitool for Phylogenomics
+https://www.preprints.org/manuscript/202404.1514/v1/download
+preprints202404.1514.v1.pdf
+Figure 18. Cartoon depiction of saturation.
+
+https://pubmed.ncbi.nlm.nih.gov/33560364/
+Bioinformatics
+. 2021 Aug 25;37(16):2325-2331. doi: 10.1093/bioinformatics/btab096.
 PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
 (11)Saturation. Saturation refers to when an MSA contains many sites that have experienced multiple substitutions in individual taxa. Saturation is estimated from the slope of the regression line between patristic distances and pairwise identities. Saturated MSAs have reduced phylogenetic information and can result in issues of long branch attraction (Lake, 1991; Philippe et al., 2011).
 
 https://jlsteenwyk.com/PhyKIT/tutorials/index.html#saturation
-Saturation
 Saturation in a multiple sequence alignments is driven by sites with multiple substitutions and results in the alignment underestimating real genetic distances among taxa. Values of 1 have no saturation and values of 0 are completely saturated by multiple substitutions (Philippe et al. 2011).
 
 https://jlsteenwyk.com/PhyKIT/
 Alignment- and tree-based functions
 Saturation
 https://jlsteenwyk.com/PhyKIT/usage/index.html#saturation
-Saturation
-
 Calculate saturation for a given tree and alignment.
 
 Saturation is defined as sequences in multiple sequence alignments that have undergone numerous substitutions such that the distances between taxa are underestimated.
 
-Data with no saturation will have a value of 1. Completely saturated data will have a value of 0.
+Data with no saturation will have a value of 1. The closer the value is to 1, the less saturated the data.
 
 Saturation is calculated following Philippe et al., PLoS Biology (2011), doi: 10.1371/journal.pbio.1000602.
 
@@ -104,9 +110,10 @@ The level of saturation was estimated for each dataset by computing the slope of
 01 March 1994
 https://academic.oup.com/jeb/article-abstract/7/2/247/7322433
 https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1420-9101.1994.7020247.xFig. 6. (A) Comparison, for SOD data, between the number of substitutions estimated from the most parsimonious tree (X-axis) and the number of observed differences (Y-axis). (B) Comparison, for our rRNA data setbetween the number of substitutions estimated from the most parsimonious tree (X axis) and the number of observed differences (Y axis).
-### 2023-02-16
-
+### saturation_PhyloSuite
+2023/03/03
 https://www.youtube.com/watch?v=qtAL8X3314g
+4:58
 
 https://onlinelibrary.wiley.com/doi/10.1002/imt2.87
 Using PhyloSuite for molecular phylogeny and tree‐based analyses - Xiang - 2023 - iMeta - Wiley Online Library
@@ -139,9 +146,9 @@ Investigation of Substitution Saturation
 
 To investigate possible substitution saturation, we further analyzed the Fgg, Mdm4, Chek2, and Dtl genes. Indices of substitution saturation (Iss), introduced by Xia (2009), were computed for the first, second, and third codon positions of ortholog sequences using the DAMBE program (Xia, 2018). 
 
-
-2012
-http://ape-package.ird.fr/APER.html
+### 2012
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/fb8nrm/alma99186639204031
+SpringerLink Books (Series & Reference Works)
 https://link.springer.com/book/10.1007/978-1-4614-1743-9
 Analysis of Phylogenetics and Evolution with R | SpringerLink
 https://link.springer.com/chapter/10.1007/978-1-4614-1743-9_5
@@ -166,7 +173,6 @@ This shows that the GG95 distances differ substantially from the others. Note th
 Fig. 5.15. Saturation plots for the cytochrome b sequences of 25 species of Sylvia showing the effects of multiple substitutions (left) and of the transition/transversion ratio (right)
 
 This analysis, though informative, is not what is usually called “saturation plots” in the literature. The latter is a plot, eventually for each codon position, of the numbers of transitions and transversions on the x-axis against the K80 distance on the y-axis. 
-
 
 http://www.iu.a.u-tokyo.ac.jp/lectures/AG01/180502/20180502.pdf
 Microsoft PowerPoint - 2018_生物配列解析基礎_3回目.pptx
