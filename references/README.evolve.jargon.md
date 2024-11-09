@@ -64,6 +64,8 @@ Substitution saturation
 飽和
 transition/transversion
 
+https://en.wikipedia.org/wiki/Genetic_saturation
+
 ### saturation_PhyKIT
 
 https://www.preprints.org/manuscript/202404.1514/v1
@@ -126,6 +128,15 @@ Substitution saturation is often strongly pronounced in datasets comprising dist
 
 How to analyze substitution saturation in PhyloSuite?
 
+### 2022-04-19
+https://pubmed.ncbi.nlm.nih.gov/34508605/
+Syst Biol
+. 2022 Apr 19;71(3):676-689. doi: 10.1093/sysbio/syab075.
+Excluding Loci With Substitution Saturation Improves Inferences From Phylogenomic Data
+David A Duchêne 1, Niklas Mather 2, Cara Van Der Wal 2, Simon Y W Ho 2
+https://academic.oup.com/sysbio/article/71/3/676/6368692
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9016599/
+
 ### 2021-07-26
 https://www.frontiersin.org/articles/10.3389/fmars.2021.696523/full
 Frontiers | Commentary: Unbiasing Genome-Based Analyses of Selection: An Example Using Iconic Shark Species
@@ -144,6 +155,12 @@ FIGURE 1
 Investigation of Substitution Saturation
 
 To investigate possible substitution saturation, we further analyzed the Fgg, Mdm4, Chek2, and Dtl genes. Indices of substitution saturation (Iss), introduced by Xia (2009), were computed for the first, second, and third codon positions of ortholog sequences using the DAMBE program (Xia, 2018). 
+
+### 2017
+https://digitalcommons.usu.edu/biology_posters/
+PDF
+Multiple Sequence Alignment While Assessing Saturation Across Sequence Data, K. Bodie Weedop and William D. Pearse
+https://digitalcommons.usu.edu/biology_posters/165/
 
 ### 2012
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/fb8nrm/alma99186639204031
@@ -1270,7 +1287,6 @@ phylogenetic comparative methods
 https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods
 Phylogenetic comparative methods (PCMs) use information on the historical relationships of lineages (phylogenies) to test evolutionary hypotheses.
 
-
 https://hydrodictyon.eeb.uconn.edu/people/plewis/courses/phylogenetics/lectures/2022/IndependentContrasts.pdf
 Fig. 5 from Felsenstein (1985)
 Fig. 6 from Felsenstein (1985b)
@@ -1284,7 +1300,6 @@ monophyletic taxa. It can immediately be seen that the apparently significant re
 fig. 6 is illusory
 
 http://web.biosci.utexas.edu/bio386/Readings/Literature/Quantitative%20Char/Felsenstein.AmNat.125.1.pdf
-
 
 https://pubmed.ncbi.nlm.nih.gov/34750532/
 Nat Ecol Evol
