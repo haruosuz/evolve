@@ -1906,8 +1906,13 @@ http://bbs.jinruisi.net/blog/2010/07/829.html
 ----------
 ## clade
 
+https://en.wikipedia.org/wiki/Clade
+In biological phylogenetics, a clade
+ is a grouping of organisms that are monophyletic – that is, composed of a common ancestor and all its lineal descendants – on a phylogenetic tree.
+
 https://en.wikipedia.org/wiki/Monophyly
-In cladistics, a monophyletic group, or clade, is a group of organisms that consists of all the descendants of a common ancestor (or more precisely ancestral population).
+
+https://en.wikipedia.org/wiki/Paraphyly
 
 https://ja.wikipedia.org/wiki/系統群
 Clade）とは、共通の祖先から進化した生物群のこと。側系統群、単系統群、多系統群などがある。
