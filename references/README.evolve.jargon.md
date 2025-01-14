@@ -2434,14 +2434,20 @@ Kenji Fukushima on Twitter: "クマムシ比較ゲノム論文を見返してて
 ## homology
 
 https://en.wikipedia.org/wiki/Sequence_homology
-Sequence homology is the biological homology between DNA, RNA, or protein sequences, defined in terms of shared ancestry in the evolutionary history of life. Two segments of DNA can have shared ancestry because of three phenomena: either a speciation event (orthologs), or a duplication event (paralogs), or else a horizontal (or lateral) gene transfer event (xenologs).[1]
+Sequence homology is the biological homology between DNA, RNA, or protein sequences, defined in terms of shared ancestry in the evolutionary history of life.
+
+https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
+遺伝学では、相同性という言葉はタンパク質のアミノ酸配列や遺伝子の塩基配列が共通の祖先をもつときに用いられる。
+相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
+
+https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
+分子系統樹推定に適した配列データセットの作成
+田辺晶史
+- 相同 = 同一の祖先形質に由来する
+- 多重配列整列 = 相同形質の同定
 
 https://github.com/davidemms/OrthoFinder
 OrthoFinder: phylogenetic orthology inference for comparative genomics
-
-10:51 AM · Jun 16, 2022
-https://twitter.com/xprinceps/status/1537251538585931777
-Matthew Herron on Twitter: "Sequence similarity is not homology. Sequence similarity is an observation. Homology is a hypothesis. There is no such thing as 89% homology." / Twitter
 
 https://pubmed.ncbi.nlm.nih.gov/32657391/
 Bioinformatics. 2020 Jul 1;36(Suppl_1):i219-i226. doi: 10.1093/bioinformatics/btaa468.
@@ -2508,21 +2514,12 @@ https://www.annualreviews.org/doi/10.1146/annurev.genet.39.073003.114725
 Keywords
 homolog, ortholog, paralog, pseudoortholog, pseudoparalog, xenolog
 
-https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
-相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
-
 2022/07/26
 https://ultrabem-branch3.com/informatics/bioinformatics/homolog.html
 ホモログ，オーソログ，パラログの定義と違い
 
 https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#5-7
 進化系統樹によるホモログ・パラログ・オーソログの解析
-
-https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
-分子系統樹推定に適した配列データセットの作成
-田辺晶史
-- 相同 = 同一の祖先形質に由来する
-- 多重配列整列 = 相同形質の同定
 
 2013-06-25 17:29:07
 https://ameblo.jp/sakaguchikengo/entry-11560351406.html
