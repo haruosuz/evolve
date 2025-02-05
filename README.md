@@ -19,6 +19,7 @@ Last Update: 2022-
   - [Vaughn Cooper]
   - [Hasegawa Masami] 長谷川政美
   - [inoue](#inoue) 井上 潤
+  - [kuraku](#kuraku) 工樂 樹洋
   - [kazutaka-katoh](#kazutaka-katoh) 加藤 和貴
   - [nakada](#nakada) 仲田崇志
   - [fifthdimension](#fifthdimension) Akifumi S. Tanabe 田辺晶史
@@ -34,6 +35,50 @@ https://nrid.nii.ac.jp/nrid/1000070192656/
 https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
 系統分類学 第三回
 
+
+----------
+
+
+2020年12月
+https://www.keisoshobo.co.jp/book/b550330.html
+種を語ること、定義すること - 株式会社　勁草書房
+
+
+
+2018年4月
+https://www.keisoshobo.co.jp/book/b355432.html
+系統体系学の世界 - 株式会社　勁草書房
+
+2016年8月
+https://www.keisoshobo.co.jp/book/b239975.html
+生物学の哲学入門 - 株式会社　勁草書房
+
+
+----------
+
+## It-Doesn't-Matter-Very-Much
+
+### 2024
+
+https://plato.stanford.edu/archIves/fall2024/entries/phylogenetic-inference/
+Phylogenetic Inference (Stanford Encyclopedia of Philosophy/Fall 2024 Edition)
+Phylogenetic Inference
+First published Wed Dec 8, 2021; substantive revision Thu Jun 30, 2022
+
+Yet, another framing is available. Namely, that as biologists shifted to using phylogenies (rather than traditional taxonomies) to support their explanations and justify their inferences, disagreements over taxonomic classifications faded into the background. On this account, it is disagreements over phylogenetic hypotheses that are impactful; disputes over classifications become less consequential as they get replaced in scientific inference by phylogenies. Joseph Felsenstein (2004: 145) dubs this the “It-Doesn't-Matter-Very-Much school”, arguing that “systematists ‘voted with their feet’ to establish this school, long before I announced its existence”. 
+
+### 2007-02-01
+Published: 01 February 2007
+https://academic.oup.com/sysbio/article/56/1/147/1658064
+Victor A. Albert (editor), Parsimony, Phylogeny, and Genomics | Systematic Biology | Oxford Academic
+
+Joe Felsenstein (Felsenstein, 2004) claims to have “founded the fourth great school of classification, the It-Doesn't-Matter-Very-Much school,” suggesting that even systematists don't bother much with classification these days.
+
+### 2005-11-21
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2005.00080.x
+On the lack of good scientific reasons for the growing phylogeny/classification gap - Franz - 2005 - Cladistics - Wiley Online Library
+
+Felsenstein (2001, p. 467) first writes: “The focus of systematics has shifted massively away from classification: it is the phylogenies that are central, and it is nearly irrelevant how they are then used in taxonomy.” He later elaborates (Felsenstein, 2004, p. 145): “The delimitation of higher taxa is no longer a major task of systematics, as the availability of estimates of the phylogeny removes the need to use these classifications. Thus the outcome of the wars over classification matters less and less. A phylogenetic systematist and an evolutionary systematist may make very different classifications, while inferring much the same phylogeny. If it is the phylogeny that gets used by other biologists, their differences about how to classify may not be important. I have consequently announced that I have founded the fourth great school of classification, the It-Doesn't-Matter-Very-Much school.
 
 
 ----------
@@ -730,6 +775,16 @@ http://www.fish-evol.org/phyMarker.html
 系統推定
 19 Sep. 2019. Jun Inoue
 
+## kuraku
+工樂 樹洋
+
+https://x.com/sighex
+https://x.com/KurakuLabMSM
+
+2022/11/30
+https://www.youtube.com/watch?v=lAWAdZA38aU
+DNA情報から見る動物の進化：工樂 樹洋 教授【遺伝研公開講演会2022】
+
 ## kazutaka-katoh
 
 加藤 和貴 (Kazutaka Katoh)
@@ -928,11 +983,10 @@ https://www.jstage.jst.go.jp/article/taxa/19/0/19_KJ00004992970/_article/-char/j
 Ernst MayrとWilli Hennig : 生物体系学論争をふたたび鳥瞰する
 三中 信宏
 
-
 1996年
-http://www.e-jsps.com/2007hp/topic/Datesoudo84/date.html
+https://archive.e-jsps.com/2007hp/topic/Datesoudo84/date.html
 伊達騒動「分類学・系統学・生態学」
-http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html
+https://archive.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html
 分類学と系統学：ある蜜月の終焉
 三中信宏（農環研・計測情報）
 
@@ -1014,6 +1068,7 @@ http://koke.asrc.kanazawa-u.ac.jp/ECAT/Opensemi7.html
 https://www.fifthdimension.jp/wiki.cgi
 田辺晶史, 2010, "ベイジアンMCMCによる生物間系統関係の推定法", 2010年度日本計量生物学会特別セッション『農学・生態学・進化学でのベイズ統計手法の応用に関する諸問題』. Preprint PDF: 20100522BiometricsJapanPreprint.pdf(5955)
 https://www.fifthdimension.jp/wiki.cgi?page=FrontPage&file=20100522BiometricsJapanPreprint%2Epdf&action=ATTACH
+
 
 
 ----------
