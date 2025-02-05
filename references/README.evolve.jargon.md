@@ -59,6 +59,270 @@
 - [](#)
 
 ----------
+## tree
+
+https://nextstrain.org/help/general/how-to-read-a-tree
+How to interpret the phylogenetic trees
+
+https://artic.network/how-to-read-a-tree.html
+How to read a phylogenetic tree
+Revision Date:	2018-07-30
+
+https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+How to read a phylogenetic tree | Dave Hone's Archosaur Musings
+basal taxa (at the bottom of the tree)
+
+----------
+### circle tree
+
+
+2:30 AM · May 14, 2022
+https://twitter.com/jilloberski/status/1525166721161523202
+Jill Oberski 🐜 on Twitter: "Maybe a hot take: I think circular phylogenies are a bad choice for manuscript figures. They’re hard to read and hard to interpret." / Twitter
+
+
+6:40 PM · Sep 24, 2020
+https://twitter.com/copypasteusa/status/1309065045201096704
+"Tree A is in polar format (often called a circle tree).
+These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided. https://artic.network/how-to-read-a-tree.html
+
+
+Feb 5, 2021
+https://twitter.com/windowmoon/status/1357643379950067715
+だからあれほど円形系統樹は使うなと小一時間以下略。今回の例は一方向の系統樹にしても解釈が分かれそう。わたしは「どちらとも言えない」派かな。
+https://twitter.com/mutselbalance/status/1357642470587199490
+丸い系統樹で書いてしまうと、人間の遠近感覚には多様性があるため、解釈が困難になってしまう……その好例。僕には近いように見える…。
+https://twitter.com/Parapriacanthus/status/1357629304788590592
+長寿の木は進化的に離れた系統でみられる
+https://twitter.com/sPlot_iDiv/status/1357249814178725900
+How old do trees grow? Why and where?
+All answers in a #TansleyReview by #GianlucaPiovesan and #FrancoBiondi in 
+@NewPhyt
+https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17148
+On tree longevity
+
+2:02 PM · Sep 24, 2020
+https://twitter.com/windowmoon/status/1308995216729399296
+窓月＠S級在宅士 on Twitter: "何度も言ってますが、円形系統樹は害悪です。かっこいいだけで見やすくない。科学者なら使うべきではない。本当にやめてほしい。" / Twitter
+Most tree plotting programs have "collapse branches" function. Therefore, I recommend to use this function and plot "collapsed" whole tree and several subtrees of "collapsed" branches.
+
+5:35 PM · Mar 19, 2019
+https://twitter.com/windowmoon/status/1107923607349424129
+- 相変わらず皆さん円形系統樹好きですね。見づらいからやめろ。
+- 円形系統樹って、「デザイン的にカッコいい」以外のメリットあるんでしょうかね？
+- 一切ないと思います。有害無益。禁止すべき。円グラフみたいなものですね。
+
+12:58 AM - 19 Mar 2019
+https://twitter.com/Tyu_Shi/status/1107868946269519872
+Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.com/articles/s41559-019-0834-1 … キノコのTimetree論文。
+
+https://nam-students.blogspot.com/2013/03/blog-post_2476.html
+NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
+
+----------
+## unclassified
+
+https://en.wikipedia.org/wiki/Sister_group
+https://ja.wikipedia.org/wiki/姉妹群
+
+https://ja.wikipedia.org/wiki/創始者効果
+
+https://ja.wikipedia.org/wiki/適応放散
+
+
+----------
+
+https://www.digitalatlasofancientlife.org/learn/systematics/phylogenetics/reading-trees/
+2.1 Reading Trees - Digital Atlas of Ancient Life
+
+2.1 Reading Trees
+Chapter contents:
+Systematics
+— 1. Taxonomy
+— 2. Phylogenetics
+—— 2.1 Reading trees ←
+—— 2.2 Building trees
+—— 2.3 Character mapping
+—— 2.4 Phylogenetic trees and classification
+
+Clades and Sister Groups
+A clade (from the Greek klados = branch) is a group that includes an ancestor (node) and all of its descendants (all shallower nodes and terminal taxa that descend from that node) on a phylogenetic tree.
+
+----------
+
+http://www.saitama-u.ac.jp/ohnishi/jikken/phylogenetic_methods.htm
+系統樹の基礎知識 (図参照)
+Node（節）とBranch（枝）から成っている．NodeにはExternal Nodes (右端の現生の [生物あるいは配列] （以下では配列とのみ記述）) と系統樹内のInternal Nodes (過去に存在した，あるいは，存在したと推定される配列) がある（図(1)）．Root (R)は仮想的な共通祖先 (Common ancestor)．
+また，Internal Nodesにはbifurcating (２鎖分岐)とmultifurcating (多鎖分岐) するものの２種類がある．原則的には，２鎖分岐のはずだが，分岐の順序が正確に決まらない場合は，multifurcatingの形に表示される．(下図 (2)右のN1)
+
+https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
+１．分類学に関するおもな用語　更新日：2017.4.14
+
+２．系統学に関する用語
+
+phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
+A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
+
+numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
+★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
+
+cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
+A system of classification in which the only groups formally recognized are clades.
+★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
+
+
+
+https://quizlet.com/153288496/chpt-261-263-flash-cards/
+Chpt. 26.1-26.3単語カード | Quizlet
+branch points
+-in picture, point 3 is common ancestor of A, B, C
+-4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
+
+![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
+
+http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
+Morecular phylogeny
+2015年度生物測定学応用実験
+分子系統樹
+東京大学大学院農学生命科学研究科　大森宏
+2016年 1月 4日
+1. 塩基置換の確率モデル
+2. 系統樹作成手法
+参考文献
+分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+系統推定の基本用語
+
+https://ja.wikipedia.org/wiki/退化
+一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
+
+Tomoaki NISHIYAMA
+Wed Dec 27 18:49:55 JST 2000
+http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
+用語集
+
+![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
+
+
+
+https://ja.wikipedia.org/wiki/非加重結合法
+（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)は系統樹を作製するためのボトムアップ式のクラスタ解析法である。入力データは対象の各ペア間の距離であり、有根系統樹が作製される。進化速度が一定（分子時計仮説）と仮定して有根系統樹を作製するのにときどき用いられる。
+UPGMAは進化速度一定の仮定を用いているため、これが対象に関して正しいことが示されない限り、系統樹の推定に適した方法ではない。
+やはり距離を用いる方法であるが上記の仮定を要しないものに近隣結合法（NJ法）がある。
+https://ja.wikipedia.org/wiki/近隣結合法
+
+https://shorebird.hatenablog.com/entry/20180601/1527842963
+「系統体系学の世界」 - shorebird　進化心理学中心の書評など
+
+
+
+----------
+
+https://twitter.com/hashtag/ws222
+
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
+第222回農林交流センターワークショップ「分子系統樹推定法：理論と応用」
+
+https://www.fifthdimension.jp/documents/molphytextbook/
+分子系統学演習 - データセットの作成から仮説検定まで
+
+https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
+分子系統解析における様々な問題について
+```
+タクソンサンプリング法
+
+● 全種サンプリングは必ずしも良くない
+● 系統樹上の分岐点・端点の密度ができるだけ偏らない方が良い
+– 同一配列や近縁配列が一部では多く一部では少ないのは×
+```
+
+----------
+## togetter
+
+https://togetter.com/li/742642
+2014年度・第188回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
+
+https://togetter.com/li/587872
+2013年度・第176回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
+
+https://togetter.com/li/399359
+2012年度・第166回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉 ツイートまとめ
+
+
+----------
+## basal
+
+https://en.wikipedia.org/wiki/Basal_(phylogenetics)
+deep-branching or early-branching are similar in meaning.
+
+https://quizlet.com/97829330/phylogenetic-terms-flash-cards/
+Phylogenetic Terms単語カード | Quizlet
+
+Root
+the most basal internode at the bottom of a tree. This is the common ancestor.
+
+2018/6/7
+http://darwin.c.u-tokyo.ac.jp/sesj2018/symposium/
+Basal lineageは「原始的」か？：生物界と分野を超えて
+http://darwin.c.u-tokyo.ac.jp/sesj2018/wp/wp-content/uploads/2018/08/5d5ef9dd328e3e7158e5fbaff5ce1d98.pdf
+特定の生物群において早い時期に分岐した系統は往々にして「basal lineage」と呼ばれ、その生物群の原始
+的な表現型を持つと考えられていることが多い。近年、ゲノム情報を利用した遺伝子機能の分化メカニズム
+の研究などから、「basal lineage は原始的である」という観念の再検討の必要が露わとなっている。多角的
+にこの問題を議論するため、生物界を超えた basal lineage の例について触れ、分野をまたいで議論する。
+
+Aug 22, 2018
+https://www.slideshare.net/leeswijzer/minaka-sesj2018-slideshare
+Minaka sesj2018 slideshare
+講演スライド—日本進化学会第20回大会シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）
+
+- https://twitter.com/search?q=Basal%20Lineage%20lang%3Aja
+  - https://twitter.com/copypasteusa/status/1032263315752284160
+#sesj2018 #日本進化学会第20回大会 #進化学会
+Basal lineageは「ない」
+Sister taxaは「ある」
+
+2022/11/30
+https://www.youtube.com/watch?v=lAWAdZA38aU
+DNA情報から見る動物の進化：工樂 樹洋 教授【遺伝研公開講演会2022】
+https://youtu.be/lAWAdZA38aU?t=645
+
+https://researchmap.jp/genombaum/misc/40127747
+2017年
+円口類ヌタウナギとヤツメウナギの分子進化学
+月刊 海洋
+ダウンロード
+
+図 2C においてヒトが原始的といえないのと同様に，短絡的にヤツメウナギが原始的と考えるのは危険である。この危険を指摘するのに primitive lineage fallacy というフレーズが使われることもある (Omland et al., 2008)
+
+図 2 見せ方によって印象が大きく変わりうる系統樹。Kuraku et al., 2016 より改変
+
+https://pubmed.ncbi.nlm.nih.gov/18693264/
+Bioessays
+. 2008 Sep;30(9):854-67. doi: 10.1002/bies.20794.
+Tree thinking for all biology: the problem with reading phylogenies as ladders of progress
+Kevin E Omland 1, Lyn G Cook, Michael D Crisp
+https://onlinelibrary.wiley.com/doi/10.1002/bies.20794
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_69433249
+Wiley Online Library Database Model 
+
+https://pubmed.ncbi.nlm.nih.gov/26818824/
+Review Dev Growth Differ
+. 2016 Jan;58(1):131-42. doi: 10.1111/dgd.12258. Epub 2016 Jan 5.
+Incorporating tree-thinking and evolutionary time scale into developmental biology
+Shigehiro Kuraku 1, Nathalie Feiner 2, Sean D Keeley 1, Yuichiro Hara 1
+https://onlinelibrary.wiley.com/doi/10.1111/dgd.12258
+
+https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+How to read a phylogenetic tree | Dave Hone's Archosaur Musings
+basal taxa (at the bottom of the tree)
+
+14 June 2004
+https://resjournals.onlinelibrary.wiley.com/doi/10.1111/j.0307-6970.2004.00262.x
+Which side of the tree is more basal?
+Frank-T Krell, Peter S. Cranston
+
+----------
 ## saturation
 Substitution saturation
 飽和
@@ -1060,202 +1324,6 @@ Virtual Genome Project Blog: Reticulate classification of mobile genetic element
 
 
 
-
-
-
-
-----------
-
-## tree
-
-https://nextstrain.org/help/general/how-to-read-a-tree
-How to interpret the phylogenetic trees
-
-https://artic.network/how-to-read-a-tree.html
-How to read a phylogenetic tree
-Revision Date:	2018-07-30
-
-https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-How to read a phylogenetic tree | Dave Hone's Archosaur Musings
-basal taxa (at the bottom of the tree)
-
-----------
-### circle tree
-
-
-2:30 AM · May 14, 2022
-https://twitter.com/jilloberski/status/1525166721161523202
-Jill Oberski 🐜 on Twitter: "Maybe a hot take: I think circular phylogenies are a bad choice for manuscript figures. They’re hard to read and hard to interpret." / Twitter
-
-
-6:40 PM · Sep 24, 2020
-https://twitter.com/copypasteusa/status/1309065045201096704
-"Tree A is in polar format (often called a circle tree).
-These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided. https://artic.network/how-to-read-a-tree.html
-
-
-Feb 5, 2021
-https://twitter.com/windowmoon/status/1357643379950067715
-だからあれほど円形系統樹は使うなと小一時間以下略。今回の例は一方向の系統樹にしても解釈が分かれそう。わたしは「どちらとも言えない」派かな。
-https://twitter.com/mutselbalance/status/1357642470587199490
-丸い系統樹で書いてしまうと、人間の遠近感覚には多様性があるため、解釈が困難になってしまう……その好例。僕には近いように見える…。
-https://twitter.com/Parapriacanthus/status/1357629304788590592
-長寿の木は進化的に離れた系統でみられる
-https://twitter.com/sPlot_iDiv/status/1357249814178725900
-How old do trees grow? Why and where?
-All answers in a #TansleyReview by #GianlucaPiovesan and #FrancoBiondi in 
-@NewPhyt
-https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17148
-On tree longevity
-
-2:02 PM · Sep 24, 2020
-https://twitter.com/windowmoon/status/1308995216729399296
-窓月＠S級在宅士 on Twitter: "何度も言ってますが、円形系統樹は害悪です。かっこいいだけで見やすくない。科学者なら使うべきではない。本当にやめてほしい。" / Twitter
-Most tree plotting programs have "collapse branches" function. Therefore, I recommend to use this function and plot "collapsed" whole tree and several subtrees of "collapsed" branches.
-
-5:35 PM · Mar 19, 2019
-https://twitter.com/windowmoon/status/1107923607349424129
-- 相変わらず皆さん円形系統樹好きですね。見づらいからやめろ。
-- 円形系統樹って、「デザイン的にカッコいい」以外のメリットあるんでしょうかね？
-- 一切ないと思います。有害無益。禁止すべき。円グラフみたいなものですね。
-
-12:58 AM - 19 Mar 2019
-https://twitter.com/Tyu_Shi/status/1107868946269519872
-Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.com/articles/s41559-019-0834-1 … キノコのTimetree論文。
-
-https://nam-students.blogspot.com/2013/03/blog-post_2476.html
-NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
-
-----------
-## unclassified
-
-https://en.wikipedia.org/wiki/Sister_group
-https://ja.wikipedia.org/wiki/姉妹群
-
-https://ja.wikipedia.org/wiki/創始者効果
-
-https://ja.wikipedia.org/wiki/適応放散
-
-
-----------
-
-https://www.digitalatlasofancientlife.org/learn/systematics/phylogenetics/reading-trees/
-2.1 Reading Trees - Digital Atlas of Ancient Life
-
-2.1 Reading Trees
-Chapter contents:
-Systematics
-— 1. Taxonomy
-— 2. Phylogenetics
-—— 2.1 Reading trees ←
-—— 2.2 Building trees
-—— 2.3 Character mapping
-—— 2.4 Phylogenetic trees and classification
-
-Clades and Sister Groups
-A clade (from the Greek klados = branch) is a group that includes an ancestor (node) and all of its descendants (all shallower nodes and terminal taxa that descend from that node) on a phylogenetic tree.
-
-----------
-
-http://www.saitama-u.ac.jp/ohnishi/jikken/phylogenetic_methods.htm
-系統樹の基礎知識 (図参照)
-Node（節）とBranch（枝）から成っている．NodeにはExternal Nodes (右端の現生の [生物あるいは配列] （以下では配列とのみ記述）) と系統樹内のInternal Nodes (過去に存在した，あるいは，存在したと推定される配列) がある（図(1)）．Root (R)は仮想的な共通祖先 (Common ancestor)．
-また，Internal Nodesにはbifurcating (２鎖分岐)とmultifurcating (多鎖分岐) するものの２種類がある．原則的には，２鎖分岐のはずだが，分岐の順序が正確に決まらない場合は，multifurcatingの形に表示される．(下図 (2)右のN1)
-
-https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology01.html
-１．分類学に関するおもな用語　更新日：2017.4.14
-
-２．系統学に関する用語
-
-phenetics, phenetic classification：表形学，表形分類　＊phenetists 表形学者 
-A system of classification in which the organisms are grouped together on the basis of their overall similarity*.  *総類似度，総体的類似度　＊phenotype は表現形 
-
-numerical taxonomy：数量分類学；numerical phenetics：数量表形学　 
-★表形分類では基本的にすべての形質を等価と見なし，形質の共有を数量的に処理してグルーピングするため，数量分類学とも呼ばれる． 
-
-cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
-A system of classification in which the only groups formally recognized are clades.
-★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
-
-
-
-https://quizlet.com/153288496/chpt-261-263-flash-cards/
-Chpt. 26.1-26.3単語カード | Quizlet
-branch points
--in picture, point 3 is common ancestor of A, B, C
--4 shows that taxa B and C diverged after their shared lineage split from lineage leading to A
-
-![](https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/2o6hNR7P.YrVZJ7Uty5mmA.png)
-
-http://lbm.ab.a.u-tokyo.ac.jp/~omori/phylogeny/txt/phylogeny_txt.html
-Morecular phylogeny
-2015年度生物測定学応用実験
-分子系統樹
-東京大学大学院農学生命科学研究科　大森宏
-2016年 1月 4日
-1. 塩基置換の確率モデル
-2. 系統樹作成手法
-参考文献
-分子進化遺伝学，根井正利，(Molecular Evolutionary Genetics, 五條堀孝・斎籐成也　共訳，根井正利　監訳)， 培風館，1990．
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-系統推定の基本用語
-
-https://ja.wikipedia.org/wiki/退化
-一般語としての退化は進化の対義語と位置づけられ得る[2]が、生物学において退化は進化の一側面であり、対義語ではない[3]。
-
-Tomoaki NISHIYAMA
-Wed Dec 27 18:49:55 JST 2000
-http://www.nibb.ac.jp/~tomoaki/protocols/genetree/words
-用語集
-
-![](http://www.nibb.ac.jp/~tomoaki/protocols/genetree/three-topologies.gif)
-
-
-
-https://ja.wikipedia.org/wiki/非加重結合法
-（Unweighted Pair Group Method with Arithmetic mean、UPGMAと略す)は系統樹を作製するためのボトムアップ式のクラスタ解析法である。入力データは対象の各ペア間の距離であり、有根系統樹が作製される。進化速度が一定（分子時計仮説）と仮定して有根系統樹を作製するのにときどき用いられる。
-UPGMAは進化速度一定の仮定を用いているため、これが対象に関して正しいことが示されない限り、系統樹の推定に適した方法ではない。
-やはり距離を用いる方法であるが上記の仮定を要しないものに近隣結合法（NJ法）がある。
-https://ja.wikipedia.org/wiki/近隣結合法
-
-https://shorebird.hatenablog.com/entry/20180601/1527842963
-「系統体系学の世界」 - shorebird　進化心理学中心の書評など
-
-
-
-----------
-
-https://twitter.com/hashtag/ws222
-
-https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
-第222回農林交流センターワークショップ「分子系統樹推定法：理論と応用」
-
-https://www.fifthdimension.jp/documents/molphytextbook/
-分子系統学演習 - データセットの作成から仮説検定まで
-
-https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
-分子系統解析における様々な問題について
-```
-タクソンサンプリング法
-
-● 全種サンプリングは必ずしも良くない
-● 系統樹上の分岐点・端点の密度ができるだけ偏らない方が良い
-– 同一配列や近縁配列が一部では多く一部では少ないのは×
-```
-
-----------
-## togetter
-
-https://togetter.com/li/742642
-2014年度・第188回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
-
-https://togetter.com/li/587872
-2013年度・第176回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
-
-https://togetter.com/li/399359
-2012年度・第166回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉 ツイートまとめ
-
 ----------
 
 10:03 PM · Mar 6, 2023
@@ -1982,43 +2050,6 @@ http://www.fish-evol.org/Constraint.html
 分岐年代推定に用いる制約の選び方
 2014 年 11 月 20 日　改訂
 井上 潤
-
-----------
-## basal
-
-https://en.wikipedia.org/wiki/Basal_(phylogenetics)
-deep-branching or early-branching are similar in meaning.
-
-2018/6/7
-http://darwin.c.u-tokyo.ac.jp/sesj2018/symposium/
-Basal lineageは「原始的」か？：生物界と分野を超えて
-http://darwin.c.u-tokyo.ac.jp/sesj2018/wp/wp-content/uploads/2018/08/5d5ef9dd328e3e7158e5fbaff5ce1d98.pdf
-特定の生物群において早い時期に分岐した系統は往々にして「basal lineage」と呼ばれ、その生物群の原始
-的な表現型を持つと考えられていることが多い。近年、ゲノム情報を利用した遺伝子機能の分化メカニズム
-の研究などから、「basal lineage は原始的である」という観念の再検討の必要が露わとなっている。多角的
-にこの問題を議論するため、生物界を超えた basal lineage の例について触れ、分野をまたいで議論する。
-
-Aug 22, 2018
-https://www.slideshare.net/leeswijzer/minaka-sesj2018-slideshare
-Minaka sesj2018 slideshare
-講演スライド—日本進化学会第20回大会シンポジウム・S5〈Basal lineageは「原始的」か？：生物界と分野を超えて〉：三中信宏「Basal Lineage の幻想と実態：系統樹の有根化と形質状態復元の観点から」2018年8月22日（水）15:50〜17:50＠東京大学駒場キャンパス5号館（Room 5）
-
-- https://twitter.com/search?q=Basal%20Lineage%20lang%3Aja
-  - https://twitter.com/copypasteusa/status/1032263315752284160
-#sesj2018 #日本進化学会第20回大会 #進化学会
-Basal lineageは「ない」
-Sister taxaは「ある」
-
-https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-How to read a phylogenetic tree | Dave Hone's Archosaur Musings
-basal taxa (at the bottom of the tree)
-
-https://quizlet.com/97829330/phylogenetic-terms-flash-cards/
-Phylogenetic Terms単語カード | Quizlet
-
-Root
-the most basal internode at the bottom of a tree. This is the common ancestor.
-
 
 ----------
 ## partition
