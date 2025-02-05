@@ -68,6 +68,9 @@ https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
 
+https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-010-0273-6
+McLennan, D.A. How to Read a Phylogenetic Tree. Evo Edu Outreach 3, 506–519 (2010). https://doi.org/10.1007/s12052-010-0273-6
+
 https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 How to read a phylogenetic tree | Dave Hone's Archosaur Musings
 basal taxa (at the bottom of the tree)
