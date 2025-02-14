@@ -63,26 +63,6 @@ https://jlsteenwyk.com/tutorials/phylogenomics_made_easy.html
 Five-step phylogenomics, from proteomes to species tree
 
 ----------
-### PhyKIT
-
-https://github.com/JLSteenwyk/PhyKIT
-online documentation.
-https://jlsteenwyk.com/PhyKIT/
-https://jlsteenwyk.com/PhyKIT/tutorials/index.html
-
-https://www.preprints.org/manuscript/202404.1514/v1
-PhyKIT: A Multitool for Phylogenomics
-
-2021-08-25
-https://pubmed.ncbi.nlm.nih.gov/33560364/
-Bioinformatics
-. 2021 Aug 25;37(16):2325-2331. doi: 10.1093/bioinformatics/btab096.
-PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
-Jacob L Steenwyk 1, Thomas J Buida 2, Abigail L Labella 1, Yuanning Li 1, Xing-Xing Shen 3, Antonis Rokas 1
-https://academic.oup.com/bioinformatics/article/37/16/2325/6131675
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
-
-----------
 ### ClipKIT
 
 https://github.com/JLSteenwyk/ClipKIT
@@ -117,10 +97,34 @@ Jacob L Steenwyk 1 2, Thomas J Buida 3, Carla Gonçalves 1 2 4 5, Dayna C Goltz 
 https://academic.oup.com/genetics/article-abstract/221/3/iyac079/6583183
 
 ----------
-### phyx
+### PhyKIT
+
+https://github.com/JLSteenwyk/PhyKIT
+online documentation.
+https://jlsteenwyk.com/PhyKIT/
+https://jlsteenwyk.com/PhyKIT/tutorials/index.html
+
+https://www.preprints.org/manuscript/202404.1514/v1
+PhyKIT: A Multitool for Phylogenomics
+
+2021-08-25
+https://pubmed.ncbi.nlm.nih.gov/33560364/
+Bioinformatics
+. 2021 Aug 25;37(16):2325-2331. doi: 10.1093/bioinformatics/btab096.
+PhyKIT: a broadly applicable UNIX shell toolkit for processing and analyzing phylogenomic data
+Jacob L Steenwyk 1, Thomas J Buida 2, Abigail L Labella 1, Yuanning Li 1, Xing-Xing Shen 3, Antonis Rokas 1
+https://academic.oup.com/bioinformatics/article/37/16/2325/6131675
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388027/
+
+----------
+## phyx
 
 https://github.com/FePhyFoFum/phyx
 
+https://github.com/FePhyFoFum/phyx/releases
+Oct 22, 2024
+
+2017-06-15
 https://pubmed.ncbi.nlm.nih.gov/28174903/
 Bioinformatics
 . 2017 Jun 15;33(12):1886-1888. doi: 10.1093/bioinformatics/btx063.
@@ -128,6 +132,28 @@ Phyx: phylogenetic tools for unix
 Joseph W Brown 1, Joseph F Walker 1, Stephen A Smith 1
 https://academic.oup.com/bioinformatics/article/33/12/1886/2975328?login=false
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870855/
+
+----------
+## newick_utils
+
+https://anaconda.org/bioconda/newick_utils
+The Newick Utilities are a suite of Unix shell tools for processing phylogenetic trees. We distribute the package under the BSD License. Functions include re-rooting, extracting subtrees, trimming, pruning, condensing, drawing (ASCII graphics or SVG).
+
+9 years ago
+https://github.com/tjunier/newick_utils
+
+https://gensoft.pasteur.fr/docs/newick-utils/1.6/nwutils_tutorial.pdf
+Version 1.6.0 – October 27, 2011
+
+2010-07-01
+https://pubmed.ncbi.nlm.nih.gov/20472542/
+Bioinformatics
+. 2010 Jul 1;26(13):1669-70. doi: 10.1093/bioinformatics/btq243. Epub 2010 May 13.
+The Newick utilities: high-throughput phylogenetic tree processing in the UNIX shell
+Thomas Junier 1, Evgeny M Zdobnov
+https://academic.oup.com/bioinformatics/article/26/13/1669/200713
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2887050/
+
 
 ----------
 ## HyPhy
@@ -1048,6 +1074,7 @@ Assessing Phylogenetic Assumptions
 Tests of symmetry
 IQ-TREE provides three matched-pairs tests of symmetry (Naser-Khdour et al., 2019) to test the two assumptions of stationarity and homogeneity. A simple analysis:
 
+2019-12-01
 https://pubmed.ncbi.nlm.nih.gov/31536115/
 Genome Biol Evol
 . 2019 Dec 1;11(12):3341-3352. doi: 10.1093/gbe/evz193.
@@ -1068,6 +1095,7 @@ HINT: See very nice tips on how to use and interpret concordance factors written
 https://www.robertlanfear.com/blog/files/concordance_factors.html
 Calculating and interpreting gene- and site-concordance factors in phylogenomics | None | The Lanfear Lab @ANU
 
+2020-09
 https://pubmed.ncbi.nlm.nih.gov/32365179/
 Mol Biol Evol
 . 2020 Sep 1;37(9):2727-2733. doi: 10.1093/molbev/msaa106.
@@ -1274,6 +1302,25 @@ FigTree の使い方
 ----------
 ### iTOL
 
+https://itol.embl.de/
+iTOL: Interactive Tree Of Life
+
+https://pubmed.ncbi.nlm.nih.gov/38613393/
+Nucleic Acids Res
+. 2024 Jul 5;52(W1):W78-W82. doi: 10.1093/nar/gkae268.
+Interactive Tree of Life (iTOL) v6: recent updates to the phylogenetic tree display and annotation tool
+Ivica Letunic 1, Peer Bork 2 3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11223838/
+
+https://pubmed.ncbi.nlm.nih.gov/27095192/
+Nucleic Acids Res
+. 2016 Jul 8;44(W1):W242-5. doi: 10.1093/nar/gkw290. Epub 2016 Apr 19.
+Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees
+Ivica Letunic 1, Peer Bork 2
+
+https://kazumaxneo.hatenablog.com/entry/2020/07/02/100000
+インタラクティブなオンラインの系統樹ツール Interactive Tree Of Life (iTOL) v4 - macでインフォマティクス
+引用
 
 5:40 AM · Jul 16, 2020
 https://twitter.com/kmoooooog/status/1283501696417554432
@@ -1293,14 +1340,6 @@ iTOLの使い方
 https://besshomanabulumi.wixsite.com/manabuhome/itol-1
 ProtTest3の使い方
 ProtTest 3は塩基・アミノ酸の置換モデルを推定してくれる無料ツールです。
-
-http://itol.embl.de
-iTOL: Interactive Tree Of Life
-
-https://www.ncbi.nlm.nih.gov/pubmed/27095192
-Nucleic Acids Res. 2016 Jul 8;44(W1):W242-5. doi: 10.1093/nar/gkw290. Epub 2016 Apr 19.
-Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees.
-Letunic I1, Bork P2.
 
 ----------
 ### SeaView
