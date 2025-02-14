@@ -46,10 +46,10 @@ IcyTree
   - [DupliPHY](#dupliPHY)
 - [](#)
 - [MEGA](#mega)
-- [timetree](#timetree)
 - [physpetools](#physpetools)
 - [HyPhy](#hyphy): Hypothesis testing using Phylogenies
 - [TreeBASE](#treebase)
+- [timetree](#timetree)
 - [jlsteenwyk](#jlsteenwyk)
 
 ----------
@@ -196,6 +196,26 @@ TBMap: a taxonomic perspective on the phylogenetic database TreeBASE
 Roderic D M Page 1
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-158
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1885449/
+
+----------
+## timetree
+http://www.timetree.org/
+
+http://yagays.github.io/blog/2013/07/10/timetree/
+TimeTreeで生物種間の分岐年代を調べる - Wolfeyes Bioinformatics beta
+
+2017年1月6日
+http://trhujgitudjf.blogspot.com/2017/01/imetree-timescale-of-life.html
+土と生き物: TimeTree: the timescale of life
+
+http://molbiol.hatenablog.com/entry/2016/02/27/203751
+TimeTreeアプリは学術的なアプリである - 生物学研究者の言いたい放題ブログ
+
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_article/-char/ja/
+オンラインツール“TimeTree: the timescale of life”を用いた生物多様性科学の授業開発とその評価
+塩野 貴之, 真栄城 亮, 楠本 聞太郎, 久保田 康裕
+2014 年 54 巻 3 号 p. 427-437
+https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_pdf
 
 ----------
 ### Gene trees and species trees
@@ -1571,39 +1591,3 @@ http://www.tezuru-mozuru.com/?p=9939
 MEGAによる最尤法系統樹推定
 
 ----------
-## timetree
-http://www.timetree.org/
-
-https://twitter.com/copypasteusa/status/621805347880108032
-Bacteria Versus Archaea. 4290.0 Million Years Ago. Molecular Time Estimates. http://timetree.org/search/pairwise/2/2157? #SPARQLthon
- · Jul 16, 2015
-ArchaeaとBacteriaの分岐年代が42億年前となっていてウケる。
-
-http://yagays.github.io/blog/2013/07/10/timetree/
-TimeTreeで生物種間の分岐年代を調べる - Wolfeyes Bioinformatics beta
-
-2017年1月6日
-http://trhujgitudjf.blogspot.com/2017/01/imetree-timescale-of-life.html
-土と生き物: TimeTree: the timescale of life
-
-http://molbiol.hatenablog.com/entry/2016/02/27/203751
-TimeTreeアプリは学術的なアプリである - 生物学研究者の言いたい放題ブログ
-
-https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_article/-char/ja/
-オンラインツール“TimeTree: the timescale of life”を用いた生物多様性科学の授業開発とその評価
-塩野 貴之, 真栄城 亮, 楠本 聞太郎, 久保田 康裕
-2014 年 54 巻 3 号 p. 427-437
-https://www.jstage.jst.go.jp/article/sjst/54/3/54_13037/_pdf
-
-----------
-
-
-
-
-
-
-
-
-
-
-
