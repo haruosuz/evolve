@@ -58,6 +58,12 @@
 - [saturation](#saturation) 飽和
 - [](#)
 
+
+----------
+
+
+
+
 ----------
 ## tree
 
@@ -121,6 +127,21 @@ Megaphylogeny resolves global patterns of mushroom evolution https://www.nature.
 
 https://nam-students.blogspot.com/2013/03/blog-post_2476.html
 NAMs出版プロジェクト: 全生物の系統樹、円形バージョン：メモ
+
+----------
+### gene trees and species trees
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/188bto4/alma99159251504031
+Computational Molecular Evolution
+3.1.4 Gene trees and species trees
+
+https://www.kyoritsu-pub.co.jp/book/b10010733.html
+分子系統学への統計的アプローチ - 共立出版
+https://kyoritsu-pub.sakura.ne.jp/app/file/goods_contents/1152.pdf
+3.1.4 遺伝子系統樹と種系統樹
+
+https://x.com/copypasteusa/status/1664499852351508481
+遺伝子系統樹と種系統樹が異なる要因：推定の誤差、遺伝子の水平伝播、遺伝子重複（パラロガスな遺伝子を使う）、祖先の多型や系統選別（lineage sorting）
 
 ----------
 ## unclassified
