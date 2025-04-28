@@ -16,9 +16,9 @@ Last Update: 2022-
 - [MPCM](#mpcm)
 - [concatenation](#concatenation)
 - [people](#people)
-  - [Vaughn Cooper]
   - [Hasegawa Masami] 長谷川政美
   - [inoue](#inoue) 井上 潤
+  - [KawataMasakado](#kawatamasakado) 河田 雅圭
   - [kuraku](#kuraku) 工樂 樹洋
   - [kazutaka-katoh](#kazutaka-katoh) 加藤 和貴
   - [nakada](#nakada) 仲田崇志
@@ -26,6 +26,7 @@ Last Update: 2022-
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [sarashina isao](sarashina-isao)
   - [shorebird](#shorebird)
+  - [Vaughn Cooper]
 
 ----------
 
@@ -775,6 +776,45 @@ http://www.fish-evol.org/phyMarker.html
 系統推定
 19 Sep. 2019. Jun Inoue
 
+----------
+## KawataMasakado
+河田 雅圭
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / X
+
+https://note.com/masakadokawata/
+河田 雅圭｜note
+
+https://note.com/masakadokawata/n/nb015a606e935
+新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
+2023年12月30日 12:22
+
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
+
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
+4:25 PM · Apr 24, 2024
+https://twitter.com/KawataMasakado/status/1783034509971329326
+Masakado Kawata on X: "抜粋紹介されているのは「集団選択」が働いた例です。 血縁選択も、集団選択の一様式であると見なすこともできます。詳しくは『ダーウィンの進化論はどこまで正しいのか』の第3章参照　 https://t.co/B1zNiEkD4y「自分を犠牲にする行動」は進化できるのか」 @gendai_biz https://t.co/qJUV3BUkmZ" / X
+https://gendai.media/articles/-/127170
+「自分を犠牲にする行動」は進化できるのか…個体にとって不利なのに進化する「不思議な仕組み」（河田 雅圭） | 現代ビジネス | 講談社（1/3）
+
+4:00 PM · Apr 17, 2024
+https://twitter.com/KawataMasakado/status/1780491468194685048
+Masakado Kawata on X: "進化について誤解されやすいトピックスを題材に、進化学の基礎を分かりやすく解説しました。リンクから「はじめに」全文が読めます。是非、ご一読ください。 『ダーウィンの進化論はどこまで正しいのか?』｜河田雅圭｜光文社新書 @kobunsha_shin #光文社新書 #私の仕事 https://t.co/bFQKUl0QuX" / X
+https://shinsho.kobunsha.com/n/na78453f8e457?sub_rt=share_pw
+心配性なのは進化のせいでもある!? 身近にあふれる「進化」の話｜河田雅圭｜光文社新書
+
+2:15 PM · Oct 9, 2022
+https://twitter.com/KawataMasakado/status/1578977453623545856
+Masakado Kawata on Twitter: "進化学における「適応」ついて改めて解説しました。定義を明確にするというよりも、「適応」を定義することの難しさについて考察しました。 進化における「適応」という言葉をめぐって｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/decOO7lLRS" / Twitter
+
+----------
 ## kuraku
 工樂 樹洋
 
