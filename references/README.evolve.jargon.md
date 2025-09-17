@@ -2227,6 +2227,24 @@ https://www.jstage.jst.go.jp/article/mammalianscience/60/2/60_269/_pdf
 
 図 3．長枝誘引 Long branch attraction によって系統樹推定を誤る例（長谷川 2018）．
 
+### 2019-07-09
+https://pubmed.ncbi.nlm.nih.gov/31289177/
+mBio
+. 2019 Jul 9;10(4):e00925-19. doi: 10.1128/mBio.00925-19.
+A Robust Phylogenomic Time Tree for Biotechnologically and Medically Important Fungi in the Genera Aspergillus and Penicillium
+Jacob L Steenwyk 1, Xing-Xing Shen 1, Abigail L Lind 2 3, Gustavo H Goldman 4, Antonis Rokas 5 2
+https://journals.asm.org/doi/10.1128/mBio.00925-19
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6747717/
+
+(iii) deeper bipartitions (I3, I4, I24, I35, I63, I74, and I78) with various levels of incongruence and typically associated with single-taxon long branches.
+
+(iii) Deeper bipartitions often associated with single-taxon long branches.
+
+Additionally, analytical factors such as model choice (51), taxon sampling (84, 85), hidden paralogy (86, 87), and alignment strategy (88) can lead to erroneous inference of gene histories. Perhaps the best-known instance of incongruence stemming from analytical factors is what is known as “long branch attraction,” namely, the situation where highly divergent taxa, i.e., the ones with the longest branches in the phylogeny, will often artifactually group with other long branches (89). 
+
+Finally, the remaining seven incongruent internodes (I3, I4, I24, I35, I63, I74, and I78) exhibit various levels of incongruence and are typically associated with single-taxon long branches (Fig. 1, 3, and 4), implicating taxon sampling as a likely driver of the observed incongruence. Given that inclusion of additional taxa robustly resolved the previously ambiguous placement of the long-branched Aspergillus section Nigri (see discussion above) as well as of other contentious branches of the fungal tree of life, such as the placement of the budding yeast family Ascoideaceae (59, 60), we predict that additional sampling of taxa that break up the long branches associated with these seven internodes will lead to their robust resolution.
+
+### 2018-05-03
 https://www.natureasia.com/ja-jp/nature/highlights/92171
 Nature ハイライト：ミトコンドリアの祖先を再検討する | Nature | Nature Portfolio
 2018年5月3日 Nature 557, 7703
