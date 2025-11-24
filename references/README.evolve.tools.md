@@ -104,10 +104,19 @@ online documentation.
 https://jlsteenwyk.com/PhyKIT/
 https://jlsteenwyk.com/PhyKIT/tutorials/index.html
 
+
+### 2024-11
+https://pubmed.ncbi.nlm.nih.gov/39475193/
+Curr Protoc
+. 2024 Nov;4(11):e70016. doi: 10.1002/cpz1.70016.
+PhyKIT: A Multitool for Phylogenomics
+Jacob L Steenwyk 1, Gemma I Martínez-Redondo 2, Thomas J Buida 3rd 3, Emile Gluck-Thaler 4, Xing-Xing Shen 5, Toni Gabaldón 6 7 8 9, Antonis Rokas 10 11, Rosa Fernández 2
+https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.70016
+
 https://www.preprints.org/manuscript/202404.1514/v1
 PhyKIT: A Multitool for Phylogenomics
 
-2021-08-25
+### 2021-08-25
 https://pubmed.ncbi.nlm.nih.gov/33560364/
 Bioinformatics
 . 2021 Aug 25;37(16):2325-2331. doi: 10.1093/bioinformatics/btab096.
@@ -1073,7 +1082,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9260635/
 #### iqtree_Assessing-Phylogenetic-Assumptions
 
 Last update: Mar 15, 2021, Contributors: Minh Bui
-http://www.iqtree.org/doc/Assessing-Phylogenetic-Assumptions
+https://iqtree.github.io/doc/Assessing-Phylogenetic-Assumptions
 Assessing Phylogenetic Assumptions
 
 Tests of symmetry
@@ -1086,13 +1095,13 @@ Genome Biol Evol
 The Prevalence and Impact of Model Violations in Phylogenetic Analysis
 Suha Naser-Khdour 1, Bui Quang Minh 1 2, Wenqi Zhang 1, Eric A Stone 1, Robert Lanfear 1
 https://academic.oup.com/gbe/article/11/12/3341/5571717
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893154/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6893154/
 In phylogenetic inference, we commonly use models of substitution which assume that sequence evolution is stationary, reversible, and homogeneous (SRH).
 
 #### iqtree_Concordance-Factor
 
 Last update: May 27, 2024, Contributors: Minh Bui, Rob Lanfear, Trongnhan Uit
-http://www.iqtree.org/doc/Concordance-Factor
+https://iqtree.github.io/doc/Concordance-Factor
 Concordance Factor
 
 HINT: See very nice tips on how to use and interpret concordance factors written by Rob Lanfear.
@@ -1100,14 +1109,14 @@ HINT: See very nice tips on how to use and interpret concordance factors written
 https://www.robertlanfear.com/blog/files/concordance_factors.html
 Calculating and interpreting gene- and site-concordance factors in phylogenomics | None | The Lanfear Lab @ANU
 
-2020-09
+2020-09-01
 https://pubmed.ncbi.nlm.nih.gov/32365179/
 Mol Biol Evol
 . 2020 Sep 1;37(9):2727-2733. doi: 10.1093/molbev/msaa106.
 New Methods to Calculate Concordance Factors for Phylogenomic Datasets
 Bui Quang Minh 1 2, Matthew W Hahn 3 4, Robert Lanfear 2
 https://academic.oup.com/mbe/article/37/9/2727/5828940
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7475031/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7475031/
 
 #### iqtree_UFBoot
 
@@ -1117,8 +1126,47 @@ Mol Biol Evol
 UFBoot2: Improving the Ultrafast Bootstrap Approximation
 Diep Thi Hoang 1, Olga Chernomor 2, Arndt von Haeseler 2 3, Bui Quang Minh 2, Le Sy Vinh 1
 https://academic.oup.com/mbe/article/35/2/518/4565479
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850222/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5850222/
 
+#### iqtree_QMaker
+
+Last update: Jun 28, 2024, Contributors: Hector Banos, Cuong Cao Dang, Minh Bui, Thomas Wong
+https://iqtree.github.io/doc/Estimating-amino-acid-substitution-models
+
+2021-02-22
+https://pubmed.ncbi.nlm.nih.gov/33616668/
+Syst Biol
+. 2021 Feb 22;syab010. doi: 10.1093/sysbio/syab010. Online ahead of print.
+QMaker: Fast and accurate method to estimate empirical models of protein evolution
+Bui Quang Minh 1 2, Cuong Cao Dang 3, Le Sy Vinh 3, Robert Lanfear 2
+https://doi.org/10.1093/sysbio/syab010
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8357343/
+
+Software implementation
+We provided an implementation of QMaker as part of the IQ-TREE software version
+2.0-rc1. The entire training stage for the Pfam dataset can be accomplished with just two
+command lines. The first one is
+iqtree -S ALN_DIR -nt 48
+
+All data are available from the online supplementary material
+(https://doi.org/10.6084/m9.figshare.9768101).
+
+7:28 AM · Feb 23, 2021
+https://twitter.com/RobLanfear/status/1363979095390912513
+Rob Social Distancing Lanfear on Twitter: "Pleased to announce the birth of QMaker, which allows you to easily estimate amino-acid replacement matrices from your own data. Doing this work with @bq_minh, Cuong Cao Dang, and Le Sy Vinh threw up a few surprises, so here's a little  https://t.co/wWlFi5pHAf" / Twitter
+
+https://www.biorxiv.org/content/10.1101/2020.02.20.958819v1
+QMaker: Fast and accurate method to estimate empirical models of protein evolution | bioRxiv
+https://www.biorxiv.org/content/10.1101/2020.02.20.958819v1.full
+
+8:20 PM · Oct 8, 2020
+https://twitter.com/kfuku0502/status/1314163771741556738
+iqtreeで経験モデル作れる方法のプレプリント出てた気がするけどなんだったけ？から30分くらいかけてやっと辿り着いたのでメモ。QMakerだった。
+でもこれアミノ酸配列限定か。コドンのを作りたいんだよな。ミトコンとかプラスチド用の経験的コドンモデルってどこかにないでしょうか？もし汎用的なのがあれば自前で作る必要ないんですが。
+
+6:15 AM · Mar 15, 2020
+https://twitter.com/kfuku0502/status/1238936843028254720
+IQ-TREEでサポートされているらしい新しいアミノ酸置換モデルのプレプリント。大まかな系統ごとに経験的置換モデルを作っている。Fig. 2を見ると、なぜか植物で他の系統よりスコアがいい。
 
 #### iqtree_lang_ja
 
@@ -1138,50 +1186,6 @@ IQ-Treeの使い方まとめ - ほぼ中立ブログ
 2017年3月22日
 http://www.tezuru-mozuru.com/?p=9927
 iqtreeによる最尤法系統樹推定 – チームてづるもづる
-
-----------
-### QMaker
-
-https://pubmed.ncbi.nlm.nih.gov/33616668/
-Syst Biol
-. 2021 Feb 22;syab010. doi: 10.1093/sysbio/syab010. Online ahead of print.
-QMaker: Fast and accurate method to estimate empirical models of protein evolution
-Bui Quang Minh 1 2, Cuong Cao Dang 3, Le Sy Vinh 3, Robert Lanfear 2
-https://doi.org/10.1093/sysbio/syab010
-
-
-Software implementation
-We provided an implementation of QMaker as part of the IQ-TREE software version
-2.0-rc1. The entire training stage for the Pfam dataset can be accomplished with just two
-command lines. The first one is
-iqtree -S ALN_DIR -nt 48
-
-All data are available from the online supplementary material
-(https://doi.org/10.6084/m9.figshare.9768101).
-
-
-7:28 AM · Feb 23, 2021
-https://twitter.com/RobLanfear/status/1363979095390912513
-Rob Social Distancing Lanfear on Twitter: "Pleased to announce the birth of QMaker, which allows you to easily estimate amino-acid replacement matrices from your own data. Doing this work with @bq_minh, Cuong Cao Dang, and Le Sy Vinh threw up a few surprises, so here's a little  https://t.co/wWlFi5pHAf" / Twitter
-
-
-https://www.biorxiv.org/content/10.1101/2020.02.20.958819v1
-QMaker: Fast and accurate method to estimate empirical models of protein evolution | bioRxiv
-https://www.biorxiv.org/content/10.1101/2020.02.20.958819v1.full
-
-
-8:20 PM · Oct 8, 2020
-https://twitter.com/kfuku0502/status/1314163771741556738
-iqtreeで経験モデル作れる方法のプレプリント出てた気がするけどなんだったけ？から30分くらいかけてやっと辿り着いたのでメモ。QMakerだった。
-でもこれアミノ酸配列限定か。コドンのを作りたいんだよな。ミトコンとかプラスチド用の経験的コドンモデルってどこかにないでしょうか？もし汎用的なのがあれば自前で作る必要ないんですが。
-
-6:15 AM · Mar 15, 2020
-https://twitter.com/kfuku0502/status/1238936843028254720
-IQ-TREEでサポートされているらしい新しいアミノ酸置換モデルのプレプリント。大まかな系統ごとに経験的置換モデルを作っている。Fig. 2を見ると、なぜか植物で他の系統よりスコアがいい。
-
-
-
-
 
 ----------
 
