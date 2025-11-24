@@ -35,7 +35,6 @@
 - [microbe](#microbe) 微生物
 - [constraint](#constraint) 制約
 - [duplication](#duplication) 遺伝子重複
-- [togetter](#togetter)
 - [outgroup](#outgroup)
 - [root](#root)
 - [clade](#clade) 分岐群、単系統群
@@ -56,12 +55,39 @@
 - [rate_of_evolution](#rate_of_evolution) 進化速度
 - [mutation](#mutation) 変異
 - [saturation](#saturation) 飽和
+- [group_selection](#group_selection) 群選択
 - [](#)
-
 
 ----------
 
 
+----------
+## group_selection
+
+https://ja.wikipedia.org/wiki/群選択
+
+2024年7月7日 8:00
+https://diamond.jp/articles/-/346050
+「生物が遺伝子を残そうとするのは種の保存のため」が完全な誤りなワケ | ニュースな本 | ダイヤモンド・オンライン
+河田雅圭: 東北大学教養教育院総長特命教授、名誉教授
+※本稿は、河田雅圭『ダーウィンの進化論はどこまで正しいのか？ 進化の仕組みを基礎から学ぶ』（光文社）の一部を抜粋・編集したものです。
+https://diamond.jp/articles/-/346050?page=3
+次のページ
+ヒトは「種族維持のための進化」と考えてしまいがち
+https://diamond.jp/articles/-/346050?page=4
+　ところで、現在、ドーキンスの「利己的遺伝子」という言葉は一般の人にも比較的知られているのに対し、「種のための進化は生じない」ことは理解されていないことが多い。
+
+　そのために、「生物が自らの遺伝子を残そうとするのは、種の保存のためだ」という誤解をする人も少なからずいる。「利己的遺伝子」の見方が適切であるかどうかにかかわらず、この表現は全くの誤りである。
+
+　ヒトには「種族維持のための進化」という考えに陥りやすい思考バイアスがあるのかもしれない。
+
+2022年3月20日 16:00
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭
+
+2023.06.07
+https://gendai.media/articles/-/111047?page=4
+「現生人類は、いずれ種としての寿命がきて絶滅する」？…「種」に「寿命」はあるかという大問題（更科 功） - 4ページ目 | ブルーバックス | 講談社
 
 
 ----------
@@ -70,9 +96,8 @@
 https://nextstrain.org/help/general/how-to-read-a-tree
 How to interpret the phylogenetic trees
 
-https://artic.network/how-to-read-a-tree.html
-How to read a phylogenetic tree
-Revision Date:	2018-07-30
+https://artic.network/guides/how-to-read-a-tree
+How to read a phylogenetic tree | Tutorial | Phylogenetics | ARTIC network - pathogen genomics from sample to response
 
 https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-010-0273-6
 McLennan, D.A. How to Read a Phylogenetic Tree. Evo Edu Outreach 3, 506–519 (2010). https://doi.org/10.1007/s12052-010-0273-6
@@ -82,19 +107,34 @@ How to read a phylogenetic tree | Dave Hone's Archosaur Musings
 basal taxa (at the bottom of the tree)
 
 ----------
-### circle tree
 
+https://www.digitalatlasofancientlife.org/learn/systematics/phylogenetics/reading-trees/
+2.1 Reading Trees - Digital Atlas of Ancient Life
+
+2.1 Reading Trees
+Chapter contents:
+Systematics
+— 1. Taxonomy
+— 2. Phylogenetics
+—— 2.1 Reading trees ←
+—— 2.2 Building trees
+—— 2.3 Character mapping
+—— 2.4 Phylogenetic trees and classification
+
+Clades and Sister Groups
+A clade (from the Greek klados = branch) is a group that includes an ancestor (node) and all of its descendants (all shallower nodes and terminal taxa that descend from that node) on a phylogenetic tree.
+
+----------
+### circle tree
 
 2:30 AM · May 14, 2022
 https://twitter.com/jilloberski/status/1525166721161523202
 Jill Oberski 🐜 on Twitter: "Maybe a hot take: I think circular phylogenies are a bad choice for manuscript figures. They’re hard to read and hard to interpret." / Twitter
 
-
 6:40 PM · Sep 24, 2020
 https://twitter.com/copypasteusa/status/1309065045201096704
 "Tree A is in polar format (often called a circle tree).
 These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided. https://artic.network/how-to-read-a-tree.html
-
 
 Feb 5, 2021
 https://twitter.com/windowmoon/status/1357643379950067715
@@ -156,24 +196,6 @@ https://ja.wikipedia.org/wiki/適応放散
 
 ----------
 
-https://www.digitalatlasofancientlife.org/learn/systematics/phylogenetics/reading-trees/
-2.1 Reading Trees - Digital Atlas of Ancient Life
-
-2.1 Reading Trees
-Chapter contents:
-Systematics
-— 1. Taxonomy
-— 2. Phylogenetics
-—— 2.1 Reading trees ←
-—— 2.2 Building trees
-—— 2.3 Character mapping
-—— 2.4 Phylogenetic trees and classification
-
-Clades and Sister Groups
-A clade (from the Greek klados = branch) is a group that includes an ancestor (node) and all of its descendants (all shallower nodes and terminal taxa that descend from that node) on a phylogenetic tree.
-
-----------
-
 http://www.saitama-u.ac.jp/ohnishi/jikken/phylogenetic_methods.htm
 系統樹の基礎知識 (図参照)
 Node（節）とBranch（枝）から成っている．NodeにはExternal Nodes (右端の現生の [生物あるいは配列] （以下では配列とのみ記述）) と系統樹内のInternal Nodes (過去に存在した，あるいは，存在したと推定される配列) がある（図(1)）．Root (R)は仮想的な共通祖先 (Common ancestor)．
@@ -193,8 +215,6 @@ numerical taxonomy：数量分類学；numerical phenetics：数量表形学　
 cladistics, cladistic classification：分岐学，分岐分類　＊cladists 分岐学者 
 A system of classification in which the only groups formally recognized are clades.
 ★分岐分類では，共有派生形質で支持される単系統群に基づいてグルーピングする．祖先形質の共有は系統関係を示さない．内群と外群を含めたグループを最節約法で解析し，系統関係を推定する（内群の形質の極性も推定される）． 
-
-
 
 https://quizlet.com/153288496/chpt-261-263-flash-cards/
 Chpt. 26.1-26.3単語カード | Quizlet
@@ -241,12 +261,35 @@ https://shorebird.hatenablog.com/entry/20180601/1527842963
 
 
 
+
+
+
 ----------
 
-https://twitter.com/hashtag/ws222
+
+
+----------
+## video
+
+https://www.youtube.com/playlist?list=PL0uaKHgcG00atli2VM1tKkE7F0Lr7VI0h
+第222回農林交流センターワークショップ 分子系統樹推定法:理論と応用
+
+https://doi.org/10.7875/togotv.2019.193
+MEGA X を用いた分子系統解析 @ 分子系統樹推定法:理論と応用 ワークショップ
+
+----------
+## workshop
 
 https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md#ws222
 第222回農林交流センターワークショップ「分子系統樹推定法：理論と応用」
+
+2019
+https://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2019/222ws.html
+第222回農林交流センターワークショップ：農林水産技術会議
+分子系統樹推定法：理論と応用
+2019年10月23日（水曜日）-10月25日（金曜日）
+
+https://twitter.com/hashtag/ws222
 
 https://www.fifthdimension.jp/documents/molphytextbook/
 分子系統学演習 - データセットの作成から仮説検定まで
@@ -261,8 +304,6 @@ https://www.fifthdimension.jp/documents/molphytextbook/answers.pdf
 – 同一配列や近縁配列が一部では多く一部では少ないのは×
 ```
 
-----------
-## togetter
 
 https://togetter.com/li/742642
 2014年度・第188回農林交流センターワークショップ〈分子系統学の理論と実習〉ツイートまとめ
@@ -272,7 +313,6 @@ https://togetter.com/li/587872
 
 https://togetter.com/li/399359
 2012年度・第166回農林交流センターワークショップ〈分子系統樹推定法：理論と応用〉 ツイートまとめ
-
 
 ----------
 ## basal
@@ -2958,6 +2998,7 @@ https://ja.wikipedia.org/wiki/Wikipedia:検証可能性#「真実かどうか」
 改善
 同化
 
+2017-09-08
 https://www.ncbi.nlm.nih.gov/pubmed/28887484
 Sci Rep. 2017 Sep 8;7(1):10985. doi: 10.1038/s41598-017-11226-9.
 Differential degeneration of the ACTAGT sequence among Salmonella: a reflection of distinct nucleotide amelioration patterns during bacterial divergence.
@@ -2966,13 +3007,19 @@ Discussion
 To gain a snapshot on the general patterns of genomic nucleotide composition optimization or amelioration in the process in which bacteria diverge into different niches such as distinct hosts (e.g., humans vs livestock or wild animals) or different tissues (causing systemic vs local infections), we analyzed a subset of the highly conserved short sequence CTAG among representative Salmonella pathogens by profiling the SpeI cleavage sequence ACTAGT in comparison with E. coli and other enteric bacteria. 
 
 
+2008-02
 https://pubmed.ncbi.nlm.nih.gov/18356951/
 Genome
 . 2008 Feb;51(2):164-8. doi: 10.1139/g07-105.
 Gene amelioration demonstrated: the journey of nascent genes in bacteria
 Pradeep Reddy Marri 1, G Brian Golding
+Abstract
+Gene amelioration is the hypothesis that genes acquired via lateral gene transfer will, over time, acquire the molecular characteristics of the host genome. Species for which multiple strains have been sequenced permit a demonstration that this hypothesis is correct. We use 7 sequenced genomes of Streptococcus pyogenes and 6 sequenced genomes of Staphylococcus aureus to illustrate the action of amelioration on these genomes.
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_pubmed_primary_18356951
+EBSCOhost Academic Search Premier
 
-水平伝播の成功には、外来遺伝子と受容ゲノム間のコドン使用互換性が必要
+
+2004-10
 https://www.ncbi.nlm.nih.gov/pubmed/15240837
 Mol Biol Evol. 2004 Oct;21(10):1884-94. Epub 2004 Jul 7.
 Successful lateral transfer requires codon usage compatibility between foreign genes and recipient genomes.
@@ -2981,6 +3028,7 @@ https://academic.oup.com/mbe/article/21/10/1884/1025177
 Codon Usage Amelioration Is Unnecessary
 We need to re-evaluate the notion that a foreign gene or fragment of DNA (assumed as atypical in sequence characteristics) becomes compositionally more similar to the host genome with increasing residence time. This process has been called “amelioration,” after reasoning that it makes a gene “better” (Lawrence and Ochman 1997), implying better translatability. This concept is a natural consequence of methods assuming that most foreign genes display mainly a poor-CU profile. However, as our results indicate, most foreign genes with poor CU are counter-selected for successful integration, suggesting that CU amelioration might occur in a small fraction of genes. 
 
+2005-02-23
 https://pubmed.ncbi.nlm.nih.gov/15728743/
 Nucleic Acids Res
 . 2005 Feb 23;33(4):1141-53. doi: 10.1093/nar/gki242. Print 2005.
@@ -2989,7 +3037,20 @@ Paul M Sharp 1, Elizabeth Bailes, Russell J Grocock, John F Peden, R Elizabeth S
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
 But even this may have little relevance: in the same way that it is thought that the codon usage of horizontally transferred genes may take many millions of years to ameliorate to that of a new host genome (58), strongly selectively biased codon usage may take a very long time to decay after a reduction in effective population size, i.e. the codon usage bias currently observed may still be due in some part to evolutionary processes that occurred millions of years ago.
 
+2001-10
+https://pubmed.ncbi.nlm.nih.gov/11719972/
+Review Curr Issues Mol Biol
+. 2001 Oct;3(4):91-7.
+Synonymous codon usage in bacteria
+M D Ermolaeva 1
+https://www.mdpi.com/1467-3045/3/4/13
+cimb-03-00013.pdf
 
+https://www.caister.com/cimb/v/v3/91.pdf
+
+At the time of transfer the introduced genes have codon usage that is typical for the donor genome. With time, however, the codon usage evolves to match the codon usage of the host genome. This process of codon usage adjustment is called “amelioration” (Lawrence and Ochman, 1997; Lawrence and Ochman, 1998) and it is sometimes possible to estimate its rate and predict the age of lateral gene transfer events. 
+
+1999-08-03
 https://pubmed.ncbi.nlm.nih.gov/10430917/
 Comparative Study Proc Natl Acad Sci U S A
 . 1999 Aug 3;96(16):9184-9. doi: 10.1073/pnas.96.16.9184.
@@ -2999,12 +3060,26 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17754/
 - This similarity might mean either that relatively close genome signatures promote plasmid establishment or that the plasmids have acquired their hosts’ signatures during long-term residence. Experiments on conjugation can address issues such as specificity vs. wide host range and relevance of size and signature for plasmid compatibility. We interpret the similarities in signature between plasmids and their bacterial hosts as implying that they share much replication and repair machinery, perhaps because the prokaryotic cell is not compartmentalized to the degree that the eukaryotic cell is.
 - (ii) During the plasmid’s residence in its current host, the same pressures that homogenize the signature throughout the chromosome will also drive the plasmid’s signature towards that of the host. Such amelioration has been postulated for the G+C content of laterally transferred DNA (22). We suspect that the signature should ameliorate even more rapidly, for both plasmids and laterally transferred chromosomal segments. 
 
+2000-05-18
+https://pubmed.ncbi.nlm.nih.gov/10830951/
+Review Nature
+. 2000 May 18;405(6784):299-304. doi: 10.1038/35012500.
+Lateral gene transfer and the nature of bacterial innovation
+H Ochman 1, J G Lawrence, E A Groisman
+https://www.nature.com/articles/35012500
+35012500.pdf
+The rate of DNA acquisition by the E. coli chromosome was
+measured indirectly by examining the amelioration of atypical
+sequence characteristics (for example, nucleotide composition)
+towards the equilibrium values displayed by this genome1,9. 
 
+1998-08-04
 https://www.ncbi.nlm.nih.gov/pubmed/9689094
 Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9413-7.
 Molecular archaeology of the Escherichia coli genome.
 Lawrence JG1, Ochman H.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC21352/
+https://www.pnas.org/doi/10.1073/pnas.95.16.9413
+https://pmc.ncbi.nlm.nih.gov/articles/PMC21352/
 Amelioration of Horizontally Transferred Genes.
 
 https://www.ncbi.nlm.nih.gov/pubmed/9089078
@@ -3028,10 +3103,7 @@ Because the process of amelioration is caused principally by mutational biases, 
 most obvious at sites having little or no selective constraints.
 
 
-https://www.caister.com/cimb/v/v3/91.pdf
-Synonymous Codon Usage in Bacteria
 
-At the time of transfer the introduced genes have codon usage that is typical for the donor genome. With time, however, the codon usage evolves to match the codon usage of the host genome. This process of codon usage adjustment is called “amelioration” (Lawrence and Ochman, 1997; Lawrence and Ochman, 1998) and it is sometimes possible to estimate its rate and predict the age of lateral gene transfer events. 
 
 ----------
 ## allele
