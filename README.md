@@ -37,6 +37,7 @@ https://sci-tech.ksc.kwansei.ac.jp/~tohhiro/systematics19/systematics3-19.pdf
 系統分類学 第三回
 
 
+
 ----------
 
 
@@ -307,13 +308,6 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13069
 No evidence for the ‘rate‐of‐living’ theory across the tetrapod tree of life - Stark - - Global Ecology and Biogeography - Wiley Online Library
 
 
-
-https://twitter.com/arambaut/status/1235584432809086983
-During the last big epidemic (either Swine flu or Ebola virus, I can't remember) I wrote a short post about 'how to read a tree' which people might find useful given how phylogenies are everywhere now on Twitter. Perhaps I will finish it some day. https://artic.network/how-to-read-a-tree.html
-12:14 AM · Mar 6, 2020
-https://artic.network/how-to-read-a-tree.html
-How to read a phylogenetic tree
-Revision Date:	2018-07-30
 
 
 https://twitter.com/marc_rr/status/1217712592380186626
