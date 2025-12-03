@@ -3007,6 +3007,21 @@ Discussion
 To gain a snapshot on the general patterns of genomic nucleotide composition optimization or amelioration in the process in which bacteria diverge into different niches such as distinct hosts (e.g., humans vs livestock or wild animals) or different tissues (causing systemic vs local infections), we analyzed a subset of the highly conserved short sequence CTAG among representative Salmonella pathogens by profiling the SpeI cleavage sequence ACTAGT in comparison with E. coli and other enteric bacteria. 
 
 
+January 9th, 2013 by eric
+https://www.reric.org/wordpress/archives/1034
+G+C content amelioration of horizontally transferred genes
+
+2013-03-12
+https://pubmed.ncbi.nlm.nih.gov/23487592/
+Front Microbiol
+. 2013 Mar 12:4:41. doi: 10.3389/fmicb.2013.00041. eCollection 2013.
+Lateral transfer and GC content of bacterial resistant genes
+Nabil Hayek 1
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00041/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3594838/
+Moreover, changing the environmental factors during the experiment could allow researchers to prospectively study the influence of the various factors on the evolution/amelioration of the GC content of the transferred resistant determinant and the bacterial genome. 
+
+
 2008-02
 https://pubmed.ncbi.nlm.nih.gov/18356951/
 Genome
