@@ -1,4 +1,3 @@
-
 # evolve.jargon
 
 ## Table of Contents
@@ -2556,29 +2555,31 @@ https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
 遺伝学では、相同性という言葉はタンパク質のアミノ酸配列や遺伝子の塩基配列が共通の祖先をもつときに用いられる。
 相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
 
+### 2021
 https://www.jstage.jst.go.jp/article/jsbibr/2/1/2_jsbibr.2021.7/_html/-char/ja
 J-STAGEトップ/JSBi Bioinformatics Review/2 巻 (2021) 1 号/書誌/全文
 総説
 分子系統解析の最前線
 松井 求 
-
+|
 2.1　分子系統解析の3要素
 分子系統解析は①配列データ、②進化モデル、③系統樹推定手法の三つの要素から構成されている（図1）。
-
+|
 ①配列データ：分子系統解析で最初に行う作業は配列データを用意することであり、そこで大事な概念が相同（Homology）である。ある二つ以上の配列（あるいは個体、種、群集など）が共通の祖先に由来するとき「相同である」と言う。系統樹推定の前提が「与えられた全ての配列が共通の祖先に由来すること」であるため、相同ではない配列は使用するデータから除去しなくてはならない。
 
+### 2015
 https://www.fifthdimension.jp/documents/molphytextbook/
 Life is fifthdimension.::Documents::分子系統学演習
-
+|
 2015年度版HTML(2015年10月20日更新)
 https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
 分子系統学演習 データセットの作成から仮説検定まで
 田辺晶史
 2015/10/20
-
+|
 1.4 多重配列整列
 配列の準備ができたら、多重配列整列(multiple sequence alignment)によって各配列間で相同(homologous)な領域を検出して揃えてやる必要があります。これは、相同でない形質を比較しても系統樹の推定には役立たないためです。相同とは、「同じ祖先形質に由来する」という意味です。例えば、人間の眼と魚の眼は共通祖先が持っていた眼に由来すると考えられますが、イカやタコの眼はそうではありません。同様に、鳥の翼とコウモリの翼も相同ではありません。ただ、これらが相同でないというのは、我々が系統関係を知っているから分かるのであって、それが無ければそうとは分からないかもしれません。ですから、相同であるか否かと系統樹とは鶏と卵の関係に似ていると言えます。
-
+|
 配列の多重配列整列でも同じことが言えます。つまり、系統関係無しには正しい多重配列整列ができないのです。
 
 第222回農林交流センターワークショップで用いたスライド
@@ -2589,7 +2590,7 @@ https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.p
 - 相同 = 同一の祖先形質に由来する
 - 多重配列整列 = 相同形質の同定
 
-
+### 2020-07-01
 https://github.com/davidemms/OrthoFinder
 OrthoFinder: phylogenetic orthology inference for comparative genomics
 
