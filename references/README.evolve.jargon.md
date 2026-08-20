@@ -93,15 +93,18 @@ https://gendai.media/articles/-/111047?page=4
 ----------
 ## tree
 
-https://nextstrain.org/help/general/how-to-read-a-tree
+https://docs.nextstrain.org/en/latest/learn/interpret/how-to-read-a-tree.html
 How to interpret the phylogenetic trees
 
+2018-07-30
 https://artic.network/guides/how-to-read-a-tree
 How to read a phylogenetic tree | Tutorial | Phylogenetics | ARTIC network - pathogen genomics from sample to response
 
+2010-09-29
 https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-010-0273-6
 McLennan, D.A. How to Read a Phylogenetic Tree. Evo Edu Outreach 3, 506–519 (2010). https://doi.org/10.1007/s12052-010-0273-6
 
+2008-12-18
 https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 How to read a phylogenetic tree | Dave Hone's Archosaur Musings
 basal taxa (at the bottom of the tree)
@@ -134,7 +137,8 @@ Jill Oberski 🐜 on Twitter: "Maybe a hot take: I think circular phylogenies ar
 6:40 PM · Sep 24, 2020
 https://twitter.com/copypasteusa/status/1309065045201096704
 "Tree A is in polar format (often called a circle tree).
-These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided. https://artic.network/how-to-read-a-tree.html
+These tree formats are often used to make a big visual impact in papers but generally have reduced readability - it is difficult to compare how far nodes are from the centre. They are best avoided.
+https://artic.network/guides/how-to-read-a-tree
 
 Feb 5, 2021
 https://twitter.com/windowmoon/status/1357643379950067715
@@ -154,6 +158,14 @@ On tree longevity
 https://twitter.com/windowmoon/status/1308995216729399296
 窓月＠S級在宅士 on Twitter: "何度も言ってますが、円形系統樹は害悪です。かっこいいだけで見やすくない。科学者なら使うべきではない。本当にやめてほしい。" / Twitter
 Most tree plotting programs have "collapse branches" function. Therefore, I recommend to use this function and plot "collapsed" whole tree and several subtrees of "collapsed" branches.
+
+9:28 PM · Apr 11, 2020
+https://x.com/kaisekiriu/status/1248950957087404033
+カイセキリュウ on X: "円形系統樹は「全ての生物が平等に並べられる」と言えるのか？（一見そういう風に見えてしまう、そう解釈されがちである、というのは理解できる）" / X
+水平・垂直系統樹との違いって枝の開きの角度だけじゃないですか。
+円形系統樹にだって中心と辺縁は存在するので（そも系統樹の中心とは？）。
+https://x.com/sighex/status/1249106534258208768
+Shigehiro Kuraku🌊工樂 樹洋🍀 on X: "@kaisekiriu 色々な視点からの考え方があるとは思いますが、(各分岐点でクルッと回転するなどして)多数の見せ方がありうるのにひとつの樹だけ見せる、という点において、円形であっても｢平等｣ではないと思います。" / X
 
 5:35 PM · Mar 19, 2019
 https://twitter.com/windowmoon/status/1107923607349424129
@@ -380,6 +392,7 @@ https://researchmap.jp/genombaum/misc/40127747
 
 図 2 見せ方によって印象が大きく変わりうる系統樹。Kuraku et al., 2016 より改変
 
+2008-09
 https://pubmed.ncbi.nlm.nih.gov/18693264/
 Bioessays
 . 2008 Sep;30(9):854-67. doi: 10.1002/bies.20794.
@@ -389,18 +402,20 @@ https://onlinelibrary.wiley.com/doi/10.1002/bies.20794
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_69433249
 Wiley Online Library Database Model 
 
+2016-01
 https://pubmed.ncbi.nlm.nih.gov/26818824/
 Review Dev Growth Differ
 . 2016 Jan;58(1):131-42. doi: 10.1111/dgd.12258. Epub 2016 Jan 5.
 Incorporating tree-thinking and evolutionary time scale into developmental biology
 Shigehiro Kuraku 1, Nathalie Feiner 2, Sean D Keeley 1, Yuichiro Hara 1
 https://onlinelibrary.wiley.com/doi/10.1111/dgd.12258
+One typical fallacy in understanding phylogeny is that “early-branching” or “basal” lineages (or colloquially “old” lineages), which are often species-poor, are thought to have experienced few evolutionary changes and maintained ancestral characters. This was previously phrased as the “primitive lineage fallacy” (Omland et al. 2008).
 
 https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 How to read a phylogenetic tree | Dave Hone's Archosaur Musings
 basal taxa (at the bottom of the tree)
 
-14 June 2004
+2004-06-14
 https://resjournals.onlinelibrary.wiley.com/doi/10.1111/j.0307-6970.2004.00262.x
 Which side of the tree is more basal?
 Frank-T Krell, Peter S. Cranston
@@ -1701,14 +1716,24 @@ http://isw3.naist.jp/IS/Kawabata-lab/LECDOC_KINDAI/2009/phylo_09May12.pdf
 系統樹に根(root)をつける
 
 2016-04-21
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/
 Rooting Trees, Methods for
+https://www.sciencedirect.com/science/chapter/referencework/pii/B9780128000496002158
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7149615/
+Encyclopedia of Evolutionary Biology. 2016 Apr 21:489–493. doi: 10.1016/B978-0-12-800049-6.00215-8
+Rooting Trees, Methods for
+T Kinene 1, J Wainaina 1, S Maina 1, LM Boykin 1
 
 (Brady et al., 2011, 
 
 Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed]
+
 https://pubmed.ncbi.nlm.nih.gov/21600997/
-outgroup versus paralogous rooting
+Comparative Study Mol Phylogenet Evol
+. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
+Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
+Seán G Brady 1, Jessica R Litman, Bryan N Danforth
+https://www.sciencedirect.com/science/article/abs/pii/S1055790311002223?via%3Dihub
+
 
 2015-01-05
 https://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html
@@ -1770,6 +1795,8 @@ The source code to run the phylogenomic rooting as well as the unrooted trees wi
 5:55 AM · May 31, 2023
 https://twitter.com/DaganLab/status/1663650390057930752
 DaganLab on Twitter: "Phylogenomic Testing of Root Hypotheses. Extremely happy to have this work out. We reformulate root inference in the framework of statistical hypothesis testing and outline an analytical procedure to test competing root positions for a group of species. https://t.co/n0Z2WUIt34" / Twitter
+5:55 AM · May 31, 2023
+Tal Dagan on X: "Approaching root inference within a statistical framework renders the phylogenomic inference powerful and robust. Pipeline in Python and R by @devaropi is available. #phylogenetics" / X
 
 ### 2023-03-05
 
@@ -1786,7 +1813,6 @@ http://dambe.bio.uottawa.ca/TRAD/TRAD.aspx
 ### 2022
 
 ### 2022-04
-
 https://pubmed.ncbi.nlm.nih.gov/35143961/
 Mol Phylogenet Evol
 . 2022 Apr:169:107434. doi: 10.1016/j.ympev.2022.107434. Epub 2022 Feb 7.
@@ -1795,7 +1821,6 @@ Alessandra P Lamarca 1, Beatriz Mello 1, Carlos G Schrago 2
 https://www.sciencedirect.com/science/article/abs/pii/S1055790322000471
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_2628301396
 Elsevier ScienceDirect Journals Complete
-https://www-sciencedirect-com.kras.lib.keio.ac.jp/science/article/pii/S1055790322000471?via%3Dihub
 
 In this work we analyzed the performance of two of these methods, the midpoint rooting (MPR) and the minimal ancestor deviation (MAD), in rooting topologies evolved under challenging scenarios of fast evolutionary radiations derived from empirical data, characterized by short internal branches near the crown node. Considering all branch length combinations investigated, both methods exhibited average success rates below 50%, although MAD slightly outperformed MPR. Moreover, tree balance significantly impacted the relative performance of the methods.
 調査したすべての枝長の組み合わせを考慮すると、両手法とも平均成功率は50%未満、MADはMPRをわずかに上回った。系統樹のバランスは手法の相対的な性能に大きく影響した。
@@ -1809,7 +1834,7 @@ Mol Biol Evol
 Phylogenetic Signal, Congruence, and Uncertainty across Bacteria and Archaea
 Carolina A Martinez-Gutierrez 1, Frank O Aylward 1 2
 https://academic.oup.com/mbe/article/38/12/5514/6358142?login=false
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662615/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8662615
 Our results indicate that the Patescibacteria (also called the CPR) are a derived group that is sister to the Chloroflexota, consistent with two recent studies (Coleman et al. 2021). This is in contrast to other studies that placed this group as either basal-branching or falling outside of the Terrabacteria (Hug et al. 2016; Parks et al. 2017; Castelle et al. 2018; Méheust et al. 2019). 
 
 ### 2021-05-07
@@ -1831,15 +1856,8 @@ Gareth A Coleman # 1, Adrián A Davín # 2, Tara A Mahendrarajah 3, Lénárd L S
 https://science.sciencemag.org/content/372/6542/eabe0511
 Our analyses place the root between two major bacterial clades, the Gracilicutes and Terrabacteria. We found no support for a root between the Candidate Phyla Radiation (CPR), a lineage comprising putative symbionts and parasites with small genomes, and all other Bacteria. Instead, the CPR was inferred to be a member of the Terrabacteria and formed a sister lineage to the Chloroflexota and Dormibacterota. 
 
-6:40 PM · May 7, 2021
-https://twitter.com/BIRDlab_ENS/status/1390602531219312647
-Alice Lebreton on Twitter: ""Illuminating the first bacteria": Perspective by Laura A. Katz in @ScienceMagazine on recent research that aim at finding out where the bacterial tree is rooted. https://t.co/iGcpUV1P24 https://t.co/PZztmTbRKU" / Twitter
-https://twitter.com/BIRDlab_ENS/status/1390602535124209664
-Alice Lebreton on Twitter: "The original research: "A rooted phylogeny resolves early bacterial evolution", by Coleman, Davín et al. in @ScienceMagazine. https://t.co/uz1IuHs3g1 https://t.co/ipg4dH9GCR" / Twitter
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_swepub_primary_oai_DiVA_org_uu_444395
 
-11:36 AM · May 7, 2021
-https://twitter.com/takatoh_life/status/1390495662588923906
-本研究では独自開発した手法により、遺伝子の垂直伝搬だけでなく水平伝搬や遺伝子の重複や消失を考慮して、細菌の系統樹の根元を推定した。その結果、遺伝子の伝達の2/3は垂直方向であり、その根元はグラム陰性菌Gracilicutesとグラム陽性菌Terrabacteriaの間に根元がある可能性が高いと推定した。
 
 ### 2021-04-13
 
@@ -1898,17 +1916,24 @@ Table 1
 We used two complementary approaches to root these single-gene trees: a RMC in BEAST (Drummond and Rambaut 2007; Drummond et al. 2012), and the recently described MAD rooting method of Tria et al. (2017). 
 
 ### 2017-06-19
-Tria
-
 https://pubmed.ncbi.nlm.nih.gov/29388565/
 Nat Ecol Evol
 . 2017 Jun 19;1:193. doi: 10.1038/s41559-017-0193.
 Phylogenetic rooting using minimal ancestor deviation
 Fernando Domingues Kümmel Tria 1, Giddy Landan 1, Tal Dagan 1
 https://www.nature.com/articles/s41559-017-0193
-Access options
+Access to this article via Keio University is not available.
+https://www.mikrobio.uni-kiel.de/de/ag-dagan/ressourcen/mad-preprint.pdf
+minimal ancestor deviation (MAD) method
+
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/1rcqpmf/cdi_proquest_miscellaneous_1993387992
-Tria, Fernando Domingues Kümmel ; Landan, Giddy ; Dagan, Tal
+資料入手方法
+ログインして、その他のリクエスト方法があるか確認してください
+その他のサービス
+
+8:03 AM - 20 Jul 2018
+https://twitter.com/NatureEcoEvo/status/1020277970299162624
+Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
 
 6:00 AM · Mar 23, 2018
 https://twitter.com/kfuku0502/status/976926638012211200
@@ -1918,10 +1943,6 @@ minimal ancestor deviation法でのルーティング、いくつかの遺伝子
 今試してみたらこの系統樹はmidpoint rootingでもきちんと遺伝子重複数最小の枝でルーティングされる…。
 うーん、やっぱりいろんなデータ見てると最終的にはreconciliation-basedのルーティングに落ち着きそうなきがする…。
 reconciliation-basedの方法はroot node付近がduplication nodesばかりだと爆死するので、そういう場合でなおかつreconciliation scoreが最小の枝の中にMADの枝があればそれを採用、という方向で行こう。
-
-8:03 AM - 20 Jul 2018
-https://twitter.com/NatureEcoEvo/status/1020277970299162624
-Phylogenetic rooting using minimal ancestor deviation https://www.nature.com/articles/s41559-017-0193 … #July2017highlight #ICYMI
 
 ### 2009-08-12
 https://pubmed.ncbi.nlm.nih.gov/19571238/
@@ -2535,11 +2556,39 @@ https://ja.wikipedia.org/wiki/相同#遺伝子の相同性
 遺伝学では、相同性という言葉はタンパク質のアミノ酸配列や遺伝子の塩基配列が共通の祖先をもつときに用いられる。
 相同性はあるかないかのどちらかであって、「相同性が高い」「ホモロジーが低い」といった表現は誤りである。これはたいていの場合「配列類似性が高い」「シミラリティーが低い」と言い換えることで適切な表現になる[2]。DNAやタンパク質の配列の類似性を高速に調べるためのツールとして、BLAST、FASTAなどがある。
 
+https://www.jstage.jst.go.jp/article/jsbibr/2/1/2_jsbibr.2021.7/_html/-char/ja
+J-STAGEトップ/JSBi Bioinformatics Review/2 巻 (2021) 1 号/書誌/全文
+総説
+分子系統解析の最前線
+松井 求 
+
+2.1　分子系統解析の3要素
+分子系統解析は①配列データ、②進化モデル、③系統樹推定手法の三つの要素から構成されている（図1）。
+
+①配列データ：分子系統解析で最初に行う作業は配列データを用意することであり、そこで大事な概念が相同（Homology）である。ある二つ以上の配列（あるいは個体、種、群集など）が共通の祖先に由来するとき「相同である」と言う。系統樹推定の前提が「与えられた全ての配列が共通の祖先に由来すること」であるため、相同ではない配列は使用するデータから除去しなくてはならない。
+
+https://www.fifthdimension.jp/documents/molphytextbook/
+Life is fifthdimension.::Documents::分子系統学演習
+
+2015年度版HTML(2015年10月20日更新)
+https://www.fifthdimension.jp/documents/molphytextbook/molphytextbook.ja.html
+分子系統学演習 データセットの作成から仮説検定まで
+田辺晶史
+2015/10/20
+
+1.4 多重配列整列
+配列の準備ができたら、多重配列整列(multiple sequence alignment)によって各配列間で相同(homologous)な領域を検出して揃えてやる必要があります。これは、相同でない形質を比較しても系統樹の推定には役立たないためです。相同とは、「同じ祖先形質に由来する」という意味です。例えば、人間の眼と魚の眼は共通祖先が持っていた眼に由来すると考えられますが、イカやタコの眼はそうではありません。同様に、鳥の翼とコウモリの翼も相同ではありません。ただ、これらが相同でないというのは、我々が系統関係を知っているから分かるのであって、それが無ければそうとは分からないかもしれません。ですから、相同であるか否かと系統樹とは鶏と卵の関係に似ていると言えます。
+
+配列の多重配列整列でも同じことが言えます。つまり、系統関係無しには正しい多重配列整列ができないのです。
+
+第222回農林交流センターワークショップで用いたスライド
+分子系統樹推定に適した配列データセットの作成：講義編
 https://www.fifthdimension.jp/documents/molphytextbook/datapreparation_lecture.pdf
 分子系統樹推定に適した配列データセットの作成
 田辺晶史
 - 相同 = 同一の祖先形質に由来する
 - 多重配列整列 = 相同形質の同定
+
 
 https://github.com/davidemms/OrthoFinder
 OrthoFinder: phylogenetic orthology inference for comparative genomics
@@ -2702,11 +2751,6 @@ http://cse.naro.affrc.go.jp/minaka/R/R-cluster2.html
 距離尺度
 数量表形学では，OTU間の類似性を表形的（phenetic）な全体的類似度（overall similarity）によって数値化するという基本的な姿勢がある．その哲学的な動機づけは別として，OTUごとに数値化された形質データがあるとき，OTU間の類似度をどのような尺度によって数値化すればいいのかという問題は，クラスター分析だけではなく，距離法に基づく系統樹推定法の論議にも関わってくる．
 （8 September 2003）
-
-http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
-クラスター分析の光と闇
-　数量表形学は，数値化された多変量データに基づいて分類対象（OTU: operational taxonomic unit）の間の近さを距離（全体的類似度overall similarity）として計算し，距離の近いものを群（クラスター）にまとめていくというクラスター分析の手法を生物分類体系の構築に適用する．数量表形学者は，系統という実証不可能な概念を含む分類体系だめだと批判し，系統に代わる生物間の関係を表現する尺度として，多数の形質に基づく全体的類似度を用いようとした．自然分類とはできるだけ多くの形質を共有する分類群から成るべきであり，そういう分類体系はより多くの予測を可能にする一般的な分類体系（general purpose classification）であるという信念に鼓舞された数量表形学者たちは，伝統的な進化分類学への攻勢を強めた． 
-（3 September 2003） 
 
 http://seikilo.s1008.xrea.com/sober.html
 『過去を復元する : 最節約原理,進化論,推論』用語集(更新5.12)
